@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const readFiles = require('./src/readFiles');
-const findData = require('./src/findData');
+const { findData, getParsedXlsx } = require('./src/findData');
 
 const dirPath = path.join(__dirname, 'moldova-schools');
 const files = readFiles(dirPath);
@@ -15,3 +15,6 @@ files.forEach((file) => {
     fs.writeFileSync(filePath, JSON.stringify(newData, null, 2));
   }
 });
+
+const parsedXlsx = getParsedXlsx();
+console.log(parsedXlsx.length);

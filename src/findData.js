@@ -4,24 +4,12 @@ const replaceRoDiacritics = require('./replaceRoDiacritics');
 
 let parsedXlsx = xlsx.parse(`${__dirname}/../excels/Adresa_scolii_2017-2018.xlsx`)[0].data;
 
-// const test = parsedXlsx.map(([
-//   districtStr,
-//   cityStr,
-//   nameStr,
-//   idnp,
-//   street = '',
-//   phonesStr,
-//   type
-// ]) => replaceRoDiacritics(districtStr, true).toLowerCase().replace(/s\.|or\.|mun\.|-/gi, ''))
-//
-// console.log(test.join('\n'));
-
 function findData(file) {
   const regexp = new RegExp(file.search, 'gi');
 
   let newData = {};
 
-  parsedXls = parsedXlsx.filter((dataItem, i) => {
+  parsedXlsx = parsedXlsx.filter((dataItem, i) => {
     const [
       districtStr,
       cityStr,
@@ -68,7 +56,14 @@ function findData(file) {
   return {
     ...file,
     ...newData,
-  }
+  };
 }
 
-module.exports = findData;
+function getParsedXlsx() {
+  return parsedXlsx;
+}
+
+module.exports = {
+  findData,
+  getParsedXlsx
+};
