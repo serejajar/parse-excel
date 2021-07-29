@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-buiucani-sportiv",
+  "search": "sportiv",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "liceul - internat municipal cu profil sportiv",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "289   CHISINAU       BUIUCANI            Liceul - Internat Municipal cu Profil Sportiv           85   49   36   57.65   6.11",
+      "candidats": 85,
+      "rejectedCandidats": 36,
+      "mediumNote": 6.11
+    },
+    {
+      "year": "2016",
+      "text": "154   CHISINAU       BUIUCANI    Liceul - Internat Municipal cu Profil Sportiv                    45    41   4   91,11   6,55",
+      "candidats": 45,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.55
+    },
+    {
+      "year": "2016 all",
+      "text": "245   CHISINAU       BUIUCANI    Liceul - Internat Municipal cu Profil Sportiv                       68   44   24   64,71   6,48",
+      "candidats": 68,
+      "rejectedCandidats": 24,
+      "mediumNote": 6.48
+    },
+    {
+      "year": "2017",
+      "text": "225   CHISINAU       BUIUCANI   Liceul - Internat Municipal cu Profil Sportiv                          60   51    9   85,00   6,54",
+      "candidats": 60,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.54
+    },
+    {
+      "year": "2018",
+      "text": "254   CHISINAU       BUIUCANI    Liceul - Internat Municipal cu Profil Sportiv                   37    31    6   83.78   6.78",
+      "candidats": 37,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.78
+    },
+    {
+      "year": "2019",
+      "text": "210   CHISINAU       BUIUCANI   Liceul - Internat Municipal cu Profil Sportiv                                   48        44   4   91.67   6.40",
+      "candidats": 48,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.4
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "sport"
+  ]
+}

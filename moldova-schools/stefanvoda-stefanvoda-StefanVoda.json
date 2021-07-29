@@ -1,0 +1,63 @@
+{
+  "id": "stefanvoda-stefanvoda-StefanVoda",
+  "search": "stefan voda",
+  "address": {
+    "district": "stefanvoda",
+    "city": "stefanvoda"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"stefan voda\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "139   ŞTEFAN VODĂ    ŞTEFAN VODĂ         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN VODĂ\"                                     137   106   31   77.37   6.50",
+      "candidats": 137,
+      "rejectedCandidats": 31,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016",
+      "text": "82   ŞTEFAN VODĂ    ŞTEFAN VODĂ       INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN VODĂ\"              65    63   2    96,92   6,92",
+      "candidats": 65,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.92
+    },
+    {
+      "year": "2016 all",
+      "text": "172   ŞTEFAN VODĂ    ŞTEFAN VODĂ       INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN VODĂ\"                 93    70   23   75,27   6,79",
+      "candidats": 93,
+      "rejectedCandidats": 23,
+      "mediumNote": 6.79
+    },
+    {
+      "year": "2017",
+      "text": "143   ŞTEFAN VODĂ    ŞTEFAN VODĂ     INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN VODĂ\"                 63    59   4   93,65   6,59",
+      "candidats": 63,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.59
+    },
+    {
+      "year": "2018",
+      "text": "111   ŞTEFAN VODĂ    ŞTEFAN VODĂ      INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN VODĂ\"                66         65   1   98.48    6.98",
+      "candidats": 66,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.98
+    },
+    {
+      "year": "2019",
+      "text": "50   ŞTEFAN VODĂ    ŞTEFAN VODĂ      INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN VODĂ\"                  74    74   0   100.00   7.26",
+      "candidats": 74,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.26
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

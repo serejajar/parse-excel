@@ -1,0 +1,48 @@
+{
+  "id": "ocnita-ocnita-CStamati",
+  "search": "stamati",
+  "address": {
+    "district": "ocnita",
+    "city": "ocnita"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"constantin stamati\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "307   OCNIŢA         OCNIŢA              INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"CONSTANTIN STAMATI\"          29    16    13   55.17   6.25",
+      "candidats": 29,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2016 all",
+      "text": "368   OCNIŢA         OCNIŢA            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"CONSTANTIN STAMATI\"              7    1     6   14,29   5,00",
+      "candidats": 7,
+      "rejectedCandidats": 6,
+      "mediumNote": 5
+    },
+    {
+      "year": "2018",
+      "text": "295   OCNIŢA         OCNIŢA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"CONSTANTIN STAMATI\"    17    11    6   64.71   6.00",
+      "candidats": 17,
+      "rejectedCandidats": 6,
+      "mediumNote": 6
+    },
+    {
+      "year": "2019",
+      "text": "209   OCNIŢA         OCNIŢA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"CONSTANTIN STAMATI\"                       12        11   1   91.67   6.98",
+      "candidats": 12,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.98
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

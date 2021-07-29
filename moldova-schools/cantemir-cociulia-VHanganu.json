@@ -1,0 +1,42 @@
+{
+  "id": "cantemir-cociulia-VHanganu",
+  "search": "hanganu",
+  "address": {
+    "district": "cantemir",
+    "city": "cociulia"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"valeriu hanganu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "388   CANTEMIR       COCIULIA            Instituţia publică Liceul teoretic \"Valeriu Hanganu\"             19    6    13   31.58   5.58",
+      "candidats": 19,
+      "rejectedCandidats": 13,
+      "mediumNote": 5.58
+    },
+    {
+      "year": "2016",
+      "text": "143   CANTEMIR       COCIULIA          Instituţia publică Liceul teoretic \"Valeriu Hanganu\"             12    11   1   91,67   6,45",
+      "candidats": 12,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.45
+    },
+    {
+      "year": "2016 all",
+      "text": "205   CANTEMIR       COCIULIA          Instituţia publică Liceul teoretic \"Valeriu Hanganu\"                17   12    5   70,59   6,40",
+      "candidats": 17,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.4
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

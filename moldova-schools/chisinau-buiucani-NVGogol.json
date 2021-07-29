@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-buiucani-NVGogol",
+  "search": "gogol",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"n.v.gogol\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "16   CHISINAU       BUIUCANI   Liceul Teoretic \"N.V.Gogol\"                                               88        87           1        98.86    7.11",
+      "candidats": 88,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.11
+    },
+    {
+      "year": "2016",
+      "text": "17   CHISINAU       BUIUCANI    Liceul Teoretic \"N.V.Gogol\"                                         104         104             0      100,00      7,28",
+      "candidats": 104,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.28
+    },
+    {
+      "year": "2016 all",
+      "text": "11   CHISINAU       BUIUCANI    Liceul Teoretic \"N.V.Gogol\"                                         104         104             0      100,00      7,28",
+      "candidats": 104,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.28
+    },
+    {
+      "year": "2017",
+      "text": "83   CHISINAU       BUIUCANI   Liceul Teoretic \"N.V.Gogol\"                                89    88   1   98,88    7,20",
+      "candidats": 89,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.2
+    },
+    {
+      "year": "2018",
+      "text": "34   CHISINAU         BUIUCANI   Liceul Teoretic \"N.V.Gogol\"                                                  106       106        0       100.00    7.30",
+      "candidats": 106,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.3
+    },
+    {
+      "year": "2019",
+      "text": "37   CHISINAU       BUIUCANI   Liceul Teoretic \"N.V.Gogol\"                                      111   111   0   100.00   7.39",
+      "candidats": 111,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.39
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

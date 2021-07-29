@@ -1,0 +1,41 @@
+{
+  "id": "falesti-navirnet-StefanCelMare",
+  "search": "stefan cel mare",
+  "address": {
+    "district": "falesti",
+    "city": "navirnet"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"stefan cel mare si sfint\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "381   FĂLEŞTI        NĂVÎRNEŢ            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN CEL MARE ŞI SFÎNT\"    17    6    11   35.29   6.04",
+      "candidats": 17,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.04
+    },
+    {
+      "year": "2016 all",
+      "text": "370   FĂLEŞTI        NĂVÎRNEŢ          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN CEL MARE ŞI SFÎNT\"        9    1     8   11,11   5,00",
+      "candidats": 9,
+      "rejectedCandidats": 8,
+      "mediumNote": 5
+    },
+    {
+      "year": "2017",
+      "text": "227   FĂLEŞTI        NĂVÎRNEŢ        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN CEL MARE ŞI SFÎNT\"        20   17    3   85,00   5,54",
+      "candidats": 20,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.54
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

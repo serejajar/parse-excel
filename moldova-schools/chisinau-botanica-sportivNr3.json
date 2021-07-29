@@ -1,0 +1,21 @@
+{
+  "id": "chisinau-botanica-nr3",
+  "search": "sportiv nr. ?3",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "scoala profesionala nr.3",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "346   CHISINAU       BOTANICA   Liceul Teoretic cu profil sportiv nr.3                           40    18    22   45.00   6.22",
+      "candidats": 40,
+      "rejectedCandidats": 22,
+      "mediumNote": 6.22
+    }
+  ]
+}

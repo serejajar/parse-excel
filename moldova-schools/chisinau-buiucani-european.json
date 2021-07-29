@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-buiucani-european",
+  "search": " european",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "liceul teoretic european",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "344   CHISINAU       BUIUCANI   Liceul Teoretic European                                         80    37    43   46.25   6.05",
+      "candidats": 80,
+      "rejectedCandidats": 43,
+      "mediumNote": 6.05
+    },
+    {
+      "year": "2016",
+      "text": "324   CHISINAU       BUIUCANI    Liceul Teoretic European                                              54    31    23   57,41   6,09",
+      "candidats": 54,
+      "rejectedCandidats": 23,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2016 all",
+      "text": "318   CHISINAU       BUIUCANI    Liceul Teoretic European                                   80    38    42   47,50   5,94",
+      "candidats": 80,
+      "rejectedCandidats": 42,
+      "mediumNote": 5.94
+    },
+    {
+      "year": "2017",
+      "text": "277   CHISINAU       BUIUCANI   Liceul Teoretic European                                 43   30   13   69,77   6,19",
+      "candidats": 43,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.19
+    },
+    {
+      "year": "2018",
+      "text": "274   CHISINAU       BUIUCANI   Liceul Teoretic European                                        49    38   11   77.55   6.49",
+      "candidats": 49,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2019",
+      "text": "280   CHISINAU       BUIUCANI   Liceul Teoretic European                                       48    36   12   75.00   6.33",
+      "candidats": 48,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.33
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

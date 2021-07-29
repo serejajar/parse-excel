@@ -1,0 +1,27 @@
+{
+  "id": "gagauzia-congaz-liceul",
+  "search": "liceul teoretic congaz",
+  "address": {
+    "district": "gagauzia",
+    "city": "congaz"
+  },
+  "name": {
+    "ro": "liceul teoretic congaz",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "269   GAGAUZIA   CONGAZ              LICEUL TEORETIC CONGAZ                                  23   14    9   60.87   6.66",
+      "candidats": 23,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.66
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

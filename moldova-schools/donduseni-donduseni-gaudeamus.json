@@ -1,0 +1,48 @@
+{
+  "id": "donduseni-donduseni-gaudeamus",
+  "search": "gaudeamus",
+  "address": {
+    "district": "donduseni",
+    "city": "donduseni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"gaudeamus\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "163   DONDUŞENI      DONDUŞENI             Liceul Teoretic \"Gaudeamus\"                                      16   12    4   75.00   6.75",
+      "candidats": 16,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.75
+    },
+    {
+      "year": "2016 all",
+      "text": "378   DONDUŞENI      DONDUŞENI         Liceul Teoretic \"Gaudeamus\"                                          2    0     2    0,00   0",
+      "candidats": 2,
+      "rejectedCandidats": 2,
+      "mediumNote": 0
+    },
+    {
+      "year": "2017",
+      "text": "161   DONDUŞENI      DONDUŞENI       Liceul Teoretic \"Gaudeamus\"                                      13    12   1   92,31   6,45",
+      "candidats": 13,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.45
+    },
+    {
+      "year": "2019",
+      "text": "198   DONDUŞENI      DONDUŞENI        Liceul Teoretic \"Gaudeamus\"                                    15   14   1   93.33   7.36",
+      "candidats": 15,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.36
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

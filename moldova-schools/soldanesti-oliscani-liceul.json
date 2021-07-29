@@ -1,0 +1,34 @@
+{
+  "id": "soldanesti-oliscani-liceul",
+  "search": "oliscani",
+  "address": {
+    "district": "soldanesti",
+    "city": "oliscani"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic oliscani",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "104   ŞOLDĂNEŞTI     OLIŞCANI            Instituţie Publică Liceul teoretic Olişcani                                           21    17    4   80.95   6.26",
+      "candidats": 21,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.26
+    },
+    {
+      "year": "2016 all",
+      "text": "274   ŞOLDĂNEŞTI     OLIŞCANI          Instituţia Publică Liceul teoretic Olişcani                            5    3    2   60,00   5,42",
+      "candidats": 5,
+      "rejectedCandidats": 2,
+      "mediumNote": 5.42
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "chisinau-budesti-liceul",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "budesti"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"budesti\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "403   CHISINAU       BUDEŞTI             Instituţia Publică Liceul Teoretic \"Budeşti\"                     12    2    10   16.67   6.00",
+      "candidats": 12,
+      "rejectedCandidats": 10,
+      "mediumNote": 6
+    },
+    {
+      "year": "2016 all",
+      "text": "374   CHISINAU       BUDEŞTI           Instituţia Publică Liceul Teoretic \"Budeşti\"                         2    0     2    0,00   0",
+      "candidats": 2,
+      "rejectedCandidats": 2,
+      "mediumNote": 0
+    },
+    {
+      "year": "2018",
+      "text": "239   CHISINAU       BUDEŞTI          Instituţia Publică Liceul Teoretic \"Budeşti\"                   24   21    3   87.50   6.26",
+      "candidats": 24,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.26
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

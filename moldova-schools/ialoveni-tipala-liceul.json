@@ -1,0 +1,42 @@
+{
+  "id": "ialoveni-tipala-liceul",
+  "search": "",
+  "address": {
+    "district": "ialoveni",
+    "city": "tipala"
+  },
+  "name": {
+    "ro": "liceul teoretic tipala",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "292   IALOVENI       ŢIPALA              Liceul Teoretic Ţîpala                                  28   16   12   57.14   6.41",
+      "candidats": 28,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.41
+    },
+    {
+      "year": "2016 all",
+      "text": "355   IALOVENI       ŢIPALA            Liceul Teoretic Ţîpala                                      7     2     5   28,57   5,38",
+      "candidats": 7,
+      "rejectedCandidats": 5,
+      "mediumNote": 5.38
+    },
+    {
+      "year": "2018",
+      "text": "157   IALOVENI       ŢIPALA           Liceul Teoretic Ţîpala                                                           21         20      1   95.24   6.55",
+      "candidats": 21,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.55
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

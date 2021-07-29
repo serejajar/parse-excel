@@ -1,0 +1,28 @@
+{
+  "id": "drochia-sofia-VCantemir",
+  "search": "cantemir",
+  "address": {
+    "district": "drochia",
+    "city": "sofia"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"viorel cantemir\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "347   DROCHIA        SOFIA               Instituţia Publică Liceul Teoretic \"Viorel Cantemir\"             18     8    10   44.44   6.47",
+      "candidats": 18,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.47
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

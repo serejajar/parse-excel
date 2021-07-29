@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-riscani-NGheorghiu",
+  "search": "gheorghiu",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"natalia gheorghiu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "62   CHISINAU       RISCANI    Liceul Teoretic \"Natalia Gheorghiu\"                                                           44    39    5   88.64   6.59",
+      "candidats": 44,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.59
+    },
+    {
+      "year": "2016",
+      "text": "84   CHISINAU       RISCANI    Liceul Teoretic \"Natalia Gheorghiu\"                                                    29    28   1   96,55   6,81",
+      "candidats": 29,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.81
+    },
+    {
+      "year": "2016 all",
+      "text": " 86   CHISINAU       RISCANI    Liceul Teoretic \"Natalia Gheorghiu\"                                                    33    29    4   87,88   6,78",
+      "candidats": 33,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.78
+    },
+    {
+      "year": "2017",
+      "text": "44   CHISINAU       RISCANI   Liceul Teoretic \"Natalia Gheorghiu\"                                       26         26      0   100,00   6,82",
+      "candidats": 26,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.82
+    },
+    {
+      "year": "2018",
+      "text": "80   CHISINAU       RISCANI    Liceul Teoretic \"Natalia Gheorghiu\"                             29         29   0   100.00   6.62",
+      "candidats": 29,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.62
+    },
+    {
+      "year": "2019",
+      "text": "72   CHISINAU       RISCANI    Liceul Teoretic \"Natalia Gheorghiu\"                               43    43   0   100.00   7.07",
+      "candidats": 43,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.07
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

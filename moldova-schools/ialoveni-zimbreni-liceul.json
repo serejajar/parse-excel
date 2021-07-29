@@ -1,0 +1,49 @@
+{
+  "id": "ialoveni-zimbreni-liceul",
+  "search": "zimbreni",
+  "address": {
+    "district": "ialoveni",
+    "city": "zimbreni"
+  },
+  "name": {
+    "ro": "liceul teoretic zimbreni",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "273   IALOVENI       ZÎMBRENI            Liceul Teoretic Zîmbreni                                15    9    6   60.00   6.97",
+      "candidats": 15,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.97
+    },
+    {
+      "year": "2016",
+      "text": "14   IALOVENI       ZÎMBRENI          Liceul Teoretic Zîmbreni                                             10          10             0      100,00      7,33",
+      "candidats": 10,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.33
+    },
+    {
+      "year": "2016 all",
+      "text": "173   IALOVENI       ZÎMBRENI          Liceul Teoretic Zîmbreni                                         16    12    4   75,00   7,15",
+      "candidats": 16,
+      "rejectedCandidats": 4,
+      "mediumNote": 7.15
+    },
+    {
+      "year": "2017",
+      "text": "46   IALOVENI       ZÎMBRENI        Liceul Teoretic Zîmbreni                                                    17         17      0   100,00   6,81",
+      "candidats": 17,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.81
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

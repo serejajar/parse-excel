@@ -1,0 +1,63 @@
+{
+  "id": "floresti-floresti-ICreanga",
+  "search": "creanga",
+  "address": {
+    "district": "floresti",
+    "city": "floresti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"ion creanga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "58   FLOREŞTI       FLOREŞTI            Liceul Teoretic \"Ion Creangă\"                                                                 65    58    7   89.23   6.88",
+      "candidats": 65,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.88
+    },
+    {
+      "year": "2016",
+      "text": "77   FLOREŞTI       FLOREŞTI          Liceul Teoretic \"Ion Creangă\"                                 42    41   1    97,62   7,02",
+      "candidats": 42,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.02
+    },
+    {
+      "year": "2016 all",
+      "text": " 98   FLOREŞTI       FLOREŞTI          Liceul Teoretic \"Ion Creangă\"                                                         49    42    7   85,71   6,98",
+      "candidats": 49,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.98
+    },
+    {
+      "year": "2017",
+      "text": "29   FLOREŞTI         FLOREŞTI        Liceul Teoretic \"Ion Creangă\"                                        51        51        0       100,00    7,00",
+      "candidats": 51,
+      "rejectedCandidats": 0,
+      "mediumNote": 7
+    },
+    {
+      "year": "2018",
+      "text": "36   FLOREŞTI         FLOREŞTI         Liceul Teoretic \"Ion Creangă\"                                                 50        50        0       100.00    7.26",
+      "candidats": 50,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.26
+    },
+    {
+      "year": "2019",
+      "text": "141   FLOREŞTI       FLOREŞTI         Liceul Teoretic \"Ion Creangă\"                                               52         51         1          98.08   7.35",
+      "candidats": 52,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.35
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

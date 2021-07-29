@@ -1,0 +1,49 @@
+{
+  "id": "chisinau-chisinau-asm",
+  "search": "academiei",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau"
+  },
+  "name": {
+    "ro": "liceul academiei de stiinte a moldovei",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "1   CHISINAU       CHISINAU            Liceul Academiei de Ştiinţe a Moldovei                                    62        62           0      100.00     8.39",
+      "candidats": 62,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.39
+    },
+    {
+      "year": "2016",
+      "text": "2   CHISINAU       CHISINAU          Liceul Academiei de Ştiinţe a Moldovei                               70          70             0      100,00      8,34",
+      "candidats": 70,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.34
+    },
+    {
+      "year": "2016 all",
+      "text": "2   CHISINAU       CHISINAU          Liceul Academiei de Ştiinţe a Moldovei                               70          70             0      100,00      8,34",
+      "candidats": 70,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.34
+    },
+    {
+      "year": "2017",
+      "text": "3   CHISINAU         CHISINAU        Liceul Academiei de Ştiinţe a Moldovei                                 68        68        0       100,00    8,30",
+      "candidats": 68,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.3
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "donduseni-baraboi-prometeu",
+  "search": "prometeu",
+  "address": {
+    "district": "donduseni",
+    "city": "baraboi"
+  },
+  "name": {
+    "ro": "liceul teoretic \"prometeu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "312   DONDUŞENI      BARABOI             Liceul Teoretic \"Prometeu\"                                       37    20    17   54.05   6.23",
+      "candidats": 37,
+      "rejectedCandidats": 17,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2016 all",
+      "text": "377   DONDUŞENI      BARABOI           Liceul Teoretic \"Prometeu\"                                          16    0    16    0,00   0",
+      "candidats": 16,
+      "rejectedCandidats": 16,
+      "mediumNote": 0
+    },
+    {
+      "year": "2018",
+      "text": "261   DONDUŞENI      BARABOI         Liceul Teoretic \"Prometeu\"                                    11     9    2   81.82   7.08",
+      "candidats": 11,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.08
+    },
+    {
+      "year": "2019",
+      "text": "124   DONDUŞENI      BARABOI          Liceul Teoretic \"Prometeu\"                                                   6          6         0         100.00   6.38",
+      "candidats": 6,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.38
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

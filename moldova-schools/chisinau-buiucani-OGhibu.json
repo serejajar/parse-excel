@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-buiucani-OGhibu",
+  "search": "ghibu",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"onisifor ghibu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "158   CHISINAU       BUIUCANI              Instituţia Publică Liceul Teoretic \"Onisifor Ghibu\"              66   50   16   75.76   6.50",
+      "candidats": 66,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016",
+      "text": "20   CHISINAU       BUIUCANI    Instituţia Publică Liceul Teoretic \"Onisifor Ghibu\"                  31          31             0      100,00      7,17",
+      "candidats": 31,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.17
+    },
+    {
+      "year": "2016 all",
+      "text": " 87   CHISINAU       BUIUCANI    Instituţia Publică Liceul Teoretic \"Onisifor Ghibu\"                                   40    35    5   87,50   7,01",
+      "candidats": 40,
+      "rejectedCandidats": 5,
+      "mediumNote": 7.01
+    },
+    {
+      "year": "2017",
+      "text": "112   CHISINAU       BUIUCANI   Instituţia Publică Liceul Teoretic \"Onisifor Ghibu\"       50    48   2   96,00    6,65",
+      "candidats": 50,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.65
+    },
+    {
+      "year": "2018",
+      "text": "189   CHISINAU       BUIUCANI   Instituţia Publică Liceul Teoretic \"Onisifor Ghibu\"             56   52   4   92.86   7.22",
+      "candidats": 56,
+      "rejectedCandidats": 4,
+      "mediumNote": 7.22
+    },
+    {
+      "year": "2019",
+      "text": "138   CHISINAU       BUIUCANI   Instituţia Publică Liceul Teoretic \"Onisifor Ghibu\"                         59         58         1          98.31   7.41",
+      "candidats": 59,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.41
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

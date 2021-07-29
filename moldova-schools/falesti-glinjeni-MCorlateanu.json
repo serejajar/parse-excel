@@ -1,0 +1,27 @@
+{
+  "id": "falesti-glinjeni-MCorlateanu",
+  "search": "corlateanu",
+  "address": {
+    "district": "falesti",
+    "city": "glinjeni"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"mihai corlateanu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "42   FĂLEŞTI        GLINJENI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"Mihai Corlăteanu\"                     28        26           2        92.86    5.95",
+      "candidats": 28,
+      "rejectedCandidats": 2,
+      "mediumNote": 5.95
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

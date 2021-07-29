@@ -1,0 +1,63 @@
+{
+  "id": "gagauzia-copceac-SIBaranovski",
+  "search": "baranovski",
+  "address": {
+    "district": "gagauzia",
+    "city": "copceac"
+  },
+  "name": {
+    "ro": "liceul teoretic \"s.i.baranovski\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "162   GAGAUZIA   COPCEAC               LICEUL TEORETIC \"S.I.BARANOVSKI\"                                 32   24    8   75.00   6.92",
+      "candidats": 32,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.92
+    },
+    {
+      "year": "2016",
+      "text": "215   GAGAUZIA   COPCEAC           LICEUL TEORETIC \"S.I.BARANOVSKI\"                            13   11    2   84,62   7,35",
+      "candidats": 13,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.35
+    },
+    {
+      "year": "2016 all",
+      "text": "148   GAGAUZIA   COPCEAC           LICEUL TEORETIC \"S.I.BARANOVSKI\"                             14   11    3   78,57   7,35",
+      "candidats": 14,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.35
+    },
+    {
+      "year": "2017",
+      "text": "211   GAGAUZIA   COPCEAC         LICEUL TEORETIC \"S.I.BARANOVSKI\" s. COPCEAC                          24   21    3   87,50   6,65",
+      "candidats": 24,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.65
+    },
+    {
+      "year": "2018",
+      "text": "227   GAGAUZIA   COPCEAC          LICEUL TEORETIC \"S.I.BARANOVSKI\" s. COPCEAC                    18   16    2   88.89   7.14",
+      "candidats": 18,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.14
+    },
+    {
+      "year": "2019",
+      "text": "69   GAGAUZIA   COPCEAC          LICEUL TEORETIC \"S.I.BARANOVSKI\" s. COPCEAC                       34    34   0   100.00   7.12",
+      "candidats": 34,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.12
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

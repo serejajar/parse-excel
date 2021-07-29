@@ -1,0 +1,63 @@
+{
+  "id": "criuleni-dubasariivechi-NDonici",
+  "search": "donici",
+  "address": {
+    "district": "criuleni",
+    "city": "dubasariivechi"
+  },
+  "name": {
+    "ro": "liceul teoretic \"nicolae donici\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "183   CRIULENI       DUBĂSARII VECHI       Liceul Teoretic \"Nicolae Donici\"                                 80   58   22   72.50   6.07",
+      "candidats": 80,
+      "rejectedCandidats": 22,
+      "mediumNote": 6.07
+    },
+    {
+      "year": "2016",
+      "text": "305   CRIULENI       DUBĂSARII VECHI    Liceul Teoretic \"Nicolae Donici\"                                        53    35    18   66,04   6,30",
+      "candidats": 53,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.3
+    },
+    {
+      "year": "2016 all",
+      "text": "284   CRIULENI       DUBĂSARII VECHI    Liceul Teoretic \"Nicolae Donici\"                                        70   41   29   58,57   6,13",
+      "candidats": 70,
+      "rejectedCandidats": 29,
+      "mediumNote": 6.13
+    },
+    {
+      "year": "2017",
+      "text": "279   CRIULENI       DUBĂSARII VECHI    Liceul Teoretic \"Nicolae Donici\"                        61   41   20   67,21   6,32",
+      "candidats": 61,
+      "rejectedCandidats": 20,
+      "mediumNote": 6.32
+    },
+    {
+      "year": "2018",
+      "text": "164   CRIULENI       DUBĂSARII VECHI    Liceul Teoretic \"Nicolae Donici\"                                 38   36   2   94.74   6.24",
+      "candidats": 38,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.24
+    },
+    {
+      "year": "2019",
+      "text": "195   CRIULENI       DUBĂSARII VECHI   Liceul Teoretic \"Nicolae Donici\"                                49   46   3   93.88   6.59",
+      "candidats": 49,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.59
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

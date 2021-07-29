@@ -1,0 +1,63 @@
+{
+  "id": "aneniinoi-aneniinoi-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "aneniinoi",
+    "city": "aneniinoi"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic \"mihai eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "37   ANENIINOI     ANENIINOI          Instituţie Publică Liceul Teoretic \"Mihai Eminescu\"                       47        44           3        93.62    6.64",
+      "candidats": 47,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.64
+    },
+    {
+      "year": "2016",
+      "text": "46   ANENIINOI     ANENIINOI        Instituţie Publică Liceul Teoretic \"Mihai Eminescu\"           31    31   0   100,00   6,58",
+      "candidats": 31,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2016 all",
+      "text": "33   ANENIINOI     ANENIINOI        Instituţie Publică Liceul Teoretic \"Mihai Eminescu\"                  32          31             1       96,88      6,58",
+      "candidats": 32,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2017",
+      "text": "139   ANENIINOI     ANENIINOI      Instituţie Publică Liceul Teoretic \"Mihai Eminescu\"              51    48   3   94,12   6,17",
+      "candidats": 51,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.17
+    },
+    {
+      "year": "2018",
+      "text": "78   ANENIINOI     ANENIINOI       Instituţie Publică Liceul Teoretic \"Mihai Eminescu\"             47         47   0   100.00   6.73",
+      "candidats": 47,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.73
+    },
+    {
+      "year": "2019",
+      "text": "101   ANENIINOI     ANENIINOI       Instituţie Publică Liceul Teoretic \"Mihai Eminescu\"             75         75    0   100.00   6.78",
+      "candidats": 75,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.78
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

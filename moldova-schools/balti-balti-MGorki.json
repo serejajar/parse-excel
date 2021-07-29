@@ -1,0 +1,56 @@
+{
+  "id": "balti-balti-MGorki",
+  "search": "gorki",
+  "address": {
+    "district": "balti",
+    "city": "balti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m.gorki\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "325   BALTI          BALTI               LICEUL TEORETIC \"M.GORKI\"                                        62    32    30   51.61   6.56",
+      "candidats": 62,
+      "rejectedCandidats": 30,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2016",
+      "text": "311   BALTI          BALTI             LICEUL TEORETIC \"M.GORKI\"                                             41    26    15   63,41   6,12",
+      "candidats": 41,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.12
+    },
+    {
+      "year": "2016 all",
+      "text": "303   BALTI          BALTI             LICEUL TEORETIC \"M.GORKI\"                                             52   28   24   53,85   6,06",
+      "candidats": 52,
+      "rejectedCandidats": 24,
+      "mediumNote": 6.06
+    },
+    {
+      "year": "2017",
+      "text": "285   BALTI          BALTI           LICEUL TEORETIC \"M.GORKI\"                                  27   17   10   62,96   6,48",
+      "candidats": 27,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.48
+    },
+    {
+      "year": "2019",
+      "text": "259   BALTI          BALTI            LICEUL TEORETIC \"M.GORKI\"                                    30    25    5   83.33   6.42",
+      "candidats": 30,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.42
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

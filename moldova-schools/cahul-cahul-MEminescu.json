@@ -1,0 +1,63 @@
+{
+  "id": "cahul-cahul-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "cahul",
+    "city": "cahul"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m.eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "116   CAHUL          CAHUL               Liceul Teoretic \"M.Eminescu\"                                                         111    88   23   79.28   6.44",
+      "candidats": 111,
+      "rejectedCandidats": 23,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2016",
+      "text": "186   CAHUL          CAHUL             Liceul Teoretic \"M.Eminescu\"                               62    55    7   88,71   6,60",
+      "candidats": 62,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.6
+    },
+    {
+      "year": "2016 all",
+      "text": "141   CAHUL          CAHUL             Liceul Teoretic \"M.Eminescu\"                                 79   63   16   79,75   6,41",
+      "candidats": 79,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.41
+    },
+    {
+      "year": "2017",
+      "text": "66   CAHUL          CAHUL           Liceul Teoretic \"M.Eminescu\"                                              41         41      0   100,00   6,45",
+      "candidats": 41,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.45
+    },
+    {
+      "year": "2018",
+      "text": "115   CAHUL          CAHUL            Instituţia Publică Liceul Teoretic \"M.Eminescu\"                 58         57   1   98.28    6.80",
+      "candidats": 58,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.8
+    },
+    {
+      "year": "2019",
+      "text": "203   CAHUL          CAHUL            Instituţia Publică Liceul Teoretic \"M.Eminescu\"                               55        51   4   92.73   6.77",
+      "candidats": 55,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.77
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

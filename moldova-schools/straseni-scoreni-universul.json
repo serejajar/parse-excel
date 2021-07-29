@@ -1,0 +1,48 @@
+{
+  "id": "straseni-scoreni-universul",
+  "search": "universul",
+  "address": {
+    "district": "straseni",
+    "city": "scoreni"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"universul\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "222   STRĂŞENI       SCORENI             INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"UNIVERSUL\"                        24    16    8   66.67   6.28",
+      "candidats": 24,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.28
+    },
+    {
+      "year": "2016",
+      "text": "318   STRĂŞENI       SCORENI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"UNIVERSUL\"                        10     6     4   60,00   6,25",
+      "candidats": 10,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2016 all",
+      "text": "287   STRĂŞENI       SCORENI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"UNIVERSUL\"                        12    7    5   58,33   6,25",
+      "candidats": 12,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2019",
+      "text": "75   STRĂŞENI       SCORENI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"UNIVERSUL\"                    11    11   0   100.00   7.02",
+      "candidats": 11,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.02
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

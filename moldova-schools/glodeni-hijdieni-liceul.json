@@ -1,0 +1,28 @@
+{
+  "id": "glodeni-hijdieni-liceul",
+  "search": "",
+  "address": {
+    "district": "glodeni",
+    "city": "hijdieni"
+  },
+  "name": {
+    "ro": "liceul teoretic hijdieni",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "332   GLODENI        HÎJDIENI            LICEUL TEORETIC HÎJDIENI                                         30    15    15   50.00   6.05",
+      "candidats": 30,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.05
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

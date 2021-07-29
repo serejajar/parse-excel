@@ -1,0 +1,55 @@
+{
+  "id": "soldanesti-cotiujeniimari-liceul",
+  "search": "",
+  "address": {
+    "district": "soldanesti",
+    "city": "cotiujeniimari"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic cotiujenii mari",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "370   ŞOLDĂNEŞTI     COTIUJENII MARI     Instituţie Publică Liceul teoretic Cotiujenii Mari               41   16    25   39.02   5.91",
+      "candidats": 41,
+      "rejectedCandidats": 25,
+      "mediumNote": 5.91
+    },
+    {
+      "year": "2016",
+      "text": "262   ŞOLDĂNEŞTI     COTIUJENII MARI     Instituţia Publică Liceul teoretic Cotiujenii Mari                  14   11    3   78,57   6,86",
+      "candidats": 14,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.86
+    },
+    {
+      "year": "2016 all",
+      "text": "339   ŞOLDĂNEŞTI     COTIUJENII MARI   Instituţia Publică Liceul teoretic Cotiujenii Mari         29    11    18   37,93   6,86",
+      "candidats": 29,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.86
+    },
+    {
+      "year": "2018",
+      "text": "88   ŞOLDĂNEŞTI     COTIUJENII MARI    Instituţia Publică Liceul Teoretic Cotiujenii Mari                 16         16   0   100.00   6.44",
+      "candidats": 16,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2019",
+      "text": "177   ŞOLDĂNEŞTI     COTIUJENII MARI    Instituţia Publică Liceul Teoretic Cotiujenii Mari                21   20   1   95.24   6.31",
+      "candidats": 21,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.31
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

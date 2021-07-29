@@ -1,0 +1,41 @@
+{
+  "id": "soldanesti-raspopeni-liceul",
+  "search": "",
+  "address": {
+    "district": "soldanesti",
+    "city": "raspopeni"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic raspopeni",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "404   ŞOLDĂNEŞTI     RĂSPOPENI           Instituţie Publică Liceul teoretic Răspopeni                      6    1     5   16.67   5.50",
+      "candidats": 6,
+      "rejectedCandidats": 5,
+      "mediumNote": 5.5
+    },
+    {
+      "year": "2016",
+      "text": "57   ŞOLDĂNEŞTI     RĂSPOPENI         Instituţia Publică Liceul teoretic Răspopeni                  18    18   0   100,00   6,28",
+      "candidats": 18,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.28
+    },
+    {
+      "year": "2016 all",
+      "text": " 67   ŞOLDĂNEŞTI     RĂSPOPENI         Instituţia Publică Liceul teoretic Răspopeni                                          20    18    2   90,00   6,28",
+      "candidats": 20,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.28
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

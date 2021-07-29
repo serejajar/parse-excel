@@ -1,0 +1,48 @@
+{
+  "id": "ialoveni-rusestiinoi-liceul",
+  "search": "",
+  "address": {
+    "district": "ialoveni",
+    "city": "rusestiinoi"
+  },
+  "name": {
+    "ro": "liceul teoretic rusestii noi",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "359   IALOVENI       RUSEŞTII NOI        Liceul Teoretic Ruseştii Noi                                     26   11    15   42.31   6.48",
+      "candidats": 26,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.48
+    },
+    {
+      "year": "2016",
+      "text": "34   IALOVENI       RUSEŞTII NOI      Liceul Teoretic Ruseştii Noi                                         12          12             0      100,00      6,77",
+      "candidats": 12,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.77
+    },
+    {
+      "year": "2016 all",
+      "text": "220   IALOVENI       RUSEŞTII NOI      Liceul Teoretic Ruseştii Noi                                        19   13    6   68,42   6,67",
+      "candidats": 19,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.67
+    },
+    {
+      "year": "2017",
+      "text": "65   IALOVENI       RUSEŞTII NOI    Liceul Teoretic Ruseştii Noi                                                16         16      0   100,00   6,50",
+      "candidats": 16,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.5
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

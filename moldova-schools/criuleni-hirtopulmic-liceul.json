@@ -1,0 +1,49 @@
+{
+  "id": "criuleni-hirtopulmic-liceul",
+  "search": "hirtopul mic",
+  "address": {
+    "district": "criuleni",
+    "city": "hirtopulmic"
+  },
+  "name": {
+    "ro": "liceul teoretic hirtopul mic",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "129   CRIULENI       HÎRTOPUL MIC        Liceul Teoretic HÎRTOPUL MIC                                                          32    25    7   78.13   6.00",
+      "candidats": 32,
+      "rejectedCandidats": 7,
+      "mediumNote": 6
+    },
+    {
+      "year": "2016",
+      "text": "206   CRIULENI       HÎRTOPUL MIC      Liceul Teoretic HÎRTOPUL MIC                               15    13    2   86,67   6,40",
+      "candidats": 15,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2016 all",
+      "text": "196   CRIULENI       HÎRTOPUL MIC      Liceul Teoretic HÎRTOPUL MIC                                     18    13    5   72,22   6,40",
+      "candidats": 18,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2017",
+      "text": "77   CRIULENI       HÎRTOPUL MIC    Liceul Teoretic HÎRTOPUL MIC                                     25    25   0   100,00   5,89",
+      "candidats": 25,
+      "rejectedCandidats": 0,
+      "mediumNote": 5.89
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "riscani-recea-liceul",
+  "search": "recea",
+  "address": {
+    "district": "riscani",
+    "city": "recea"
+  },
+  "name": {
+    "ro": "liceul teoretic recea",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "202   RÎŞCANI        RECEA                 LICEUL TEORETIC RECEA                                            30   21    9   70.00   6.20",
+      "candidats": 30,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.2
+    },
+    {
+      "year": "2016 all",
+      "text": "351   RÎŞCANI        RECEA             LICEUL TEORETIC RECEA                                       6     2     4   33,33   5,00",
+      "candidats": 6,
+      "rejectedCandidats": 4,
+      "mediumNote": 5
+    },
+    {
+      "year": "2017",
+      "text": "262   RÎŞCANI        RECEA           LICEUL TEORETIC RECEA                                        22   17    5   77,27   6,22",
+      "candidats": 22,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.22
+    },
+    {
+      "year": "2018",
+      "text": "303   RÎŞCANI        RECEA           LICEUL TEORETIC RECEA                                        14     4   10   28.57   5.88",
+      "candidats": 14,
+      "rejectedCandidats": 10,
+      "mediumNote": 5.88
+    },
+    {
+      "year": "2019",
+      "text": "262   RÎŞCANI        RECEA            LICEUL TEORETIC RECEA                                          16    13    3   81.25   6.71",
+      "candidats": 16,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.71
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

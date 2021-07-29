@@ -1,0 +1,63 @@
+{
+  "id": "gagauzia-ceadirlunga-MGuboglo",
+  "search": "guboglo",
+  "address": {
+    "district": "gagauzia",
+    "city": "ceadirlunga"
+  },
+  "name": {
+    "ro": "liceul teoretic raional \"m.guboglo\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "106   GAGAUZIA   CEADÎR LUNGA        LICEUL TEORETIC RAIONAL \"M.GUBOGLO\"                                                   52    42   10   80.77   6.74",
+      "candidats": 52,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.74
+    },
+    {
+      "year": "2016",
+      "text": "94   GAGAUZIA   CEADÎR LUNGA      LICEUL TEORETIC RAIONAL \"M.GUBOGLO\"                                                   23    22   1   95,65   6,76",
+      "candidats": 23,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.76
+    },
+    {
+      "year": "2016 all",
+      "text": "122   GAGAUZIA   CEADÎR LUNGA      LICEUL TEORETIC RAIONAL \"M.GUBOGLO\"                          29   24    5   82,76   6,64",
+      "candidats": 29,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.64
+    },
+    {
+      "year": "2017",
+      "text": "208   GAGAUZIA   CEADÎR LUNGA    LICEUL TEORETIC RAIONAL \"M.GUBOGLO\" or. CEADÎR LUNGA                    33   29    4   87,88   6,67",
+      "candidats": 33,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.67
+    },
+    {
+      "year": "2018",
+      "text": "207   GAGAUZIA   CEADÎR LUNGA    LICEUL TEORETIC RAIONAL \"M.GUBOGLO\" or. CEADÎR LUNGA               46   42    4   91.30   6.72",
+      "candidats": 46,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.72
+    },
+    {
+      "year": "2019",
+      "text": "186   GAGAUZIA   CEADÎR LUNGA    LICEUL TEORETIC RAIONAL \"M.GUBOGLO\" MUN. CEADÎR LUNGA              39   37   2   94.87   6.83",
+      "candidats": 39,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.83
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

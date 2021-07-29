@@ -1,0 +1,36 @@
+{
+  "id": "dubasari-corjova-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "dubasari",
+    "city": "corjova"
+  },
+  "name": {
+    "ro": "liceul teoretic \"mihai eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2018",
+      "text": "225   DUBĂSARI       CORJOVA          Liceul Teoretic \"Mihai Eminescu\"                               57   51    6   89.47   6.12",
+      "candidats": 57,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.12
+    },
+    {
+      "year": "2019",
+      "text": "245   DUBĂSARI       CORJOVA          Liceul Teoretic \"Mihai Eminescu\"                             39    34    5   87.18   6.32",
+      "candidats": 39,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.32
+    }
+  ],
+  "langs": [
+    "romana",
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

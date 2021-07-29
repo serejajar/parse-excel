@@ -1,0 +1,63 @@
+{
+  "id": "causeni-cainari-AMateevici",
+  "search": "mateevici",
+  "address": {
+    "district": "causeni",
+    "city": "cainari"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a.mateevici\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "151   CAUSENI        CĂINARI             LICEUL TEORETIC \"A.MATEEVICI\"                                                         38    29    9   76.32   6.08",
+      "candidats": 38,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.08
+    },
+    {
+      "year": "2016",
+      "text": "116   CAUSENI        CĂINARI           LICEUL TEORETIC \"A.MATEEVICI\"                                                         17    16   1   94,12   6,27",
+      "candidats": 17,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.27
+    },
+    {
+      "year": "2016 all",
+      "text": "254   CAUSENI        CĂINARI           LICEUL TEORETIC \"A.MATEEVICI\"                                       27   17   10   62,96   6,22",
+      "candidats": 27,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.22
+    },
+    {
+      "year": "2017",
+      "text": "75   CAUSENI        CĂINARI         LICEUL TEORETIC \"A.MATEEVICI\"                                  24    24   0   100,00   6,11",
+      "candidats": 24,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.11
+    },
+    {
+      "year": "2018",
+      "text": "260   CAUSENI        CĂINARI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALEXEI MATEEVICI\"         39    32    7   82.05   6.49",
+      "candidats": 39,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2019",
+      "text": "263   CAUSENI        CĂINARI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALEXEI MATEEVICI\"        32    26    6   81.25   6.54",
+      "candidats": 32,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.54
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

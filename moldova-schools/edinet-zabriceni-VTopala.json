@@ -1,0 +1,55 @@
+{
+  "id": "edinet-zabriceni-VTopala",
+  "search": "topala",
+  "address": {
+    "district": "edinet",
+    "city": "zabriceni"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic \"v.topala\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "343   EDINET         ZĂBRICENI           Instituţie Publică Liceul Teoretic \"V.Topală\"                    17     8     9   47.06   6.00",
+      "candidats": 17,
+      "rejectedCandidats": 9,
+      "mediumNote": 6
+    },
+    {
+      "year": "2016",
+      "text": "194   EDINET         ZĂBRICENI         Instituţie Publică Liceul Teoretic \"V.Topală\"              17    15    2   88,24   6,38",
+      "candidats": 17,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2016 all",
+      "text": "175   EDINET         ZĂBRICENI         Instituţie Publică Liceul Teoretic \"V.Topală\"                    20    15    5   75,00   6,38",
+      "candidats": 20,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2017",
+      "text": "271   EDINET         ZĂBRICENI       Instituţie Publică Liceul Teoretic \"V.Topală\"              12    9    3   75,00   5,83",
+      "candidats": 12,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.83
+    },
+    {
+      "year": "2018",
+      "text": "251   EDINET         ZĂBRICENI       Instituţie Publică Liceul Teoretic \"Valeriu Topală\"           13    11    2   84.62   6.75",
+      "candidats": 13,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.75
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

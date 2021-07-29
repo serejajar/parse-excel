@@ -1,0 +1,63 @@
+{
+  "id": "orhei-orhei-ARusso",
+  "search": "russo",
+  "address": {
+    "district": "orhei",
+    "city": "orhei"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"a. russo\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "195   ORHEI          ORHEI                 INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"A. RUSSO\"                    93   66   27   70.97   6.23",
+      "candidats": 93,
+      "rejectedCandidats": 27,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2016",
+      "text": "235   ORHEI          ORHEI             INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALECU RUSSO\"            47   39    8   82,98   6,34",
+      "candidats": 47,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.34
+    },
+    {
+      "year": "2016 all",
+      "text": "176   ORHEI          ORHEI             INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALECU RUSSO\"                 56    42   14   75,00   6,29",
+      "candidats": 56,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.29
+    },
+    {
+      "year": "2017",
+      "text": "179   ORHEI        ORHEI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALECU RUSSO\"                 74   67   7   90,54   6,46",
+      "candidats": 74,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.46
+    },
+    {
+      "year": "2018",
+      "text": "169   ORHEI          ORHEI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALECU RUSSO\"                53   50   3   94.34   6.64",
+      "candidats": 53,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.64
+    },
+    {
+      "year": "2019",
+      "text": "184   ORHEI          ORHEI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALECU RUSSO\"               39   37   2   94.87   7.13",
+      "candidats": 39,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.13
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

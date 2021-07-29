@@ -1,0 +1,62 @@
+{
+  "id": "donduseni-donduseni-APuskin",
+  "search": "puskin",
+  "address": {
+    "district": "donduseni",
+    "city": "donduseni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a.puskin\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "318   DONDUŞENI      DONDUŞENI           Liceul Teoretic \"A.Puşkin\"                                       36    19    17   52.78   6.23",
+      "candidats": 36,
+      "rejectedCandidats": 17,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2016",
+      "text": "334   DONDUŞENI      DONDUŞENI         Liceul Teoretic \"A.Puşkin\"                                            19    10     9   52,63   6,32",
+      "candidats": 19,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.32
+    },
+    {
+      "year": "2016 all",
+      "text": "327   DONDUŞENI      DONDUŞENI         Liceul Teoretic \"A.Puşkin\"                                 26    11    15   42,31   6,24",
+      "candidats": 26,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.24
+    },
+    {
+      "year": "2017",
+      "text": "295   DONDUŞENI   DONDUŞENI   Liceul Teoretic \"Alexandr Puşkin\"      12    5     7   41,67   6,32",
+      "candidats": 12,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.32
+    },
+    {
+      "year": "2018",
+      "text": "282   DONDUŞENI      DONDUŞENI       Liceul Teoretic \"Alexandr Puşkin\"                             14    10    4   71.43   6.42",
+      "candidats": 14,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.42
+    },
+    {
+      "year": "2019",
+      "text": "279   DONDUŞENI      DONDUŞENI        Liceul Teoretic \"Alexandr Puşkin\"                            12     9    3   75.00   6.51",
+      "candidats": 12,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.51
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

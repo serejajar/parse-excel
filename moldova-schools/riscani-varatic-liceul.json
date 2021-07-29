@@ -1,0 +1,62 @@
+{
+  "id": "riscani-varatic-liceul",
+  "search": "varatic",
+  "address": {
+    "district": "riscani",
+    "city": "varatic"
+  },
+  "name": {
+    "ro": "liceul teoretic varatic",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "198   RÎŞCANI        VĂRATIC               LICEUL TEORETIC VĂRATIC                                          27   19    8   70.37   5.87",
+      "candidats": 27,
+      "rejectedCandidats": 8,
+      "mediumNote": 5.87
+    },
+    {
+      "year": "2016",
+      "text": "283   RÎŞCANI        VĂRATIC          LICEUL TEORETIC VĂRATIC                                             30   22    8   73,33   6,06",
+      "candidats": 30,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.06
+    },
+    {
+      "year": "2016 all",
+      "text": "228   RÎŞCANI        VĂRATIC           LICEUL TEORETIC VĂRATIC                                             34   23   11   67,65   6,02",
+      "candidats": 34,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.02
+    },
+    {
+      "year": "2017",
+      "text": "274   RÎŞCANI        VĂRATIC         LICEUL TEORETIC VĂRATIC                                      15   11    4   73,33   6,09",
+      "candidats": 15,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2018",
+      "text": "292   RÎŞCANI        VĂRATIC         LICEUL TEORETIC VĂRATIC                                      18    12    6   66.67   6.48",
+      "candidats": 18,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.48
+    },
+    {
+      "year": "2019",
+      "text": "79   RÎŞCANI        VĂRATIC          LICEUL TEORETIC VĂRATIC                                           10         10    0   100.00   7.00",
+      "candidats": 10,
+      "rejectedCandidats": 0,
+      "mediumNote": 7
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

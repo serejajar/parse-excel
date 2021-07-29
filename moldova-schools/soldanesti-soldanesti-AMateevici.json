@@ -1,0 +1,63 @@
+{
+  "id": "soldanesti-soldanesti-AMateevici",
+  "search": "mateevici",
+  "address": {
+    "district": "soldanesti",
+    "city": "soldanesti"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic \"a. mateevici\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "81   ŞOLDĂNEŞTI     ŞOLDĂNEŞTI          Instituţie Publică Liceul teoretic \"A. Mateevici\"                                             99    84   15   84.85   6.23",
+      "candidats": 99,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2016",
+      "text": "226   ŞOLDĂNEŞTI     ŞOLDĂNEŞTI        Instituţia Publică Liceul teoretic \"A. Mateevici\"           37   31    6   83,78   6,42",
+      "candidats": 37,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.42
+    },
+    {
+      "year": "2016 all",
+      "text": "170   ŞOLDĂNEŞTI     ŞOLDĂNEŞTI        Instituţia Publică Liceul teoretic \"A. Mateevici\"                49    37   12   75,51   6,23",
+      "candidats": 49,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2017",
+      "text": "197   ŞOLDĂNEŞTI   ŞOLDĂNEŞTI      Instituţia Publică Liceul teoretic \"A. Mateevici\"                28   25   3   89,29   5,83",
+      "candidats": 28,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.83
+    },
+    {
+      "year": "2018",
+      "text": "244   ŞOLDĂNEŞTI     ŞOLDĂNEŞTI      Instituţia Publică Liceul Teoretic \"Alexei Mateevici\"         50    43    7   86.00   6.59",
+      "candidats": 50,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.59
+    },
+    {
+      "year": "2019",
+      "text": "163   ŞOLDĂNEŞTI     ŞOLDĂNEŞTI       Instituţia Publică Liceul Teoretic \"Alexei Mateevici\"          56   54   2   96.43   6.72",
+      "candidats": 56,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.72
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

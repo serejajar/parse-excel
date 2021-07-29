@@ -1,0 +1,28 @@
+{
+  "id": "gagauzia-baurci-liceul",
+  "search": "",
+  "address": {
+    "district": "gagauzia",
+    "city": "baurci"
+  },
+  "name": {
+    "ro": "liceul teoretic baurci",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "364   GAGAUZIA   BAURCI              LICEUL TEORETIC BAURCI                                           10    4     6   40.00   5.75",
+      "candidats": 10,
+      "rejectedCandidats": 6,
+      "mediumNote": 5.75
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

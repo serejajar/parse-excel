@@ -1,0 +1,63 @@
+{
+  "id": "singerei-singerei-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "singerei",
+    "city": "singerei"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m. eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "120   SÎNGEREI       SÎNGEREI            LICEUL TEORETIC \"M. EMINESCU\"                                                         81    64   17   79.01   6.39",
+      "candidats": 81,
+      "rejectedCandidats": 17,
+      "mediumNote": 6.39
+    },
+    {
+      "year": "2016",
+      "text": "91   SÎNGEREI       SÎNGEREI          LICEUL TEORETIC \"MIHAI EMINESCU\"                                                      53    51   2   96,23   6,70",
+      "candidats": 53,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.7
+    },
+    {
+      "year": "2016 all",
+      "text": " 77   SÎNGEREI       SÎNGEREI          LICEUL TEORETIC \"MIHAI EMINESCU\"                                                      63    56    7   88,89   6,57",
+      "candidats": 63,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2017",
+      "text": "85   SÎNGEREI       SÎNGEREI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MIHAI EMINESCU\"            76    75   1   98,68    6,40",
+      "candidats": 76,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2018",
+      "text": "151   SÎNGEREI       SÎNGEREI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MIHAI EMINESCU\"                            69         66      3   95.65   6.63",
+      "candidats": 69,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2019",
+      "text": "84   SÎNGEREI       SÎNGEREI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MIHAI EMINESCU\"             55         55    0   100.00   6.99",
+      "candidats": 55,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.99
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

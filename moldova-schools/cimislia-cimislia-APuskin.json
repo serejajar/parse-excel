@@ -1,0 +1,28 @@
+{
+  "id": "cimislia-cimislia-APuskin",
+  "search": "puskin",
+  "address": {
+    "district": "cimislia",
+    "city": "cimislia"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"alexandr puskin\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "242   CIMIŞLIA       CIMIŞLIA            Instituţia Publică LICEUL TEORETIC \"ALEXANDR PUŞKIN\"                  31    20   11   64.52   6.31",
+      "candidats": 31,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.31
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-centru-kotiubinski",
+  "search": "kotiubinski",
+  "address": {
+    "district": "chisinau",
+    "city": "centru"
+  },
+  "name": {
+    "ro": "liceul \"m. kotiubinski\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "45   CHISINAU       CENTRU     Liceul \"M. Koţiubinski\"                                                   54        50           4        92.59    6.51",
+      "candidats": 54,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.51
+    },
+    {
+      "year": "2016",
+      "text": "163   CHISINAU       CENTRU    Liceul \"M. Koţiubinski\"                                            40    36   4   90,00   6,58",
+      "candidats": 40,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2016 all",
+      "text": " 81   CHISINAU       CENTRU    Liceul \"M. Koţiubinski\"                                                                 44    39    5   88,64   6,47",
+      "candidats": 44,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.47
+    },
+    {
+      "year": "2017",
+      "text": "185   CHISINAU     CENTRU   Liceul \"M. Koţiubinski\"                                           31   28   3   90,32   6,55",
+      "candidats": 31,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.55
+    },
+    {
+      "year": "2018",
+      "text": "252   CHISINAU       CENTRU   Liceul \"M. Koţiubinski\"                                        32    27    5   84.38   6.73",
+      "candidats": 32,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.73
+    },
+    {
+      "year": "2019",
+      "text": "23   CHISINAU         CENTRU   Liceul \"Mihail Koţiubinski\"                                                     20        20        0       100.00    7.59",
+      "candidats": 20,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.59
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

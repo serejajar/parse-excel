@@ -1,0 +1,48 @@
+{
+  "id": "singerei-singerei-DCantemir",
+  "search": "dimitrie cantemir|d.cantemir|d. cantemir",
+  "address": {
+    "district": "singerei",
+    "city": "singerei"
+  },
+  "name": {
+    "ro": "liceul teoretic \"d.cantemir\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "387   SÎNGEREI       SÎNGEREI            LICEUL TEORETIC \"D.CANTEMIR\"                                      6    2     4   33.33   5.10",
+      "candidats": 6,
+      "rejectedCandidats": 4,
+      "mediumNote": 5.1
+    },
+    {
+      "year": "2016 all",
+      "text": "382   SÎNGEREI       SÎNGEREI          LICEUL TEORETIC \"DIMITRIE CANTEMIR\"                                  3    0     3    0,00   0",
+      "candidats": 3,
+      "rejectedCandidats": 3,
+      "mediumNote": 0
+    },
+    {
+      "year": "2017",
+      "text": "174   SÎNGEREI     SÎNGEREI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"DIMITRIE CANTEMIR\"           11   10   1   90,91   6,78",
+      "candidats": 11,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.78
+    },
+    {
+      "year": "2018",
+      "text": "70   SÎNGEREI       SÎNGEREI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"DIMITRIE CANTEMIR\"             9    9   0   100.00   6.82",
+      "candidats": 9,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.82
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

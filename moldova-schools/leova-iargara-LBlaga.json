@@ -1,0 +1,56 @@
+{
+  "id": "leova-iargara-LBlaga",
+  "search": "blaga",
+  "address": {
+    "district": "leova",
+    "city": "iargara"
+  },
+  "name": {
+    "ro": "liceul teoretic \"lucian blaga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "230   LEOVA          IARGARA             Liceul Teoretic \"Lucian Blaga\"                                        35    23   12   65.71   5.92",
+      "candidats": 35,
+      "rejectedCandidats": 12,
+      "mediumNote": 5.92
+    },
+    {
+      "year": "2016",
+      "text": "219   LEOVA          IARGARA           Liceul Teoretic \"Lucian Blaga\"                              26   22    4   84,62   6,15",
+      "candidats": 26,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.15
+    },
+    {
+      "year": "2016 all",
+      "text": "140   LEOVA          IARGARA           Liceul Teoretic \"Lucian Blaga\"                               30   24    6   80,00   6,07",
+      "candidats": 30,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.07
+    },
+    {
+      "year": "2017",
+      "text": "177   LEOVA        IARGARA         Liceul Teoretic \"Lucian Blaga\"                                   22   20   2   90,91   5,86",
+      "candidats": 22,
+      "rejectedCandidats": 2,
+      "mediumNote": 5.86
+    },
+    {
+      "year": "2018",
+      "text": "82   LEOVA          IARGARA          Liceul Teoretic \"Lucian Blaga\"                                  16         16   0   100.00   6.58",
+      "candidats": 16,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.58
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

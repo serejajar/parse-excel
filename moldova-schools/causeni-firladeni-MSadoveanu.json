@@ -1,0 +1,62 @@
+{
+  "id": "causeni-firladeni-MSadoveanu",
+  "search": "sadoveanu",
+  "address": {
+    "district": "causeni",
+    "city": "firladeni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m.sadoveanu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "122   CAUSENI        FÎRLĂDENI           LICEUL TEORETIC \"M.SADOVEANU\"                                                         33    26    7   78.79   5.95",
+      "candidats": 33,
+      "rejectedCandidats": 7,
+      "mediumNote": 5.95
+    },
+    {
+      "year": "2016",
+      "text": "234   CAUSENI        FÎRLĂDENI         LICEUL TEORETIC \"M.SADOVEANU\"                               12   10    2   83,33   6,23",
+      "candidats": 12,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2016 all",
+      "text": "112   CAUSENI        FÎRLĂDENI         LICEUL TEORETIC \"M.SADOVEANU\"                                13   11    2   84,62   6,11",
+      "candidats": 13,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.11
+    },
+    {
+      "year": "2017",
+      "text": "263   CAUSENI        FÎRLĂDENI       LICEUL TEORETIC \"M.SADOVEANU\"                              13   10    3   76,92   5,63",
+      "candidats": 13,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.63
+    },
+    {
+      "year": "2018",
+      "text": "286   CAUSENI        FÎRLĂDENI       INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MIHAIL SADOVEANU\"      13     9    4   69.23   6.36",
+      "candidats": 13,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.36
+    },
+    {
+      "year": "2019",
+      "text": "243   CAUSENI        FÎRLĂDENI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MIHAIL SADOVEANU\"        16    14    2   87.50   6.43",
+      "candidats": 16,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.43
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

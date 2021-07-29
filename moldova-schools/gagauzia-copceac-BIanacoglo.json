@@ -1,0 +1,62 @@
+{
+  "id": "gagauzia-copceac-BIanacoglo",
+  "search": "ianacoglo",
+  "address": {
+    "district": "gagauzia",
+    "city": "copceac"
+  },
+  "name": {
+    "ro": "liceul teoretic \"boris ianacoglo\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "297   GAGAUZIA   COPCEAC             LICEUL TEORETIC \"BORIS IANACOGLO\"                       16    9    7   56.25   6.96",
+      "candidats": 16,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.96
+    },
+    {
+      "year": "2016",
+      "text": "329   GAGAUZIA   COPCEAC           LICEUL TEORETIC \"BORIS IANACOGLO\"                                     11     6     5   54,55   6,57",
+      "candidats": 11,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2016 all",
+      "text": "314   GAGAUZIA   COPCEAC           LICEUL TEORETIC \"BORIS IANACOGLO\"                          12     6     6   50,00   6,57",
+      "candidats": 12,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2017",
+      "text": "73   GAGAUZIA   COPCEAC         LICEUL TEORETIC \"BORIS IANACOGLO\" s. COPCEAC                    4     4   0   100,00   6,25",
+      "candidats": 4,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2018",
+      "text": "229   GAGAUZIA   COPCEAC          LICEUL TEORETIC \"BORIS IANACOGLO\" s. COPCEAC                   18   16    2   88.89   7.00",
+      "candidats": 18,
+      "rejectedCandidats": 2,
+      "mediumNote": 7
+    },
+    {
+      "year": "2019",
+      "text": "234   GAGAUZIA   COPCEAC          LICEUL TEORETIC \"BORIS IANACOGLO\" s. COPCEAC                                   9         8   1   88.89   6.53",
+      "candidats": 9,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.53
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

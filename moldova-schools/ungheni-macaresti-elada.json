@@ -1,0 +1,28 @@
+{
+  "id": "ungheni-macaresti-elada",
+  "search": "elada",
+  "address": {
+    "district": "ungheni",
+    "city": "macaresti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"elada\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "294   UNGHENI        MĂCĂREŞTI           LICEUL TEORETIC \"ELADA\"                                 46   26   20   56.52   6.30",
+      "candidats": 46,
+      "rejectedCandidats": 20,
+      "mediumNote": 6.3
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

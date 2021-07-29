@@ -1,0 +1,62 @@
+{
+  "id": "floresti-floresti-ACehov",
+  "search": "cehov",
+  "address": {
+    "district": "floresti",
+    "city": "floresti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a. cehov\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "125   FLOREŞTI       FLOREŞTI            Liceul Teoretic \"A. Cehov\"                                                            14    11    3   78.57   6.38",
+      "candidats": 14,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2016",
+      "text": "48   FLOREŞTI       FLOREŞTI          Liceul Teoretic \"A. Cehov\"                                     6     6   0   100,00   6,53",
+      "candidats": 6,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.53
+    },
+    {
+      "year": "2016 all",
+      "text": "26   FLOREŞTI       FLOREŞTI          Liceul Teoretic \"A. Cehov\"                                            6           6             0      100,00      6,53",
+      "candidats": 6,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.53
+    },
+    {
+      "year": "2017",
+      "text": "47   FLOREŞTI       FLOREŞTI        Liceul Teoretic \"A. Cehov\"                                                 9          9      0   100,00   6,80",
+      "candidats": 9,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.8
+    },
+    {
+      "year": "2018",
+      "text": "20   FLOREŞTI         FLOREŞTI         Liceul Teoretic \"A. Cehov\"                                                     9         9        0       100.00    7.47",
+      "candidats": 9,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.47
+    },
+    {
+      "year": "2019",
+      "text": "64   FLOREŞTI       FLOREŞTI         Liceul Teoretic \"A. Cehov\"                                        16    16   0   100.00   7.15",
+      "candidats": 16,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.15
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

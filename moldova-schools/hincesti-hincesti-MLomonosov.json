@@ -1,0 +1,48 @@
+{
+  "id": "hincesti-hincesti-MLomonosov",
+  "search": "lomonosov",
+  "address": {
+    "district": "hincesti",
+    "city": "hincesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m. lomonosov\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "405   HÎNCEŞTI       HÎNCEŞTI            Liceul Teoretic \"M. Lomonosov\"                                    8    1     7   12.50   6.60",
+      "candidats": 8,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.6
+    },
+    {
+      "year": "2016 all",
+      "text": "380   HÎNCEŞTI       HÎNCEŞTI          Liceul Teoretic \"M. Lomonosov\"                                       2    0     2    0,00   0",
+      "candidats": 2,
+      "rejectedCandidats": 2,
+      "mediumNote": 0
+    },
+    {
+      "year": "2017",
+      "text": "223   HÎNCEŞTI       HÎNCEŞTI        Liceul Teoretic \"M. Lomonosov\"                                       14   12    2   85,71   6,38",
+      "candidats": 14,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2019",
+      "text": "250   HÎNCEŞTI       HÎNCEŞTI         Liceul Teoretic \"Mihail Lomonosov\"                            7     6    1   85.71   6.60",
+      "candidats": 7,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.6
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-bubuieci-TBubuiog",
+  "search": "bubuiog",
+  "address": {
+    "district": "chisinau",
+    "city": "bubuieci"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"toader bubuiog\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "358   CHISINAU       BUBUIECI            Instituţia Publică Liceul Teoretic \"Toader Bubuiog\"              63   27    36   42.86   6.18",
+      "candidats": 63,
+      "rejectedCandidats": 36,
+      "mediumNote": 6.18
+    },
+    {
+      "year": "2016",
+      "text": "282   CHISINAU       BUBUIECI         Instituţia Publică Liceul Teoretic \"Toader Bubuiog\"                 15   11    4   73,33   6,25",
+      "candidats": 15,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2016 all",
+      "text": "299   CHISINAU       BUBUIECI          Instituţia Publică Liceul Teoretic \"Toader Bubuiog\"                   27   15   12   55,56   6,13",
+      "candidats": 27,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.13
+    },
+    {
+      "year": "2017",
+      "text": "201   CHISINAU     BUBUIECI        Instituţia Publică Liceul Teoretic \"Toader Bubuiog\"              18   16   2   88,89   6,44",
+      "candidats": 18,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2018",
+      "text": "298   CHISINAU       BUBUIECI        Instituţia Publică Liceul Teoretic \"Toader Bubuiog\"        17    10    7   58.82   6.08",
+      "candidats": 17,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.08
+    },
+    {
+      "year": "2019",
+      "text": "222   CHISINAU       BUBUIECI         Instituţia Publică Liceul Teoretic \"Toader Bubuiog\"                           20        18   2   90.00   6.93",
+      "candidats": 20,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.93
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

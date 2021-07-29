@@ -1,0 +1,41 @@
+{
+  "id": "drochia-chetrosu-VCotofana",
+  "search": "cotofana",
+  "address": {
+    "district": "drochia",
+    "city": "chetrosu"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"victor cotofana\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "232   DROCHIA        CHETROSU            Instituţia Publică Liceul Teoretic \"Victor Coţofană\"                  32    21   11   65.63   6.17",
+      "candidats": 32,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.17
+    },
+    {
+      "year": "2016",
+      "text": "167   DROCHIA        CHETROSU          Instituţia Publică Liceul Teoretic \"Victor Coţofană\"             10     9   1   90,00   5,89",
+      "candidats": 10,
+      "rejectedCandidats": 1,
+      "mediumNote": 5.89
+    },
+    {
+      "year": "2016 all",
+      "text": "239   DROCHIA        CHETROSU          Instituţia Publică Liceul Teoretic \"Victor Coţofană\"                15   10    5   66,67   5,83",
+      "candidats": 15,
+      "rejectedCandidats": 5,
+      "mediumNote": 5.83
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

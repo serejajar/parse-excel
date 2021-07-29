@@ -1,0 +1,48 @@
+{
+  "id": "chisinau-botanica-elitex",
+  "search": "elitex",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "liceul \"elitex\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "114   CHISINAU       BOTANICA            Liceul \"Elitex\"                                                                        5     4    1   80.00   6.44",
+      "candidats": 5,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2016",
+      "text": "304   CHISINAU       BOTANICA   Liceul \"Elitex\"                                                         3     2     1   66,67   5,88",
+      "candidats": 3,
+      "rejectedCandidats": 1,
+      "mediumNote": 5.88
+    },
+    {
+      "year": "2016 all",
+      "text": "237   CHISINAU       BOTANICA   Liceul \"Elitex\"                                                       3    2    1   66,67   5,88",
+      "candidats": 3,
+      "rejectedCandidats": 1,
+      "mediumNote": 5.88
+    },
+    {
+      "year": "2017",
+      "text": "67   CHISINAU       BOTANICA   Liceul \"Elitex\"                                                            3          3      0   100,00   6,42",
+      "candidats": 3,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.42
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

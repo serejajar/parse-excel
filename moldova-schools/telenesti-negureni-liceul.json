@@ -1,0 +1,42 @@
+{
+  "id": "telenesti-negureni-liceul",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "negureni"
+  },
+  "name": {
+    "ro": "liceul teoretic negureni",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "324   TELENEŞTI      NEGURENI            LICEUL TEORETIC NEGURENI                                         71    37    34   52.11   6.05",
+      "candidats": 71,
+      "rejectedCandidats": 34,
+      "mediumNote": 6.05
+    },
+    {
+      "year": "2016",
+      "text": "38   TELENEŞTI      NEGURENI          LICEUL TEORETIC NEGURENI                                             22          22             0      100,00      6,72",
+      "candidats": 22,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.72
+    },
+    {
+      "year": "2016 all",
+      "text": "159   TELENEŞTI      NEGURENI          LICEUL TEORETIC NEGURENI                                         31    24    7   77,42   6,65",
+      "candidats": 31,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.65
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

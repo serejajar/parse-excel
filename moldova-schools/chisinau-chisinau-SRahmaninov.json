@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-chisinau-SRahmaninov",
+  "search": "rahmaninov",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau"
+  },
+  "name": {
+    "ro": "liceul-internat republican de muzica \"serghei rahmaninov\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "36   CHISINAU       CHISINAU            Liceul-internat Republican de muzică \"Serghei Rahmaninov\"                 16        15           1        93.75    6.76",
+      "candidats": 16,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.76
+    },
+    {
+      "year": "2016",
+      "text": "228   CHISINAU       CHISINAU          Liceul-internat Republican de muzică \"Serghei Rahmaninov\"   18   15    3   83,33   6,99",
+      "candidats": 18,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.99
+    },
+    {
+      "year": "2016 all",
+      "text": "115   CHISINAU       CHISINAU          Liceul-internat Republican de muzică \"Serghei Rahmaninov\"    19   16    3   84,21   6,90",
+      "candidats": 19,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.9
+    },
+    {
+      "year": "2017",
+      "text": "15   CHISINAU         CHISINAU        Liceul-internat Republican de muzică \"Serghei Rahmaninov\"            16        16        0       100,00    7,44",
+      "candidats": 16,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.44
+    },
+    {
+      "year": "2018",
+      "text": "228   CHISINAU       CHISINAU         Liceul-internat Republican de muzică \"Serghei Rahmaninov\"       9    8    1   88.89   7.05",
+      "candidats": 9,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.05
+    },
+    {
+      "year": "2019",
+      "text": "34   CHISINAU         CHISINAU         Liceul-internat Republican de muzică \"Serghei Rahmaninov\"                     17        17        0       100.00    7.41",
+      "candidats": 17,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.41
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "arta"
+  ]
+}

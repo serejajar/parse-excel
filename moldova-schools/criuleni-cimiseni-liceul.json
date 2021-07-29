@@ -1,0 +1,48 @@
+{
+  "id": "criuleni-cimiseni-liceul",
+  "search": "cimiseni",
+  "address": {
+    "district": "criuleni",
+    "city": "cimiseni"
+  },
+  "name": {
+    "ro": "liceul teoretic cimiseni",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "278   CRIULENI       CIMIŞENI            Liceul Teoretic CIMIŞENI                                42   25   17   59.52   6.20",
+      "candidats": 42,
+      "rejectedCandidats": 17,
+      "mediumNote": 6.2
+    },
+    {
+      "year": "2016",
+      "text": "302   CRIULENI       CIMIŞENI          Liceul Teoretic CIMIŞENI                                              18    12     6   66,67   6,44",
+      "candidats": 18,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2016 all",
+      "text": "329   CRIULENI       CIMIŞENI          Liceul Teoretic CIMIŞENI                                   31    13    18   41,94   6,34",
+      "candidats": 31,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.34
+    },
+    {
+      "year": "2017",
+      "text": "267   CRIULENI       CIMIŞENI        Liceul Teoretic \"Regele Mihai I\"                           12    9    3   75,00   6,47",
+      "candidats": 12,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.47
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

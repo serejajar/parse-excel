@@ -1,0 +1,49 @@
+{
+  "id": "hincesti-lapusna-liceul",
+  "search": "lapusna",
+  "address": {
+    "district": "hincesti",
+    "city": "lapusna"
+  },
+  "name": {
+    "ro": "liceul teoretic lapusna",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "225   HÎNCEŞTI       LĂPUŞNA             Liceul Teoretic Lăpuşna                                               54    36   18   66.67   6.10",
+      "candidats": 54,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.1
+    },
+    {
+      "year": "2016 all",
+      "text": "364   HÎNCEŞTI       LĂPUŞNA           Liceul Teoretic Lăpuşna                                             11    2     9   18,18   5,50",
+      "candidats": 11,
+      "rejectedCandidats": 9,
+      "mediumNote": 5.5
+    },
+    {
+      "year": "2017",
+      "text": "131   HÎNCEŞTI       LĂPUŞNA         Liceul Teoretic Lăpuşna                                            37    35   2   94,59   6,09",
+      "candidats": 37,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2018",
+      "text": "177   HÎNCEŞTI       LĂPUŞNA          Liceul Teoretic Lăpuşna                                           32   30   2   93.75   6.84",
+      "candidats": 32,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.84
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

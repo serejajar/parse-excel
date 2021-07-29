@@ -1,0 +1,63 @@
+{
+  "id": "singerei-radoaia-ICreanga",
+  "search": "creanga",
+  "address": {
+    "district": "singerei",
+    "city": "radoaia"
+  },
+  "name": {
+    "ro": "liceul teoretic \"ion creanga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "351   SÎNGEREI       RĂDOAIA             LICEUL TEORETIC \"ION CREANGĂ\"                                    68    30    38   44.12   6.21",
+      "candidats": 68,
+      "rejectedCandidats": 38,
+      "mediumNote": 6.21
+    },
+    {
+      "year": "2016",
+      "text": "289   SÎNGEREI       RĂDOAIA          LICEUL TEORETIC \"ION CREANGĂ\"                                       28   20    8   71,43   6,26",
+      "candidats": 28,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.26
+    },
+    {
+      "year": "2016 all",
+      "text": "289   SÎNGEREI       RĂDOAIA           LICEUL TEORETIC \"ION CREANGĂ\"                                         50   29   21   58,00   5,99",
+      "candidats": 50,
+      "rejectedCandidats": 21,
+      "mediumNote": 5.99
+    },
+    {
+      "year": "2017",
+      "text": "269   SÎNGEREI       RĂDOAIA         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION CREANGĂ\"           36   27    9   75,00   6,04",
+      "candidats": 36,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.04
+    },
+    {
+      "year": "2018",
+      "text": "175   SÎNGEREI       RĂDOAIA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION CREANGĂ\"                33   31   2   93.94   6.37",
+      "candidats": 33,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.37
+    },
+    {
+      "year": "2019",
+      "text": "246   SÎNGEREI       RĂDOAIA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION CREANGĂ\"             23    20    3   86.96   6.00",
+      "candidats": 23,
+      "rejectedCandidats": 3,
+      "mediumNote": 6
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

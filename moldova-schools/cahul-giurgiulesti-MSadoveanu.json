@@ -1,0 +1,63 @@
+{
+  "id": "cahul-giurgiulesti-MSadoveanu",
+  "search": "sadoveanu",
+  "address": {
+    "district": "cahul",
+    "city": "giurgiulesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m.sadoveanu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "254   CAHUL          GIURGIULEŞTI        Liceul Teoretic \"M.Sadoveanu\"                           48   30   18   62.50   6.52",
+      "candidats": 48,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.52
+    },
+    {
+      "year": "2016",
+      "text": "170   CAHUL          GIURGIULEŞTI      Liceul Teoretic \"M.Sadoveanu\"                              29    26    3   89,66   6,99",
+      "candidats": 29,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.99
+    },
+    {
+      "year": "2016 all",
+      "text": "144   CAHUL          GIURGIULEŞTI      Liceul Teoretic \"M.Sadoveanu\"                                34   27    7   79,41   6,94",
+      "candidats": 34,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.94
+    },
+    {
+      "year": "2017",
+      "text": "266   CAHUL          GIURGIULEŞTI    Liceul Teoretic \"M.Sadoveanu\"                              28   21    7   75,00   6,55",
+      "candidats": 28,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.55
+    },
+    {
+      "year": "2018",
+      "text": "41   CAHUL          GIURGIULEŞTI     Instituţia Publică Liceul Teoretic \"M.Sadoveanu\"                  25   25   0   100.00   7.18",
+      "candidats": 25,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.18
+    },
+    {
+      "year": "2019",
+      "text": "82   CAHUL          GIURGIULEŞTI     Instituţia Publică Liceul Teoretic \"M.Sadoveanu\"                24         24    0   100.00   6.99",
+      "candidats": 24,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.99
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "sport",
+    "umanist"
+  ]
+}

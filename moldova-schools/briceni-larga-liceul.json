@@ -1,0 +1,55 @@
+{
+  "id": "briceni-larga-liceul",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "larga"
+  },
+  "name": {
+    "ro": "liceul teoretic larga",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "333   BRICENI        LARGA               Liceul Teoretic Larga                                            64    32    32   50.00   6.02",
+      "candidats": 64,
+      "rejectedCandidats": 32,
+      "mediumNote": 6.02
+    },
+    {
+      "year": "2016",
+      "text": "270   BRICENI        LARGA            Liceul Teoretic Larga                                               17   13    4   76,47   6,23",
+      "candidats": 17,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2016 all",
+      "text": "326   BRICENI        LARGA             Liceul Teoretic Larga                                      33    14    19   42,42   6,16",
+      "candidats": 33,
+      "rejectedCandidats": 19,
+      "mediumNote": 6.16
+    },
+    {
+      "year": "2018",
+      "text": "104   BRICENI        LARGA            Liceul Teoretic Larga                                             14         14   0   100.00   5.88",
+      "candidats": 14,
+      "rejectedCandidats": 0,
+      "mediumNote": 5.88
+    },
+    {
+      "year": "2019",
+      "text": "275   BRICENI        LARGA            Liceul Teoretic Larga                                          25    19    6   76.00   6.37",
+      "candidats": 25,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.37
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

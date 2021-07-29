@@ -1,0 +1,43 @@
+{
+  "id": "rezina-rezina-olimp",
+  "search": "olimp",
+  "address": {
+    "district": "rezina",
+    "city": "rezina"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"olimp\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2017",
+      "text": "138   REZINA         REZINA          Instituţia Publică Liceul Teoretic \"Olimp\"                       34    32   2   94,12   6,35",
+      "candidats": 34,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.35
+    },
+    {
+      "year": "2018",
+      "text": "269   REZINA         REZINA          Instituţia Publică Liceul Teoretic \"Olimp\"                    43    34    9   79.07   6.49",
+      "candidats": 43,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2019",
+      "text": "242   REZINA         REZINA           Instituţia Publică Liceul Teoretic \"Olimp\"                   64    56    8   87.50   6.90",
+      "candidats": 64,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.9
+    }
+  ],
+  "langs": [
+    "romana",
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

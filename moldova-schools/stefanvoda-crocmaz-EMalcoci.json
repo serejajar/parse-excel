@@ -1,0 +1,42 @@
+{
+  "id": "stefanvoda-crocmaz-EMalcoci",
+  "search": "malcoci",
+  "address": {
+    "district": "stefanvoda",
+    "city": "crocmaz"
+  },
+  "name": {
+    "ro": "liceul teoretic \"ecaterina malcoci\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "329   ŞTEFAN VODĂ    CROCMAZ             LICEUL TEORETIC \"ECATERINA MALCOCI\"                              75    38    37   50.67   6.12",
+      "candidats": 75,
+      "rejectedCandidats": 37,
+      "mediumNote": 6.12
+    },
+    {
+      "year": "2016",
+      "text": "303   ŞTEFAN VODĂ    CROCMAZ           LICEUL TEORETIC \"ECATERINA MALCOCI\"                                   18    12     6   66,67   6,40",
+      "candidats": 18,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2016 all",
+      "text": "356   ŞTEFAN VODĂ    CROCMAZ           LICEUL TEORETIC \"ECATERINA MALCOCI\"                        44    12    32   27,27   6,40",
+      "candidats": 44,
+      "rejectedCandidats": 32,
+      "mediumNote": 6.4
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

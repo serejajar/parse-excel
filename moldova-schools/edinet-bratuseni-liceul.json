@@ -1,0 +1,28 @@
+{
+  "id": "edinet-bratuseni-liceul",
+  "search": "",
+  "address": {
+    "district": "edinet",
+    "city": "bratuseni"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic bratuseni",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "352   EDINET         BRĂTUŞENI           Instituţie Publică Liceul Teoretic Brătuşeni                     25    11    14   44.00   6.38",
+      "candidats": 25,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.38
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

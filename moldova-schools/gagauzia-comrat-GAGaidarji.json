@@ -1,0 +1,63 @@
+{
+  "id": "gagauzia-comrat-GAGaidarji",
+  "search": "gaidarji",
+  "address": {
+    "district": "gagauzia",
+    "city": "comrat"
+  },
+  "name": {
+    "ro": "liceul teoretic raional \"g.a.gaidarji\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "27   GAGAUZIA   COMRAT              LICEUL TEORETIC RAIONAL \"G.A.GAIDARJI\"                                    45        43           2        95.56    6.88",
+      "candidats": 45,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.88
+    },
+    {
+      "year": "2016",
+      "text": "71   GAGAUZIA   COMRAT            LICEUL TEORETIC RAIONAL \"G.A.GAIDARJI\"                        51    50   1    98,04   6,77",
+      "candidats": 51,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.77
+    },
+    {
+      "year": "2016 all",
+      "text": "30   GAGAUZIA   COMRAT            LICEUL TEORETIC RAIONAL \"G.A.GAIDARJI\"                               52          51             1       98,08      6,74",
+      "candidats": 52,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.74
+    },
+    {
+      "year": "2017",
+      "text": "92   GAGAUZIA   COMRAT          LICEUL TEORETIC RAIONAL \"G.A.GAIDARJI\" mun. COMRAT             49    48   1   97,96    6,70",
+      "candidats": 49,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.7
+    },
+    {
+      "year": "2018",
+      "text": "51   GAGAUZIA   COMRAT           LICEUL TEORETIC RAIONAL \"G.A.GAIDARJI\" mun. COMRAT                57   57   0   100.00   7.05",
+      "candidats": 57,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.05
+    },
+    {
+      "year": "2019",
+      "text": "83   GAGAUZIA   COMRAT           LICEUL TEORETIC RAIONAL \"G.A.GAIDARJI\" mun. COMRAT              53         53    0   100.00   6.99",
+      "candidats": 53,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.99
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

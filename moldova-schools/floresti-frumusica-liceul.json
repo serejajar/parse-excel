@@ -1,0 +1,42 @@
+{
+  "id": "floresti-frumusica-liceul",
+  "search": "",
+  "address": {
+    "district": "floresti",
+    "city": "frumusica"
+  },
+  "name": {
+    "ro": "liceul teoretic frumusica",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "383   FLOREŞTI       FRUMUŞICA           Liceul Teoretic Frumuşica                                        29   10    19   34.48   5.85",
+      "candidats": 29,
+      "rejectedCandidats": 19,
+      "mediumNote": 5.85
+    },
+    {
+      "year": "2016",
+      "text": "327   FLOREŞTI       FRUMUŞICA         Liceul Teoretic Frumuşica                                              9     5     4   55,56   6,00",
+      "candidats": 9,
+      "rejectedCandidats": 4,
+      "mediumNote": 6
+    },
+    {
+      "year": "2016 all",
+      "text": "358   FLOREŞTI       FRUMUŞICA         Liceul Teoretic Frumuşica                                  24     6    18   25,00   5,96",
+      "candidats": 24,
+      "rejectedCandidats": 18,
+      "mediumNote": 5.96
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

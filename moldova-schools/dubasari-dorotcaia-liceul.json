@@ -1,0 +1,62 @@
+{
+  "id": "dubasari-dorotcaia-liceul",
+  "search": "dorotcaia",
+  "address": {
+    "district": "dubasari",
+    "city": "dorotcaia"
+  },
+  "name": {
+    "ro": "liceul teoretic dorotcaia",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "209   DUBĂSARI       DOROŢCAIA           Liceul Teoretic Doroţcaia                                             36    25   11   69.44   6.50",
+      "candidats": 36,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016",
+      "text": "104   DUBĂSARI       DOROŢCAIA         Liceul Teoretic Doroţcaia                                                             20    19   1   95,00   6,92",
+      "candidats": 20,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.92
+    },
+    {
+      "year": "2016 all",
+      "text": "213   DUBĂSARI       DOROŢCAIA         Liceul Teoretic Doroţcaia                                           29   20    9   68,97   6,84",
+      "candidats": 29,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.84
+    },
+    {
+      "year": "2017",
+      "text": "40   DUBĂSARI       DOROŢCAIA       Liceul Teoretic Doroţcaia                                                   11         11      0   100,00   6,86",
+      "candidats": 11,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.86
+    },
+    {
+      "year": "2018",
+      "text": "91   DUBĂSARI       DOROŢCAIA        Liceul Teoretic Doroţcaia                                         10         10   0   100.00   6.40",
+      "candidats": 10,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2019",
+      "text": "105   DUBĂSARI       DOROŢCAIA        Liceul Teoretic Doroţcaia                                         16         16    0   100.00   6.75",
+      "candidats": 16,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.75
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

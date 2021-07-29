@@ -1,0 +1,49 @@
+{
+  "id": "ialoveni-milestiimici-MBarca",
+  "search": "barca",
+  "address": {
+    "district": "ialoveni",
+    "city": "milestiimici"
+  },
+  "name": {
+    "ro": "liceul teoretic \"mihail barca\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "270   IALOVENI       MILEŞTII MICI       Liceul Teoretic \"Mihail Bârcă\"                          28   17   11   60.71   6.34",
+      "candidats": 28,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.34
+    },
+    {
+      "year": "2016",
+      "text": "273   IALOVENI       MILEŞTII MICI    Liceul Teoretic \"Mihail Bârcă\"                                      16   12    4   75,00   7,25",
+      "candidats": 16,
+      "rejectedCandidats": 4,
+      "mediumNote": 7.25
+    },
+    {
+      "year": "2016 all",
+      "text": "302   IALOVENI       MILEŞTII MICI     Liceul Teoretic \"Mihail Bârcă\"                                        24   13   11   54,17   7,17",
+      "candidats": 24,
+      "rejectedCandidats": 11,
+      "mediumNote": 7.17
+    },
+    {
+      "year": "2017",
+      "text": "212   IALOVENI       MILEŞTII MICI   Liceul Teoretic \"Mihail Bârcă\"                                       16   14    2   87,50   6,64",
+      "candidats": 16,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.64
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

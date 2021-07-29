@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-ciocana-PZadnipru",
+  "search": "zadnipru",
+  "address": {
+    "district": "chisinau",
+    "city": "ciocana"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"petru zadnipru\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "189   CHISINAU       CIOCANA               Instituţia Publică Liceul Teoretic \"Petru Zadnipru\"              84   60   24   71.43   6.56",
+      "candidats": 84,
+      "rejectedCandidats": 24,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2016",
+      "text": "136   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic \"Petru Zadnipru\"               79    73   6   92,41   6,50",
+      "candidats": 79,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016 all",
+      "text": "153   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic \"Petru Zadnipru\"               96    75   21   78,13   6,47",
+      "candidats": 96,
+      "rejectedCandidats": 21,
+      "mediumNote": 6.47
+    },
+    {
+      "year": "2017",
+      "text": "224   CHISINAU       CIOCANA   Instituţia Publică Liceul Teoretic \"Petru Zadnipru\"                  49   42    7   85,71   6,17",
+      "candidats": 49,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.17
+    },
+    {
+      "year": "2018",
+      "text": "136   CHISINAU       CIOCANA   Instituţia Publică Liceul Teoretic \"Petru Zadnipru\"                             63         61      2   96.83   6.61",
+      "candidats": 63,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.61
+    },
+    {
+      "year": "2019",
+      "text": "219   CHISINAU       CIOCANA   Instituţia Publică Liceul Teoretic \"Petru Zadnipru\"                            53        48   5   90.57   6.73",
+      "candidats": 53,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.73
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

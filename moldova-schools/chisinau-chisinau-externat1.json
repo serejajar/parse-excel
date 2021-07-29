@@ -1,0 +1,49 @@
+{
+  "id": "chisinau-chisinau-externat1",
+  "search": "externat 1",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau"
+  },
+  "name": {
+    "ro": "centru externat 1",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "401   CHISINAU       CHISINAU            CENTRU EXTERNAT 1                                               112   19    93   16.96   5.67",
+      "candidats": 112,
+      "rejectedCandidats": 93,
+      "mediumNote": 5.67
+    },
+    {
+      "year": "2016",
+      "text": "346   CHISINAU       CHISINAU          CENTRU EXTERNAT 1                                                    159   17   142   10,69   6,03",
+      "candidats": 159,
+      "rejectedCandidats": 142,
+      "mediumNote": 6.03
+    },
+    {
+      "year": "2016 all",
+      "text": "369   CHISINAU       CHISINAU          CENTRU EXTERNAT 1                                                  182   21   161   11,54   5,98",
+      "candidats": 182,
+      "rejectedCandidats": 161,
+      "mediumNote": 5.98
+    },
+    {
+      "year": "2017",
+      "text": "296   CHISINAU    CHISINAU    CENTRU EXTERNAT 1                       115    6   109   5,22    6,25",
+      "candidats": 115,
+      "rejectedCandidats": 109,
+      "mediumNote": 6.25
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "sport"
+  ]
+}

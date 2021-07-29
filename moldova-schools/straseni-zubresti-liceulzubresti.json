@@ -1,0 +1,55 @@
+{
+  "id": "straseni-zubresti-liceulzubresti",
+  "search": "zubresti",
+  "address": {
+    "district": "straseni",
+    "city": "zubresti"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic zubresti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "168   STRĂŞENI       ZUBREŞTI              INSTITUŢIA PUBLICĂ LICEUL TEORETIC ZUBREŞTI                      16   12    4   75.00   5.98",
+      "candidats": 16,
+      "rejectedCandidats": 4,
+      "mediumNote": 5.98
+    },
+    {
+      "year": "2016",
+      "text": "145   STRĂŞENI       ZUBREŞTI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC ZUBREŞTI                      12    11   1   91,67   6,27",
+      "candidats": 12,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.27
+    },
+    {
+      "year": "2016 all",
+      "text": " 55   STRĂŞENI       ZUBREŞTI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC ZUBREŞTI                                           12    11    1   91,67   6,27",
+      "candidats": 12,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.27
+    },
+    {
+      "year": "2018",
+      "text": "296   STRĂŞENI       ZUBREŞTI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC ZUBREŞTI                  15     9    6   60.00   6.44",
+      "candidats": 15,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2019",
+      "text": "55   STRĂŞENI       ZUBREŞTI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC ZUBREŞTI                         18    18   0   100.00   7.24",
+      "candidats": 18,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.24
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

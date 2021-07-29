@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-riscani-VLevski",
+  "search": "levski",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic bulgar \"vasil levski\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "63   CHISINAU       RISCANI    Liceul Teoretic bulgar \"Vasil Levski\"                                                         35    31    4   88.57   6.71",
+      "candidats": 35,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.71
+    },
+    {
+      "year": "2016",
+      "text": "193   CHISINAU       RISCANI    Liceul Teoretic bulgar \"Vasil Levski\"                       17    15    2   88,24   6,61",
+      "candidats": 17,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.61
+    },
+    {
+      "year": "2016 all",
+      "text": "192   CHISINAU       RISCANI    Liceul Teoretic bulgar \"Vasil Levski\"                             22    16    6   72,73   6,55",
+      "candidats": 22,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.55
+    },
+    {
+      "year": "2017",
+      "text": "239   CHISINAU       RISCANI    Liceul Teoretic bulgar \"Vasil Levski\"                                17   14    3   82,35   6,97",
+      "candidats": 17,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.97
+    },
+    {
+      "year": "2018",
+      "text": "218   CHISINAU       RISCANI    Liceul Teoretic bulgar \"Vasil Levski\"                          10    9    1   90.00   6.94",
+      "candidats": 10,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.94
+    },
+    {
+      "year": "2019",
+      "text": "118   CHISINAU       RISCANI    Liceul Teoretic bulgar \"Vasil Levski\"                           19         19    0   100.00   6.50",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.5
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

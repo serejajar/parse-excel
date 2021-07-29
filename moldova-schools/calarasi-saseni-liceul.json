@@ -1,0 +1,27 @@
+{
+  "id": "calarasi-saseni-liceul",
+  "search": "saseni",
+  "address": {
+    "district": "calarasi",
+    "city": "saseni"
+  },
+  "name": {
+    "ro": "liceul teoretic saseni",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "180   CĂLĂRAŞI       SĂSENI                Liceul Teoretic Săseni                                           26   19    7   73.08   6.18",
+      "candidats": 26,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.18
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

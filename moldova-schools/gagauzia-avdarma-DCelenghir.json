@@ -1,0 +1,55 @@
+{
+  "id": "gagauzia-avdarma-DCelenghir",
+  "search": "celenghir",
+  "address": {
+    "district": "gagauzia",
+    "city": "avdarma"
+  },
+  "name": {
+    "ro": "liceul teoretic \"d.celenghir\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2016",
+      "text": "26   GAGAUZIA   AVDARMA           LICEUL TEORETIC \"D.CELENGHIR\"                                        15          15             0      100,00      6,96",
+      "candidats": 15,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.96
+    },
+    {
+      "year": "2016 all",
+      "text": "18   GAGAUZIA   AVDARMA           LICEUL TEORETIC \"D.CELENGHIR\"                                        15          15             0      100,00      6,96",
+      "candidats": 15,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.96
+    },
+    {
+      "year": "2017",
+      "text": "36   GAGAUZIA     AVDARMA         LICEUL TEORETIC \"D.CELENGHIR\" AVDARMA                                  13        13        0       100,00    6,89",
+      "candidats": 13,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.89
+    },
+    {
+      "year": "2018",
+      "text": "23   GAGAUZIA     AVDARMA          LICEUL TEORETIC \"D.CELENGHIR\" AVDARMA                                           16        16        0       100.00    7.43",
+      "candidats": 16,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.43
+    },
+    {
+      "year": "2019",
+      "text": "94   GAGAUZIA   AVDARMA          LICEUL TEORETIC \"D.CELENGHIR\" AVDARMA                             19         19    0   100.00   6.86",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.86
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

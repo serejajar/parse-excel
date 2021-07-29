@@ -1,0 +1,55 @@
+{
+  "id": "stefanvoda-olanesti-BPHasdeu",
+  "search": "b. ?p. ?hasdeu|petriceicu hasdeu",
+  "address": {
+    "district": "stefanvoda",
+    "city": "olanesti"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"bogdan petriceicu hasdeu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "349   ŞTEFAN VODĂ    OLĂNEŞTI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"BOGDAN PETRICEICU HAŞDEU\"    45    20    25   44.44   5.78",
+      "candidats": 45,
+      "rejectedCandidats": 25,
+      "mediumNote": 5.78
+    },
+    {
+      "year": "2016",
+      "text": "265   ŞTEFAN VODĂ    OLĂNEŞTI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"BOGDAN PETRICEICU HAŞDEU\"       36   28    8   77,78   6,57",
+      "candidats": 36,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2016 all",
+      "text": "270   ŞTEFAN VODĂ    OLĂNEŞTI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"BOGDAN PETRICEICU HAŞDEU\"         48   29   19   60,42   6,54",
+      "candidats": 48,
+      "rejectedCandidats": 19,
+      "mediumNote": 6.54
+    },
+    {
+      "year": "2017",
+      "text": "215   ŞTEFAN VODĂ    OLĂNEŞTI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"BOGDAN PETRICEICU HAŞDEU\"        23   20    3   86,96   6,14",
+      "candidats": 23,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.14
+    },
+    {
+      "year": "2018",
+      "text": "148   ŞTEFAN VODĂ    OLĂNEŞTI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"BOGDAN PETRICEICU HAŞDEU\"                  25         24      1   96.00   6.63",
+      "candidats": 25,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.63
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

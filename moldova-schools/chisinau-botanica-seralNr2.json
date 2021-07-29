@@ -1,0 +1,64 @@
+{
+  "id": "chisinau-botanica-seralNr2",
+  "search": "seral nr. ?2",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "liceul teoretic seral nr.2",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "354   CHISINAU       BOTANICA   Liceul teoretic seral nr.2                                      280   122   158   43.57   5.80",
+      "candidats": 280,
+      "rejectedCandidats": 158,
+      "mediumNote": 5.8
+    },
+    {
+      "year": "2016",
+      "text": "330   CHISINAU       BOTANICA   Liceul teoretic seral nr.2                                            224   121   103   54,02   5,76",
+      "candidats": 224,
+      "rejectedCandidats": 103,
+      "mediumNote": 5.76
+    },
+    {
+      "year": "2016 all",
+      "text": "320   CHISINAU       BOTANICA   Liceul teoretic seral nr.2                                 319   150   169   47,02   5,69",
+      "candidats": 319,
+      "rejectedCandidats": 169,
+      "mediumNote": 5.69
+    },
+    {
+      "year": "2017",
+      "text": "286   CHISINAU       BOTANICA   Liceul teoretic seral nr.2                                  139   85   54   61,15   5,53",
+      "candidats": 139,
+      "rejectedCandidats": 54,
+      "mediumNote": 5.53
+    },
+    {
+      "year": "2018",
+      "text": "284   CHISINAU       BOTANICA   Liceul teoretic seral nr.2                                  200   139   61   69.50   5.77",
+      "candidats": 200,
+      "rejectedCandidats": 61,
+      "mediumNote": 5.77
+    },
+    {
+      "year": "2019",
+      "text": "281   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic cu Învăţământ Seral nr.2   140   103   37   73.57   5.87",
+      "candidats": 140,
+      "rejectedCandidats": 37,
+      "mediumNote": 5.87
+    }
+  ],
+  "langs": [
+    "romana",
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

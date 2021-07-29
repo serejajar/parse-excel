@@ -1,0 +1,48 @@
+{
+  "id": "gagauzia-chirsova-MITuzlov",
+  "search": "tuzlov",
+  "address": {
+    "district": "gagauzia",
+    "city": "chirsova"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m.i. tuzlov\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "339   GAGAUZIA   CHIRSOVA            Liceul Teoretic \"M.I. TUZLOV\"                                    31    15    16   48.39   6.49",
+      "candidats": 31,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2016 all",
+      "text": "366   GAGAUZIA   CHIRSOVA          Liceul Teoretic \"M.I. TUZLOV\"                                        6    1     5   16,67   5,60",
+      "candidats": 6,
+      "rejectedCandidats": 5,
+      "mediumNote": 5.6
+    },
+    {
+      "year": "2017",
+      "text": "28   GAGAUZIA     CHIRSOVA        Liceul Teoretic \"M.I. TUZLOV\" s. CHIRSOVA                            15        15        0       100,00    7,02",
+      "candidats": 15,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.02
+    },
+    {
+      "year": "2019",
+      "text": "181   GAGAUZIA   CHIRSOVA         Liceul Teoretic \"M.I. TUZLOV\" s. CHIRSOVA                      20   19   1   95.00   6.82",
+      "candidats": 20,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.82
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

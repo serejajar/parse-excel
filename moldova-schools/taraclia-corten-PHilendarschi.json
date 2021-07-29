@@ -1,0 +1,48 @@
+{
+  "id": "taraclia-corten-PHilendarschi",
+  "search": "hilendarschi",
+  "address": {
+    "district": "taraclia",
+    "city": "corten"
+  },
+  "name": {
+    "ro": "liceul teoretic \"sfintul paisii hilendarschi\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2016",
+      "text": "37   TARACLIA       CORTEN            LICEUL TEORETIC \"SFÎNTUL PAISII HILENDARSCHI\"                        18          18             0      100,00      6,72",
+      "candidats": 18,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.72
+    },
+    {
+      "year": "2016 all",
+      "text": "22   TARACLIA       CORTEN            LICEUL TEORETIC \"SFÎNTUL PAISII HILENDARSCHI\"                        18          18             0      100,00      6,72",
+      "candidats": 18,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.72
+    },
+    {
+      "year": "2017",
+      "text": "154   TARACLIA       CORTEN          LICEUL TEORETIC \"SFÎNTUL PAISII HILENDARSCHI\"                    14    13   1   92,86   6,61",
+      "candidats": 14,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.61
+    },
+    {
+      "year": "2018",
+      "text": "235   TARACLIA       CORTEN           LICEUL TEORETIC \"SFÎNTUL PAISII HILENDARSCHI\"                  16   14    2   87.50   6.72",
+      "candidats": 16,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.72
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

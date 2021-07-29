@@ -1,0 +1,42 @@
+{
+  "id": "chisinau-buiucani-orizont",
+  "search": "orizont",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "institutia privata de invatamint liceul teoretic \"orizont\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "33   CHISINAU       BUIUCANI   Instituţia Privată de Învăţămînt Liceul Teoretic \"ORIZONT\"                55        52           3        94.55    7.50",
+      "candidats": 55,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.5
+    },
+    {
+      "year": "2016",
+      "text": "80   CHISINAU       BUIUCANI    Instituţia Privată de Învăţămînt Liceul Teoretic \"ORIZONT\"    71    69   2    97,18   7,74",
+      "candidats": 71,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.74
+    },
+    {
+      "year": "2016 all",
+      "text": "41   CHISINAU       BUIUCANI    Instituţia Privată de Învăţămînt Liceul Teoretic \"ORIZONT\"           72          69             3       95,83      7,74",
+      "candidats": 72,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.74
+    }
+  ],
+  "langs": [
+    "engleza"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

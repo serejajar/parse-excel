@@ -1,0 +1,62 @@
+{
+  "id": "singerei-chiscareni-NCasso",
+  "search": "casso",
+  "address": {
+    "district": "singerei",
+    "city": "chiscareni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"n. casso\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "124   SÎNGEREI       CHIŞCĂRENI          Liceul Teoretic \"N. Casso\"                                                            42    33    9   78.57   6.48",
+      "candidats": 42,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.48
+    },
+    {
+      "year": "2016",
+      "text": "157   SÎNGEREI       CHIŞCĂRENI        LICEUL TEORETIC \"NICOLAE CASSO\"                                  22    20   2   90,91   6,23",
+      "candidats": 22,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2016 all",
+      "text": "107   SÎNGEREI       CHIŞCĂRENI        LICEUL TEORETIC \"NICOLAE CASSO\"                              27   23    4   85,19   6,11",
+      "candidats": 27,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.11
+    },
+    {
+      "year": "2017",
+      "text": "183   SÎNGEREI     CHIŞCĂRENI      INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"NICOLAE CASSO\"               21   19   2   90,48   6,26",
+      "candidats": 21,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.26
+    },
+    {
+      "year": "2018",
+      "text": "183   SÎNGEREI       CHIŞCĂRENI       INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"NICOLAE CASSO\"              15   14   1   93.33   6.52",
+      "candidats": 15,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.52
+    },
+    {
+      "year": "2019",
+      "text": "174   SÎNGEREI       CHIŞCĂRENI       INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"NICOLAE CASSO\"             21   20   1   95.24   6.99",
+      "candidats": 21,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.99
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

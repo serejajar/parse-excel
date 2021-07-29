@@ -1,0 +1,63 @@
+{
+  "id": "telenesti-cazanesti-APaunescu",
+  "search": "paunescu",
+  "address": {
+    "district": "telenesti",
+    "city": "cazanesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a. paunescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "171   TELENEŞTI      CĂZĂNEŞTI             LICEUL TEORETIC \"A. PĂUNESCU\"                                    43   32   11   74.42   6.27",
+      "candidats": 43,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.27
+    },
+    {
+      "year": "2016",
+      "text": "227   TELENEŞTI      CĂZĂNEŞTI         LICEUL TEORETIC \"A. PĂUNESCU\"                               37   31    6   83,78   6,40",
+      "candidats": 37,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2016 all",
+      "text": "185   TELENEŞTI      CĂZĂNEŞTI         LICEUL TEORETIC \"A. PĂUNESCU\"                                    46    34   12   73,91   6,29",
+      "candidats": 46,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.29
+    },
+    {
+      "year": "2017",
+      "text": "240   TELENEŞTI      CĂZĂNEŞTI       LICEUL TEORETIC \"A. PĂUNESCU\"                                        17   14    3   82,35   6,64",
+      "candidats": 17,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.64
+    },
+    {
+      "year": "2018",
+      "text": "199   TELENEŞTI      CĂZĂNEŞTI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"A. PĂUNESCU\"                26   24   2   92.31   6.42",
+      "candidats": 26,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.42
+    },
+    {
+      "year": "2019",
+      "text": "125   TELENEŞTI      CĂZĂNEŞTI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"A. PĂUNESCU\"                            23         23         0         100.00   6.34",
+      "candidats": 23,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.34
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

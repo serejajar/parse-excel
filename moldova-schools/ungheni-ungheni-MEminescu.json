@@ -1,0 +1,63 @@
+{
+  "id": "ungheni-ungheni-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "ungheni",
+    "city": "ungheni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m. eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "131   UNGHENI        UNGHENI             LICEUL TEORETIC \"M. EMINESCU\"                                                        150   117   33   78.00   6.20",
+      "candidats": 150,
+      "rejectedCandidats": 33,
+      "mediumNote": 6.2
+    },
+    {
+      "year": "2016",
+      "text": "212   UNGHENI        UNGHENI           LICEUL TEORETIC \"MIHAI EMINESCU\"                          117   100   17   85,47   6,16",
+      "candidats": 117,
+      "rejectedCandidats": 17,
+      "mediumNote": 6.16
+    },
+    {
+      "year": "2016 all",
+      "text": "177   UNGHENI        UNGHENI           LICEUL TEORETIC \"MIHAI EMINESCU\"                                144   108   36   75,00   6,09",
+      "candidats": 144,
+      "rejectedCandidats": 36,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2017",
+      "text": "134   UNGHENI        UNGHENI         LICEUL TEORETIC \"MIHAI EMINESCU\"                                 88    83   5   94,32   6,45",
+      "candidats": 88,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.45
+    },
+    {
+      "year": "2018",
+      "text": "221   UNGHENI        UNGHENI          LICEUL TEORETIC \"MIHAI EMINESCU\"                              106   95   11   89.62   6.35",
+      "candidats": 106,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.35
+    },
+    {
+      "year": "2019",
+      "text": "165   UNGHENI        UNGHENI          LICEUL TEORETIC \"MIHAI EMINESCU\"                               83   80   3   96.39   6.55",
+      "candidats": 83,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.55
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "cimislia-lipoveni-sportiv",
+  "search": "sportiv",
+  "address": {
+    "district": "cimislia",
+    "city": "lipoveni"
+  },
+  "name": {
+    "ro": "institutia publica liceu internat cu profil sportiv",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "148   CIMIŞLIA       LIPOVENI            Instituţia Publică LICEU INTERNAT CU PROFIL SPORTIV                                   30    23    7   76.67   6.30",
+      "candidats": 30,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.3
+    },
+    {
+      "year": "2016",
+      "text": "246   CIMIŞLIA       LIPOVENI          Instituţia Publică LICEU INTERNAT CU PROFIL SPORTIV         32   26    6   81,25   6,55",
+      "candidats": 32,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.55
+    },
+    {
+      "year": "2016 all",
+      "text": "134   CIMIŞLIA       LIPOVENI          Instituţia Publică LICEU INTERNAT CU PROFIL SPORTIV          32   26    6   81,25   6,55",
+      "candidats": 32,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.55
+    },
+    {
+      "year": "2017",
+      "text": "121   CIMIŞLIA       LIPOVENI        Instituţia Publică LICEU INTERNAT CU PROFIL SPORTIV             22    21   1   95,45    6,65",
+      "candidats": 22,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.65
+    },
+    {
+      "year": "2018",
+      "text": "72   CIMIŞLIA       LIPOVENI         Instituţia Publică LICEU INTERNAT CU PROFIL SPORTIV                 22   22   0   100.00   6.82",
+      "candidats": 22,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.82
+    },
+    {
+      "year": "2019",
+      "text": "249   CIMIŞLIA       LIPOVENI         Instituţia Publică LICEU INTERNAT CU PROFIL SPORTIV            28    24    4   85.71   7.08",
+      "candidats": 28,
+      "rejectedCandidats": 4,
+      "mediumNote": 7.08
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "sport"
+  ]
+}

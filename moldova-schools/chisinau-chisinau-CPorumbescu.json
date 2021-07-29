@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-chisinau-CPorumbescu",
+  "search": "porumbescu",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau"
+  },
+  "name": {
+    "ro": "liceul-internat republican de muzica \"ciprian porumbescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "46   CHISINAU       CHISINAU            Liceul-internat Republican de muzică \"Ciprian Porumbescu\"                 26        24           2        92.31    7.25",
+      "candidats": 26,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.25
+    },
+    {
+      "year": "2016",
+      "text": "22   CHISINAU       CHISINAU          Liceul-internat Republican de muzică \"Ciprian Porumbescu\"            21          21             0      100,00      6,99",
+      "candidats": 21,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.99
+    },
+    {
+      "year": "2016 all",
+      "text": "19   CHISINAU       CHISINAU          Liceul-internat Republican de muzică \"Ciprian Porumbescu\"            22          22             0      100,00      6,94",
+      "candidats": 22,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.94
+    },
+    {
+      "year": "2017",
+      "text": "19   CHISINAU         CHISINAU        Liceul-internat Republican de muzică \"Ciprian Porumbescu\"            16        16        0       100,00    7,27",
+      "candidats": 16,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.27
+    },
+    {
+      "year": "2018",
+      "text": "195   CHISINAU       CHISINAU         Liceul-internat Republican de muzică \"Ciprian Porumbescu\"       13   12   1   92.31   7.96",
+      "candidats": 13,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.96
+    },
+    {
+      "year": "2019",
+      "text": "33   CHISINAU         CHISINAU         Liceul-internat Republican de muzică \"Ciprian Porumbescu\"                     29        29        0       100.00    7.46",
+      "candidats": 29,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.46
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "arta"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "gagauzia-besalma-MChiosea",
+  "search": "chiosea",
+  "address": {
+    "district": "gagauzia",
+    "city": "besalma"
+  },
+  "name": {
+    "ro": "liceul teoretic m. chiosea",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "414   GAGAUZIA   BEŞALMA             LICEUL TEORETIC M. CHIOSEA                    4   0    4    0.00   0",
+      "candidats": 4,
+      "rejectedCandidats": 4,
+      "mediumNote": 0
+    },
+    {
+      "year": "2016 all",
+      "text": "383   GAGAUZIA   BEŞALMA           LICEUL TEORETIC M. CHIOSEA                                           2    0     2    0,00   0",
+      "candidats": 2,
+      "rejectedCandidats": 2,
+      "mediumNote": 0
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

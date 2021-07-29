@@ -1,0 +1,27 @@
+{
+  "id": "causeni-chircaiesti-MViteazul",
+  "search": "viteazul",
+  "address": {
+    "district": "causeni",
+    "city": "chircaiesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m.viteazul\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "408   CAUSENI        CHIRCĂIEŞTI         LICEUL TEORETIC \"M.VITEAZUL\"                 11   1   10    9.09   5.00",
+      "candidats": 11,
+      "rejectedCandidats": 10,
+      "mediumNote": 5
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

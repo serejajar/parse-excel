@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-centru-MViteazul",
+  "search": "viteazul",
+  "address": {
+    "district": "chisinau",
+    "city": "centru"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"mihai viteazul\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "84   CHISINAU       CENTRU     Instituţia Publică Liceul Teoretic \"Mihai Viteazul\"                                          105    88   17   83.81   6.44",
+      "candidats": 105,
+      "rejectedCandidats": 17,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2016",
+      "text": "81   CHISINAU       CENTRU    Instituţia Publică Liceul Teoretic \"Mihai Viteazul\"             70    68   2    97,14   7,20",
+      "candidats": 70,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.2
+    },
+    {
+      "year": "2016 all",
+      "text": " 64   CHISINAU       CENTRU    Instituţia Publică Liceul Teoretic \"Mihai Viteazul\"                                     80    72    8   90,00   7,11",
+      "candidats": 80,
+      "rejectedCandidats": 8,
+      "mediumNote": 7.11
+    },
+    {
+      "year": "2017",
+      "text": "129   CHISINAU       CENTRU    Instituţia Publică Liceul Teoretic \"Mihai Viteazul\"               93    88   5   94,62   7,41",
+      "candidats": 93,
+      "rejectedCandidats": 5,
+      "mediumNote": 7.41
+    },
+    {
+      "year": "2018",
+      "text": "107   CHISINAU       CENTRU   Instituţia Publică Liceul Teoretic \"Mihai Viteazul\"               95         94   1   98.95    7.48",
+      "candidats": 95,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.48
+    },
+    {
+      "year": "2019",
+      "text": "20   CHISINAU         CENTRU   Instituţia Publică Liceul Teoretic \"Mihai Viteazul\"                             77        77        0       100.00    7.81",
+      "candidats": 77,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.81
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

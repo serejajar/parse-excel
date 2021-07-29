@@ -1,0 +1,55 @@
+{
+  "id": "ialoveni-bardar-ADavid",
+  "search": "aurel david",
+  "address": {
+    "district": "ialoveni",
+    "city": "bardar"
+  },
+  "name": {
+    "ro": "liceul teoretic \"aurel david\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "13   IALOVENI       BARDAR              Liceul Teoretic \"Aurel David\"                                             13        13           0      100.00     6.63",
+      "candidats": 13,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2016",
+      "text": "204   IALOVENI       BARDAR            Liceul Teoretic \"Aurel David\"                              15    13    2   86,67   7,27",
+      "candidats": 15,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.27
+    },
+    {
+      "year": "2016 all",
+      "text": " 90   IALOVENI       BARDAR            Liceul Teoretic \"Aurel David\"                                                         15    13    2   86,67   7,27",
+      "candidats": 15,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.27
+    },
+    {
+      "year": "2017",
+      "text": "128   IALOVENI       BARDAR          Liceul Teoretic \"Aurel David\"                                    19    18   1   94,74   6,58",
+      "candidats": 19,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2018",
+      "text": "201   IALOVENI       BARDAR           Liceul Teoretic \"Aurel David\"                                  25   23    2   92.00   6.63",
+      "candidats": 25,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.63
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

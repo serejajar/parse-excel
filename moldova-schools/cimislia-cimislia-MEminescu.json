@@ -1,0 +1,63 @@
+{
+  "id": "cimislia-cimislia-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "cimislia",
+    "city": "cimislia"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"mihai eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "119   CIMIŞLIA       CIMIŞLIA            Instituţia Publică LICEUL TEORETIC \"MIHAI EMINESCU\"                                   67    53   14   79.10   6.27",
+      "candidats": 67,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.27
+    },
+    {
+      "year": "2016",
+      "text": "86   CIMIŞLIA       CIMIŞLIA          Instituţia Publică LICEUL TEORETIC \"MIHAI EMINESCU\"                                   29    28   1   96,55   6,61",
+      "candidats": 29,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.61
+    },
+    {
+      "year": "2016 all",
+      "text": "116   CIMIŞLIA       CIMIŞLIA          Instituţia Publică LICEUL TEORETIC \"MIHAI EMINESCU\"          37   31    6   83,78   6,49",
+      "candidats": 37,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2017",
+      "text": "100   CIMIŞLIA       CIMIŞLIA        Instituţia Publică LICEUL TEORETIC \"MIHAI EMINESCU\"           65    63   2   96,92    6,63",
+      "candidats": 65,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2018",
+      "text": "158   CIMIŞLIA       CIMIŞLIA         Instituţia Publică LICEUL TEORETIC \"MIHAI EMINESCU\"                            40         38      2   95.00   6.97",
+      "candidats": 40,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.97
+    },
+    {
+      "year": "2019",
+      "text": "85   CIMIŞLIA       CIMIŞLIA         Instituţia Publică LICEUL TEORETIC \"MIHAI EMINESCU\"             45         45    0   100.00   6.96",
+      "candidats": 45,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.96
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

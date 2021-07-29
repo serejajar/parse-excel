@@ -1,0 +1,41 @@
+{
+  "id": "gagauzia-cismichioi-liceul",
+  "search": "",
+  "address": {
+    "district": "gagauzia",
+    "city": "cismichioi"
+  },
+  "name": {
+    "ro": "liceul teoretic cismichioi",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "372   GAGAUZIA   CIŞMICHIOI          LICEUL TEORETIC CIŞMICHIOI                                       13    5     8   38.46   6.16",
+      "candidats": 13,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.16
+    },
+    {
+      "year": "2016",
+      "text": "178   GAGAUZIA   CIŞMICHIOI        LICEUL TEORETIC CIŞMICHIOI                                  9     8    1   88,89   7,45",
+      "candidats": 9,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.45
+    },
+    {
+      "year": "2016 all",
+      "text": "271   GAGAUZIA   CIŞMICHIOI        LICEUL TEORETIC CIŞMICHIOI                                            15    9    6   60,00   7,24",
+      "candidats": 15,
+      "rejectedCandidats": 6,
+      "mediumNote": 7.24
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

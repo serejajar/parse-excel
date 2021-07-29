@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-buiucani-ElimulNou",
+  "search": "elimul",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "institutia de invatamant liceul teoretic \"elimul nou\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "8   CHISINAU       BUIUCANI   Instituţia de Învăţământ Liceul Teoretic \"Elimul Nou\"                     23        23           0      100.00     7.43",
+      "candidats": 23,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.43
+    },
+    {
+      "year": "2016",
+      "text": "13   CHISINAU       BUIUCANI    Instituţia de Învăţământ Liceul Teoretic \"Elimul Nou\"                29          29             0      100,00      7,44",
+      "candidats": 29,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.44
+    },
+    {
+      "year": "2016 all",
+      "text": "10   CHISINAU       BUIUCANI    Instituţia de Învăţământ Liceul Teoretic \"Elimul Nou\"                29          29             0      100,00      7,44",
+      "candidats": 29,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.44
+    },
+    {
+      "year": "2017",
+      "text": "10   CHISINAU         BUIUCANI   Instituţia de Învăţământ Liceul Teoretic \"Elimul Nou\"                29        29        0       100,00    7,59",
+      "candidats": 29,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.59
+    },
+    {
+      "year": "2018",
+      "text": "21   CHISINAU         BUIUCANI   Instituţia de Învăţământ Liceul Teoretic \"Elimul Nou\"                         37        37        0       100.00    7.44",
+      "candidats": 37,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.44
+    },
+    {
+      "year": "2019",
+      "text": "11   CHISINAU         BUIUCANI   Instituţia de Învăţământ Liceul Teoretic \"Elimul Nou\"                         35        35        0       100.00    7.99",
+      "candidats": 35,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.99
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

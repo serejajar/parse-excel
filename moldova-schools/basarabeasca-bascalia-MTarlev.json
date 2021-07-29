@@ -1,0 +1,41 @@
+{
+  "id": "basarabeasca-bascalia-MTarlev",
+  "search": "tarlev",
+  "address": {
+    "district": "basarabeasca",
+    "city": "bascalia"
+  },
+  "name": {
+    "ro": "liceul teoretic \"marcu tarlev\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "393   BASARABEASCA   BAŞCALIA            LICEUL TEORETIC \"MARCU TARLEV\"                                    8    2     6   25.00   5.00",
+      "candidats": 8,
+      "rejectedCandidats": 6,
+      "mediumNote": 5
+    },
+    {
+      "year": "2016",
+      "text": "294   BASARABEASCA   BAŞCALIA         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MARCU TARLEV\"                   10    7    3   70,00   6,96",
+      "candidats": 10,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.96
+    },
+    {
+      "year": "2016 all",
+      "text": "249   BASARABEASCA   BAŞCALIA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MARCU TARLEV\"                   11    7    4   63,64   6,96",
+      "candidats": 11,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.96
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

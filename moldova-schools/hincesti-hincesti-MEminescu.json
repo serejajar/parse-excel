@@ -1,0 +1,63 @@
+{
+  "id": "hincesti-hincesti-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "hincesti",
+    "city": "hincesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m. eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "206   HÎNCEŞTI       HÎNCEŞTI            Liceul Teoretic \"M. Eminescu\"                                         79    55   24   69.62   6.54",
+      "candidats": 79,
+      "rejectedCandidats": 24,
+      "mediumNote": 6.54
+    },
+    {
+      "year": "2016",
+      "text": "40   HÎNCEŞTI       HÎNCEŞTI          Liceul Teoretic \"M. Eminescu\"                                        44          44             0      100,00      6,69",
+      "candidats": 44,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.69
+    },
+    {
+      "year": "2016 all",
+      "text": "219   HÎNCEŞTI       HÎNCEŞTI          Liceul Teoretic \"M. Eminescu\"                                       73   50   23   68,49   6,56",
+      "candidats": 73,
+      "rejectedCandidats": 23,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2017",
+      "text": "84   HÎNCEŞTI       HÎNCEŞTI        Liceul Teoretic \"M. Eminescu\"                                  78    77   1   98,72    6,61",
+      "candidats": 78,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.61
+    },
+    {
+      "year": "2018",
+      "text": "68   HÎNCEŞTI       HÎNCEŞTI         Liceul Teoretic \"Mihai Eminescu\"                                  71   71   0   100.00   6.87",
+      "candidats": 71,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.87
+    },
+    {
+      "year": "2019",
+      "text": "88   HÎNCEŞTI       HÎNCEŞTI         Liceul Teoretic \"Mihai Eminescu\"                                52         52    0   100.00   6.90",
+      "candidats": 52,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.9
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

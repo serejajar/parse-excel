@@ -1,0 +1,35 @@
+{
+  "id": "gagauzia-etulia-SPEconomov",
+  "search": "economov",
+  "address": {
+    "district": "gagauzia",
+    "city": "etulia"
+  },
+  "name": {
+    "ro": "liceul teoretic \"s.p.economov\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "123   GAGAUZIA   ETULIA              Liceul Teoretic \"S.P.Economov\"                                                        14    11    3   78.57   6.66",
+      "candidats": 14,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.66
+    },
+    {
+      "year": "2016 all",
+      "text": "385   GAGAUZIA   ETULIA            Liceul Teoretic \"S.P.Economov\"                                       2    0     2    0,00   0",
+      "candidats": 2,
+      "rejectedCandidats": 2,
+      "mediumNote": 0
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

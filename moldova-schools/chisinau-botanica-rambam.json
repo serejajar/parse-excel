@@ -1,0 +1,55 @@
+{
+  "id": "chisinau-botanica-rambam",
+  "search": "rambam",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "liceul teoretic \"rambam\" ort",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "132   CHISINAU       BOTANICA            Liceul Teoretic \"Rambam\" ORT                                                           9     7    2   77.78   7.00",
+      "candidats": 9,
+      "rejectedCandidats": 2,
+      "mediumNote": 7
+    },
+    {
+      "year": "2016",
+      "text": "63   CHISINAU       BOTANICA   Liceul Teoretic \"Rambam\" ORT                                   11    11   0   100,00   6,05",
+      "candidats": 11,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.05
+    },
+    {
+      "year": "2016 all",
+      "text": "102   CHISINAU       BOTANICA   Liceul Teoretic \"Rambam\" ORT                                  14   12    2   85,71   6,00",
+      "candidats": 14,
+      "rejectedCandidats": 2,
+      "mediumNote": 6
+    },
+    {
+      "year": "2017",
+      "text": "53   CHISINAU       BOTANICA   Liceul Teoretic \"Rambam\" ORT                                              20         20      0   100,00   6,63",
+      "candidats": 20,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2018",
+      "text": "94   CHISINAU       BOTANICA   Liceul Teoretic \"Rambam\" ORT                                     7          7   0   100.00   6.37",
+      "candidats": 7,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.37
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

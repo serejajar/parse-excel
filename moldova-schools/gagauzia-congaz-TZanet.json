@@ -1,0 +1,49 @@
+{
+  "id": "gagauzia-congaz-TZanet",
+  "search": "zanet",
+  "address": {
+    "district": "gagauzia",
+    "city": "congaz"
+  },
+  "name": {
+    "ro": "liceul teoretic \"todur zanet\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2016 all",
+      "text": "357   GAGAUZIA   CONGAZ            LICEUL TEORETIC \"TODUR ZANET\"                               8     2     6   25,00   6,10",
+      "candidats": 8,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.1
+    },
+    {
+      "year": "2017",
+      "text": "289   GAGAUZIA   CONGAZ          LICEUL TEORETIC \"TODUR ZANET\" s.CONGAZ                      9    5    4   55,56   6,96",
+      "candidats": 9,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.96
+    },
+    {
+      "year": "2018",
+      "text": "255   GAGAUZIA   CONGAZ          LICEUL TEORETIC \"TODUR ZANET\" s.CONGAZ                        12    10    2   83.33   7.00",
+      "candidats": 12,
+      "rejectedCandidats": 2,
+      "mediumNote": 7
+    },
+    {
+      "year": "2019",
+      "text": "268   GAGAUZIA   CONGAZ           LICEUL TEORETIC \"TODUR ZANET\" s.CONGAZ                       15    12    3   80.00   6.77",
+      "candidats": 15,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.77
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

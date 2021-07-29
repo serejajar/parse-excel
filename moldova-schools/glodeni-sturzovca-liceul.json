@@ -1,0 +1,42 @@
+{
+  "id": "glodeni-sturzovca-liceul",
+  "search": "",
+  "address": {
+    "district": "glodeni",
+    "city": "sturzovca"
+  },
+  "name": {
+    "ro": "liceul teoretic sturzovca",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "321   GLODENI        STURZOVCA           LICEUL TEORETIC STURZOVCA                                        40    21    19   52.50   5.71",
+      "candidats": 40,
+      "rejectedCandidats": 19,
+      "mediumNote": 5.71
+    },
+    {
+      "year": "2016",
+      "text": "339   GLODENI        STURZOVCA         LICEUL TEORETIC STURZOVCA                                             13    6     7   46,15   5,90",
+      "candidats": 13,
+      "rejectedCandidats": 7,
+      "mediumNote": 5.9
+    },
+    {
+      "year": "2016 all",
+      "text": "353   GLODENI        STURZOVCA         LICEUL TEORETIC STURZOVCA                                  26     8    18   30,77   5,70",
+      "candidats": 26,
+      "rejectedCandidats": 18,
+      "mediumNote": 5.7
+    }
+  ],
+  "langs": [
+    "romana",
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

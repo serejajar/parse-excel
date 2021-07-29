@@ -1,0 +1,62 @@
+{
+  "id": "singerei-pepeni-AAgapie",
+  "search": "agapie",
+  "address": {
+    "district": "singerei",
+    "city": "pepeni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a. agapie\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "220   SÎNGEREI       PEPENI              LICEUL TEORETIC \"A. AGAPIE\"                                           72    48   24   66.67   6.38",
+      "candidats": 72,
+      "rejectedCandidats": 24,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2016",
+      "text": "271   SÎNGEREI       PEPENI           LICEUL TEORETIC \"ALEXANDRU AGAPIE\"                                  38   29    9   76,32   6,42",
+      "candidats": 38,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.42
+    },
+    {
+      "year": "2016 all",
+      "text": "291   SÎNGEREI       PEPENI            LICEUL TEORETIC \"ALEXANDRU AGAPIE\"                                    54   31   23   57,41   6,34",
+      "candidats": 54,
+      "rejectedCandidats": 23,
+      "mediumNote": 6.34
+    },
+    {
+      "year": "2017",
+      "text": "203   SÎNGEREI     PEPENI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALEXANDRU AGAPIE\"            35   31   4   88,57   6,64",
+      "candidats": 35,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.64
+    },
+    {
+      "year": "2018",
+      "text": "118   SÎNGEREI       PEPENI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALEXANDRU AGAPIE\"           49         48   1   97.96    6.92",
+      "candidats": 49,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.92
+    },
+    {
+      "year": "2019",
+      "text": "36   SÎNGEREI         PEPENI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALEXANDRU AGAPIE\"                         26        26        0       100.00    7.39",
+      "candidats": 26,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.39
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

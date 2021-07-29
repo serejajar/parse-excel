@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-buiucani-MEliade",
+  "search": "eliade",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"mircea eliade\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "3   CHISINAU       BUIUCANI   Instituţia Publică Liceul Teoretic \"Mircea Eliade\"                        27        27           0      100.00     7.99",
+      "candidats": 27,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.99
+    },
+    {
+      "year": "2016",
+      "text": "3   CHISINAU       BUIUCANI    Instituţia Publică Liceul Teoretic \"Mircea Eliade\"                   59          59             0      100,00      8,24",
+      "candidats": 59,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.24
+    },
+    {
+      "year": "2016 all",
+      "text": "3   CHISINAU       BUIUCANI    Instituţia Publică Liceul Teoretic \"Mircea Eliade\"                   59          59             0      100,00      8,24",
+      "candidats": 59,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.24
+    },
+    {
+      "year": "2017",
+      "text": "4   CHISINAU         BUIUCANI   Instituţia Publică Liceul Teoretic \"Mircea Eliade\"                   55        55        0       100,00    8,23",
+      "candidats": 55,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.23
+    },
+    {
+      "year": "2018",
+      "text": "4   CHISINAU         BUIUCANI   Instituţia Publică Liceul Teoretic \"Mircea Eliade\"                            41        41        0       100.00    8.46",
+      "candidats": 41,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.46
+    },
+    {
+      "year": "2019",
+      "text": "2   CHISINAU         BUIUCANI   Instituţia Publică Liceul Teoretic \"Mircea Eliade\"                            46        46        0       100.00    8.73",
+      "candidats": 46,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.73
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

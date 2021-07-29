@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-chisinau-sportiv",
+  "search": "sportiv",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau"
+  },
+  "name": {
+    "ro": "liceul internat republican cu profil sportiv",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "296   CHISINAU       CHISINAU            Liceul Internat Republican cu Profil Sportiv            62   35   27   56.45   6.24",
+      "candidats": 62,
+      "rejectedCandidats": 27,
+      "mediumNote": 6.24
+    },
+    {
+      "year": "2016",
+      "text": "295   CHISINAU       CHISINAU         Liceul Internat Republican cu Profil Sportiv                        43   30   13   69,77   6,30",
+      "candidats": 43,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.3
+    },
+    {
+      "year": "2016 all",
+      "text": "277   CHISINAU       CHISINAU          Liceul Internat Republican cu Profil Sportiv                          59   35   24   59,32   6,24",
+      "candidats": 59,
+      "rejectedCandidats": 24,
+      "mediumNote": 6.24
+    },
+    {
+      "year": "2017",
+      "text": "257   CHISINAU       CHISINAU        Liceul Internat Republican cu Profil Sportiv                 43   34    9   79,07   6,18",
+      "candidats": 43,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.18
+    },
+    {
+      "year": "2018",
+      "text": "163   CHISINAU       CHISINAU         Liceul Internat Republican cu Profil Sportiv                      38   36   2   94.74   6.33",
+      "candidats": 38,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.33
+    },
+    {
+      "year": "2019",
+      "text": "226   CHISINAU       CHISINAU         Liceul Internat Republican cu Profil Sportiv                                    39        35   4   89.74   6.41",
+      "candidats": 39,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.41
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "sport"
+  ]
+}

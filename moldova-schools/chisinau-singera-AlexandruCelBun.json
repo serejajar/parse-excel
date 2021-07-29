@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-singera-AlexandruCelBun",
+  "search": "alexandru cel bun",
+  "address": {
+    "district": "chisinau",
+    "city": "singera"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"alexandru cel bun\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "244   CHISINAU       SÎNGERA             Instituţia Publică Liceul Teoretic \"Alexandru cel Bun\"                78    50   28   64.10   6.02",
+      "candidats": 78,
+      "rejectedCandidats": 28,
+      "mediumNote": 6.02
+    },
+    {
+      "year": "2016",
+      "text": "149   CHISINAU       SÎNGERA           Instituţia Publică Liceul Teoretic \"Alexandru cel Bun\"           35    32   3   91,43   6,28",
+      "candidats": 35,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.28
+    },
+    {
+      "year": "2016 all",
+      "text": "225   CHISINAU       SÎNGERA           Instituţia Publică Liceul Teoretic \"Alexandru cel Bun\"              50   34   16   68,00   6,22",
+      "candidats": 50,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.22
+    },
+    {
+      "year": "2017",
+      "text": "119   CHISINAU       SÎNGERA         Instituţia Publică Liceul Teoretic \"Alexandru cel Bun\"        23    22   1   95,65    6,02",
+      "candidats": 23,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.02
+    },
+    {
+      "year": "2018",
+      "text": "74   CHISINAU       SÎNGERA          Instituţia Publică Liceul Teoretic \"Alexandru cel Bun\"            21   21   0   100.00   6.80",
+      "candidats": 21,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.8
+    },
+    {
+      "year": "2019",
+      "text": "147   CHISINAU       SÎNGERA          Instituţia Publică Liceul Teoretic \"Alexandru cel Bun\"                      41         40         1          97.56   6.75",
+      "candidats": 41,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.75
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

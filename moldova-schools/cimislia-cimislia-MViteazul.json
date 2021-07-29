@@ -1,0 +1,43 @@
+{
+  "id": "cimislia-cimislia-MViteazul",
+  "search": "viteazul",
+  "address": {
+    "district": "cimislia",
+    "city": "cimislia"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"mihai viteazul\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "382   CIMIŞLIA       CIMIŞLIA            Instituţia Publică LICEUL TEORETIC \"MIHAI VITEAZUL\"              60   21    39   35.00   6.23",
+      "candidats": 60,
+      "rejectedCandidats": 39,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2016",
+      "text": "284   CIMIŞLIA       CIMIŞLIA         Instituţia Publică LICEUL TEORETIC \"MIHAI VITEAZUL\"                 41   30   11   73,17   6,33",
+      "candidats": 41,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.33
+    },
+    {
+      "year": "2016 all",
+      "text": "336   CIMIŞLIA       CIMIŞLIA          Instituţia Publică LICEUL TEORETIC \"MIHAI VITEAZUL\"        93    37    56   39,78   6,16",
+      "candidats": 93,
+      "rejectedCandidats": 56,
+      "mediumNote": 6.16
+    }
+  ],
+  "langs": [
+    "romana",
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

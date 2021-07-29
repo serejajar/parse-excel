@@ -1,0 +1,55 @@
+{
+  "id": "causeni-cirnateni-GrGrigoriu",
+  "search": "grigoriu",
+  "address": {
+    "district": "causeni",
+    "city": "cirnateni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"gr.grigoriu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "411   CAUSENI        CÎRNĂŢENI           LICEUL TEORETIC \"Gr.GRIGORIU\"                 2   0    2    0.00   0",
+      "candidats": 2,
+      "rejectedCandidats": 2,
+      "mediumNote": 0
+    },
+    {
+      "year": "2016",
+      "text": "258   CAUSENI        CÎRNĂŢENI        LICEUL TEORETIC \"Gr.GRIGORIU\"                                       20   16    4   80,00   5,95",
+      "candidats": 20,
+      "rejectedCandidats": 4,
+      "mediumNote": 5.95
+    },
+    {
+      "year": "2016 all",
+      "text": "252   CAUSENI        CÎRNĂŢENI         LICEUL TEORETIC \"Gr.GRIGORIU\"                                       30   19   11   63,33   5,84",
+      "candidats": 30,
+      "rejectedCandidats": 11,
+      "mediumNote": 5.84
+    },
+    {
+      "year": "2018",
+      "text": "101   CAUSENI        CÎRNĂŢENI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"GRIGORE GRIGORIU\"           24         24   0   100.00   6.01",
+      "candidats": 24,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.01
+    },
+    {
+      "year": "2019",
+      "text": "188   CAUSENI        CÎRNĂŢENI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"GRIGORE GRIGORIU\"          19   18   1   94.74   5.93",
+      "candidats": 19,
+      "rejectedCandidats": 1,
+      "mediumNote": 5.93
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

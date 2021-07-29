@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-buiucani-columna",
+  "search": "columna",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "liceul \"columna\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "12   CHISINAU       BUIUCANI   Liceul \"Columna\"                                                           7          7          0      100.00     6.82",
+      "candidats": 7,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.82
+    },
+    {
+      "year": "2016",
+      "text": "8   CHISINAU       BUIUCANI    Liceul \"Columna\"                                                     14          14             0      100,00      7,79",
+      "candidats": 14,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.79
+    },
+    {
+      "year": "2016 all",
+      "text": "8   CHISINAU       BUIUCANI    Liceul \"Columna\"                                                     14          14             0      100,00      7,79",
+      "candidats": 14,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.79
+    },
+    {
+      "year": "2017",
+      "text": "17   CHISINAU         BUIUCANI   Liceul \"Columna\"                                                     15        15        0       100,00    7,33",
+      "candidats": 15,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.33
+    },
+    {
+      "year": "2018",
+      "text": "11   CHISINAU         BUIUCANI   Instituţia Privată Liceul \"Columna\"                                           22        22        0       100.00    7.70",
+      "candidats": 22,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.7
+    },
+    {
+      "year": "2019",
+      "text": "19   CHISINAU         BUIUCANI   Instituţia Privată Liceul \"Columna\"                                            7         7        0       100.00    7.82",
+      "candidats": 7,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.82
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

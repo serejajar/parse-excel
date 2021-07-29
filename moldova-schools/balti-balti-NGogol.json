@@ -1,0 +1,63 @@
+{
+  "id": "balti-balti-NGogol",
+  "search": "gogol",
+  "address": {
+    "district": "balti",
+    "city": "balti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"n.gogol\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "328   BALTI          BALTI               LICEUL TEORETIC \"N.GOGOL\"                                        59    30    29   50.85   6.58",
+      "candidats": 59,
+      "rejectedCandidats": 29,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2016",
+      "text": "107   BALTI          BALTI             LICEUL TEORETIC \"N.GOGOL\"                                                             39    37   2   94,87   6,41",
+      "candidats": 39,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.41
+    },
+    {
+      "year": "2016 all",
+      "text": "160   BALTI          BALTI             LICEUL TEORETIC \"N.GOGOL\"                                        53    41   12   77,36   6,33",
+      "candidats": 53,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.33
+    },
+    {
+      "year": "2017",
+      "text": "90   BALTI          BALTI           LICEUL TEORETIC \"N.GOGOL\"                                      51    50   1   98,04    6,60",
+      "candidats": 51,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.6
+    },
+    {
+      "year": "2018",
+      "text": "121   BALTI          BALTI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"N.GOGOL\"                                   44         43      1   97.73   7.02",
+      "candidats": 44,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.02
+    },
+    {
+      "year": "2019",
+      "text": "51   BALTI          BALTI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"N.GOGOL\"                      43    43   0   100.00   7.24",
+      "candidats": 43,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.24
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

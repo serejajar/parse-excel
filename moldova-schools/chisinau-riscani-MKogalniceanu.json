@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-riscani-MKogalniceanu",
+  "search": "kogalniceanu",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"mihail kogalniceanu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "76   CHISINAU       RISCANI    Liceul Teoretic \"Mihail Kogălniceanu\"                                                         57    49    8   85.96   6.91",
+      "candidats": 57,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.91
+    },
+    {
+      "year": "2016",
+      "text": "11   CHISINAU       RISCANI    Liceul Teoretic \"Mihail Kogălniceanu\"                                 50          50             0      100,00      7,67",
+      "candidats": 50,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.67
+    },
+    {
+      "year": "2016 all",
+      "text": "38   CHISINAU       RISCANI    Liceul Teoretic \"Mihail Kogălniceanu\"                                 53          51             2       96,23      7,63",
+      "candidats": 53,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.63
+    },
+    {
+      "year": "2017",
+      "text": "11   CHISINAU         RISCANI   Liceul Teoretic \"Mihail Kogălniceanu\"                                44        44        0       100,00    7,57",
+      "candidats": 44,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.57
+    },
+    {
+      "year": "2018",
+      "text": "8   CHISINAU         RISCANI    Liceul Teoretic \"Mihail Kogălniceanu\"                                         49        49        0       100.00    8.00",
+      "candidats": 49,
+      "rejectedCandidats": 0,
+      "mediumNote": 8
+    },
+    {
+      "year": "2019",
+      "text": "10   CHISINAU         RISCANI    Liceul Teoretic \"Mihail Kogălniceanu\"                                         56        56        0       100.00    8.06",
+      "candidats": 56,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.06
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

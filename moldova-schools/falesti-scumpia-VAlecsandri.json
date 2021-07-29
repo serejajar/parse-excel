@@ -1,0 +1,42 @@
+{
+  "id": "falesti-scumpia-VAlecsandri",
+  "search": "alecsandri",
+  "address": {
+    "district": "falesti",
+    "city": "scumpia"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"v.alecsandri\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "345   FĂLEŞTI        SCUMPIA             INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"V.ALECSANDRI\"                11     5     6   45.45   5.30",
+      "candidats": 11,
+      "rejectedCandidats": 6,
+      "mediumNote": 5.3
+    },
+    {
+      "year": "2016",
+      "text": "209   FĂLEŞTI        SCUMPIA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"VASILE ALECSANDRI\"     22    19    3   86,36   6,38",
+      "candidats": 22,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2016 all",
+      "text": " 93   FĂLEŞTI        SCUMPIA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"VASILE ALECSANDRI\"                                22    19    3   86,36   6,38",
+      "candidats": 22,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.38
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "glodeni-cuhnesti-liceul",
+  "search": "cuhnesti",
+  "address": {
+    "district": "glodeni",
+    "city": "cuhnesti"
+  },
+  "name": {
+    "ro": "liceul teoretic cuhnesti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "226   GLODENI        CUHNEŞTI            LICEUL TEORETIC CUHNEŞTI                                              30    20   10   66.67   6.00",
+      "candidats": 30,
+      "rejectedCandidats": 10,
+      "mediumNote": 6
+    },
+    {
+      "year": "2016",
+      "text": "184   GLODENI        CUHNEŞTI          LICEUL TEORETIC CUHNEŞTI                                   18    16    2   88,89   6,13",
+      "candidats": 18,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.13
+    },
+    {
+      "year": "2016 all",
+      "text": "165   GLODENI        CUHNEŞTI          LICEUL TEORETIC CUHNEŞTI                                         26    20    6   76,92   5,98",
+      "candidats": 26,
+      "rejectedCandidats": 6,
+      "mediumNote": 5.98
+    },
+    {
+      "year": "2017",
+      "text": "157   GLODENI        CUHNEŞTI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC CUHNEŞTI                        14    13   1   92,86   5,75",
+      "candidats": 14,
+      "rejectedCandidats": 1,
+      "mediumNote": 5.75
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

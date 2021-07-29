@@ -1,0 +1,42 @@
+{
+  "id": "briceni-cotiujeni-liceul",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "cotiujeni"
+  },
+  "name": {
+    "ro": "liceul teoretic cotiujeni",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "360   BRICENI        COTIUJENI           Liceul Teoretic Cotiujeni                                        19    8    11   42.11   5.47",
+      "candidats": 19,
+      "rejectedCandidats": 11,
+      "mediumNote": 5.47
+    },
+    {
+      "year": "2016",
+      "text": "344   BRICENI        COTIUJENI         Liceul Teoretic Cotiujeni                                             12    3     9   25,00   5,50",
+      "candidats": 12,
+      "rejectedCandidats": 9,
+      "mediumNote": 5.5
+    },
+    {
+      "year": "2016 all",
+      "text": "362   BRICENI        COTIUJENI         Liceul Teoretic Cotiujeni                                           14    3    11   21,43   5,50",
+      "candidats": 14,
+      "rejectedCandidats": 11,
+      "mediumNote": 5.5
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "stefanvoda-talmaza-SCiobanu",
+  "search": "ciobanu",
+  "address": {
+    "district": "stefanvoda",
+    "city": "talmaza"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"stefan ciobanu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "374   ŞTEFAN VODĂ    TALMAZA             INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN CIOBANU\"              48   18    30   37.50   5.90",
+      "candidats": 48,
+      "rejectedCandidats": 30,
+      "mediumNote": 5.9
+    },
+    {
+      "year": "2016",
+      "text": "103   ŞTEFAN VODĂ    TALMAZA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN CIOBANU\"                                   21    20   1   95,24   6,34",
+      "candidats": 21,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.34
+    },
+    {
+      "year": "2016 all",
+      "text": "235   ŞTEFAN VODĂ    TALMAZA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN CIOBANU\"                 39   26   13   66,67   6,11",
+      "candidats": 39,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.11
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

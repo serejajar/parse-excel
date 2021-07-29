@@ -1,0 +1,49 @@
+{
+  "id": "chisinau-riscani-MLomonosov",
+  "search": "lomonosov",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"mihail lomonosov\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "326   CHISINAU       RISCANI    Liceul Teoretic \"Mihail Lomonosov\"                               37    19    18   51.35   6.32",
+      "candidats": 37,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.32
+    },
+    {
+      "year": "2016 all",
+      "text": "375   CHISINAU       RISCANI    Liceul Teoretic \"Mihail Lomonosov\"                                   14    0    14    0,00   0",
+      "candidats": 14,
+      "rejectedCandidats": 14,
+      "mediumNote": 0
+    },
+    {
+      "year": "2017",
+      "text": "254   CHISINAU       RISCANI   Liceul Teoretic \"Mihail Lomonosov\"                         20   16    4   80,00   6,19",
+      "candidats": 20,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.19
+    },
+    {
+      "year": "2018",
+      "text": "174   CHISINAU       RISCANI    Liceul Teoretic \"Mihail Lomonosov\"                              17   16   1   94.12   6.20",
+      "candidats": 17,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.2
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

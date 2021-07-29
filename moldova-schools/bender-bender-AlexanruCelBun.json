@@ -1,0 +1,63 @@
+{
+  "id": "bender-bender-AlexanruCelBun",
+  "search": "alexandru cel bun",
+  "address": {
+    "district": "bender",
+    "city": "bender"
+  },
+  "name": {
+    "ro": "liceul teoretic \"alexandru cel bun\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "4   BENDER         BENDER              Liceul Teoretic \"Alexandru cel Bun\"                                       44        44           0      100.00     7.86",
+      "candidats": 44,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.86
+    },
+    {
+      "year": "2016",
+      "text": "4   BENDER         BENDER            Liceul Teoretic \"Alexandru cel Bun\" Bender                           23          23             0      100,00      8,05",
+      "candidats": 23,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.05
+    },
+    {
+      "year": "2016 all",
+      "text": "4   BENDER         BENDER            Liceul Teoretic \"Alexandru cel Bun\" Bender                           23          23             0      100,00      8,05",
+      "candidats": 23,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.05
+    },
+    {
+      "year": "2017",
+      "text": "21   BENDER           BENDER          Liceul Teoretic \"Alexandru cel Bun\" Bender                           22        22        0       100,00    7,24",
+      "candidats": 22,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.24
+    },
+    {
+      "year": "2018",
+      "text": "18   BENDER           BENDER           Liceul Teoretic \"Alexandru cel Bun\" Bender                                    22        22        0       100.00    7.50",
+      "candidats": 22,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.5
+    },
+    {
+      "year": "2019",
+      "text": "9   BENDER           BENDER           Liceul Teoretic \"Alexandru cel Bun\" Bender                                    25        25        0       100.00    8.13",
+      "candidats": 25,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.13
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

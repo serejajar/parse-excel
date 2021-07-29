@@ -1,0 +1,64 @@
+{
+  "id": "cantemir-ciobalaccia-NMihai",
+  "search": "nicolae mihai",
+  "address": {
+    "district": "cantemir",
+    "city": "ciobalaccia"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"nicolae mihai\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "196   CANTEMIR       CIOBALACCIA           Instituţia publică Liceul Teoretic \"Nicolae Mihai\"               65   46   19   70.77   6.22",
+      "candidats": 65,
+      "rejectedCandidats": 19,
+      "mediumNote": 6.22
+    },
+    {
+      "year": "2016",
+      "text": "197   CANTEMIR       CIOBALACCIA       Instituţia publică Liceul Teoretic \"Nicolae Mihai\"         42    37    5   88,10   6,13",
+      "candidats": 42,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.13
+    },
+    {
+      "year": "2016 all",
+      "text": "188   CANTEMIR       CIOBALACCIA       Instituţia publică Liceul Teoretic \"Nicolae Mihai\"               57    42   15   73,68   6,04",
+      "candidats": 57,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.04
+    },
+    {
+      "year": "2017",
+      "text": "244   CANTEMIR       CIOBALACCIA     Instituţia publică Liceul Teoretic \"Nicolae Mihai\"                   50   41    9   82,00   6,23",
+      "candidats": 50,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2018",
+      "text": "281   CANTEMIR       CIOBALACCIA     Instituţia publică Liceul Teoretic \"Nicolae Mihai\"            33    24    9   72.73   6.15",
+      "candidats": 33,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.15
+    },
+    {
+      "year": "2019",
+      "text": "218   CANTEMIR       CIOBALACCIA      Instituţia publică Liceul Teoretic \"Nicolae Mihai\"                            32        29   3   90.63   6.87",
+      "candidats": 32,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.87
+    }
+  ],
+  "langs": [
+    "romana",
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

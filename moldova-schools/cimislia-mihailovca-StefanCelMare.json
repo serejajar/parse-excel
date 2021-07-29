@@ -1,0 +1,27 @@
+{
+  "id": "cimislia-mihailovca-StefanCelMare",
+  "search": "stefan cel mare",
+  "address": {
+    "district": "cimislia",
+    "city": "mihailovca"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"stefan cel mare\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "362   CIMIŞLIA       MIHAILOVCA          Instituţia Publică LICEUL TEORETIC \"ŞTEFAN CEL MARE\"             37   15    22   40.54   5.77",
+      "candidats": 37,
+      "rejectedCandidats": 22,
+      "mediumNote": 5.77
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

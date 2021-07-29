@@ -1,0 +1,55 @@
+{
+  "id": "cahul-alexandruioancuza-AMateevici",
+  "search": "mateevici",
+  "address": {
+    "district": "cahul",
+    "city": "alexandruioancuza"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a.mateevici\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "191   CAHUL          ALEXANDRU IOAN CUZA   Liceul Teoretic \"A.Mateevici\"                                    14   10    4   71.43   6.03",
+      "candidats": 14,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.03
+    },
+    {
+      "year": "2016",
+      "text": "205   CAHUL          ALEXANDRU IOAN CUZA    Liceul Teoretic \"A.Mateevici\"                              15    13    2   86,67   6,52",
+      "candidats": 15,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.52
+    },
+    {
+      "year": "2016 all",
+      "text": " 83   CAHUL          ALEXANDRU IOAN CUZA   Liceul Teoretic \"A.Mateevici\"                                                         17    15    2   88,24   6,32",
+      "candidats": 17,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.32
+    },
+    {
+      "year": "2017",
+      "text": "231   CAHUL          ALEXANDRU IOAN CUZA     LiceulTeoretic \"A.Mateevici\"                                          12   10    2   83,33   6,53",
+      "candidats": 12,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.53
+    },
+    {
+      "year": "2019",
+      "text": "269   CAHUL          ALEXANDRU IOAN CUZA   Instituţia Publică Liceul Teoretic \"A.Mateevici\"             20    16    4   80.00   6.72",
+      "candidats": 20,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.72
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

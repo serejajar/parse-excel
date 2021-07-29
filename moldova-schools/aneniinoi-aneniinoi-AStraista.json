@@ -1,0 +1,63 @@
+{
+  "id": "aneniinoi-aneniinoi-AStraista",
+  "search": "straista",
+  "address": {
+    "district": "aneniinoi",
+    "city": "aneniinoi"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic \"andrei straista\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "228   ANENIINOI     ANENIINOI          Instituţie Publică Liceul Teoretic \"Andrei Straistă\"                 161   106   55   65.84   6.13",
+      "candidats": 161,
+      "rejectedCandidats": 55,
+      "mediumNote": 6.13
+    },
+    {
+      "year": "2016",
+      "text": "118   ANENIINOI     ANENIINOI        Instituţie de Învăţămînt Liceul Teoretic \"Andrei Straistă\"                            65    61   4   93,85   6,16",
+      "candidats": 65,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.16
+    },
+    {
+      "year": "2016 all",
+      "text": "181   ANENIINOI     ANENIINOI        Instituţie de Învăţămînt Liceul Teoretic \"Andrei Straistă\"       93    69   24   74,19   6,06",
+      "candidats": 93,
+      "rejectedCandidats": 24,
+      "mediumNote": 6.06
+    },
+    {
+      "year": "2017",
+      "text": "243   ANENIINOI     ANENIINOI      Instituţie de Învăţămînt Liceul Teoretic \"Andrei Straistă\"           45   37    8   82,22   6,34",
+      "candidats": 45,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.34
+    },
+    {
+      "year": "2018",
+      "text": "273   ANENIINOI     ANENIINOI      Instituţie de Învăţămînt Liceul Teoretic \"Andrei Straistă\"    72    56   16   77.78   6.01",
+      "candidats": 72,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.01
+    },
+    {
+      "year": "2019",
+      "text": "137   ANENIINOI     ANENIINOI       Instituţie de Învăţămînt Liceul Teoretic \"Andrei Straistă\"                  63         62         1          98.41   6.80",
+      "candidats": 63,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.8
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

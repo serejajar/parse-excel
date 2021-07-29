@@ -1,0 +1,49 @@
+{
+  "id": "telenesti-sarateniivechi-VAnestiade",
+  "search": "anestiade",
+  "address": {
+    "district": "telenesti",
+    "city": "sarateniivechi"
+  },
+  "name": {
+    "ro": "liceul teoretic “v.anestiade”",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "249   TELENEŞTI      SĂRĂTENII VECHI     LICEUL TEORETIC “V.ANESTIADE”                                         38    24   14   63.16   6.20",
+      "candidats": 38,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.2
+    },
+    {
+      "year": "2016",
+      "text": "221   TELENEŞTI      SĂRĂTENII VECHI   LICEUL TEORETIC “V.ANESTIADE”                               19   16    3   84,21   6,50",
+      "candidats": 19,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016 all",
+      "text": "211   TELENEŞTI      SĂRĂTENII VECHI    LICEUL TEORETIC “V.ANESTIADE”                                       26   18    8   69,23   6,42",
+      "candidats": 26,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.42
+    },
+    {
+      "year": "2017",
+      "text": "155   TELENEŞTI      SĂRĂTENII VECHI    LICEUL TEORETIC \"V.ANESTIADE\"                                    14    13   1   92,86   6,25",
+      "candidats": 14,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.25
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

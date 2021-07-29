@@ -1,0 +1,56 @@
+{
+  "id": "chisinau-botanica-gloria",
+  "search": "gloria",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "liceul teoretic cu profil sportiv \"gloria\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2016",
+      "text": "275   CHISINAU       BOTANICA   Liceul Teoretic cu profil sportiv \"Gloria\"                          40   30   10   75,00   6,18",
+      "candidats": 40,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.18
+    },
+    {
+      "year": "2016 all",
+      "text": "285   CHISINAU       BOTANICA   Liceul Teoretic cu profil sportiv \"Gloria\"                             53   31   22   58,49   6,16",
+      "candidats": 53,
+      "rejectedCandidats": 22,
+      "mediumNote": 6.16
+    },
+    {
+      "year": "2017",
+      "text": "287   CHISINAU       BOTANICA   Liceul Teoretic cu profil sportiv \"Gloria\"                 23   14    9   60,87   6,29",
+      "candidats": 23,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.29
+    },
+    {
+      "year": "2018",
+      "text": "241   CHISINAU       BOTANICA   Liceul Teoretic cu profil sportiv \"Gloria\"                     31   27    4   87.10   6.24",
+      "candidats": 31,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.24
+    },
+    {
+      "year": "2019",
+      "text": "171   CHISINAU       BOTANICA   Liceul Teoretic cu profil sportiv \"Gloria\"                     23   22   1   95.65   6.41",
+      "candidats": 23,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.41
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "sport",
+    "umanist"
+  ]
+}

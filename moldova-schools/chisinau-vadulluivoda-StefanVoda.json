@@ -1,0 +1,55 @@
+{
+  "id": "chisinau-vadulluivoda-StefanVoda",
+  "search": "stefan voda",
+  "address": {
+    "district": "chisinau",
+    "city": "vadulluivoda"
+  },
+  "name": {
+    "ro": "liceul teoretic \"stefan voda\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "111   CHISINAU       VADUL LUI VODĂ      Liceul Teoretic \"Ştefan Vodă\"                                                         35    28    7   80.00   6.74",
+      "candidats": 35,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.74
+    },
+    {
+      "year": "2016",
+      "text": "214   CHISINAU       VADUL LUI VODĂ    Liceul Teoretic \"Ştefan Vodă\"                               33   28    5   84,85   6,06",
+      "candidats": 33,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.06
+    },
+    {
+      "year": "2016 all",
+      "text": "156   CHISINAU       VADUL LUI VODĂ    Liceul Teoretic \"Ştefan Vodă\"                                       36    28    8   77,78   6,06",
+      "candidats": 36,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.06
+    },
+    {
+      "year": "2018",
+      "text": "214   CHISINAU       VADUL LUI VODĂ    Liceul Teoretic \"Ştefan Vodă\"                                    11   10    1   90.91   5.88",
+      "candidats": 11,
+      "rejectedCandidats": 1,
+      "mediumNote": 5.88
+    },
+    {
+      "year": "2019",
+      "text": "216   CHISINAU       VADUL LUI VODĂ    Liceul Teoretic \"Ştefan Vodă\"                                                   11        10   1   90.91   6.43",
+      "candidats": 11,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.43
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

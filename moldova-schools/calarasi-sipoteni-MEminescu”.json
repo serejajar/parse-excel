@@ -1,0 +1,56 @@
+{
+  "id": "calarasi-sipoteni-MEminescu”",
+  "search": "eminescu",
+  "address": {
+    "district": "calarasi",
+    "city": "sipoteni"
+  },
+  "name": {
+    "ro": "liceul teoretic “mihai eminescu”",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "67   CĂLĂRAŞI       SIPOTENI            Liceul Teoretic “Mihai Eminescu”                                                              40    35    5   87.50   6.50",
+      "candidats": 40,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016",
+      "text": "92   CĂLĂRAŞI       SIPOTENI          Instituţia Publică Liceul Teoretic \"Mihai Eminescu\"                                   25    24   1   96,00   6,56",
+      "candidats": 25,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2016 all",
+      "text": " 78   CĂLĂRAŞI       SIPOTENI          Instituţia Publică Liceul Teoretic \"Mihai Eminescu\"                                   27    24    3   88,89   6,56",
+      "candidats": 27,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2018",
+      "text": "141   CĂLĂRAŞI       SIPOTENI         Instituţia Publică Liceul Teoretic \"Mihai Eminescu\"                            28         27      1   96.43   6.56",
+      "candidats": 28,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2019",
+      "text": "86   CĂLĂRAŞI       SIPOTENI         Instituţia Publică Liceul Teoretic \"Mihai Eminescu\"             28         28    0   100.00   6.96",
+      "candidats": 28,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.96
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

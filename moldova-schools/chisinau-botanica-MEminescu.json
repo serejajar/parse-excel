@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-botanica-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "liceul teoretic \"mihai eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "6   CHISINAU       BOTANICA   Liceul Teoretic \"Mihai Eminescu\"                                          50        50           0      100.00     7.62",
+      "candidats": 50,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.62
+    },
+    {
+      "year": "2016",
+      "text": "88   CHISINAU       BOTANICA   Liceul Teoretic \"Mihai Eminescu\"                                                       55    53   2   96,36   7,70",
+      "candidats": 55,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.7
+    },
+    {
+      "year": "2016 all",
+      "text": "37   CHISINAU       BOTANICA   Liceul Teoretic \"Mihai Eminescu\"                                      55          53             2       96,36      7,70",
+      "candidats": 55,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.7
+    },
+    {
+      "year": "2017",
+      "text": "86   CHISINAU       BOTANICA   Liceul Teoretic \"Mihai Eminescu\"                           74    73   1   98,65    7,78",
+      "candidats": 74,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.78
+    },
+    {
+      "year": "2018",
+      "text": "7   CHISINAU         BOTANICA   Liceul Teoretic \"Mihai Eminescu\"                                              65        65        0       100.00    8.03",
+      "candidats": 65,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.03
+    },
+    {
+      "year": "2019",
+      "text": "8   CHISINAU         BOTANICA   Liceul Teoretic \"Mihai Eminescu\"                                              67        67        0       100.00    8.13",
+      "candidats": 67,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.13
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

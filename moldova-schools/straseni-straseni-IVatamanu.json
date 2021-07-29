@@ -1,0 +1,63 @@
+{
+  "id": "straseni-straseni-IVatamanu",
+  "search": "vatamanu",
+  "address": {
+    "district": "straseni",
+    "city": "straseni"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"ion vatamanu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "138   STRĂŞENI       STRĂŞENI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION VATAMANU\"                                     84    65   19   77.38   6.80",
+      "candidats": 84,
+      "rejectedCandidats": 19,
+      "mediumNote": 6.8
+    },
+    {
+      "year": "2016",
+      "text": "134   STRĂŞENI       STRĂŞENI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION VATAMANU\"                67    62   5   92,54   7,08",
+      "candidats": 67,
+      "rejectedCandidats": 5,
+      "mediumNote": 7.08
+    },
+    {
+      "year": "2016 all",
+      "text": "111   STRĂŞENI       STRĂŞENI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION VATAMANU\"            78   66   12   84,62   6,97",
+      "candidats": 78,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.97
+    },
+    {
+      "year": "2017",
+      "text": "110   STRĂŞENI       STRĂŞENI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION VATAMANU\"             53    51   2   96,23    7,00",
+      "candidats": 53,
+      "rejectedCandidats": 2,
+      "mediumNote": 7
+    },
+    {
+      "year": "2018",
+      "text": "46   STRĂŞENI       STRĂŞENI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION VATAMANU\"                 75   75   0   100.00   7.11",
+      "candidats": 75,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.11
+    },
+    {
+      "year": "2019",
+      "text": "42   STRĂŞENI       STRĂŞENI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION VATAMANU\"                 48    48   0   100.00   7.32",
+      "candidats": 48,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.32
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

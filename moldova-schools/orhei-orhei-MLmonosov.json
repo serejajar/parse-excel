@@ -1,0 +1,55 @@
+{
+  "id": "orhei-orhei-MLmonosov",
+  "search": "lomonosov",
+  "address": {
+    "district": "orhei",
+    "city": "orhei"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m. lomonosov\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "100   ORHEI          ORHEI               LICEUL TEORETIC \"M. LOMONOSOV\"                                                                16    13    3   81.25   6.58",
+      "candidats": 16,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2016",
+      "text": "240   ORHEI          ORHEI             LICEUL TEORETIC \"MIHAIL LOMONOSOV\"                          17   14    3   82,35   6,63",
+      "candidats": 17,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2016 all",
+      "text": "208   ORHEI          ORHEI             LICEUL TEORETIC \"MIHAIL LOMONOSOV\"                                  20   14    6   70,00   6,63",
+      "candidats": 20,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2018",
+      "text": "75   ORHEI          ORHEI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MIHAIL LOMONOSOV\"              5    5   0   100.00   6.76",
+      "candidats": 5,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.76
+    },
+    {
+      "year": "2019",
+      "text": "71   ORHEI          ORHEI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MIHAIL LOMONOSOV\"             10    10   0   100.00   7.08",
+      "candidats": 10,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.08
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "glodeni-limbeniivechi-liceul",
+  "search": "",
+  "address": {
+    "district": "glodeni",
+    "city": "limbeniivechi"
+  },
+  "name": {
+    "ro": "liceul teoretic limbenii vechi",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "283   GLODENI        LIMBENII VECHI      LICEUL TEORETIC LIMBENII VECHI                          39   23   16   58.97   6.10",
+      "candidats": 39,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.1
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

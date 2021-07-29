@@ -1,0 +1,56 @@
+{
+  "id": "edinet-edinet-DCantemir",
+  "search": "dimitrie cantemir|d.cantemir|d. cantemir",
+  "address": {
+    "district": "edinet",
+    "city": "edinet"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic \"dimitrie cantemir\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "51   EDINET         EDINET              Instituţie Publică Liceul Teoretic \"Dimitrie Cantemir\"                                        34    31    3   91.18   6.49",
+      "candidats": 34,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2016",
+      "text": "18   EDINET         EDINET            Instituţie Publică Liceul Teoretic \"Dimitrie Cantemir\"               18          18             0      100,00      7,26",
+      "candidats": 18,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.26
+    },
+    {
+      "year": "2016 all",
+      "text": "13   EDINET         EDINET            Instituţie Publică Liceul Teoretic \"Dimitrie Cantemir\"               19          19             0      100,00      7,18",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.18
+    },
+    {
+      "year": "2017",
+      "text": "26   EDINET           EDINET          Instituţie Publică Liceul Teoretic \"Dimitrie Cantemir\"               19        19        0       100,00    7,06",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.06
+    },
+    {
+      "year": "2018",
+      "text": "37   EDINET         EDINET           Instituţie Publică Liceul Teoretic \"Dimitrie Cantemir\"            25   25   0   100.00   7.23",
+      "candidats": 25,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.23
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

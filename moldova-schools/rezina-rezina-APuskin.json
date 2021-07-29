@@ -1,0 +1,41 @@
+{
+  "id": "rezina-rezina-APuskin",
+  "search": "puskin",
+  "address": {
+    "district": "rezina",
+    "city": "rezina"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"a. puskin\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "391   REZINA         REZINA              Instituţia Publică Liceul Teoretic \"A. Puşkin\"                   22    6    16   27.27   6.70",
+      "candidats": 22,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.7
+    },
+    {
+      "year": "2016",
+      "text": "217   REZINA         REZINA            Instituţia Publică Liceul Teoretic \"Alexandr Puşkin\"        13   11    2   84,62   6,38",
+      "candidats": 13,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2016 all",
+      "text": "311   REZINA         REZINA            Instituţia Publică Liceul Teoretic \"Alexandr Puşkin\"       25    13    12   52,00   6,29",
+      "candidats": 25,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.29
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

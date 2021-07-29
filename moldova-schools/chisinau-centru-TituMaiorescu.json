@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-centru-TituMaiorescu",
+  "search": "maiorescu",
+  "address": {
+    "district": "chisinau",
+    "city": "centru"
+  },
+  "name": {
+    "ro": "liceul teoretic \"titu maiorescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "174   CHISINAU       CENTRU                Liceul Teoretic \"Titu Maiorescu\"                                 27   20    7   74.07   6.07",
+      "candidats": 27,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.07
+    },
+    {
+      "year": "2016",
+      "text": "126   CHISINAU       CENTRU    Liceul Teoretic \"Titu Maiorescu\"                                                        30    28   2   93,33   6,83",
+      "candidats": 30,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.83
+    },
+    {
+      "year": "2016 all",
+      "text": "104   CHISINAU       CENTRU    Liceul Teoretic \"Titu Maiorescu\"                               34   29    5   85,29   6,81",
+      "candidats": 34,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.81
+    },
+    {
+      "year": "2017",
+      "text": "124   CHISINAU       CENTRU   Liceul Teoretic \"Titu Maiorescu\"                                  20    19   1   95,00   7,00",
+      "candidats": 20,
+      "rejectedCandidats": 1,
+      "mediumNote": 7
+    },
+    {
+      "year": "2018",
+      "text": "64   CHISINAU       CENTRU   Liceul Teoretic \"Titu Maiorescu\"                                    16   16   0   100.00   6.90",
+      "candidats": 16,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.9
+    },
+    {
+      "year": "2019",
+      "text": "99   CHISINAU       CENTRU   Liceul Teoretic \"Titu Maiorescu\"                                  19         19    0   100.00   6.81",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.81
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

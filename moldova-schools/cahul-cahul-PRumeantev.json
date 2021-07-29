@@ -1,0 +1,63 @@
+{
+  "id": "cahul-cahul-PRumeantev",
+  "search": "rumeantev",
+  "address": {
+    "district": "cahul",
+    "city": "cahul"
+  },
+  "name": {
+    "ro": "liceul teoretic \"p.rumeantev\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "150   CAHUL          CAHUL               Liceul Teoretic \"P.Rumeanţev\"                                                         55    42   13   76.36   6.60",
+      "candidats": 55,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.6
+    },
+    {
+      "year": "2016",
+      "text": "222   CAHUL          CAHUL             Liceul Teoretic \"P.Rumeanţev\"                               38   32    6   84,21   6,28",
+      "candidats": 38,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.28
+    },
+    {
+      "year": "2016 all",
+      "text": "169   CAHUL          CAHUL             Liceul Teoretic \"P.Rumeanţev\"                                    45    34   11   75,56   6,23",
+      "candidats": 45,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2017",
+      "text": "109   CAHUL          CAHUL           Liceul Teoretic \"P.Rumeanţev\"                                 27    26   1   96,30    6,17",
+      "candidats": 27,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.17
+    },
+    {
+      "year": "2018",
+      "text": "181   CAHUL          CAHUL            Instituţia Publică Liceul Teoretic \"P.Rumeanţev\"                31   29   2   93.55   6.57",
+      "candidats": 31,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2019",
+      "text": "283   CAHUL          CAHUL          Instituţia Publică Liceul Teoretic \"P.Rumeanţev\"             32   23    9   71.88   6.40",
+      "candidats": 32,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.4
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

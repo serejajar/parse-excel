@@ -1,0 +1,55 @@
+{
+  "id": "straseni-romanesti-liceul",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "romanesti"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic romanesti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "330   STRĂŞENI       ROMĂNEŞTI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC ROMĂNEŞTI                     22    11    11   50.00   6.57",
+      "candidats": 22,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2016",
+      "text": "244   STRĂŞENI       ROMĂNEŞTI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC ROMĂNEŞTI                11    9    2   81,82   6,97",
+      "candidats": 11,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.97
+    },
+    {
+      "year": "2016 all",
+      "text": "256   STRĂŞENI       ROMĂNEŞTI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC ROMĂNEŞTI                        16   10    6   62,50   6,83",
+      "candidats": 16,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.83
+    },
+    {
+      "year": "2018",
+      "text": "190   STRĂŞENI       ROMĂNEŞTI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC ROMĂNEŞTI                      14   13   1   92.86   6.69",
+      "candidats": 14,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.69
+    },
+    {
+      "year": "2019",
+      "text": "221   STRĂŞENI       ROMĂNEŞTI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC ROMĂNEŞTI                                    10         9   1   90.00   7.11",
+      "candidats": 10,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.11
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

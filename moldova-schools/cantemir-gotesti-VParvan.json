@@ -1,0 +1,28 @@
+{
+  "id": "cantemir-gotesti-VParvan",
+  "search": "parvan",
+  "address": {
+    "district": "cantemir",
+    "city": "gotesti"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"vasile parvan\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "390   CANTEMIR       GOTEŞTI             Instituţia publică Liceul Teoretic \"Vasile Pârvan\"               17    5    12   29.41   5.10",
+      "candidats": 17,
+      "rejectedCandidats": 12,
+      "mediumNote": 5.1
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

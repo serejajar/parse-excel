@@ -1,0 +1,64 @@
+{
+  "id": "calarasi-calarasi-VAlecsandri",
+  "search": "alecsandri",
+  "address": {
+    "district": "calarasi",
+    "city": "calarasi"
+  },
+  "name": {
+    "ro": "liceul teoretic “vasile alecsandri”",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "304   CĂLĂRAŞI       CĂLĂRAŞI            Liceul Teoretic “Vasile Alecsandri”                    110   61   49   55.45   6.37",
+      "candidats": 110,
+      "rejectedCandidats": 49,
+      "mediumNote": 6.37
+    },
+    {
+      "year": "2016",
+      "text": "113   CĂLĂRAŞI       CĂLĂRAŞI          Instituţia Publică Liceul Teoretic \"Vasile Alecsandri\"                               106   100   6   94,34   6,54",
+      "candidats": 106,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.54
+    },
+    {
+      "year": "2016 all",
+      "text": "186   CĂLĂRAŞI       CĂLĂRAŞI          Instituţia Publică Liceul Teoretic \"Vasile Alecsandri\"          141   104   37   73,76   6,50",
+      "candidats": 141,
+      "rejectedCandidats": 37,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2017",
+      "text": "219   CĂLĂRAŞI       CĂLĂRAŞI        Instituţia Publică Liceul Teoretic \"Vasile Alecsandri\"               73   63   10   86,30   6,45",
+      "candidats": 73,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.45
+    },
+    {
+      "year": "2018",
+      "text": "179   CĂLĂRAŞI       CĂLĂRAŞI         Instituţia Publică Liceul Teoretic \"Vasile Alecsandri\"          47   44   3   93.62   6.42",
+      "candidats": 47,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.42
+    },
+    {
+      "year": "2019",
+      "text": "241   CĂLĂRAŞI       CĂLĂRAŞI         Instituţia Publică Liceul Teoretic \"Vasile Alecsandri\"                        41        36   5   87.80   6.72",
+      "candidats": 41,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.72
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "arta",
+    "real",
+    "umanist"
+  ]
+}

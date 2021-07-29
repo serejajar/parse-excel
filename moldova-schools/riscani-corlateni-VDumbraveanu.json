@@ -1,0 +1,62 @@
+{
+  "id": "riscani-corlateni-VDumbraveanu",
+  "search": "dumbraveanu",
+  "address": {
+    "district": "riscani",
+    "city": "corlateni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"victor dumbraveanu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "197   RÎŞCANI        CORLĂTENI             LICEUL TEORETIC \"VICTOR DUMBRĂVEANU\"                             41   29   12   70.73   6.08",
+      "candidats": 41,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.08
+    },
+    {
+      "year": "2016",
+      "text": "314   RÎŞCANI        CORLĂTENI         LICEUL TEORETIC \"VICTOR DUMBRĂVEANU\"                                  21    13     8   61,90   6,58",
+      "candidats": 21,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2016 all",
+      "text": "312   RÎŞCANI        CORLĂTENI         LICEUL TEORETIC \"VICTOR DUMBRĂVEANU\"                       31    16    15   51,61   6,44",
+      "candidats": 31,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2017",
+      "text": "270   RÎŞCANI        CORLĂTENI       LICEUL TEORETIC \"VICTOR DUMBRĂVEANU\"                       16   12    4   75,00   6,02",
+      "candidats": 16,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.02
+    },
+    {
+      "year": "2018",
+      "text": "293   RÎŞCANI        CORLĂTENI       LICEUL TEORETIC \"VICTOR DUMBRĂVEANU\"                       15    10    5   66.67   6.05",
+      "candidats": 15,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.05
+    },
+    {
+      "year": "2019",
+      "text": "128   RÎŞCANI        CORLĂTENI        LICEUL TEORETIC \"VICTOR DUMBRĂVEANU\"                                         6          6         0         100.00   5.71",
+      "candidats": 6,
+      "rejectedCandidats": 0,
+      "mediumNote": 5.71
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

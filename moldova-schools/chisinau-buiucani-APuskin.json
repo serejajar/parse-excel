@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-buiucani-APuskin",
+  "search": "puskin",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"alexandr puskin\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "17   CHISINAU       BUIUCANI   Instituţia Publică Liceul Teoretic \"Alexandr Puşkin\"                      66        65           1        98.48    7.46",
+      "candidats": 66,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.46
+    },
+    {
+      "year": "2016",
+      "text": "68   CHISINAU       BUIUCANI    Instituţia Publică Liceul Teoretic \"Alexandr Puşkin\"          62    61   1    98,39   7,07",
+      "candidats": 62,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.07
+    },
+    {
+      "year": "2016 all",
+      "text": "35   CHISINAU       BUIUCANI    Instituţia Publică Liceul Teoretic \"Alexandr Puşkin\"                 63          61             2       96,83      7,07",
+      "candidats": 63,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.07
+    },
+    {
+      "year": "2017",
+      "text": "12   CHISINAU         BUIUCANI   Instituţia Publică Liceul Teoretic \"Alexandr Puşkin\"                 57        57        0       100,00    7,53",
+      "candidats": 57,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.53
+    },
+    {
+      "year": "2018",
+      "text": "19   CHISINAU         BUIUCANI   Instituţia Publică Liceul Teoretic \"Alexandr Puşkin\"                          59        59        0       100.00    7.48",
+      "candidats": 59,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.48
+    },
+    {
+      "year": "2019",
+      "text": "57   CHISINAU       BUIUCANI   Instituţia Publică Liceul Teoretic \"Alexandr Puşkin\"              54    54   0   100.00   7.20",
+      "candidats": 54,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.2
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ocnita-rujnita-liceul",
+  "search": "",
+  "address": {
+    "district": "ocnita",
+    "city": "rujnita"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic rujnita",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2016",
+      "text": "342   OCNIŢA         RUJNIŢA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC RUJNIŢA                            27   10    17   37,04   6,50",
+      "candidats": 27,
+      "rejectedCandidats": 17,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016 all",
+      "text": "342   OCNIŢA         RUJNIŢA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC RUJNIŢA                 27    10    17   37,04   6,50",
+      "candidats": 27,
+      "rejectedCandidats": 17,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2018",
+      "text": "301   OCNIŢA         RUJNIŢA         INSTITUŢIA PUBLICĂ LICEUL TEORETIC RUJNIŢA                    8     3    5   37.50   6.13",
+      "candidats": 8,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.13
+    }
+  ],
+  "langs": [
+    "romana",
+    "rusa"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

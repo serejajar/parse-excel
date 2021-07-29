@@ -1,0 +1,63 @@
+{
+  "id": "gagauzia-ceadirlunga-orizont",
+  "search": "orizont",
+  "address": {
+    "district": "gagauzia",
+    "city": "ceadirlunga"
+  },
+  "name": {
+    "ro": "filiala ceadir lunga a institutiei private de invatamint liceul teoretic \"orizont\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "105   GAGAUZIA   CEADÎR LUNGA        FILIALA CEADÎR LUNGA A INSTITUŢIEI PRIVATE DE ÎNVĂŢĂMÎNT LICEUL TEORETIC \"ORIZONT\"    26    21    5   80.77   6.81",
+      "candidats": 26,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.81
+    },
+    {
+      "year": "2016",
+      "text": "85   GAGAUZIA   CEADÎR LUNGA      FILIALA CEADÎR LUNGA A INSTITUŢIEI PRIVATE DE ÎNVĂŢĂMÎNT LICEUL TEORETIC \"ORIZONT\"    29    28   1   96,55   6,69",
+      "candidats": 29,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.69
+    },
+    {
+      "year": "2016 all",
+      "text": " 60   GAGAUZIA   CEADÎR LUNGA      FILIALA CEADÎR LUNGA A INSTITUŢIEI PRIVATE DE ÎNVĂŢĂMÎNT LICEUL TEORETIC \"ORIZONT\"    32    29    3   90,63   6,63",
+      "candidats": 32,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2017",
+      "text": "55   GAGAUZIA   CEADÎR LUNGA    FILIALA CEADÎR LUNGA A INSTITUŢIEI PRIVATE DE ÎNVĂŢĂMÎNT LICEUL TEORETIC \"ORIZONT\"    26    26      0   100,00   6,62",
+      "candidats": 26,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.62
+    },
+    {
+      "year": "2018",
+      "text": "138   GAGAUZIA   CEADÎR LUNGA    FILIALA CEADÎR LUNGA A INSTITUŢIEI PRIVATE DE ÎNVĂŢĂMÎNT LICEUL TEORETIC \"ORIZONT\"             29   28      1   96.55   6.80",
+      "candidats": 29,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.8
+    },
+    {
+      "year": "2019",
+      "text": "97   GAGAUZIA   CEADÎR LUNGA    FILIALA CEADÎR LUNGA A INSTITUŢIEI PRIVATE DE ÎNVĂŢĂMÎNT LICEUL TEORETIC \"ORIZONT\"    39     39    0   100.00   6.84",
+      "candidats": 39,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.84
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

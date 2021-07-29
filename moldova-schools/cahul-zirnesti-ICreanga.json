@@ -1,0 +1,28 @@
+{
+  "id": "cahul-zirnesti-ICreanga",
+  "search": "creanga",
+  "address": {
+    "district": "cahul",
+    "city": "zirnesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"ion creanga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "385   CAHUL          ZÎRNEŞTI            Liceul Teoretic \"Ion Creangă\"                                     3    1     2   33.33   5.50",
+      "candidats": 3,
+      "rejectedCandidats": 2,
+      "mediumNote": 5.5
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

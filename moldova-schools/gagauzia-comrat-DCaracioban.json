@@ -1,0 +1,63 @@
+{
+  "id": "gagauzia-comrat-DCaracioban",
+  "search": "caracioban",
+  "address": {
+    "district": "gagauzia",
+    "city": "comrat"
+  },
+  "name": {
+    "ro": "liceul teoretic \"d.caracioban\" mun. comrat",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "211   GAGAUZIA   COMRAT              LICEUL TEORETIC \"D.CARACIOBAN\" mun. COMRAT                            42    29   13   69.05   6.44",
+      "candidats": 42,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2016",
+      "text": "181   GAGAUZIA   COMRAT            LICEUL TEORETIC \"D.CARACIOBAN\" mun. COMRAT                 36    32    4   88,89   6,62",
+      "candidats": 36,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.62
+    },
+    {
+      "year": "2016 all",
+      "text": "130   GAGAUZIA   COMRAT            LICEUL TEORETIC \"D.CARACIOBAN\" mun. COMRAT                   44   36    8   81,82   6,50",
+      "candidats": 44,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2017",
+      "text": "52   GAGAUZIA   COMRAT          LICEUL TEORETIC \"D.CARACIOBAN\" mun. COMRAT                                11         11      0   100,00   6,64",
+      "candidats": 11,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.64
+    },
+    {
+      "year": "2018",
+      "text": "162   GAGAUZIA   COMRAT           LICEUL TEORETIC \"D.CARACIOBAN\" mun. COMRAT                      38   36   2   94.74   6.70",
+      "candidats": 38,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.7
+    },
+    {
+      "year": "2019",
+      "text": "119   GAGAUZIA   COMRAT           LICEUL TEORETIC \"D.CARACIOBAN\" mun. COMRAT                                  51         51         0         100.00   6.48",
+      "candidats": 51,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.48
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

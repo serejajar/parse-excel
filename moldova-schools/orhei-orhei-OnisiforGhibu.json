@@ -1,0 +1,63 @@
+{
+  "id": "orhei-orhei-OnisiforGhibu",
+  "search": "ghibu",
+  "address": {
+    "district": "orhei",
+    "city": "orhei"
+  },
+  "name": {
+    "ro": "liceul teoretic \"onisifor ghibu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "112   ORHEI          ORHEI               LICEUL TEORETIC \"ONISIFOR GHIBU\"                                                      75    60   15   80.00   6.47",
+      "candidats": 75,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.47
+    },
+    {
+      "year": "2016",
+      "text": "185   ORHEI          ORHEI             LICEUL TEORETIC \"ONISIFOR GHIBU\"                           62    55    7   88,71   6,70",
+      "candidats": 62,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.7
+    },
+    {
+      "year": "2016 all",
+      "text": "125   ORHEI          ORHEI             LICEUL TEORETIC \"ONISIFOR GHIBU\"                             68   56   12   82,35   6,67",
+      "candidats": 68,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.67
+    },
+    {
+      "year": "2017",
+      "text": "45   ORHEI          ORHEI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ONISIFOR GHIBU\"                       50         50      0   100,00   6,82",
+      "candidats": 50,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.82
+    },
+    {
+      "year": "2018",
+      "text": "149   ORHEI          ORHEI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ONISIFOR GHIBU\"                            48         46      2   95.83   6.99",
+      "candidats": 48,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.99
+    },
+    {
+      "year": "2019",
+      "text": "190   ORHEI          ORHEI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ONISIFOR GHIBU\"            53   50   3   94.34   7.21",
+      "candidats": 53,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.21
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

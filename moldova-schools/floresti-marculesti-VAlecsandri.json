@@ -1,0 +1,49 @@
+{
+  "id": "floresti-marculesti-VAlecsandri",
+  "search": "alecsandri",
+  "address": {
+    "district": "floresti",
+    "city": "marculesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"v. alecsandri\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "317   FLOREŞTI       MĂRCULEŞTI          Liceul Teoretic \"V. Alecsandri\"                                  53    28    25   52.83   6.08",
+      "candidats": 53,
+      "rejectedCandidats": 25,
+      "mediumNote": 6.08
+    },
+    {
+      "year": "2016",
+      "text": "276   FLOREŞTI       MĂRCULEŞTI       Liceul Teoretic \"V. Alecsandri\"                                     16   12    4   75,00   6,04",
+      "candidats": 16,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.04
+    },
+    {
+      "year": "2016 all",
+      "text": "294   FLOREŞTI       MĂRCULEŞTI        Liceul Teoretic \"V. Alecsandri\"                                       23   13   10   56,52   5,98",
+      "candidats": 23,
+      "rejectedCandidats": 10,
+      "mediumNote": 5.98
+    },
+    {
+      "year": "2017",
+      "text": "265   FLOREŞTI       MĂRCULEŞTI      Liceul Teoretic \"V. Alecsandri\"                             8    6    2   75,00   6,71",
+      "candidats": 8,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.71
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

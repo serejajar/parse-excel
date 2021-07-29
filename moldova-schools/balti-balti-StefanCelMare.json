@@ -1,0 +1,55 @@
+{
+  "id": "balti-balti-StefanCelMare",
+  "search": "stefan cel mare",
+  "address": {
+    "district": "balti",
+    "city": "balti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"stefan cel mare\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "71   BALTI          BALTI               LICEUL TEORETIC \"ŞTEFAN CEL MARE\"                                                             30    26    4   86.67   6.53",
+      "candidats": 30,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.53
+    },
+    {
+      "year": "2016",
+      "text": "236   BALTI          BALTI             LICEUL TEORETIC \"ŞTEFAN CEL MARE\"                           35   29    6   82,86   6,41",
+      "candidats": 35,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.41
+    },
+    {
+      "year": "2016 all",
+      "text": "135   BALTI          BALTI             LICEUL TEORETIC \"ŞTEFAN CEL MARE\"                            36   29    7   80,56   6,41",
+      "candidats": 36,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.41
+    },
+    {
+      "year": "2017",
+      "text": "105   BALTI          BALTI           LICEUL TEORETIC \"ŞTEFAN CEL MARE\"                             29    28   1   96,55    6,62",
+      "candidats": 29,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.62
+    },
+    {
+      "year": "2019",
+      "text": "197   BALTI          BALTI            LICEUL TEORETIC \"ŞTEFAN CEL MARE\"                              32   30   2   93.75   6.53",
+      "candidats": 32,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.53
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

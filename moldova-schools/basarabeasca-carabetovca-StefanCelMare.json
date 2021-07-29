@@ -1,0 +1,41 @@
+{
+  "id": "basarabeasca-carabetovca-StefanCelMare",
+  "search": "stefan cel mare",
+  "address": {
+    "district": "basarabeasca",
+    "city": "carabetovca"
+  },
+  "name": {
+    "ro": "liceul teoretic \"stefan cel mare\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "219   BASARABEASCA   CARABETOVCA         LICEUL TEORETIC \"ŞTEFAN CEL MARE\"                                     21    14    7   66.67   6.82",
+      "candidats": 21,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.82
+    },
+    {
+      "year": "2016 all",
+      "text": "349   BASARABEASCA   CARABETOVCA       INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN CEL MARE\"        3     1     2   33,33   5,25",
+      "candidats": 3,
+      "rejectedCandidats": 2,
+      "mediumNote": 5.25
+    },
+    {
+      "year": "2018",
+      "text": "256   BASARABEASCA   CARABETOVCA     INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN CEL MARE\"          12    10    2   83.33   6.50",
+      "candidats": 12,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.5
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

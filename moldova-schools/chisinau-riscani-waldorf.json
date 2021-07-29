@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-riscani-waldorf",
+  "search": "waldorf",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceu teoretic \"waldorf\" (cu grupe de gradinita)",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "184   CHISINAU       RISCANI               Liceu Teoretic \"Waldorf\" (cu grupe de grădiniţă)                 25   18    7   72.00   6.58",
+      "candidats": 25,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2016",
+      "text": "52   CHISINAU       RISCANI    Liceu Teoretic \"Waldorf\" (cu grupe de grădiniţă)               18    18   0   100,00   6,44",
+      "candidats": 18,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2016 all",
+      "text": "44   CHISINAU       RISCANI    Liceu Teoretic \"Waldorf\" (cu grupe de grădiniţă)                      21          20             1       95,24      6,35",
+      "candidats": 21,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.35
+    },
+    {
+      "year": "2017",
+      "text": "64   CHISINAU       RISCANI   Liceu Teoretic \"Waldorf\" (cu grupe de grădiniţă)                          11         11      0   100,00   6,50",
+      "candidats": 11,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2018",
+      "text": "76   CHISINAU       RISCANI    Liceu Teoretic \"Waldorf\" (cu grupe de grădiniţă)                  19   19   0   100.00   6.74",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.74
+    },
+    {
+      "year": "2019",
+      "text": "31   CHISINAU         RISCANI    Liceu Teoretic \"Waldorf\" (cu grupe de grădiniţă)                              24        24        0       100.00    7.47",
+      "candidats": 24,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.47
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

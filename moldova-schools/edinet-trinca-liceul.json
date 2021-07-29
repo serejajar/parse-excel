@@ -1,0 +1,28 @@
+{
+  "id": "edinet-trinca-liceul",
+  "search": "",
+  "address": {
+    "district": "edinet",
+    "city": "trinca"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic trinca",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "378   EDINET         TRINCA              Instituţie Publică Liceul Teoretic Trinca                        19    7    12   36.84   5.82",
+      "candidats": 19,
+      "rejectedCandidats": 12,
+      "mediumNote": 5.82
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

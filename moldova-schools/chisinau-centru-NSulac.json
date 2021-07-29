@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-centru-NSulac",
+  "search": "sulac",
+  "address": {
+    "district": "chisinau",
+    "city": "centru"
+  },
+  "name": {
+    "ro": "liceul teoretic cu profil de arte \"nicolae sulac\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "336   CHISINAU       CENTRU     Liceul Teoretic cu profil de arte \"Nicolae Sulac\"                53    26    27   49.06   6.49",
+      "candidats": 53,
+      "rejectedCandidats": 27,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2016",
+      "text": "176   CHISINAU       CENTRU    Liceul Teoretic cu profil de arte \"Nicolae Sulac\"            37    33    4   89,19   6,60",
+      "candidats": 37,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.6
+    },
+    {
+      "year": "2016 all",
+      "text": "131   CHISINAU       CENTRU    Liceul Teoretic cu profil de arte \"Nicolae Sulac\"              49   40    9   81,63   6,36",
+      "candidats": 49,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.36
+    },
+    {
+      "year": "2017",
+      "text": "210   CHISINAU       CENTRU   Liceul Teoretic cu profil de arte \"Nicolae Sulac\"                     16   14    2   87,50   6,66",
+      "candidats": 16,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.66
+    },
+    {
+      "year": "2018",
+      "text": "92   CHISINAU       CENTRU   Liceul Teoretic cu profil de arte \"Nicolae Sulac\"                 26         26   0   100.00   6.39",
+      "candidats": 26,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.39
+    },
+    {
+      "year": "2019",
+      "text": "49   CHISINAU       CENTRU      Liceul Teoretic cu profil de arte \"Nicolae Sulac\"                   30    30   0   100.00   7.27",
+      "candidats": 30,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.27
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "arta",
+    "umanist"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "straseni-micleuseni-ICreanga",
+  "search": "creanga",
+  "address": {
+    "district": "straseni",
+    "city": "micleuseni"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"ion creanga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "96   STRĂŞENI       MICLEUŞENI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION CREANGĂ\"                                              11     9    2   81.82   6.17",
+      "candidats": 11,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.17
+    },
+    {
+      "year": "2016",
+      "text": "218   STRĂŞENI       MICLEUŞENI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION CREANGĂ\"            13   11    2   84,62   6,23",
+      "candidats": 13,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2016 all",
+      "text": "139   STRĂŞENI       MICLEUŞENI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION CREANGĂ\"             15   12    3   80,00   6,13",
+      "candidats": 15,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.13
+    },
+    {
+      "year": "2018",
+      "text": "69   STRĂŞENI       MICLEUŞENI       INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION CREANGĂ\"                   9    9   0   100.00   6.83",
+      "candidats": 9,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.83
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

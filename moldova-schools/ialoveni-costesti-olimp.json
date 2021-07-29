@@ -1,0 +1,63 @@
+{
+  "id": "ialoveni-costesti-olimp",
+  "search": "olimp",
+  "address": {
+    "district": "ialoveni",
+    "city": "costesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"olimp\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "108   IALOVENI       COSTEŞTI            Liceul Teoretic \"Olimp\"                                                               36    29    7   80.56   6.71",
+      "candidats": 36,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.71
+    },
+    {
+      "year": "2016",
+      "text": "25   IALOVENI       COSTEŞTI          Liceul Teoretic \"Olimp\"                                              22          22             0      100,00      6,97",
+      "candidats": 22,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.97
+    },
+    {
+      "year": "2016 all",
+      "text": "105   IALOVENI       COSTEŞTI          Liceul Teoretic \"Olimp\"                                      27   23    4   85,19   6,88",
+      "candidats": 27,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.88
+    },
+    {
+      "year": "2017",
+      "text": "54   IALOVENI       COSTEŞTI        Liceul Teoretic \"Olimp\"                                                   32         32      0   100,00   6,62",
+      "candidats": 32,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.62
+    },
+    {
+      "year": "2018",
+      "text": "66   IALOVENI       COSTEŞTI         Liceul Teoretic \"Olimp\"                                           32   32   0   100.00   6.88",
+      "candidats": 32,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.88
+    },
+    {
+      "year": "2019",
+      "text": "173   IALOVENI       COSTEŞTI         Liceul Teoretic \"Olimp\"                                        43   41   2   95.35   6.83",
+      "candidats": 43,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.83
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

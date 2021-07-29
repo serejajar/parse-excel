@@ -1,0 +1,55 @@
+{
+  "id": "briceni-drepcauti-liceul",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "drepcauti"
+  },
+  "name": {
+    "ro": "liceul teoretic drepcauti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "367   BRICENI        DREPCĂUŢI           Liceul Teoretic Drepcăuţi                                         5    2     3   40.00   5.13",
+      "candidats": 5,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.13
+    },
+    {
+      "year": "2016 all",
+      "text": "372   BRICENI        DREPCĂUŢI         Liceul Teoretic Drepcăuţi                                            3    0     3    0,00   0",
+      "candidats": 3,
+      "rejectedCandidats": 3,
+      "mediumNote": 0
+    },
+    {
+      "year": "2017",
+      "text": "291   BRICENI     DREPCĂUŢI   Liceul Teoretic Drepcăuţi                 9    5     4   55,56   6,15",
+      "candidats": 9,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.15
+    },
+    {
+      "year": "2018",
+      "text": "297   BRICENI        DREPCĂUŢI       Liceul Teoretic Drepcăuţi                                    20    12    8   60.00   6.35",
+      "candidats": 20,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.35
+    },
+    {
+      "year": "2019",
+      "text": "260   BRICENI        DREPCĂUŢI        Liceul Teoretic Drepcăuţi                                      12    10    2   83.33   6.20",
+      "candidats": 12,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.2
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

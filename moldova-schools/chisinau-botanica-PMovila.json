@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-botanica-PMovila",
+  "search": "movila",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"petru movila\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "29   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Petru Movilă\"                         84        80           4        95.24    6.76",
+      "candidats": 84,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.76
+    },
+    {
+      "year": "2016",
+      "text": "198   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Petru Movilă\"           50    44    6   88,00   6,85",
+      "candidats": 50,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.85
+    },
+    {
+      "year": "2016 all",
+      "text": "106   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Petru Movilă\"             54   46    8   85,19   6,78",
+      "candidats": 54,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.78
+    },
+    {
+      "year": "2017",
+      "text": "35   CHISINAU         BOTANICA   Instituţia Publică Liceul Teoretic \"Petru Movilă\"                    50        50        0       100,00    6,95",
+      "candidats": 50,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.95
+    },
+    {
+      "year": "2018",
+      "text": "112   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Petru Movilă\"               61         60   1   98.36    6.88",
+      "candidats": 61,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.88
+    },
+    {
+      "year": "2019",
+      "text": "134   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Petru Movilă\"                           66         65         1          98.48   7.10",
+      "candidats": 66,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.1
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

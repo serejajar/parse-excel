@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-ciocana-SportivNr2",
+  "search": "sportiv nr. ?2",
+  "address": {
+    "district": "chisinau",
+    "city": "ciocana"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic cu profil sportiv nr. 2",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "229   CHISINAU       CIOCANA             Instituţia Publică Liceul Teoretic cu Profil Sportiv nr. 2            35    23   12   65.71   6.72",
+      "candidats": 35,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.72
+    },
+    {
+      "year": "2016",
+      "text": "285   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic cu Profil Sportiv nr. 2          26   19    7   73,08   6,24",
+      "candidats": 26,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.24
+    },
+    {
+      "year": "2016 all",
+      "text": "227   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic cu Profil Sportiv nr. 2           34   23   11   67,65   6,15",
+      "candidats": 34,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.15
+    },
+    {
+      "year": "2017",
+      "text": "229   CHISINAU       CIOCANA   Instituţia Publică Liceul Teoretic cu Profil Sportiv nr. 2             33   28    5   84,85   6,49",
+      "candidats": 33,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2018",
+      "text": "250   CHISINAU       CIOCANA   Instituţia Publică Liceul Teoretic cu Profil Sportiv nr. 2      20    17    3   85.00   6.49",
+      "candidats": 20,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2019",
+      "text": "207   CHISINAU       CIOCANA   Instituţia Publică Liceul Teoretic cu Profil Sportiv nr. 2                       26        24   2   92.31   6.51",
+      "candidats": 26,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.51
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "sport"
+  ]
+}

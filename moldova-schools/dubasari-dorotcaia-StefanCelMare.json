@@ -1,0 +1,62 @@
+{
+  "id": "dubasari-dorotcaia-StefanCelMare",
+  "search": "stefan cel mare",
+  "address": {
+    "district": "dubasari",
+    "city": "dorotcaia"
+  },
+  "name": {
+    "ro": "liceul teoretic \"stefan cel mare si sfint\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "88   DUBĂSARI       DOROŢCAIA           Liceul Teoretic \"Ştefan cel Mare şi Sfînt\"                                                    12    10    2   83.33   6.30",
+      "candidats": 12,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.3
+    },
+    {
+      "year": "2016",
+      "text": "30   DUBĂSARI       DOROŢCAIA         Liceul Teoretic \"Ştefan cel Mare şi Sfînt\"                            6           6             0      100,00      6,92",
+      "candidats": 6,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.92
+    },
+    {
+      "year": "2016 all",
+      "text": " 88   DUBĂSARI       DOROŢCAIA         Liceul Teoretic \"Ştefan cel Mare şi Sfînt\"                                             8     7    1   87,50   6,64",
+      "candidats": 8,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.64
+    },
+    {
+      "year": "2017",
+      "text": "34   DUBĂSARI         DOROŢCAIA       Liceul Teoretic \"Ştefan cel Mare şi Sfînt\"                           10        10        0       100,00    6,95",
+      "candidats": 10,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.95
+    },
+    {
+      "year": "2018",
+      "text": "63   DUBĂSARI       DOROŢCAIA        Liceul Teoretic \"Ştefan cel Mare şi Sfînt\"                         8    8   0   100.00   6.91",
+      "candidats": 8,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.91
+    },
+    {
+      "year": "2019",
+      "text": "92   DUBĂSARI       DOROŢCAIA        Liceul Teoretic \"Ştefan cel Mare şi Sfînt\"                       6          6    0   100.00   6.88",
+      "candidats": 6,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.88
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

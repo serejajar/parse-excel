@@ -1,0 +1,42 @@
+{
+  "id": "hincesti-ciuciuleni-ADonici",
+  "search": "donici",
+  "address": {
+    "district": "hincesti",
+    "city": "ciuciuleni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a. donici\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "363   HÎNCEŞTI       CIUCIULENI          Liceul Teoretic \"A. Donici\"                                      35   14    21   40.00   6.00",
+      "candidats": 35,
+      "rejectedCandidats": 21,
+      "mediumNote": 6
+    },
+    {
+      "year": "2016",
+      "text": "269   HÎNCEŞTI       CIUCIULENI       Liceul Teoretic \"A. Donici\"                                         17   13    4   76,47   6,40",
+      "candidats": 17,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2016 all",
+      "text": "315   HÎNCEŞTI       CIUCIULENI        Liceul Teoretic \"A. Donici\"                                30    15    15   50,00   6,27",
+      "candidats": 30,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.27
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

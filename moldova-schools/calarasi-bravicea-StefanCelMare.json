@@ -1,0 +1,28 @@
+{
+  "id": "calarasi-bravicea-StefanCelMare",
+  "search": "stefan cel mare",
+  "address": {
+    "district": "calarasi",
+    "city": "bravicea"
+  },
+  "name": {
+    "ro": "liceul teoretic “stefan cel mare”",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "136   CĂLĂRAŞI       BRAVICEA            Liceul Teoretic “Ştefan cel Mare”                                                     18    14    4   77.78   5.88",
+      "candidats": 18,
+      "rejectedCandidats": 4,
+      "mediumNote": 5.88
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "chisinau-ciocana-MBerezovschi",
+  "search": "berezovschi",
+  "address": {
+    "district": "chisinau",
+    "city": "ciocana"
+  },
+  "name": {
+    "ro": "liceul teoretic cu profil de arte \"mihail berezovschi\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "52   CHISINAU       CIOCANA    Liceul Teoretic cu profil de arte \"Mihail Berezovschi\"                                       123   112   11   91.06   6.84",
+      "candidats": 123,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.84
+    },
+    {
+      "year": "2016",
+      "text": "132   CHISINAU       CIOCANA    Liceul Teoretic cu profil de arte \"Mihail Berezovschi\"           108   100   8   92,59   6,94",
+      "candidats": 108,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.94
+    },
+    {
+      "year": "2016 all",
+      "text": " 61   CHISINAU       CIOCANA    Liceul Teoretic cu profil de arte \"Mihail Berezovschi\"                                117   106   11   90,60   6,86",
+      "candidats": 117,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.86
+    },
+    {
+      "year": "2017",
+      "text": "95   CHISINAU       CIOCANA    Liceul Teoretic cu profil de arte \"Mihail Berezovschi\"    102    99   3   97,06    7,17",
+      "candidats": 102,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.17
+    },
+    {
+      "year": "2018",
+      "text": "24   CHISINAU         CIOCANA   Instituţia Publică Liceul Teoretic cu profil de arte \"Mihail Berezovschi\"      98        98        0       100.00    7.42",
+      "candidats": 98,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.42
+    },
+    {
+      "year": "2019",
+      "text": "32   CHISINAU         CIOCANA   Instituţia Publică Liceul Teoretic cu profil de arte \"Mihail Berezovschi\"     106       106        0       100.00    7.46",
+      "candidats": 106,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.46
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "arta",
+    "real",
+    "umanist"
+  ]
+}

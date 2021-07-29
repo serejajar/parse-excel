@@ -1,0 +1,42 @@
+{
+  "id": "edinet-cupcini-MSadoveanu",
+  "search": "sadoveanu",
+  "address": {
+    "district": "edinet",
+    "city": "cupcini"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic \"m.sadoveanu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "298   EDINET         CUPCINI             Instituţie Publică Liceul Teoretic \"M.Sadoveanu\"        32   18   14   56.25   6.51",
+      "candidats": 32,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.51
+    },
+    {
+      "year": "2016 all",
+      "text": "345   EDINET         CUPCINI           Instituţie Publică Liceul Teoretic \"M.Sadoveanu\"           11     4     7   36,36   5,00",
+      "candidats": 11,
+      "rejectedCandidats": 7,
+      "mediumNote": 5
+    },
+    {
+      "year": "2017",
+      "text": "50   EDINET         CUPCINI         Instituţie Publică Liceul Teoretic \"M.Sadoveanu\"                          14         14      0   100,00   6,71",
+      "candidats": 14,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.71
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

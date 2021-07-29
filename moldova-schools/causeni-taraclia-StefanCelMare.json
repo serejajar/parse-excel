@@ -1,0 +1,63 @@
+{
+  "id": "causeni-taraclia-StefanCelMare",
+  "search": "stefan cel mare",
+  "address": {
+    "district": "causeni",
+    "city": "taraclia"
+  },
+  "name": {
+    "ro": "liceul teoretic \"stefan cel mare si sfint\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "268   CAUSENI        TARACLIA            LICEUL TEORETIC \"ŞTEFAN CEL MARE ŞI SFÎNT\"              41   25   16   60.98   6.14",
+      "candidats": 41,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.14
+    },
+    {
+      "year": "2016",
+      "text": "251   CAUSENI        TARACLIA          LICEUL TEORETIC \"ŞTEFAN CEL MARE ŞI SFÎNT\"                  31   25    6   80,65   6,34",
+      "candidats": 31,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.34
+    },
+    {
+      "year": "2016 all",
+      "text": "223   CAUSENI        TARACLIA          LICEUL TEORETIC \"ŞTEFAN CEL MARE ŞI SFÎNT\"                          44   30   14   68,18   6,18",
+      "candidats": 44,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.18
+    },
+    {
+      "year": "2017",
+      "text": "251   CAUSENI        TARACLIA        LICEUL TEORETIC \"ŞTEFAN CEL MARE ŞI SFÎNT\"                 26   21    5   80,77   6,12",
+      "candidats": 26,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.12
+    },
+    {
+      "year": "2018",
+      "text": "198   CAUSENI        TARACLIA         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN CEL MARE ŞI SFÂNT\"   13   12   1   92.31   6.60",
+      "candidats": 13,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.6
+    },
+    {
+      "year": "2019",
+      "text": "123   CAUSENI        TARACLIA         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ŞTEFAN CEL MARE ŞI SFÂNT\"               20         20         0         100.00   6.40",
+      "candidats": 20,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.4
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

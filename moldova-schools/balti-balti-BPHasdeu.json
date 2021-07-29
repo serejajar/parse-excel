@@ -1,0 +1,63 @@
+{
+  "id": "balti-balti-BPHasdeu",
+  "search": "b. ?p. ?hasdeu|petriceicu hasdeu",
+  "address": {
+    "district": "balti",
+    "city": "balti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"b.p.hasdeu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "99   BALTI          BALTI               LICEUL TEORETIC \"B.P.HAŞDEU\"                                                                  81    66   15   81.48   6.36",
+      "candidats": 81,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.36
+    },
+    {
+      "year": "2016",
+      "text": "147   BALTI          BALTI             LICEUL TEORETIC \"B.P.HAŞDEU\"                                     47    43   4   91,49   6,60",
+      "candidats": 47,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.6
+    },
+    {
+      "year": "2016 all",
+      "text": "155   BALTI          BALTI             LICEUL TEORETIC \"B.P.HAŞDEU\"                                     59    46   13   77,97   6,52",
+      "candidats": 59,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.52
+    },
+    {
+      "year": "2017",
+      "text": "193   BALTI        BALTI           LICEUL TEORETIC \"B.P.HAŞDEU\"                                     57   51   6   89,47   6,66",
+      "candidats": 57,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.66
+    },
+    {
+      "year": "2018",
+      "text": "155   BALTI          BALTI            LICEUL TEORETIC \"B.P.HAŞDEU\"                                                   85         81      4   95.29   7.04",
+      "candidats": 85,
+      "rejectedCandidats": 4,
+      "mediumNote": 7.04
+    },
+    {
+      "year": "2019",
+      "text": "160   BALTI          BALTI            LICEUL TEORETIC \"B.P. HAŞDEU\"                                  89   86   3   96.63   7.01",
+      "candidats": 89,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.01
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ialoveni-molesti-liceul",
+  "search": "molesti",
+  "address": {
+    "district": "ialoveni",
+    "city": "molesti"
+  },
+  "name": {
+    "ro": "liceul teoretic molesti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "255   IALOVENI       MOLEŞTI             Liceul Teoretic Moleşti                                 24   15    9   62.50   6.45",
+      "candidats": 24,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.45
+    },
+    {
+      "year": "2016",
+      "text": "220   IALOVENI       MOLEŞTI           Liceul Teoretic Moleşti                                     19   16    3   84,21   7,47",
+      "candidats": 19,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.47
+    },
+    {
+      "year": "2016 all",
+      "text": "184   IALOVENI       MOLEŞTI           Liceul Teoretic Moleşti                                          23    17    6   73,91   7,37",
+      "candidats": 23,
+      "rejectedCandidats": 6,
+      "mediumNote": 7.37
+    },
+    {
+      "year": "2017",
+      "text": "30   IALOVENI         MOLEŞTI         Liceul Teoretic Moleşti                                                 9         9        0       100,00    7,00",
+      "candidats": 9,
+      "rejectedCandidats": 0,
+      "mediumNote": 7
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-buiucani-NDadiani",
+  "search": "dadiani",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"principesa natalia dadiani\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "23   CHISINAU       BUIUCANI   Instituţia Publică Liceul Teoretic \"Principesa Natalia Dadiani\"           71        69           2        97.18    7.15",
+      "candidats": 71,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.15
+    },
+    {
+      "year": "2016",
+      "text": "108   CHISINAU       BUIUCANI    Instituţia Publică Liceul Teoretic \"Principesa Natalia Dadiani\"                       58    55   3   94,83   7,14",
+      "candidats": 58,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.14
+    },
+    {
+      "year": "2016 all",
+      "text": " 50   CHISINAU       BUIUCANI    Instituţia Publică Liceul Teoretic \"Principesa Natalia Dadiani\"                       59    55    4   93,22   7,14",
+      "candidats": 59,
+      "rejectedCandidats": 4,
+      "mediumNote": 7.14
+    },
+    {
+      "year": "2017",
+      "text": "24   CHISINAU         BUIUCANI   Instituţia Publică Liceul Teoretic \"Principesa Natalia Dadiani\"      63        63        0       100,00    7,13",
+      "candidats": 63,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.13
+    },
+    {
+      "year": "2018",
+      "text": "56   CHISINAU       BUIUCANI   Instituţia Publică Liceul Teoretic \"Principesa Natalia Dadiani\"   87   87   0   100.00   6.99",
+      "candidats": 87,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.99
+    },
+    {
+      "year": "2019",
+      "text": "146   CHISINAU       BUIUCANI   Instituţia Publică Liceul Teoretic \"Principesa Natalia Dadiani\"             82         80         2          97.56   7.18",
+      "candidats": 82,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.18
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

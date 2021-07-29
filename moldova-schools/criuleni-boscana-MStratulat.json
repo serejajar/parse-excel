@@ -1,0 +1,49 @@
+{
+  "id": "criuleni-boscana-MStratulat",
+  "search": "stratulat",
+  "address": {
+    "district": "criuleni",
+    "city": "boscana"
+  },
+  "name": {
+    "ro": "liceul teoretic \"mihail stratulat\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "92   CRIULENI       BOŞCANA             Liceul Teoretic \"Mihail Stratulat\"                                                            57    47   10   82.46   6.34",
+      "candidats": 57,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.34
+    },
+    {
+      "year": "2016",
+      "text": "128   CRIULENI       BOŞCANA           Liceul Teoretic \"Mihail Stratulat\"                               29    27   2   93,10   6,24",
+      "candidats": 29,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.24
+    },
+    {
+      "year": "2016 all",
+      "text": "207   CRIULENI       BOŞCANA           Liceul Teoretic \"Mihail Stratulat\"                                  47   33   14   70,21   6,09",
+      "candidats": 47,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2019",
+      "text": "270   CRIULENI       BOŞCANA          Liceul Teoretic \"Mihai Stratulat\"                            24    19    5   79.17   6.05",
+      "candidats": 24,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.05
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

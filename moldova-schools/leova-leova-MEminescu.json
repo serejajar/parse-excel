@@ -1,0 +1,62 @@
+{
+  "id": "leova-leova-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "leova",
+    "city": "leova"
+  },
+  "name": {
+    "ro": "liceul teoretic \"mihai eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "227   LEOVA          LEOVA               Liceul Teoretic \"Mihai Eminescu\"                                      86    57   29   66.28   6.55",
+      "candidats": 86,
+      "rejectedCandidats": 29,
+      "mediumNote": 6.55
+    },
+    {
+      "year": "2016",
+      "text": "160   LEOVA          LEOVA             Liceul Teoretic \"Mihai Eminescu\"                                 43    39   4   90,70   6,23",
+      "candidats": 43,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2016 all",
+      "text": "171   LEOVA          LEOVA             Liceul Teoretic \"Mihai Eminescu\"                                 61    46   15   75,41   6,14",
+      "candidats": 61,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.14
+    },
+    {
+      "year": "2017",
+      "text": "217   LEOVA          LEOVA           Liceul Teoretic \"Mihai Eminescu\"                                     37   32    5   86,49   6,08",
+      "candidats": 37,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.08
+    },
+    {
+      "year": "2018",
+      "text": "85   LEOVA          LEOVA            Liceul Teoretic \"Mihai Eminescu\"                                33         33   0   100.00   6.48",
+      "candidats": 33,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.48
+    },
+    {
+      "year": "2019",
+      "text": "112   LEOVA          LEOVA            Liceul Teoretic \"Mihai Eminescu\"                                41         41    0   100.00   6.64",
+      "candidats": 41,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.64
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

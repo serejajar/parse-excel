@@ -1,0 +1,56 @@
+{
+  "id": "balti-balti-GCosbuc",
+  "search": "cosbuc",
+  "address": {
+    "district": "balti",
+    "city": "balti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"g.cosbuc\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "75   BALTI          BALTI               LICEUL TEORETIC \"G.COŞBUC\"                                                                    72    62   10   86.11   6.83",
+      "candidats": 72,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.83
+    },
+    {
+      "year": "2016",
+      "text": "101   BALTI          BALTI             LICEUL TEORETIC \"G.COŞBUC\"                                                            42    40   2   95,24   7,16",
+      "candidats": 42,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.16
+    },
+    {
+      "year": "2016 all",
+      "text": " 56   BALTI          BALTI             LICEUL TEORETIC \"G.COŞBUC\"                                                            46    42    4   91,30   7,07",
+      "candidats": 46,
+      "rejectedCandidats": 4,
+      "mediumNote": 7.07
+    },
+    {
+      "year": "2018",
+      "text": "25   BALTI            BALTI            LICEUL TEORETIC \"G.COŞBUC\"                                                    57        57        0       100.00    7.41",
+      "candidats": 57,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.41
+    },
+    {
+      "year": "2019",
+      "text": "63   BALTI          BALTI            LICEUL TEORETIC \"G.COŞBUC\"                                        53    53   0   100.00   7.16",
+      "candidats": 53,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.16
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

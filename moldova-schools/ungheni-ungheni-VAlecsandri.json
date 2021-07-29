@@ -1,0 +1,63 @@
+{
+  "id": "ungheni-ungheni-VAlecsandri",
+  "search": "alecsandri",
+  "address": {
+    "district": "ungheni",
+    "city": "ungheni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"vasile alecsandri\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "38   UNGHENI        UNGHENI             LICEUL TEORETIC \"VASILE ALECSANDRI\"                                       88        82           6        93.18    7.16",
+      "candidats": 88,
+      "rejectedCandidats": 6,
+      "mediumNote": 7.16
+    },
+    {
+      "year": "2016",
+      "text": "131   UNGHENI        UNGHENI           LICEUL TEORETIC \"VASILE ALECSANDRI\"                              69    64   5   92,75   7,24",
+      "candidats": 69,
+      "rejectedCandidats": 5,
+      "mediumNote": 7.24
+    },
+    {
+      "year": "2016 all",
+      "text": " 75   UNGHENI        UNGHENI           LICEUL TEORETIC \"VASILE ALECSANDRI\"                                                   73    65    8   89,04   7,21",
+      "candidats": 73,
+      "rejectedCandidats": 8,
+      "mediumNote": 7.21
+    },
+    {
+      "year": "2017",
+      "text": "18   UNGHENI          UNGHENI         LICEUL TEORETIC \"VASILE ALECSANDRI\"                                  59        59        0       100,00    7,29",
+      "candidats": 59,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.29
+    },
+    {
+      "year": "2018",
+      "text": "130   UNGHENI        UNGHENI          LICEUL TEORETIC \"VASILE ALECSANDRI\"                                            73         71      2   97.26   7.87",
+      "candidats": 73,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.87
+    },
+    {
+      "year": "2019",
+      "text": "155   UNGHENI        UNGHENI          LICEUL TEORETIC \"VASILE ALECSANDRI\"                                         68         66         2          97.06   7.84",
+      "candidats": 68,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.84
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-buiucani-evrica",
+  "search": "evrica",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "liceul \"evrica\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "10   CHISINAU       BUIUCANI   Liceul \"Evrica\"                                                            2          2          0      100.00     7.00",
+      "candidats": 2,
+      "rejectedCandidats": 0,
+      "mediumNote": 7
+    },
+    {
+      "year": "2016",
+      "text": "21   CHISINAU       BUIUCANI    Liceul \"Evrica\"                                                      10          10             0      100,00      7,02",
+      "candidats": 10,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.02
+    },
+    {
+      "year": "2016 all",
+      "text": "16   CHISINAU       BUIUCANI    Liceul \"Evrica\"                                                      10          10             0      100,00      7,02",
+      "candidats": 10,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.02
+    },
+    {
+      "year": "2017",
+      "text": "5   CHISINAU         BUIUCANI   Liceul \"Evrica\"                                                       2         2        0       100,00    8,00",
+      "candidats": 2,
+      "rejectedCandidats": 0,
+      "mediumNote": 8
+    },
+    {
+      "year": "2018",
+      "text": "15   CHISINAU         BUIUCANI   Liceul \"Evrica\"                                                               10        10        0       100.00    7.56",
+      "candidats": 10,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.56
+    },
+    {
+      "year": "2019",
+      "text": "28   CHISINAU         BUIUCANI   Liceul \"Evrica\"                                                                8         8        0       100.00    7.53",
+      "candidats": 8,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.53
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

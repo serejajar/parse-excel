@@ -1,0 +1,62 @@
+{
+  "id": "dubasari-cocieri-VIovita",
+  "search": "iovita",
+  "address": {
+    "district": "dubasari",
+    "city": "cocieri"
+  },
+  "name": {
+    "ro": "liceul teoretic \"vlad iovita\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "282   DUBĂSARI       COCIERI             Liceul Teoretic \"Vlad Ioviţă\"                           44   26   18   59.09   6.28",
+      "candidats": 44,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.28
+    },
+    {
+      "year": "2016",
+      "text": "99   DUBĂSARI       COCIERI           Liceul Teoretic \"Vlad Ioviţă\"                                                         22    21   1   95,45   6,56",
+      "candidats": 22,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2016 all",
+      "text": " 57   DUBĂSARI       COCIERI           Liceul Teoretic \"Vlad Ioviţă\"                                                         34    31    3   91,18   6,35",
+      "candidats": 34,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.35
+    },
+    {
+      "year": "2017",
+      "text": "278   DUBĂSARI       COCIERI         Liceul Teoretic \"Vlad Ioviţă\"                              13    9    4   69,23   6,17",
+      "candidats": 13,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.17
+    },
+    {
+      "year": "2018",
+      "text": "87   DUBĂSARI       COCIERI          Liceul Teoretic \"Vlad Ioviţă\"                                   15         15   0   100.00   6.45",
+      "candidats": 15,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.45
+    },
+    {
+      "year": "2019",
+      "text": "224   DUBĂSARI       COCIERI          Liceul Teoretic \"Vlad Ioviţă\"                                                 10         9   1   90.00   6.36",
+      "candidats": 10,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.36
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

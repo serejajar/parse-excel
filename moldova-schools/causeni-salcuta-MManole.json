@@ -1,0 +1,62 @@
+{
+  "id": "causeni-salcuta-MManole",
+  "search": "manole",
+  "address": {
+    "district": "causeni",
+    "city": "salcuta"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m.manole\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "377   CAUSENI        SĂLCUŢA             LICEUL TEORETIC \"M.MANOLE\"                                       27   10    17   37.04   6.50",
+      "candidats": 27,
+      "rejectedCandidats": 17,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016",
+      "text": "201   CAUSENI        SĂLCUŢA           LICEUL TEORETIC \"M.MANOLE\"                                 24    21    3   87,50   6,39",
+      "candidats": 24,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.39
+    },
+    {
+      "year": "2016 all",
+      "text": "230   CAUSENI        SĂLCUŢA           LICEUL TEORETIC \"M.MANOLE\"                                          37   25   12   67,57   6,25",
+      "candidats": 37,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2017",
+      "text": "218   CAUSENI        SĂLCUŢA         LICEUL TEORETIC \"M.MANOLE\"                                           22   19    3   86,36   6,24",
+      "candidats": 22,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.24
+    },
+    {
+      "year": "2018",
+      "text": "205   CAUSENI        SĂLCUŢA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MEŞTERUL MANOLE\"           24   22    2   91.67   6.55",
+      "candidats": 24,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.55
+    },
+    {
+      "year": "2019",
+      "text": "22   CAUSENI          SĂLCUŢA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MEŞTERUL MANOLE\"                          14        14        0       100.00    7.66",
+      "candidats": 14,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.66
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

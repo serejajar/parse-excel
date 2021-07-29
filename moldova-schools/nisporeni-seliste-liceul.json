@@ -1,0 +1,41 @@
+{
+  "id": "nisporeni-seliste-liceul",
+  "search": "",
+  "address": {
+    "district": "nisporeni",
+    "city": "seliste"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic seliste",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "413   NISPORENI      SELIŞTE             Instituţia Publică Liceul Teoretic Selişte    4   0    4    0.00   0",
+      "candidats": 4,
+      "rejectedCandidats": 4,
+      "mediumNote": 0
+    },
+    {
+      "year": "2016",
+      "text": "109   NISPORENI      SELIŞTE           Instituţia Publică Liceul Teoretic Selişte                                            18    17   1   94,44   6,40",
+      "candidats": 18,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2016 all",
+      "text": " 66   NISPORENI      SELIŞTE           Instituţia Publică Liceul Teoretic Selişte                                            20    18    2   90,00   6,32",
+      "candidats": 20,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.32
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

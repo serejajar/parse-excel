@@ -1,0 +1,50 @@
+{
+  "id": "dubasari-dubasari-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "dubasari",
+    "city": "dubasari"
+  },
+  "name": {
+    "ro": "liceul teoretic \"mihai eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "83   DUBĂSARI       DUBĂSARI            Liceul Teoretic \"Mihai Eminescu\"                                                              87    73   14   83.91   6.30",
+      "candidats": 87,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.3
+    },
+    {
+      "year": "2016",
+      "text": "35   DUBĂSARI       DUBĂSARI          Liceul Teoretic \"Mihai Eminescu\"                                     48          48             0      100,00      6,77",
+      "candidats": 48,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.77
+    },
+    {
+      "year": "2016 all",
+      "text": "36   DUBĂSARI       DUBĂSARI          Liceul Teoretic \"Mihai Eminescu\"                                     59          57             2       96,61      6,66",
+      "candidats": 59,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.66
+    },
+    {
+      "year": "2017",
+      "text": "276   DUBĂSARI       DUBĂSARI        Liceul Teoretic \"Mihai Eminescu\"                           48   34   14   70,83   6,49",
+      "candidats": 48,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.49
+    }
+  ],
+  "langs": [
+    "romana",
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

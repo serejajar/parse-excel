@@ -1,0 +1,63 @@
+{
+  "id": "criuleni-malaiestiinoi-liceul",
+  "search": "malaiesti",
+  "address": {
+    "district": "criuleni",
+    "city": "malaiestiinoi"
+  },
+  "name": {
+    "ro": "liceul teoretic malaiesti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "176   CRIULENI       MĂLĂIEŞTII NOI        Liceul Teoretic MĂLĂIEŞTI                                        23   17    6   73.91   6.16",
+      "candidats": 23,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.16
+    },
+    {
+      "year": "2016",
+      "text": "338   CRIULENI       MĂLĂIEŞTII NOI    Liceul Teoretic MĂLĂIEŞTI                                             19     9    10   47,37   6,47",
+      "candidats": 19,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.47
+    },
+    {
+      "year": "2016 all",
+      "text": "333   CRIULENI       MĂLĂIEŞTII NOI    Liceul Teoretic MĂLĂIEŞTI                                  22     9    13   40,91   6,47",
+      "candidats": 22,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.47
+    },
+    {
+      "year": "2017",
+      "text": "234   CRIULENI       MĂLĂIEŞTII NOI    Liceul Teoretic MĂLĂIEŞTI                                               18   15    3   83,33   6,02",
+      "candidats": 18,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.02
+    },
+    {
+      "year": "2018",
+      "text": "277   CRIULENI       MĂLĂIEŞTII NOI    Liceul Teoretic MĂLĂIEŞTI                                        28    21    7   75.00   6.35",
+      "candidats": 28,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.35
+    },
+    {
+      "year": "2019",
+      "text": "248   CRIULENI       MĂLĂIEŞTII NOI    Liceul Teoretic MĂLĂIEŞTI                                        15    13    2   86.67   6.71",
+      "candidats": 15,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.71
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

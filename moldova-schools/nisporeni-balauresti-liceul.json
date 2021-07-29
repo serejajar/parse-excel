@@ -1,0 +1,34 @@
+{
+  "id": "nisporeni-balauresti-liceul",
+  "search": "",
+  "address": {
+    "district": "nisporeni",
+    "city": "balauresti"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic balauresti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2016",
+      "text": "182   NISPORENI      BĂLĂUREŞTI        Instituţia Publică Liceul Teoretic Bălăureşti              18    16    2   88,89   6,44",
+      "candidats": 18,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2016 all",
+      "text": " 72   NISPORENI      BĂLĂUREŞTI        Instituţia Publică Liceul Teoretic Bălăureşti                                         19    17    2   89,47   6,40",
+      "candidats": 19,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.4
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

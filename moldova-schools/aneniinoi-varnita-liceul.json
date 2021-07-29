@@ -1,0 +1,62 @@
+{
+  "id": "aneniinoi-varnita-liceul",
+  "search": "liceul",
+  "address": {
+    "district": "aneniinoi",
+    "city": "varnita"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic varnita",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "74   ANENIINOI     VARNIŢA             Instituţie Publică Liceul Teoretic Varniţa                                                    44    38    6   86.36   6.38",
+      "candidats": 44,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2016",
+      "text": "98   ANENIINOI     VARNIŢA           Instituţie Publică Liceul Teoretic Varniţa                                            22    21   1   95,45   7,27",
+      "candidats": 22,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.27
+    },
+    {
+      "year": "2016 all",
+      "text": " 52   ANENIINOI     VARNIŢA           Instituţie Publică Liceul Teoretic Varniţa                                            25    23    2   92,00   7,11",
+      "candidats": 25,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.11
+    },
+    {
+      "year": "2017",
+      "text": "173   ANENIINOI   VARNIŢA         Instituţie Publică Liceul Teoretic Varniţa                         11   10   1   90,91   7,18",
+      "candidats": 11,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.18
+    },
+    {
+      "year": "2018",
+      "text": "29   ANENIINOI       VARNIŢA          Instituţie Publică Liceul Teoretic Varniţa                                      12        12        0       100.00    7.35",
+      "candidats": 12,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.35
+    },
+    {
+      "year": "2019",
+      "text": "43   ANENIINOI     VARNIŢA          Instituţie Publică Liceul Teoretic Varniţa                          21    21   0   100.00   7.31",
+      "candidats": 21,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.31
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

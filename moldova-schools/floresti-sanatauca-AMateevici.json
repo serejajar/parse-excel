@@ -1,0 +1,49 @@
+{
+  "id": "floresti-sanatauca-AMateevici",
+  "search": "mateevici",
+  "address": {
+    "district": "floresti",
+    "city": "sanatauca"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a. mateevici\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "214   FLOREŞTI       SĂNĂTĂUCA           Liceul Teoretic \"A. Mateevici\"                                        40    27   13   67.50   6.31",
+      "candidats": 40,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.31
+    },
+    {
+      "year": "2016",
+      "text": "164   FLOREŞTI       SĂNĂTĂUCA         Liceul Teoretic \"A. Mateevici\"                                   10     9   1   90,00   6,28",
+      "candidats": 10,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.28
+    },
+    {
+      "year": "2016 all",
+      "text": "190   FLOREŞTI       SĂNĂTĂUCA         Liceul Teoretic \"A. Mateevici\"                                   15    11    4   73,33   6,18",
+      "candidats": 15,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.18
+    },
+    {
+      "year": "2017",
+      "text": "79   FLOREŞTI       SĂNĂTĂUCA       Liceul Teoretic \"A. Mateevici\"                                 10    10   0   100,00   5,80",
+      "candidats": 10,
+      "rejectedCandidats": 0,
+      "mediumNote": 5.8
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

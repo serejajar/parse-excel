@@ -1,0 +1,62 @@
+{
+  "id": "ungheni-ungheni-APuskin",
+  "search": "puskin",
+  "address": {
+    "district": "ungheni",
+    "city": "ungheni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a. puskin\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "300   UNGHENI        UNGHENI             LICEUL TEORETIC \"A. PUŞKIN\"                             57   32   25   56.14   6.30",
+      "candidats": 57,
+      "rejectedCandidats": 25,
+      "mediumNote": 6.3
+    },
+    {
+      "year": "2016",
+      "text": "298   UNGHENI        UNGHENI           LICEUL TEORETIC \"ALEXANDR PUŞKIN\"                                     32    22    10   68,75   6,13",
+      "candidats": 32,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.13
+    },
+    {
+      "year": "2016 all",
+      "text": "324   UNGHENI        UNGHENI           LICEUL TEORETIC \"ALEXANDR PUŞKIN\"                          69    31    38   44,93   5,92",
+      "candidats": 69,
+      "rejectedCandidats": 38,
+      "mediumNote": 5.92
+    },
+    {
+      "year": "2017",
+      "text": "264   UNGHENI        UNGHENI         LICEUL TEORETIC \"ALEXANDR PUŞKIN\"                          29   22    7   75,86   6,55",
+      "candidats": 29,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.55
+    },
+    {
+      "year": "2018",
+      "text": "89   UNGHENI        UNGHENI          LICEUL TEORETIC \"ALEXANDR PUŞKIN\"                               23         23   0   100.00   6.43",
+      "candidats": 23,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.43
+    },
+    {
+      "year": "2019",
+      "text": "167   UNGHENI        UNGHENI          LICEUL TEORETIC \"ALEXANDR PUŞKIN\"                              25   24   1   96.00   6.55",
+      "candidats": 25,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.55
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

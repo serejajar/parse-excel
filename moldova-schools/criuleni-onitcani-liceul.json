@@ -1,0 +1,28 @@
+{
+  "id": "criuleni-onitcani-liceul",
+  "search": "onitcani",
+  "address": {
+    "district": "criuleni",
+    "city": "onitcani"
+  },
+  "name": {
+    "ro": "liceul teoretic onitcani",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "208   CRIULENI       ONIŢCANI            Liceul Teoretic ONIŢCANI                                              36    25   11   69.44   6.89",
+      "candidats": 36,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.89
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-centru-universul",
+  "search": "universul",
+  "address": {
+    "district": "chisinau",
+    "city": "centru"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"universul\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "338   CHISINAU       CENTRU     Instituţia Publică Liceul Teoretic \"Universul\"                   76    37    39   48.68   5.90",
+      "candidats": 76,
+      "rejectedCandidats": 39,
+      "mediumNote": 5.9
+    },
+    {
+      "year": "2016",
+      "text": "322   CHISINAU       CENTRU    Instituţia Publică Liceul Teoretic \"Universul\"                          48    28    20   58,33   5,93",
+      "candidats": 48,
+      "rejectedCandidats": 20,
+      "mediumNote": 5.93
+    },
+    {
+      "year": "2016 all",
+      "text": "337   CHISINAU       CENTRU    Instituţia Publică Liceul Teoretic \"Universul\"               76    30    46   39,47   5,96",
+      "candidats": 76,
+      "rejectedCandidats": 46,
+      "mediumNote": 5.96
+    },
+    {
+      "year": "2017",
+      "text": "255   CHISINAU       CENTRU   Instituţia Publică Liceul Teoretic \"Universul\"              30   24    6   80,00   5,90",
+      "candidats": 30,
+      "rejectedCandidats": 6,
+      "mediumNote": 5.9
+    },
+    {
+      "year": "2018",
+      "text": "247   CHISINAU       CENTRU   Instituţia Publică Liceul Teoretic \"Universul\"                 42    36    6   85.71   6.49",
+      "candidats": 42,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2019",
+      "text": "267   CHISINAU       CENTRU   Instituţia Publică Liceul Teoretic \"Universul\"                 46    37    9   80.43   6.08",
+      "candidats": 46,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.08
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "edinet-cupcini-SKovalevskaia",
+  "search": "kovalevskaia",
+  "address": {
+    "district": "edinet",
+    "city": "cupcini"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic \"s.kovalevskaia\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "314   EDINET         CUPCINI             Instituţie Publică Liceul Teoretic \"S.Kovalevskaia\"              13     7     6   53.85   6.00",
+      "candidats": 13,
+      "rejectedCandidats": 6,
+      "mediumNote": 6
+    },
+    {
+      "year": "2016 all",
+      "text": "379   EDINET         CUPCINI           Instituţie Publică Liceul Teoretic \"S.Kovalevskaia\"                 14    0    14    0,00   0",
+      "candidats": 14,
+      "rejectedCandidats": 14,
+      "mediumNote": 0
+    },
+    {
+      "year": "2018",
+      "text": "191   EDINET         CUPCINI          Instituţie Publică Liceul Teoretic \"Sofia Kovalevskaia\"         14   13   1   92.86   6.66",
+      "candidats": 14,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.66
+    },
+    {
+      "year": "2019",
+      "text": "107   EDINET         CUPCINI          Instituţie Publică Liceul Teoretic \"Sofia Kovalevskaia\"         18         18    0   100.00   6.71",
+      "candidats": 18,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.71
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

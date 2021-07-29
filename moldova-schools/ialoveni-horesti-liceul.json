@@ -1,0 +1,41 @@
+{
+  "id": "ialoveni-horesti-liceul",
+  "search": "horesti",
+  "address": {
+    "district": "ialoveni",
+    "city": "horesti"
+  },
+  "name": {
+    "ro": "liceul teoretic horesti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "50   IALOVENI       HOREŞTI             Liceul Teoretic Horeşti                                                                       23    21    2   91.30   6.31",
+      "candidats": 23,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.31
+    },
+    {
+      "year": "2016",
+      "text": "58   IALOVENI       HOREŞTI           Liceul Teoretic Horeşti                                       19    19   0   100,00   6,24",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.24
+    },
+    {
+      "year": "2016 all",
+      "text": "45   IALOVENI       HOREŞTI           Liceul Teoretic Horeşti                                              21          20             1       95,24      6,18",
+      "candidats": 21,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.18
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

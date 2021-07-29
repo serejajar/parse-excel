@@ -1,0 +1,28 @@
+{
+  "id": "hincesti-mingir-liceul",
+  "search": "mingir",
+  "address": {
+    "district": "hincesti",
+    "city": "mingir"
+  },
+  "name": {
+    "ro": "liceul teoretic mingir",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "217   HÎNCEŞTI       MINGIR              Liceul Teoretic Mingir                                                49    33   16   67.35   6.14",
+      "candidats": 49,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.14
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-botanica-prosucces",
+  "search": "succes",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "liceul teoretic \"pro succes\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "49   CHISINAU       BOTANICA   Liceul Teoretic \"Pro Succes\"                                              23        21           2        91.30    7.18",
+      "candidats": 23,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.18
+    },
+    {
+      "year": "2016",
+      "text": "23   CHISINAU       BOTANICA   Liceul Teoretic \"Pro Succes\"                                          16          16             0      100,00      6,98",
+      "candidats": 16,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.98
+    },
+    {
+      "year": "2016 all",
+      "text": "47   CHISINAU       BOTANICA   Liceul Teoretic \"Pro Succes\"                                          17          16             1       94,12      6,98",
+      "candidats": 17,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.98
+    },
+    {
+      "year": "2017",
+      "text": "206   CHISINAU       BOTANICA   Liceul Teoretic \"Pro Succes\"                                         17   15    2   88,24   6,83",
+      "candidats": 17,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.83
+    },
+    {
+      "year": "2018",
+      "text": "13   CHISINAU         BOTANICA   Liceul Teoretic \"Pro Succes\"                                                  13        13        0       100.00    7.65",
+      "candidats": 13,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.65
+    },
+    {
+      "year": "2019",
+      "text": "21   CHISINAU         BOTANICA   Liceul Teoretic \"Pro Succes\"                                                  11        11        0       100.00    7.75",
+      "candidats": 11,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.75
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

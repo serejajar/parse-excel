@@ -1,0 +1,28 @@
+{
+  "id": "hincesti-bobeica-liceul",
+  "search": "",
+  "address": {
+    "district": "hincesti",
+    "city": "bobeica"
+  },
+  "name": {
+    "ro": "liceul teoretic bobeica",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "287   HÎNCEŞTI       BOBEICA             Liceul Teoretic Bobeica                                 57   33   24   57.89   6.33",
+      "candidats": 57,
+      "rejectedCandidats": 24,
+      "mediumNote": 6.33
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

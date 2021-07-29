@@ -1,0 +1,27 @@
+{
+  "id": "drochia-cotova-liceul",
+  "search": "cotova",
+  "address": {
+    "district": "drochia",
+    "city": "cotova"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic cotova",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "157   DROCHIA        COTOVA                Instituţia Publică Liceul Teoretic Cotova                        25   19    6   76.00   6.05",
+      "candidats": 25,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.05
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

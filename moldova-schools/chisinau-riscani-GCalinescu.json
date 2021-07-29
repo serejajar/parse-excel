@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-riscani-GCalinescu",
+  "search": "calinescu",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"g.calinescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "54   CHISINAU       RISCANI    Liceul Teoretic \"G.Călinescu\"                                                                 86    78    8   90.70   6.48",
+      "candidats": 86,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.48
+    },
+    {
+      "year": "2016",
+      "text": "213   CHISINAU       RISCANI    Liceul Teoretic \"G.Călinescu\"                                60   51    9   85,00   6,77",
+      "candidats": 60,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.77
+    },
+    {
+      "year": "2016 all",
+      "text": "120   CHISINAU       RISCANI    Liceul Teoretic \"G.Călinescu\"                                 64   53   11   82,81   6,72",
+      "candidats": 64,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.72
+    },
+    {
+      "year": "2017",
+      "text": "99   CHISINAU       RISCANI    Liceul Teoretic \"G.Călinescu\"                              65    63   2   96,92    6,74",
+      "candidats": 65,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.74
+    },
+    {
+      "year": "2018",
+      "text": "176   CHISINAU       RISCANI    Liceul Teoretic \"G.Călinescu\"                                   49   46   3   93.88   7.16",
+      "candidats": 49,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.16
+    },
+    {
+      "year": "2019",
+      "text": "136   CHISINAU       RISCANI    Liceul Teoretic \"G.Călinescu\"                                               63         62         1          98.41   6.99",
+      "candidats": 63,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.99
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

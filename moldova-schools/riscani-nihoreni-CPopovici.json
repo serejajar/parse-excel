@@ -1,0 +1,64 @@
+{
+  "id": "riscani-nihoreni-CPopovici",
+  "search": "popovici",
+  "address": {
+    "district": "riscani",
+    "city": "nihoreni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"constantin popovici\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "291   RÎŞCANI        NIHORENI            LICEUL TEORETIC \"CONSTANTIN POPOVICI\"                   28   16   12   57.14   6.43",
+      "candidats": 28,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.43
+    },
+    {
+      "year": "2016",
+      "text": "328   RÎŞCANI        NIHORENI          LICEUL TEORETIC \"CONSTANTIN POPOVICI\"                                 20    11     9   55,00   6,53",
+      "candidats": 20,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.53
+    },
+    {
+      "year": "2016 all",
+      "text": "322   RÎŞCANI        NIHORENI          LICEUL TEORETIC \"CONSTANTIN POPOVICI\"                      26    12    14   46,15   6,47",
+      "candidats": 26,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.47
+    },
+    {
+      "year": "2017",
+      "text": "268   RÎŞCANI        NIHORENI        LICEUL TEORETIC \"CONSTANTIN POPOVICI\"                      16   12    4   75,00   6,08",
+      "candidats": 16,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.08
+    },
+    {
+      "year": "2018",
+      "text": "257   RÎŞCANI        NIHORENI        LICEUL TEORETIC \"CONSTANTIN POPOVICI\"                         12    10    2   83.33   6.38",
+      "candidats": 12,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2019",
+      "text": "117   RÎŞCANI        NIHORENI         LICEUL TEORETIC \"CONSTANTIN POPOVICI\"                            7          7    0   100.00   6.51",
+      "candidats": 7,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.51
+    }
+  ],
+  "langs": [
+    "rusa",
+    "ucraineana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

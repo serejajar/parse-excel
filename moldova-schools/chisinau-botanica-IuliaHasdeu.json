@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-botanica-IuliaHasdeu",
+  "search": "iulia hasdeu",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "liceul teoretic \"iulia hasdeu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "204   CHISINAU       BOTANICA            LICEUL TEORETIC \"IULIA HAŞDEU\"                                        83    58   25   69.88   6.65",
+      "candidats": 83,
+      "rejectedCandidats": 25,
+      "mediumNote": 6.65
+    },
+    {
+      "year": "2016",
+      "text": "135   CHISINAU       BOTANICA   LICEUL TEORETIC \"IULIA HAŞDEU\"                                    53    49   4   92,45   6,81",
+      "candidats": 53,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.81
+    },
+    {
+      "year": "2016 all",
+      "text": "133   CHISINAU       BOTANICA   LICEUL TEORETIC \"IULIA HAŞDEU\"                                64   52   12   81,25   6,72",
+      "candidats": 64,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.72
+    },
+    {
+      "year": "2017",
+      "text": "114   CHISINAU       BOTANICA   LICEUL TEORETIC \"IULIA HAŞDEU\"                            49    47   2   95,92    6,91",
+      "candidats": 49,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.91
+    },
+    {
+      "year": "2018",
+      "text": "65   CHISINAU       BOTANICA   LICEUL TEORETIC \"IULIA HAŞDEU\"                                    55   55   0   100.00   6.88",
+      "candidats": 55,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.88
+    },
+    {
+      "year": "2019",
+      "text": "13   CHISINAU         BOTANICA   LICEUL TEORETIC \"IULIA HAŞDEU\"                                                44        44        0       100.00    7.94",
+      "candidats": 44,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.94
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

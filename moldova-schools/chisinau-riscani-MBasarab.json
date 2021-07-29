@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-riscani-MBasarab",
+  "search": "basarab",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"matei basarab\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "145   CHISINAU       RISCANI             Liceul Teoretic \"Matei Basarab\"                                                       26    20    6   76.92   6.07",
+      "candidats": 26,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.07
+    },
+    {
+      "year": "2016",
+      "text": "264   CHISINAU       RISCANI    Liceul Teoretic \"Matei Basarab\"                                     23   18    5   78,26   6,62",
+      "candidats": 23,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.62
+    },
+    {
+      "year": "2016 all",
+      "text": "226   CHISINAU       RISCANI    Liceul Teoretic \"Matei Basarab\"                                      28   19    9   67,86   6,55",
+      "candidats": 28,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.55
+    },
+    {
+      "year": "2017",
+      "text": "246   CHISINAU       RISCANI   Liceul Teoretic \"Matei Basarab\"                                      16   13    3   81,25   7,25",
+      "candidats": 16,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.25
+    },
+    {
+      "year": "2018",
+      "text": "22   CHISINAU         RISCANI    Liceul Teoretic \"Matei Basarab\"                                               24        24        0       100.00    7.43",
+      "candidats": 24,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.43
+    },
+    {
+      "year": "2019",
+      "text": "206   CHISINAU       RISCANI    Liceul Teoretic \"Matei Basarab\"                                               26        24   2   92.31   6.59",
+      "candidats": 26,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.59
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

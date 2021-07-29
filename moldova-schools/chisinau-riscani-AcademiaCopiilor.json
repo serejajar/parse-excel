@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-riscani-AcademiaCopiilor",
+  "search": "academia copiilor",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"academia copiilor\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "72   CHISINAU       RISCANI    Liceul Teoretic \"Academia Copiilor\"                                                           22    19    3   86.36   7.39",
+      "candidats": 22,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.39
+    },
+    {
+      "year": "2016",
+      "text": "16   CHISINAU       RISCANI    Liceul Teoretic \"Academia Copiilor\"                                   20          20             0      100,00      7,29",
+      "candidats": 20,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.29
+    },
+    {
+      "year": "2016 all",
+      "text": "15   CHISINAU       RISCANI    Liceul Teoretic \"Academia Copiilor\"                                   21          21             0      100,00      7,18",
+      "candidats": 21,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.18
+    },
+    {
+      "year": "2017",
+      "text": "37   CHISINAU         RISCANI   Liceul Teoretic \"Academia Copiilor\"                                  27        27        0       100,00    6,89",
+      "candidats": 27,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.89
+    },
+    {
+      "year": "2018",
+      "text": "32   CHISINAU         RISCANI    Liceul Teoretic \"Academia Copiilor\"                                           19        19        0       100.00    7.31",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.31
+    },
+    {
+      "year": "2019",
+      "text": "157   CHISINAU       RISCANI    Instituţia Publică Liceul Teoretic \"Academia Copiilor\"                      31         30         1          96.77   7.37",
+      "candidats": 31,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.37
+    }
+  ],
+  "langs": [
+    "romana",
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

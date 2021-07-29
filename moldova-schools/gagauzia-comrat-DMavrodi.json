@@ -1,0 +1,41 @@
+{
+  "id": "gagauzia-comrat-DMavrodi",
+  "search": "mavrodi",
+  "address": {
+    "district": "gagauzia",
+    "city": "comrat"
+  },
+  "name": {
+    "ro": "liceul teoretic \"d.mavrodi\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "386   GAGAUZIA   COMRAT              LICEUL TEORETIC \"D.MAVRODI\"                                      15    5    10   33.33   5.48",
+      "candidats": 15,
+      "rejectedCandidats": 10,
+      "mediumNote": 5.48
+    },
+    {
+      "year": "2016 all",
+      "text": "352   GAGAUZIA   COMRAT            LICEUL TEORETIC \"D.MAVRODI\"                                 3     1     2   33,33   5,00",
+      "candidats": 3,
+      "rejectedCandidats": 2,
+      "mediumNote": 5
+    },
+    {
+      "year": "2018",
+      "text": "300   GAGAUZIA   COMRAT          LICEUL TEORETIC \"D.A. MAVRODI\"                             11     6    5   54.55   6.05",
+      "candidats": 11,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.05
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

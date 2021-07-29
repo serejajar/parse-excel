@@ -1,0 +1,48 @@
+{
+  "id": "orhei-peresecina-ADonici",
+  "search": "donici",
+  "address": {
+    "district": "orhei",
+    "city": "peresecina"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"alexandru donici\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "353   ORHEI          PERESECINA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALEXANDRU DONICI\"            64    28    36   43.75   5.96",
+      "candidats": 64,
+      "rejectedCandidats": 36,
+      "mediumNote": 5.96
+    },
+    {
+      "year": "2016",
+      "text": "162   ORHEI          PERESECINA        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALEXANDRU DONICI\"            20    18   2   90,00   6,85",
+      "candidats": 20,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.85
+    },
+    {
+      "year": "2016 all",
+      "text": "300   ORHEI          PERESECINA        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALEXANDRU DONICI\"                 38   21   17   55,26   6,68",
+      "candidats": 38,
+      "rejectedCandidats": 17,
+      "mediumNote": 6.68
+    },
+    {
+      "year": "2019",
+      "text": "76   ORHEI          PERESECINA       INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALEXANDRU DONICI\"             16    16   0   100.00   7.02",
+      "candidats": 16,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.02
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

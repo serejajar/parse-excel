@@ -1,0 +1,63 @@
+{
+  "id": "nisporeni-nisporeni-MEliade",
+  "search": "eliade",
+  "address": {
+    "district": "nisporeni",
+    "city": "nisporeni"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"mircea eliade\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "310   NISPORENI      NISPORENI           Instituţia Publică Liceul Teoretic \"Mircea Eliade\"              110    60    50   54.55   6.09",
+      "candidats": 110,
+      "rejectedCandidats": 50,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2016",
+      "text": "293   NISPORENI      NISPORENI        Instituţia Publică Liceul Teoretic \"Mircea Eliade\"                  64   45   19   70,31   5,91",
+      "candidats": 64,
+      "rejectedCandidats": 19,
+      "mediumNote": 5.91
+    },
+    {
+      "year": "2016 all",
+      "text": "268   NISPORENI      NISPORENI         Instituţia Publică Liceul Teoretic \"Mircea Eliade\"                    79   48   31   60,76   5,86",
+      "candidats": 79,
+      "rejectedCandidats": 31,
+      "mediumNote": 5.86
+    },
+    {
+      "year": "2017",
+      "text": "190   NISPORENI    NISPORENI       Instituţia Publică Liceul Teoretic \"Mircea Eliade\"               40   36   4   90,00   6,40",
+      "candidats": 40,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2018",
+      "text": "234   NISPORENI      NISPORENI        Instituţia Publică Liceul Teoretic \"Mircea Eliade\"             41   36    5   87.80   6.22",
+      "candidats": 41,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.22
+    },
+    {
+      "year": "2019",
+      "text": "230   NISPORENI      NISPORENI        Instituţia Publică Liceul Teoretic \"Mircea Eliade\"                            47        42   5   89.36   6.15",
+      "candidats": 47,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.15
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

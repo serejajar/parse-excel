@@ -1,0 +1,48 @@
+{
+  "id": "chisinau-colonita-GhGhimpu",
+  "search": "ghimpu",
+  "address": {
+    "district": "chisinau",
+    "city": "colonita"
+  },
+  "name": {
+    "ro": "liceul teoretic \"gh.ghimpu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "201   CHISINAU       COLONIŢA              Liceul Teoretic \"Gh.Ghimpu\"                                      30   21    9   70.00   6.40",
+      "candidats": 30,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2016 all",
+      "text": "293   CHISINAU       COLONIŢA          Liceul Teoretic \"Gh.Ghimpu\"                                            7    4    3   57,14   5,19",
+      "candidats": 7,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.19
+    },
+    {
+      "year": "2018",
+      "text": "289   CHISINAU       COLONIŢA        Liceul Teoretic \"Gh.Ghimpu\"                                19    13    6   68.42   6.46",
+      "candidats": 19,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.46
+    },
+    {
+      "year": "2019",
+      "text": "176   CHISINAU       COLONIŢA         Liceul Teoretic \"Gh.Ghimpu\"                                    21   20   1   95.24   6.71",
+      "candidats": 21,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.71
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

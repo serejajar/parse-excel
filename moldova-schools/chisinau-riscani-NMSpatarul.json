@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-riscani-NMSpatarul",
+  "search": "milescu spatarul",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"nicolae milescu spatarul\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "43   CHISINAU       RISCANI    Liceul Teoretic \"Nicolae Milescu Spătarul\"                                55        51           4        92.73    7.04",
+      "candidats": 55,
+      "rejectedCandidats": 4,
+      "mediumNote": 7.04
+    },
+    {
+      "year": "2016",
+      "text": "187   CHISINAU       RISCANI    Liceul Teoretic \"Nicolae Milescu Spătarul\"                  44    39    5   88,64   6,98",
+      "candidats": 44,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.98
+    },
+    {
+      "year": "2016 all",
+      "text": "108   CHISINAU       RISCANI    Liceul Teoretic \"Nicolae Milescu Spătarul\"                    47   40    7   85,11   6,95",
+      "candidats": 47,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.95
+    },
+    {
+      "year": "2017",
+      "text": "20   CHISINAU         RISCANI   Instituţia Publică Liceul Teoretic \"Nicolae Milescu Spătarul\"        35        35        0       100,00    7,24",
+      "candidats": 35,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.24
+    },
+    {
+      "year": "2018",
+      "text": "48   CHISINAU       RISCANI    Instituţia Publică Liceul Teoretic \"Nicolae Milescu Spătarul\"     41   41   0   100.00   7.09",
+      "candidats": 41,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.09
+    },
+    {
+      "year": "2019",
+      "text": "26   CHISINAU         RISCANI    Instituţia Publică Liceul Teoretic \"Nicolae Milescu Spătarul\"                 37        37        0       100.00    7.56",
+      "candidats": 37,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.56
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

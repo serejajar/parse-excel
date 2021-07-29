@@ -1,0 +1,41 @@
+{
+  "id": "briceni-lipcani-liceul",
+  "search": "lipcani",
+  "address": {
+    "district": "briceni",
+    "city": "lipcani"
+  },
+  "name": {
+    "ro": "liceul teoretic lipcani",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "265   BRICENI        LIPCANI             Liceul Teoretic Lipcani                                 36   22   14   61.11   6.65",
+      "candidats": 36,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.65
+    },
+    {
+      "year": "2016",
+      "text": "233   BRICENI        LIPCANI           Liceul Teoretic Lipcani                                     18   15    3   83,33   6,58",
+      "candidats": 18,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2016 all",
+      "text": "304   BRICENI        LIPCANI           Liceul Teoretic Lipcani                                               28   15   13   53,57   6,58",
+      "candidats": 28,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.58
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

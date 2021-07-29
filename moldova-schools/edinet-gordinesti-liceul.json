@@ -1,0 +1,55 @@
+{
+  "id": "edinet-gordinesti-liceul",
+  "search": "",
+  "address": {
+    "district": "edinet",
+    "city": "gordinesti"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic gordinesti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "280   EDINET         GORDINEŞTI          Instituţie Publică Liceul Teoretic Gordineşti           32   19   13   59.38   5.87",
+      "candidats": 32,
+      "rejectedCandidats": 13,
+      "mediumNote": 5.87
+    },
+    {
+      "year": "2016 all",
+      "text": "360   EDINET         GORDINEŞTI        Instituţie Publică Liceul Teoretic Gordineşti              12     3     9   25,00   5,25",
+      "candidats": 12,
+      "rejectedCandidats": 9,
+      "mediumNote": 5.25
+    },
+    {
+      "year": "2017",
+      "text": "280   EDINET         GORDINEŞTI      Instituţie Publică Liceul Teoretic Gordineşti                21   14    7   66,67   6,79",
+      "candidats": 21,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.79
+    },
+    {
+      "year": "2018",
+      "text": "173   EDINET         GORDINEŞTI       Instituţie Publică Liceul Teoretic Gordineşti                     17   16   1   94.12   6.39",
+      "candidats": 17,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.39
+    },
+    {
+      "year": "2019",
+      "text": "199   EDINET         GORDINEŞTI       Instituţie Publică Liceul Teoretic Gordineşti                    15   14   1   93.33   6.34",
+      "candidats": 15,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.34
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

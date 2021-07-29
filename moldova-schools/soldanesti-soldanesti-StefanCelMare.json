@@ -1,0 +1,63 @@
+{
+  "id": "soldanesti-soldanesti-StefanCelMare",
+  "search": "stefan cel mare",
+  "address": {
+    "district": "soldanesti",
+    "city": "soldanesti"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic \"stefan cel mare\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "366   ŞOLDĂNEŞTI     ŞOLDĂNEŞTI          Instituţie Publică Liceul teoretic \"Ştefan cel Mare\"             30   12    18   40.00   5.46",
+      "candidats": 30,
+      "rejectedCandidats": 18,
+      "mediumNote": 5.46
+    },
+    {
+      "year": "2016",
+      "text": "252   ŞOLDĂNEŞTI     ŞOLDĂNEŞTI        Instituţia Publică Liceul teoretic \"Ştefan cel Mare\"        36   29    7   80,56   6,25",
+      "candidats": 36,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2016 all",
+      "text": "163   ŞOLDĂNEŞTI     ŞOLDĂNEŞTI        Instituţia Publică Liceul teoretic \"Ştefan cel Mare\"             39    30    9   76,92   6,23",
+      "candidats": 39,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2017",
+      "text": "213   ŞOLDĂNEŞTI     ŞOLDĂNEŞTI      Instituţia Publică Liceul teoretic \"Ştefan cel Mare\"                 24   21    3   87,50   6,10",
+      "candidats": 24,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.1
+    },
+    {
+      "year": "2018",
+      "text": "206   ŞOLDĂNEŞTI     ŞOLDĂNEŞTI       Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"           24   22    2   91.67   6.32",
+      "candidats": 24,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.32
+    },
+    {
+      "year": "2019",
+      "text": "255   ŞOLDĂNEŞTI     ŞOLDĂNEŞTI       Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"         39    33    6   84.62   6.29",
+      "candidats": 39,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.29
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

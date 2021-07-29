@@ -1,0 +1,48 @@
+{
+  "id": "basarabeasca-sadaclia-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "basarabeasca",
+    "city": "sadaclia"
+  },
+  "name": {
+    "ro": "liceul teoretic \" mihai eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "409   BASARABEASCA   SADACLIA            LICEUL TEORETIC \" MIHAI EMINESCU\"             4    0    4    0.00   0",
+      "candidats": 4,
+      "rejectedCandidats": 4,
+      "mediumNote": 0
+    },
+    {
+      "year": "2016 all",
+      "text": "371   BASARABEASCA   SADACLIA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \" MIHAI EMINESCU\"                 1    0     1    0,00   0",
+      "candidats": 1,
+      "rejectedCandidats": 1,
+      "mediumNote": 0
+    },
+    {
+      "year": "2017",
+      "text": "230   BASARABEASCA   SADACLIA        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \" MIHAI EMINESCU\"                 19   16    3   84,21   6,69",
+      "candidats": 19,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.69
+    },
+    {
+      "year": "2018",
+      "text": "44   BASARABEASCA   SADACLIA         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \" MIHAI EMINESCU\"               8    8   0   100.00   7.13",
+      "candidats": 8,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.13
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "calarasi-tibirica-liceul",
+  "search": "tibirica",
+  "address": {
+    "district": "calarasi",
+    "city": "tibirica"
+  },
+  "name": {
+    "ro": "liceul teoretic tibirica",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "169   CĂLĂRAŞI       ŢIBIRICA              Liceul Teoretic Ţibirica                                          4    3    1   75.00   5.08",
+      "candidats": 4,
+      "rejectedCandidats": 1,
+      "mediumNote": 5.08
+    },
+    {
+      "year": "2016",
+      "text": "299   CĂLĂRAŞI       ŢIBIRICA          Instituţia Publică Liceul Teoretic Ţibirica                           22    15     7   68,18   6,17",
+      "candidats": 22,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.17
+    },
+    {
+      "year": "2016 all",
+      "text": "259   CĂLĂRAŞI       ŢIBIRICA          Instituţia Publică Liceul Teoretic Ţibirica                           24   15    9   62,50   6,17",
+      "candidats": 24,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.17
+    },
+    {
+      "year": "2018",
+      "text": "283   CĂLĂRAŞI       ŢIBIRICA        Instituţia Publică Liceul Teoretic Ţibirica                  17    12    5   70.59   6.48",
+      "candidats": 17,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.48
+    },
+    {
+      "year": "2019",
+      "text": "91   CĂLĂRAŞI       ŢIBIRICA         Instituţia Publică Liceul Teoretic Ţibirica                       12         12    0   100.00   6.90",
+      "candidats": 12,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.9
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

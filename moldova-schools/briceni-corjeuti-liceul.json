@@ -1,0 +1,62 @@
+{
+  "id": "briceni-corjeuti-liceul",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "corjeuti"
+  },
+  "name": {
+    "ro": "liceul teoretic corjeuti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "288   BRICENI        CORJEUŢI            Liceul Teoretic Corjeuţi                                38   22   16   57.89   6.09",
+      "candidats": 38,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2016",
+      "text": "241   BRICENI        CORJEUŢI          Liceul Teoretic Corjeuţi                                    17   14    3   82,35   6,57",
+      "candidats": 17,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2016 all",
+      "text": "250   BRICENI        CORJEUŢI          Liceul Teoretic Corjeuţi                                            22   14    8   63,64   6,57",
+      "candidats": 22,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2017",
+      "text": "74   BRICENI        CORJEUŢI        Liceul Teoretic Corjeuţi                                         12    12   0   100,00   6,23",
+      "candidats": 12,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2018",
+      "text": "71   BRICENI        CORJEUŢI         Liceul Teoretic Corjeuţi                                            14   14   0   100.00   6.82",
+      "candidats": 14,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.82
+    },
+    {
+      "year": "2019",
+      "text": "196   BRICENI        CORJEUŢI         Liceul Teoretic Corjeuţi                                         16   15   1   93.75   6.63",
+      "candidats": 16,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.63
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "balti-balti-VMaiakovski",
+  "search": "maiakovski",
+  "address": {
+    "district": "balti",
+    "city": "balti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"v.maiakovski\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "239   BALTI          BALTI               LICEUL TEORETIC \"V.MAIAKOVSKI\"                                        34    22   12   64.71   6.62",
+      "candidats": 34,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.62
+    },
+    {
+      "year": "2016",
+      "text": "42   BALTI          BALTI             LICEUL TEORETIC \"V.MAIAKOVSKI\"                                11    11   0   100,00   6,62",
+      "candidats": 11,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.62
+    },
+    {
+      "year": "2016 all",
+      "text": " 54   BALTI          BALTI             LICEUL TEORETIC \"V.MAIAKOVSKI\"                                                        12    11    1   91,67   6,62",
+      "candidats": 12,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.62
+    },
+    {
+      "year": "2018",
+      "text": "95   BALTI          BALTI            LICEUL TEORETIC \"V.MAIAKOVSKI\"                                  13         13   0   100.00   6.34",
+      "candidats": 13,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.34
+    },
+    {
+      "year": "2019",
+      "text": "220   BALTI          BALTI            LICEUL TEORETIC \"V. MAIAKOVSKI\"                                               21        19   2   90.48   6.24",
+      "candidats": 21,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.24
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

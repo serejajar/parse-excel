@@ -1,0 +1,63 @@
+{
+  "id": "aneniinoi-mereni-ENicula",
+  "search": "nicula",
+  "address": {
+    "district": "aneniinoi",
+    "city": "mereni"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic \"emil nicula\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "98   ANENIINOI     MERENI              Instituţie Publică Liceul Teoretic \"EMIL NICULA\"                                              60    49   11   81.67   6.56",
+      "candidats": 60,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2016",
+      "text": "159   ANENIINOI     MERENI            Instituţie de Învăţămînt Liceul Teoretic \"EMIL NICULA\"           43    39   4   90,70   6,54",
+      "candidats": 43,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.54
+    },
+    {
+      "year": "2016 all",
+      "text": "114   ANENIINOI     MERENI            Instituţie de Învăţămînt Liceul Teoretic \"EMIL NICULA\"       51   43    8   84,31   6,44",
+      "candidats": 51,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2017",
+      "text": "56   ANENIINOI     MERENI          Instituţie de Învăţămînt Liceul Teoretic \"EMIL NICULA\"                    27         27      0   100,00   6,57",
+      "candidats": 27,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2018",
+      "text": "233   ANENIINOI     MERENI           Instituţie de Învăţămînt Liceul Teoretic \"EMIL NICULA\"         25   22    3   88.00   6.43",
+      "candidats": 25,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.43
+    },
+    {
+      "year": "2019",
+      "text": "212   ANENIINOI     MERENI           Instituţie de Învăţămînt Liceul Teoretic \"EMIL NICULA\"                        46        42   4   91.30   6.85",
+      "candidats": 46,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.85
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

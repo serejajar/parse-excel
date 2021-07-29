@@ -1,0 +1,56 @@
+{
+  "id": "chisinau-botanica-MirceaCelBatrin",
+  "search": "mircea cel batrin",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "liceul teoretic \"mircea cel batrin\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "302   CHISINAU       BOTANICA            Liceul Teoretic \"Mircea cel Bătrîn\"                     68   38   30   55.88   5.87",
+      "candidats": 68,
+      "rejectedCandidats": 30,
+      "mediumNote": 5.87
+    },
+    {
+      "year": "2016 all",
+      "text": "344   CHISINAU       BOTANICA   Liceul Teoretic \"Mircea cel Bătrîn\"                         22     8    14   36,36   5,16",
+      "candidats": 22,
+      "rejectedCandidats": 14,
+      "mediumNote": 5.16
+    },
+    {
+      "year": "2017",
+      "text": "151   CHISINAU       BOTANICA   Liceul Teoretic \"Mircea cel Bătrîn\"                              29    27   2   93,10   6,20",
+      "candidats": 29,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.2
+    },
+    {
+      "year": "2018",
+      "text": "167   CHISINAU       BOTANICA   Liceul Teoretic \"Mircea cel Bătrîn\"                             18   17   1   94.44   6.28",
+      "candidats": 18,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.28
+    },
+    {
+      "year": "2019",
+      "text": "277   CHISINAU       BOTANICA   Liceul Teoretic \"Mircea cel Bătrân\"                          29    22    7   75.86   5.95",
+      "candidats": 29,
+      "rejectedCandidats": 7,
+      "mediumNote": 5.95
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

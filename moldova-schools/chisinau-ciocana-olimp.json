@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-ciocana-olimp",
+  "search": "olimp",
+  "address": {
+    "district": "chisinau",
+    "city": "ciocana"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"olimp\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "73   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic \"OLIMP\"                                                    44    38    6   86.36   6.70",
+      "candidats": 44,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.7
+    },
+    {
+      "year": "2016",
+      "text": "119   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic \"OLIMP\"                                             64    60   4   93,75   7,08",
+      "candidats": 64,
+      "rejectedCandidats": 4,
+      "mediumNote": 7.08
+    },
+    {
+      "year": "2016 all",
+      "text": " 69   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic \"OLIMP\"                                             69    62    7   89,86   7,04",
+      "candidats": 69,
+      "rejectedCandidats": 7,
+      "mediumNote": 7.04
+    },
+    {
+      "year": "2017",
+      "text": "171   CHISINAU     CIOCANA   Instituţia Publică Liceul Teoretic \"OLIMP\"                       45   41   4   91,11   6,93",
+      "candidats": 45,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.93
+    },
+    {
+      "year": "2018",
+      "text": "129   CHISINAU       CIOCANA   Instituţia Publică Liceul Teoretic \"OLIMP\"                                      37         36      1   97.30   6.99",
+      "candidats": 37,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.99
+    },
+    {
+      "year": "2019",
+      "text": "166   CHISINAU       CIOCANA   Instituţia Publică Liceul Teoretic \"OLIMP\"                      54   52   2   96.30   7.24",
+      "candidats": 54,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.24
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

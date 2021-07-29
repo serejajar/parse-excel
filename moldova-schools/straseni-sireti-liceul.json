@@ -1,0 +1,55 @@
+{
+  "id": "straseni-sireti-liceul",
+  "search": "sireti",
+  "address": {
+    "district": "straseni",
+    "city": "sireti"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic sireti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "236   STRĂŞENI       SIREŢI              INSTITUŢIA PUBLICĂ LICEUL TEORETIC SIREŢI                             43    28   15   65.12   6.46",
+      "candidats": 43,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.46
+    },
+    {
+      "year": "2016",
+      "text": "274   STRĂŞENI       SIREŢI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC SIREŢI                           12    9    3   75,00   6,44",
+      "candidats": 12,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2016 all",
+      "text": "301   STRĂŞENI       SIREŢI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC SIREŢI                             20   11    9   55,00   6,23",
+      "candidats": 20,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2018",
+      "text": "79   STRĂŞENI       SIREŢI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC SIREŢI                         18         18   0   100.00   6.72",
+      "candidats": 18,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.72
+    },
+    {
+      "year": "2019",
+      "text": "68   STRĂŞENI       SIREŢI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC SIREŢI                           12    12   0   100.00   7.13",
+      "candidats": 12,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.13
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

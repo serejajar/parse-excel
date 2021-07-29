@@ -1,0 +1,56 @@
+{
+  "id": "aneniinoi-hirbovat-ICreanga",
+  "search": "creanga",
+  "address": {
+    "district": "aneniinoi",
+    "city": "hirbovat"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic \"ion creanga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "134   ANENIINOI     HÎRBOVĂŢ            Instituţie Publică Liceul Teoretic \"Ion Creangă\"                                      45    35   10   77.78   6.62",
+      "candidats": 45,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.62
+    },
+    {
+      "year": "2016",
+      "text": "155   ANENIINOI     HÎRBOVĂŢ          Instituţie de Învăţămînt Liceul Teoretic \"Ion Creangă\"           11    10   1   90,91   6,45",
+      "candidats": 11,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.45
+    },
+    {
+      "year": "2016 all",
+      "text": "221   ANENIINOI     HÎRBOVĂŢ          Instituţie de Învăţămînt Liceul Teoretic \"Ion Creangă\"              19   13    6   68,42   6,23",
+      "candidats": 19,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2017",
+      "text": "106   ANENIINOI     HÎRBOVĂŢ        Instituţie de Învăţămînt Liceul Teoretic \"Ion Creangă\"        28    27   1   96,43    6,61",
+      "candidats": 28,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.61
+    },
+    {
+      "year": "2018",
+      "text": "187   ANENIINOI     HÎRBOVĂŢ         Instituţie de Învăţămînt Liceul Teoretic \"Ion Creangă\"          29   27   2   93.10   6.36",
+      "candidats": 29,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.36
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

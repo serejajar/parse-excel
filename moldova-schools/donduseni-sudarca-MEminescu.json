@@ -1,0 +1,55 @@
+{
+  "id": "donduseni-sudarca-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "donduseni",
+    "city": "sudarca"
+  },
+  "name": {
+    "ro": "liceul teoretic \"mihai eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "101   DONDUŞENI      SUDARCA             Liceul Teoretic \"Mihai Eminescu\"                                                      16    13    3   81.25   5.65",
+      "candidats": 16,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.65
+    },
+    {
+      "year": "2016",
+      "text": "259   DONDUŞENI      SUDARCA          Liceul Teoretic \"Mihai Eminescu\"                                    19   15    4   78,95   6,65",
+      "candidats": 19,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.65
+    },
+    {
+      "year": "2016 all",
+      "text": "199   DONDUŞENI      SUDARCA           Liceul Teoretic \"Mihai Eminescu\"                                 21    15    6   71,43   6,65",
+      "candidats": 21,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.65
+    },
+    {
+      "year": "2018",
+      "text": "299   DONDUŞENI      SUDARCA         Liceul Teoretic \"Mihai Eminescu\"                            9     5    4   55.56   5.90",
+      "candidats": 9,
+      "rejectedCandidats": 4,
+      "mediumNote": 5.9
+    },
+    {
+      "year": "2019",
+      "text": "244   DONDUŞENI      SUDARCA          Liceul Teoretic \"Mihai Eminescu\"                              8     7    1   87.50   6.25",
+      "candidats": 8,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.25
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

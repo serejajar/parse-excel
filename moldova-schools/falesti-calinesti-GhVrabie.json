@@ -1,0 +1,48 @@
+{
+  "id": "falesti-calinesti-GhVrabie",
+  "search": "vrabie",
+  "address": {
+    "district": "falesti",
+    "city": "calinesti"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic ”gheorghe vrabie”",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "323   FĂLEŞTI        CĂLINEŞTI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC ”GHEORGHE VRABIE”             44    23    21   52.27   6.09",
+      "candidats": 44,
+      "rejectedCandidats": 21,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2016",
+      "text": "66   FĂLEŞTI        CĂLINEŞTI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC ”GHEORGHE VRABIE”          17    17   0   100,00   5,88",
+      "candidats": 17,
+      "rejectedCandidats": 0,
+      "mediumNote": 5.88
+    },
+    {
+      "year": "2016 all",
+      "text": "260   FĂLEŞTI        CĂLINEŞTI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC ”GHEORGHE VRABIE”                  32   20   12   62,50   5,76",
+      "candidats": 32,
+      "rejectedCandidats": 12,
+      "mediumNote": 5.76
+    },
+    {
+      "year": "2019",
+      "text": "192   FĂLEŞTI        CĂLINEŞTI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"\"GHEORGHE VRABIE\"\"           17   16   1   94.12   6.28",
+      "candidats": 17,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.28
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-ciocana-CNegruzzi",
+  "search": "negruzzi",
+  "address": {
+    "district": "chisinau",
+    "city": "ciocana"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"constantin negruzzi\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "216   CHISINAU       CIOCANA             Instituţia Publică Liceul Teoretic \"Constantin Negruzzi\"              98    66   32   67.35   6.39",
+      "candidats": 98,
+      "rejectedCandidats": 32,
+      "mediumNote": 6.39
+    },
+    {
+      "year": "2016",
+      "text": "199   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic \"Constantin Negruzzi\"    50    44    6   88,00   6,45",
+      "candidats": 50,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.45
+    },
+    {
+      "year": "2016 all",
+      "text": "142   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic \"Constantin Negruzzi\"      64   51   13   79,69   6,29",
+      "candidats": 64,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.29
+    },
+    {
+      "year": "2017",
+      "text": "116   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic \"Constantin Negruzzi\"      46    44   2   95,65    6,67",
+      "candidats": 46,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.67
+    },
+    {
+      "year": "2018",
+      "text": "226   CHISINAU       CIOCANA   Instituţia Publică Liceul Teoretic \"Constantin Negruzzi\"        37   33    4   89.19   6.84",
+      "candidats": 37,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.84
+    },
+    {
+      "year": "2019",
+      "text": "264   CHISINAU       CIOCANA   Instituţia Publică Liceul Teoretic \"Constantin Negruzzi\"      53    43   10   81.13   6.91",
+      "candidats": 53,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.91
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

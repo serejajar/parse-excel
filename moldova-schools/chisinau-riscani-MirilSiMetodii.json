@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-riscani-MirilSiMetodii",
+  "search": "metodii",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"kiril si metodii\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "113   CHISINAU       RISCANI             Liceul Teoretic \"Kiril şi Metodii\"                                                    45    36    9   80.00   6.46",
+      "candidats": 45,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.46
+    },
+    {
+      "year": "2016",
+      "text": "316   CHISINAU       RISCANI    Liceul Teoretic \"Kiril şi Metodii\"                                     35    21    14   60,00   6,54",
+      "candidats": 35,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.54
+    },
+    {
+      "year": "2016 all",
+      "text": "269   CHISINAU       RISCANI    Liceul Teoretic \"Kiril şi Metodii\"                                     38   23   15   60,53   6,46",
+      "candidats": 38,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.46
+    },
+    {
+      "year": "2017",
+      "text": "261   CHISINAU       RISCANI   Liceul Teoretic \"Kiril şi Metodii\"                         31   24    7   77,42   6,58",
+      "candidats": 31,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2018",
+      "text": "142   CHISINAU       RISCANI    Liceul Teoretic \"Kiril şi Metodii\"                                             28         27      1   96.43   6.53",
+      "candidats": 28,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.53
+    },
+    {
+      "year": "2019",
+      "text": "81   CHISINAU       RISCANI    Liceul Teoretic \"Kiril şi Metodii\"                              21         21    0   100.00   6.99",
+      "candidats": 21,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.99
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

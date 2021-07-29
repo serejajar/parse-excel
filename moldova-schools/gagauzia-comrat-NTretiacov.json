@@ -1,0 +1,62 @@
+{
+  "id": "gagauzia-comrat-NTretiacov",
+  "search": "tretiacov",
+  "address": {
+    "district": "gagauzia",
+    "city": "comrat"
+  },
+  "name": {
+    "ro": "liceul teoretic \"n.tretiacov\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "331   GAGAUZIA   COMRAT              LICEUL TEORETIC \"N.TRETIACOV\"                                    26    13    13   50.00   6.28",
+      "candidats": 26,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.28
+    },
+    {
+      "year": "2016",
+      "text": "309   GAGAUZIA   COMRAT            LICEUL TEORETIC \"N.TRETIACOV\"                                         17    11     6   64,71   6,35",
+      "candidats": 17,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.35
+    },
+    {
+      "year": "2016 all",
+      "text": "310   GAGAUZIA   COMRAT            LICEUL TEORETIC \"N.TRETIACOV\"                              21    11    10   52,38   6,35",
+      "candidats": 21,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.35
+    },
+    {
+      "year": "2017",
+      "text": "281   GAGAUZIA   COMRAT          LICEUL TEORETIC \"N.TRETIACOV\" mun. COMRAT                   9    6    3   66,67   6,36",
+      "candidats": 9,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.36
+    },
+    {
+      "year": "2018",
+      "text": "185   GAGAUZIA   COMRAT           LICEUL TEORETIC \"N.TRETIACOV\" mun. COMRAT                       15   14   1   93.33   6.19",
+      "candidats": 15,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.19
+    },
+    {
+      "year": "2019",
+      "text": "170   GAGAUZIA   COMRAT           LICEUL TEORETIC \"N.TRETIACOV\" mun. COMRAT                      24   23   1   95.83   6.19",
+      "candidats": 24,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.19
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-botanica-LRebreanu",
+  "search": "rebreanu",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"liviu rebreanu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "26   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Liviu Rebreanu\"                       46        44           2        95.65    6.69",
+      "candidats": 46,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.69
+    },
+    {
+      "year": "2016",
+      "text": "196   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Liviu Rebreanu\"         42    37    5   88,10   6,57",
+      "candidats": 42,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2016 all",
+      "text": " 84   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Liviu Rebreanu\"                                    42    37    5   88,10   6,57",
+      "candidats": 42,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2017",
+      "text": "91   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Liviu Rebreanu\"        50    49   1   98,00    6,84",
+      "candidats": 50,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.84
+    },
+    {
+      "year": "2018",
+      "text": "200   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Liviu Rebreanu\"             38   35   3   92.11   6.84",
+      "candidats": 38,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.84
+    },
+    {
+      "year": "2019",
+      "text": "172   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Liviu Rebreanu\"            43   41   2   95.35   7.22",
+      "candidats": 43,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.22
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

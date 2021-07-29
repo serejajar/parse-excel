@@ -1,0 +1,27 @@
+{
+  "id": "aneniinoi-gurabicului-liceul",
+  "search": "",
+  "address": {
+    "district": "aneniinoi",
+    "city": "gurabicului"
+  },
+  "name": {
+    "ro": "institutie publicaliceul teoretic gura bicului",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "396   ANENIINOI     GURA BÎCULUI        Instituţie PublicăLiceul Teoretic Gura Bîcului                   21    5    16   23.81   5.80",
+      "candidats": 21,
+      "rejectedCandidats": 16,
+      "mediumNote": 5.8
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "criuleni-magdacesti-liceu",
+  "search": "magdacesti",
+  "address": {
+    "district": "criuleni",
+    "city": "magdacesti"
+  },
+  "name": {
+    "ro": "liceul teoretic magdacesti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "39   CRIULENI       MĂGDĂCEŞTI          Liceul Teoretic MĂGDĂCEŞTI                                                57        53           4        92.98    6.63",
+      "candidats": 57,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2016",
+      "text": "141   CRIULENI       MĂGDĂCEŞTI        Liceul Teoretic MĂGDĂCEŞTI                                       50    46   4   92,00   6,83",
+      "candidats": 50,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.83
+    },
+    {
+      "year": "2016 all",
+      "text": " 79   CRIULENI       MĂGDĂCEŞTI        Liceul Teoretic MĂGDĂCEŞTI                                                            53    47    6   88,68   6,79",
+      "candidats": 53,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.79
+    },
+    {
+      "year": "2017",
+      "text": "42   CRIULENI       MĂGDĂCEŞTI      Liceul Teoretic MĂGDĂCEŞTI                                                  41         41      0   100,00   6,85",
+      "candidats": 41,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.85
+    },
+    {
+      "year": "2018",
+      "text": "160   CRIULENI       MĂGDĂCEŞTI       Liceul Teoretic MĂGDĂCEŞTI                                        39   37   2   94.87   7.11",
+      "candidats": 39,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.11
+    },
+    {
+      "year": "2019",
+      "text": "152   CRIULENI       MĂGDĂCEŞTI       Liceul Teoretic MĂGDĂCEŞTI                                                    37         36         1          97.30   7.02",
+      "candidats": 37,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.02
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

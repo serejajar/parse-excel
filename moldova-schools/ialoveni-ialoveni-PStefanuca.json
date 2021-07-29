@@ -1,0 +1,63 @@
+{
+  "id": "ialoveni-ialoveni-PStefanuca",
+  "search": "stefanuca",
+  "address": {
+    "district": "ialoveni",
+    "city": "ialoveni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"petre stefanuca\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "154   IALOVENI       IALOVENI              Liceul Teoretic \"Petre Ştefănucă\"                                63   48   15   76.19   6.78",
+      "candidats": 63,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.78
+    },
+    {
+      "year": "2016",
+      "text": "75   IALOVENI       IALOVENI          Liceul Teoretic \"Petre Ştefănucă\"                             44    43   1    97,73   7,08",
+      "candidats": 44,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.08
+    },
+    {
+      "year": "2016 all",
+      "text": "109   IALOVENI       IALOVENI          Liceul Teoretic \"Petre Ştefănucă\"                            53   45    8   84,91   6,98",
+      "candidats": 53,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.98
+    },
+    {
+      "year": "2017",
+      "text": "88   IALOVENI       IALOVENI        Liceul Teoretic \"Petre Ştefănucă\"                              55    54   1   98,18    7,03",
+      "candidats": 55,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.03
+    },
+    {
+      "year": "2018",
+      "text": "35   IALOVENI         IALOVENI         Liceul Teoretic \"Petre Ştefănucă\"                                             53        53        0       100.00    7.27",
+      "candidats": 53,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.27
+    },
+    {
+      "year": "2019",
+      "text": "62   IALOVENI       IALOVENI         Liceul Teoretic \"Petre Ştefănucă\"                                 54    54   0   100.00   7.17",
+      "candidats": 54,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.17
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

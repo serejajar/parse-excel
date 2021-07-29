@@ -1,0 +1,55 @@
+{
+  "id": "floresti-floresti-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "floresti",
+    "city": "floresti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m. eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "259   FLOREŞTI       FLOREŞTI            Liceul Teoretic \"M. Eminescu\"                           37   23   14   62.16   6.29",
+      "candidats": 37,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.29
+    },
+    {
+      "year": "2016",
+      "text": "32   FLOREŞTI       FLOREŞTI          Liceul Teoretic \"M. Eminescu\"                                        10          10             0      100,00      6,80",
+      "candidats": 10,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.8
+    },
+    {
+      "year": "2016 all",
+      "text": "218   FLOREŞTI       FLOREŞTI          Liceul Teoretic \"M. Eminescu\"                                       16   11    5   68,75   6,64",
+      "candidats": 16,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.64
+    },
+    {
+      "year": "2017",
+      "text": "176   FLOREŞTI     FLOREŞTI        Liceul Teoretic \"M. Eminescu\"                                    22   20   2   90,91   6,15",
+      "candidats": 22,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.15
+    },
+    {
+      "year": "2019",
+      "text": "251   FLOREŞTI       FLOREŞTI         Liceul Teoretic \"M. Eminescu\"                                21    18    3   85.71   6.43",
+      "candidats": 21,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.43
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

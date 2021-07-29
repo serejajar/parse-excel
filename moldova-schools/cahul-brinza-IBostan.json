@@ -1,0 +1,55 @@
+{
+  "id": "cahul-brinza-IBostan",
+  "search": "bostan",
+  "address": {
+    "district": "cahul",
+    "city": "brinza"
+  },
+  "name": {
+    "ro": "liceul teoretic \"academicianul ion bostan\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "337   CAHUL          BRÎNZA              Liceul Teoretic \"Academicianul Ion Bostan\"                       47    23    24   48.94   6.29",
+      "candidats": 47,
+      "rejectedCandidats": 24,
+      "mediumNote": 6.29
+    },
+    {
+      "year": "2016",
+      "text": "183   CAHUL          BRÎNZA            Liceul Teoretic \"Academicianul Ion Bostan\"                 18    16    2   88,89   6,16",
+      "candidats": 18,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.16
+    },
+    {
+      "year": "2016 all",
+      "text": "261   CAHUL          BRÎNZA            Liceul Teoretic \"Academicianul Ion Bostan\"                            29   18   11   62,07   6,06",
+      "candidats": 29,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.06
+    },
+    {
+      "year": "2018",
+      "text": "211   CAHUL          BRÎNZA           Instituţia Publică Liceul Teoretic \"Academician Ion Bostan\"    22   20    2   90.91   6.85",
+      "candidats": 22,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.85
+    },
+    {
+      "year": "2019",
+      "text": "168   CAHUL          BRÎNZA           Instituţia Publică Liceul Teoretic \"Academician Ion Bostan\"    25   24   1   96.00   6.53",
+      "candidats": 25,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.53
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

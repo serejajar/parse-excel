@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-durlesti-hyperion",
+  "search": "hyperion",
+  "address": {
+    "district": "chisinau",
+    "city": "durlesti"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"hyperion\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "218   CHISINAU       DURLEŞTI            Instituţia Publică Liceul Teoretic \"Hyperion\"                         55    37   18   67.27   6.51",
+      "candidats": 55,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.51
+    },
+    {
+      "year": "2016",
+      "text": "78   CHISINAU       DURLEŞTI          Instituţia Publică Liceul Teoretic \"Hyperion\"                 41    40   1    97,56   6,81",
+      "candidats": 41,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.81
+    },
+    {
+      "year": "2016 all",
+      "text": "123   CHISINAU       DURLEŞTI          Instituţia Publică Liceul Teoretic \"Hyperion\"                52   43    9   82,69   6,74",
+      "candidats": 52,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.74
+    },
+    {
+      "year": "2017",
+      "text": "137   CHISINAU       DURLEŞTI        Instituţia Publică Liceul Teoretic \"Hyperion\"                    34    32   2   94,12   6,63",
+      "candidats": 34,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2018",
+      "text": "150   CHISINAU       DURLEŞTI         Instituţia Publică Liceul Teoretic \"Hyperion\"                                  46         44      2   95.65   6.82",
+      "candidats": 46,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.82
+    },
+    {
+      "year": "2019",
+      "text": "67   CHISINAU       DURLEŞTI         Instituţia Publică Liceul Teoretic \"Hyperion\"                     52    52   0   100.00   7.13",
+      "candidats": 52,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.13
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

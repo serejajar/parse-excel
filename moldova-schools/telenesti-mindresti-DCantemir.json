@@ -1,0 +1,41 @@
+{
+  "id": "telenesti-mindresti-DCantemir",
+  "search": "dimitrie cantemir|d.cantemir|d. cantemir",
+  "address": {
+    "district": "telenesti",
+    "city": "mindresti"
+  },
+  "name": {
+    "ro": "liceul teoretic “d.cantemir”",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "257   TELENEŞTI      MÎNDREŞTI           LICEUL TEORETIC “D.Cantemir”                             8    5    3   62.50   5.70",
+      "candidats": 8,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.7
+    },
+    {
+      "year": "2016",
+      "text": "253   TELENEŞTI      MÎNDREŞTI        LICEUL TEORETIC “D.Cantemir”                                        10    8    2   80,00   7,34",
+      "candidats": 10,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.34
+    },
+    {
+      "year": "2016 all",
+      "text": "191   TELENEŞTI      MÎNDREŞTI         LICEUL TEORETIC “D.Cantemir”                                     11     8    3   72,73   7,34",
+      "candidats": 11,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.34
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

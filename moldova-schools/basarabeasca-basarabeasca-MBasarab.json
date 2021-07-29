@@ -1,0 +1,56 @@
+{
+  "id": "basarabeasca-basarabeasca-MBasarab",
+  "search": "matei basarab",
+  "address": {
+    "district": "basarabeasca",
+    "city": "basarabeasca"
+  },
+  "name": {
+    "ro": "liceul teoretic \"matei basarab\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "149   BASARABEASCA   BASARABEASCA        LICEUL TEORETIC \"MATEI BASARAB\"                                                       17    13    4   76.47   6.35",
+      "candidats": 17,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.35
+    },
+    {
+      "year": "2016",
+      "text": "122   BASARABEASCA   BASARABEASCA      INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MATEI BASARAB\"                                    16    15   1   93,75   6,50",
+      "candidats": 16,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016 all",
+      "text": "168   BASARABEASCA   BASARABEASCA      INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MATEI BASARAB\"               21    16    5   76,19   6,45",
+      "candidats": 21,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.45
+    },
+    {
+      "year": "2017",
+      "text": "147   BASARABEASCA   BASARABEASCA    INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MATEI BASARAB\"                  15    14   1   93,33   6,59",
+      "candidats": 15,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.59
+    },
+    {
+      "year": "2018",
+      "text": "161   BASARABEASCA   BASARABEASCA    INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MATEI BASARAB\"                  19   18   1   94.74   7.31",
+      "candidats": 19,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.31
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

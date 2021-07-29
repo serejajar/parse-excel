@@ -1,0 +1,63 @@
+{
+  "id": "drochia-drochia-BPHasdeu",
+  "search": "b. ?p. ?hasdeu|petriceicu hasdeu",
+  "address": {
+    "district": "drochia",
+    "city": "drochia"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"bogdan petriceicu hasdeu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "160   DROCHIA        DROCHIA               Instituţia Publică Liceul Teoretic \"Bogdan Petriceicu Hasdeu\"    73   55   18   75.34   6.42",
+      "candidats": 73,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.42
+    },
+    {
+      "year": "2016",
+      "text": "106   DROCHIA        DROCHIA           Instituţia Publică Liceul Teoretic \"Bogdan Petriceicu Hasdeu\"                         59    56   3   94,92   6,67",
+      "candidats": 59,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.67
+    },
+    {
+      "year": "2016 all",
+      "text": "154   DROCHIA        DROCHIA           Instituţia Publică Liceul Teoretic \"Bogdan Petriceicu Hasdeu\"    73    57   16   78,08   6,64",
+      "candidats": 73,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.64
+    },
+    {
+      "year": "2017",
+      "text": "144   DROCHIA        DROCHIA         Instituţia Publică Liceul Teoretic \"Bogdan Petriceicu Hasdeu\"    60    56   4   93,33   6,89",
+      "candidats": 60,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.89
+    },
+    {
+      "year": "2018",
+      "text": "58   DROCHIA        DROCHIA          Instituţia Publică Liceul Teoretic \"Bogdan Petriceicu Hasdeu\"     44   44   0   100.00   6.98",
+      "candidats": 44,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.98
+    },
+    {
+      "year": "2019",
+      "text": "133   DROCHIA        DROCHIA          Instituţia Publică Liceul Teoretic \"Bogdan Petriceicu Hasdeu\"               77         76         1          98.70   6.98",
+      "candidats": 77,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.98
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

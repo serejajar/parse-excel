@@ -1,0 +1,28 @@
+{
+  "id": "soroca-rublenita-liceu",
+  "search": "",
+  "address": {
+    "district": "soroca",
+    "city": "rublenita"
+  },
+  "name": {
+    "ro": "institutia publica liceu teoretic rublenita",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "305   SOROCA         RUBLENIŢA           Instituţia Publică Liceu Teoretic Rubleniţa                      47    26    21   55.32   6.36",
+      "candidats": 47,
+      "rejectedCandidats": 21,
+      "mediumNote": 6.36
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

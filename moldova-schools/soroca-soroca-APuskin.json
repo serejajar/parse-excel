@@ -1,0 +1,62 @@
+{
+  "id": "soroca-soroca-APuskin",
+  "search": "puskin",
+  "address": {
+    "district": "soroca",
+    "city": "soroca"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"alexandru puskin\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "142   SOROCA         SOROCA              Instituţia Publică Liceul Teoretic \"Alexandru Puşkin\"                                 26    20    6   76.92   6.49",
+      "candidats": 26,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2016",
+      "text": "49   SOROCA         SOROCA            Instituţia Publică Liceul Teoretic \"Alexandru Puşkin\"         19    19   0   100,00   6,49",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2016 all",
+      "text": "215   SOROCA         SOROCA            Instituţia Publică Liceul Teoretic \"Alexandru Puşkin\"               29   20    9   68,97   6,42",
+      "candidats": 29,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.42
+    },
+    {
+      "year": "2017",
+      "text": "13   SOROCA           SOROCA          Instituţia Publică Liceul Teoretic \"Alexandru Puşkin\"                 9         9        0       100,00    7,47",
+      "candidats": 9,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.47
+    },
+    {
+      "year": "2018",
+      "text": "38   SOROCA         SOROCA           Instituţia Publică Liceul Teoretic \"Alexandru Puşkin\"             14   14   0   100.00   7.21",
+      "candidats": 14,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.21
+    },
+    {
+      "year": "2019",
+      "text": "17   SOROCA           SOROCA           Instituţia Publică Liceul Teoretic \"Alexandr Puşkin\"                          10        10        0       100.00    7.84",
+      "candidats": 10,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.84
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

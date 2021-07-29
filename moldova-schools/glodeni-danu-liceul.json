@@ -1,0 +1,27 @@
+{
+  "id": "glodeni-danu-liceul",
+  "search": "",
+  "address": {
+    "district": "glodeni",
+    "city": "danu"
+  },
+  "name": {
+    "ro": "liceul teoretic danu",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "373   GLODENI        DANU                LICEUL TEORETIC DANU                                             24    9    15   37.50   6.13",
+      "candidats": 24,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.13
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

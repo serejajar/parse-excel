@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-botanica-teatral",
+  "search": "teatral",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "liceul teatral orasenesc",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "44   CHISINAU       BOTANICA   Liceul Teatral Orăşenesc                                                  27        25           2        92.59    6.95",
+      "candidats": 27,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.95
+    },
+    {
+      "year": "2016",
+      "text": "208   CHISINAU       BOTANICA   Liceul Teatral Orăşenesc                                    22    19    3   86,36   6,95",
+      "candidats": 22,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.95
+    },
+    {
+      "year": "2016 all",
+      "text": "146   CHISINAU       BOTANICA   Liceul Teatral Orăşenesc                                      24   19    5   79,17   6,95",
+      "candidats": 24,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.95
+    },
+    {
+      "year": "2017",
+      "text": "25   CHISINAU         BOTANICA   Liceul Teatral Orăşenesc                                               32        32        0       100,00    7,12",
+      "candidats": 32,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.12
+    },
+    {
+      "year": "2018",
+      "text": "16   CHISINAU         BOTANICA   Liceul Teatral Orăşenesc                                                        24        24        0       100.00    7.53",
+      "candidats": 24,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.53
+    },
+    {
+      "year": "2019",
+      "text": "266   CHISINAU       BOTANICA   Liceul Teatral Orăşenesc                                       21    17    4   80.95   7.12",
+      "candidats": 21,
+      "rejectedCandidats": 4,
+      "mediumNote": 7.12
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "arta"
+  ]
+}

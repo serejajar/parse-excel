@@ -1,0 +1,49 @@
+{
+  "id": "edinet-fetesti-liceul",
+  "search": "",
+  "address": {
+    "district": "edinet",
+    "city": "fetesti"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic fetesti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "286   EDINET         FETEŞTI             Instituţie Publică Liceul Teoretic Feteşti              24   14   10   58.33   6.04",
+      "candidats": 24,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.04
+    },
+    {
+      "year": "2016 all",
+      "text": "350   EDINET         FETEŞTI           Instituţie Publică Liceul Teoretic Feteşti                  6     2     4   33,33   5,25",
+      "candidats": 6,
+      "rejectedCandidats": 4,
+      "mediumNote": 5.25
+    },
+    {
+      "year": "2017",
+      "text": "156   EDINET         FETEŞTI         Instituţie Publică Liceul Teoretic Feteşti                         14    13   1   92,86   6,23",
+      "candidats": 14,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2018",
+      "text": "96   EDINET         FETEŞTI          Instituţie Publică Liceul Teoretic Feteşti                        22         22   0   100.00   6.28",
+      "candidats": 22,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.28
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

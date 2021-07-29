@@ -1,0 +1,41 @@
+{
+  "id": "singerei-biruinta-liceul",
+  "search": "luceafarul",
+  "address": {
+    "district": "singerei",
+    "city": "biruinta"
+  },
+  "name": {
+    "ro": "liceul teoretic \"luceafarul\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "400   SÎNGEREI       BIRUINŢA            LICEUL TEORETIC \"LUCEAFĂRUL\"                                     11    2     9   18.18   5.25",
+      "candidats": 11,
+      "rejectedCandidats": 9,
+      "mediumNote": 5.25
+    },
+    {
+      "year": "2016",
+      "text": "287   SÎNGEREI       BIRUINŢA         LICEUL TEORETIC \"LUCEAFĂRUL\"                                        21   15    6   71,43   6,75",
+      "candidats": 21,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.75
+    },
+    {
+      "year": "2016 all",
+      "text": "258   SÎNGEREI       BIRUINŢA          LICEUL TEORETIC \"LUCEAFĂRUL\"                                          24   15    9   62,50   6,75",
+      "candidats": 24,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.75
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

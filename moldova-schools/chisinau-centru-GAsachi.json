@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-centru-GAsachi",
+  "search": "asachi",
+  "address": {
+    "district": "chisinau",
+    "city": "centru"
+  },
+  "name": {
+    "ro": "liceul teoretic \"gheorghe asachi\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "35   CHISINAU       CENTRU     Liceul Teoretic \"Gheorghe Asachi\"                                       162        152         10         93.83    7.35",
+      "candidats": 162,
+      "rejectedCandidats": 10,
+      "mediumNote": 7.35
+    },
+    {
+      "year": "2016",
+      "text": "67   CHISINAU       CENTRU    Liceul Teoretic \"Gheorghe Asachi\"                              143   141   2    98,60   7,54",
+      "candidats": 143,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.54
+    },
+    {
+      "year": "2016 all",
+      "text": "40   CHISINAU       CENTRU    Liceul Teoretic \"Gheorghe Asachi\"                                     152         146             6       96,05      7,47",
+      "candidats": 152,
+      "rejectedCandidats": 6,
+      "mediumNote": 7.47
+    },
+    {
+      "year": "2017",
+      "text": "158   CHISINAU       CENTRU   Liceul Teoretic \"Gheorghe Asachi\"                                123   114   9   92,68   7,59",
+      "candidats": 123,
+      "rejectedCandidats": 9,
+      "mediumNote": 7.59
+    },
+    {
+      "year": "2018",
+      "text": "108   CHISINAU       CENTRU   Instituţia Publică Liceul Teoretic \"Gheorghe Asachi\"              84         83   1   98.81    7.73",
+      "candidats": 84,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.73
+    },
+    {
+      "year": "2019",
+      "text": "130   CHISINAU       CENTRU   Instituţia Publică Liceul Teoretic \"Gheorghe Asachi\"                         103        102         1          99.03   7.83",
+      "candidats": 103,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.83
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

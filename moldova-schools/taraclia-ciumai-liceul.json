@@ -1,0 +1,62 @@
+{
+  "id": "taraclia-ciumai-liceul",
+  "search": "ciumai",
+  "address": {
+    "district": "taraclia",
+    "city": "ciumai"
+  },
+  "name": {
+    "ro": "liceul teoretic ciumai",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "153   TARACLIA       CIUMAI                LICEUL TEORETIC CIUMAI                                           21   16    5   76.19   6.88",
+      "candidats": 21,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.88
+    },
+    {
+      "year": "2016",
+      "text": "45   TARACLIA       CIUMAI            LICEUL TEORETIC CIUMAI                                         7     7   0   100,00   6,60",
+      "candidats": 7,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.6
+    },
+    {
+      "year": "2016 all",
+      "text": " 65   TARACLIA       CIUMAI            LICEUL TEORETIC CIUMAI                                                                10     9    1   90,00   6,40",
+      "candidats": 10,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2017",
+      "text": "245   TARACLIA       CIUMAI          LICEUL TEORETIC CIUMAI                                                 11    9    2   81,82   6,24",
+      "candidats": 11,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.24
+    },
+    {
+      "year": "2018",
+      "text": "242   TARACLIA       CIUMAI          LICEUL TEORETIC CIUMAI                                          15    13    2   86.67   6.66",
+      "candidats": 15,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.66
+    },
+    {
+      "year": "2019",
+      "text": "237   TARACLIA       CIUMAI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC CIUMAI                                       17        15   2   88.24   6.41",
+      "candidats": 17,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.41
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

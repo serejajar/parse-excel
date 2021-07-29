@@ -1,0 +1,55 @@
+{
+  "id": "floresti-cuhurestiidesus-liceul",
+  "search": "cuhurestii de sus",
+  "address": {
+    "district": "floresti",
+    "city": "cuhurestiidesus"
+  },
+  "name": {
+    "ro": "liceul teoretic cuhurestii de sus",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "212   FLOREŞTI       CUHUREŞTII DE SUS   Liceul Teoretic Cuhureştii de Sus                                     32    22   10   68.75   6.25",
+      "candidats": 32,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2016",
+      "text": "151   FLOREŞTI       CUHUREŞTII DE SUS    Liceul Teoretic Cuhureştii de Sus                                23    21   2   91,30   6,65",
+      "candidats": 23,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.65
+    },
+    {
+      "year": "2016 all",
+      "text": "189   FLOREŞTI       CUHUREŞTII DE SUS    Liceul Teoretic Cuhureştii de Sus                                30    22    8   73,33   6,61",
+      "candidats": 30,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.61
+    },
+    {
+      "year": "2017",
+      "text": "78   FLOREŞTI       CUHUREŞTII DE SUS   Liceul Teoretic Cuhureştii de Sus                            15    15   0   100,00   5,85",
+      "candidats": 15,
+      "rejectedCandidats": 0,
+      "mediumNote": 5.85
+    },
+    {
+      "year": "2019",
+      "text": "200   FLOREŞTI       CUHUREŞTII DE SUS    Liceul Teoretic Cuhureştii de Sus                                15   14   1   93.33   6.07",
+      "candidats": 15,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.07
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

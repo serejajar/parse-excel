@@ -1,0 +1,63 @@
+{
+  "id": "soroca-soroca-CStere",
+  "search": "stere",
+  "address": {
+    "district": "soroca",
+    "city": "soroca"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"constantin stere\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "80   SOROCA         SOROCA              Instituţia Publică Liceul Teoretic \"Constantin Stere\"                                         81    69   12   85.19   7.10",
+      "candidats": 81,
+      "rejectedCandidats": 12,
+      "mediumNote": 7.1
+    },
+    {
+      "year": "2016",
+      "text": "70   SOROCA         SOROCA            Instituţia Publică Liceul Teoretic \"Constantin Stere\"         56    55   1    98,21   7,11",
+      "candidats": 56,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.11
+    },
+    {
+      "year": "2016 all",
+      "text": "46   SOROCA         SOROCA            Instituţia Publică Liceul Teoretic \"Constantin Stere\"                58          55             3       94,83      7,11",
+      "candidats": 58,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.11
+    },
+    {
+      "year": "2017",
+      "text": "23   SOROCA           SOROCA          Instituţia Publică Liceul Teoretic \"Constantin Stere\"                54        54        0       100,00    7,15",
+      "candidats": 54,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.15
+    },
+    {
+      "year": "2018",
+      "text": "42   SOROCA         SOROCA           Instituţia Publică Liceul Teoretic \"Constantin Stere\"             59   59   0   100.00   7.17",
+      "candidats": 59,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.17
+    },
+    {
+      "year": "2019",
+      "text": "24   SOROCA           SOROCA           Instituţia Publică Liceul Teoretic \"Constantin Stere\"                         46        46        0       100.00    7.59",
+      "candidats": 46,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.59
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

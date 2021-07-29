@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-centru-litterarum",
+  "search": "litterarum",
+  "address": {
+    "district": "chisinau",
+    "city": "centru"
+  },
+  "name": {
+    "ro": "institutia de invatamint liceul \"litterarum\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "32   CHISINAU       CENTRU     Instituţia de Învăţămînt Liceul \"Litterarum\"                              19        18           1        94.74    7.33",
+      "candidats": 19,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.33
+    },
+    {
+      "year": "2016",
+      "text": "12   CHISINAU       CENTRU    Instituţia de Învăţămînt Liceul \"Litterarum\"                           15          15             0      100,00      7,52",
+      "candidats": 15,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.52
+    },
+    {
+      "year": "2016 all",
+      "text": "48   CHISINAU       CENTRU    Instituţia de Învăţămînt Liceul \"Litterarum\"                           16          15             1       93,75      7,52",
+      "candidats": 16,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.52
+    },
+    {
+      "year": "2017",
+      "text": "165   CHISINAU     CENTRU   Instituţia de Învăţămînt Liceul \"Litterarum\"                      12   11   1   91,67   7,52",
+      "candidats": 12,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.52
+    },
+    {
+      "year": "2018",
+      "text": "6   CHISINAU         CENTRU   Instituţia de Învăţămînt Liceul \"Litterarum\"                                    25        25        0       100.00    8.07",
+      "candidats": 25,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.07
+    },
+    {
+      "year": "2019",
+      "text": "27   CHISINAU         CENTRU   Instituţia de Învăţămînt Liceul \"Litterarum\"                                    27        27        0       100.00    7.54",
+      "candidats": 27,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.54
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

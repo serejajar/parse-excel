@@ -1,0 +1,41 @@
+{
+  "id": "basarabeasca-basarabeasca-NVGogol",
+  "search": "gogol",
+  "address": {
+    "district": "basarabeasca",
+    "city": "basarabeasca"
+  },
+  "name": {
+    "ro": "liceul teoretic \"n.v.gogol\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "274   BASARABEASCA   BASARABEASCA        LICEUL TEORETIC \"N.V.GOGOL\"                             15    9    6   60.00   6.29",
+      "candidats": 15,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.29
+    },
+    {
+      "year": "2016",
+      "text": "288   BASARABEASCA   BASARABEASCA     INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"NICOLAI GOGOL\"                   7    5    2   71,43   6,56",
+      "candidats": 7,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2016 all",
+      "text": "272   BASARABEASCA   BASARABEASCA      INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"NICOLAI GOGOL\"                    10    6    4   60,00   6,47",
+      "candidats": 10,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.47
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "riscani-zaicani-LGherman",
+  "search": "gherman",
+  "address": {
+    "district": "riscani",
+    "city": "zaicani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"leonid gherman\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "167   RÎŞCANI        ZĂICANI               LICEUL TEORETIC \"LEONID GHERMAN\"                                 20   15    5   75.00   6.32",
+      "candidats": 20,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.32
+    },
+    {
+      "year": "2016 all",
+      "text": "361   RÎŞCANI        ZĂICANI           LICEUL TEORETIC \"LEONID GHERMAN\"                                     4    1     3   25,00   5,25",
+      "candidats": 4,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.25
+    },
+    {
+      "year": "2017",
+      "text": "248   RÎŞCANI        ZĂICANI         LICEUL TEORETIC \"LEONID GHERMAN\"                           16   13    3   81,25   5,62",
+      "candidats": 16,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.62
+    },
+    {
+      "year": "2018",
+      "text": "237   RÎŞCANI        ZĂICANI          LICEUL TEORETIC \"LEONID GHERMAN\"                               16   14    2   87.50   6.52",
+      "candidats": 16,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.52
+    },
+    {
+      "year": "2019",
+      "text": "285   RÎŞCANI        ZĂICANI        LICEUL TEORETIC \"LEONID GHERMAN\"                              7    5    2   71.43   6.70",
+      "candidats": 7,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.7
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

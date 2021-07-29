@@ -1,0 +1,28 @@
+{
+  "id": "causeni-tanatari-PErhan",
+  "search": "erhan",
+  "address": {
+    "district": "causeni",
+    "city": "tanatari"
+  },
+  "name": {
+    "ro": "liceul teoretic \"p.erhan\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "276   CAUSENI        TĂNĂTARI            LICEUL TEORETIC \"P.ERHAN\"                               10    6    4   60.00   5.33",
+      "candidats": 10,
+      "rejectedCandidats": 4,
+      "mediumNote": 5.33
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

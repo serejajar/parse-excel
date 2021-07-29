@@ -1,0 +1,63 @@
+{
+  "id": "ialoveni-costesti-liceul",
+  "search": "liceul teoretic costesti",
+  "address": {
+    "district": "ialoveni",
+    "city": "costesti"
+  },
+  "name": {
+    "ro": "liceul teoretic costesti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "77   IALOVENI       COSTEŞTI            Liceul Teoretic Costeşti                                                                      64    55    9   85.94   6.16",
+      "candidats": 64,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.16
+    },
+    {
+      "year": "2016",
+      "text": "121   IALOVENI       COSTEŞTI          Liceul Teoretic Costeşti                                                              32    30   2   93,75   6,68",
+      "candidats": 32,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.68
+    },
+    {
+      "year": "2016 all",
+      "text": "132   IALOVENI       COSTEŞTI          Liceul Teoretic Costeşti                                     38   31    7   81,58   6,69",
+      "candidats": 38,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.69
+    },
+    {
+      "year": "2017",
+      "text": "204   IALOVENI     COSTEŞTI        Liceul Teoretic Costeşti                                           35   31   4   88,57   6,23",
+      "candidats": 35,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2018",
+      "text": "97   IALOVENI       COSTEŞTI         Liceul Teoretic Costeşti                                          24         24   0   100.00   6.27",
+      "candidats": 24,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.27
+    },
+    {
+      "year": "2019",
+      "text": "239   IALOVENI       COSTEŞTI         Liceul Teoretic Costeşti                                                        25        22   3   88.00   6.73",
+      "candidats": 25,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.73
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-buiucani-ACehov",
+  "search": "cehov",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"anton cehov\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "186   CHISINAU       BUIUCANI              Liceul Teoretic \"Anton Cehov\"                                    46   33   13   71.74   6.19",
+      "candidats": 46,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.19
+    },
+    {
+      "year": "2016",
+      "text": "175   CHISINAU       BUIUCANI    Liceul Teoretic \"Anton Cehov\"                              28    25    3   89,29   6,18",
+      "candidats": 28,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.18
+    },
+    {
+      "year": "2016 all",
+      "text": "143   CHISINAU       BUIUCANI     Liceul Teoretic \"Anton Cehov\"                                39   31    8   79,49   6,03",
+      "candidats": 39,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.03
+    },
+    {
+      "year": "2017",
+      "text": "162   CHISINAU       BUIUCANI   Liceul Teoretic \"Anton Cehov\"                                    26    24   2   92,31   6,41",
+      "candidats": 26,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.41
+    },
+    {
+      "year": "2018",
+      "text": "146   CHISINAU       BUIUCANI   Liceul Teoretic \"Anton Cehov\"                                                  26         25      1   96.15   6.56",
+      "candidats": 26,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2019",
+      "text": "252   CHISINAU       BUIUCANI   Liceul Teoretic \"Anton Cehov\"                                48    41    7   85.42   6.51",
+      "candidats": 48,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.51
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

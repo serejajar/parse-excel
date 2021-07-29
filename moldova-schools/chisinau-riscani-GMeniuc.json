@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-riscani-GMeniuc",
+  "search": "meniuc",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"george meniuc\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "93   CHISINAU       RISCANI             Liceul Teoretic \"George Meniuc\"                                                               61    50   11   81.97   6.50",
+      "candidats": 61,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016",
+      "text": "191   CHISINAU       RISCANI    Liceul Teoretic \"George Meniuc\"                             60    53    7   88,33   6,53",
+      "candidats": 60,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.53
+    },
+    {
+      "year": "2016 all",
+      "text": "128   CHISINAU       RISCANI    Liceul Teoretic \"George Meniuc\"                               66   54   12   81,82   6,52",
+      "candidats": 66,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.52
+    },
+    {
+      "year": "2017",
+      "text": "152   CHISINAU       RISCANI   Liceul Teoretic \"George Meniuc\"                                  43    40   3   93,02   6,50",
+      "candidats": 43,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2018",
+      "text": "145   CHISINAU       RISCANI    Liceul Teoretic \"George Meniuc\"                                                52         50      2   96.15   6.67",
+      "candidats": 52,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.67
+    },
+    {
+      "year": "2019",
+      "text": "208   CHISINAU       RISCANI    Liceul Teoretic \"George Meniuc\"                                               38        35   3   92.11   7.03",
+      "candidats": 38,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.03
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

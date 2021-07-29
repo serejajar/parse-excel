@@ -1,0 +1,63 @@
+{
+  "id": "tiraspol-tiraspol-LBlaga",
+  "search": "blaga",
+  "address": {
+    "district": "tiraspol",
+    "city": "tiraspol"
+  },
+  "name": {
+    "ro": "liceul teoretic\"lucian blaga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "7   TIRASPOL       TIRASPOL            Liceul Teoretic\"Lucian Blaga\"                                             26        26           0      100.00     7.55",
+      "candidats": 26,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.55
+    },
+    {
+      "year": "2016",
+      "text": "9   TIRASPOL       TIRASPOL          Liceul Teoretic\"Lucian Blaga\"                                        19          19             0      100,00      7,78",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.78
+    },
+    {
+      "year": "2016 all",
+      "text": "9   TIRASPOL       TIRASPOL          Liceul Teoretic\"Lucian Blaga\"                                        19          19             0      100,00      7,78",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.78
+    },
+    {
+      "year": "2017",
+      "text": "8   TIRASPOL         TIRASPOL        Liceul Teoretic \"Lucian Blaga\"                                       21        21        0       100,00    7,63",
+      "candidats": 21,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.63
+    },
+    {
+      "year": "2018",
+      "text": "39   TIRASPOL       TIRASPOL         Liceul Teoretic \"Lucian Blaga\"                                    21   21   0   100.00   7.20",
+      "candidats": 21,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.2
+    },
+    {
+      "year": "2019",
+      "text": "233   TIRASPOL       TIRASPOL         Liceul Teoretic \"Lucian Blaga\"                                                18        16   2   88.89   6.84",
+      "candidats": 18,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.84
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

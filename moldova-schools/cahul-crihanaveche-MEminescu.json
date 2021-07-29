@@ -1,0 +1,41 @@
+{
+  "id": "cahul-crihanaveche-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "cahul",
+    "city": "crihanaveche"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m.eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "389   CAHUL          CRIHANA VECHE       Liceul Teoretic \"M.Eminescu\"                                     20    6    14   30.00   5.38",
+      "candidats": 20,
+      "rejectedCandidats": 14,
+      "mediumNote": 5.38
+    },
+    {
+      "year": "2016 all",
+      "text": "179   CAHUL          CRIHANA VECHE     Liceul Teoretic \"M.Eminescu\"                                      4     3    1   75,00   5,50",
+      "candidats": 4,
+      "rejectedCandidats": 1,
+      "mediumNote": 5.5
+    },
+    {
+      "year": "2017",
+      "text": "242   CAHUL          CRIHANA VECHE    Liceul Teoretic \"M.Eminescu\"                                           17   14    3   82,35   6,13",
+      "candidats": 17,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.13
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

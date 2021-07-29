@@ -1,0 +1,63 @@
+{
+  "id": "balti-balti-LBlaga",
+  "search": "blaga",
+  "address": {
+    "district": "balti",
+    "city": "balti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"l.blaga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "231   BALTI          BALTI               LICEUL TEORETIC \"L.BLAGA\"                                             67    44   23   65.67   6.11",
+      "candidats": 67,
+      "rejectedCandidats": 23,
+      "mediumNote": 6.11
+    },
+    {
+      "year": "2016",
+      "text": "307   BALTI          BALTI             LICEUL TEORETIC \"L.BLAGA\"                                             54    35    19   64,81   6,64",
+      "candidats": 54,
+      "rejectedCandidats": 19,
+      "mediumNote": 6.64
+    },
+    {
+      "year": "2016 all",
+      "text": "292   BALTI          BALTI             LICEUL TEORETIC \"L.BLAGA\"                                             70   40   30   57,14   6,49",
+      "candidats": 70,
+      "rejectedCandidats": 30,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2017",
+      "text": "71   BALTI          BALTI           LICEUL TEORETIC \"L.BLAGA\"                                      47    47   0   100,00   6,27",
+      "candidats": 47,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.27
+    },
+    {
+      "year": "2018",
+      "text": "117   BALTI          BALTI            LICEUL TEORETIC \"L.BLAGA\"                                       51         50   1   98.04    6.73",
+      "candidats": 51,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.73
+    },
+    {
+      "year": "2019",
+      "text": "78   BALTI          BALTI            LICEUL TEORETIC \"L.BLAGA\"                                       39         39    0   100.00   7.00",
+      "candidats": 39,
+      "rejectedCandidats": 0,
+      "mediumNote": 7
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

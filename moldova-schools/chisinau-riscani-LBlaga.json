@@ -1,0 +1,56 @@
+{
+  "id": "chisinau-riscani-LBlaga",
+  "search": "blaga",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"lucian blaga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "237   CHISINAU       RISCANI             Liceul Teoretic \"Lucian Blaga\"                                        43    28   15   65.12   5.98",
+      "candidats": 43,
+      "rejectedCandidats": 15,
+      "mediumNote": 5.98
+    },
+    {
+      "year": "2016",
+      "text": "123   CHISINAU       RISCANI    Liceul Teoretic \"Lucian Blaga\"                                                         16    15   1   93,75   6,35",
+      "candidats": 16,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.35
+    },
+    {
+      "year": "2016 all",
+      "text": "278   CHISINAU       RISCANI    Liceul Teoretic \"Lucian Blaga\"                                         27   16   11   59,26   6,27",
+      "candidats": 27,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.27
+    },
+    {
+      "year": "2017",
+      "text": "59   CHISINAU       RISCANI   Liceul Teoretic \"Lucian Blaga\"                                            15         15      0   100,00   6,53",
+      "candidats": 15,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.53
+    },
+    {
+      "year": "2018",
+      "text": "50   CHISINAU       RISCANI    Liceul Teoretic \"Lucian Blaga\"                                    24   24   0   100.00   7.06",
+      "candidats": 24,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.06
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

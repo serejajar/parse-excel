@@ -1,0 +1,63 @@
+{
+  "id": "hincesti-carpineni-SHolban",
+  "search": "holban",
+  "address": {
+    "district": "hincesti",
+    "city": "carpineni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"stefan holban\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "192   HÎNCEŞTI       CĂRPINENI             Liceul Teoretic \"Ştefan Holban\"                                  45   32   13   71.11   6.78",
+      "candidats": 45,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.78
+    },
+    {
+      "year": "2016",
+      "text": "54   HÎNCEŞTI       CĂRPINENI         Liceul Teoretic \"Ştefan Holban\"                               48    48   0   100,00   6,39",
+      "candidats": 48,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.39
+    },
+    {
+      "year": "2016 all",
+      "text": "39   HÎNCEŞTI       CĂRPINENI         Liceul Teoretic \"Ştefan Holban\"                                      51          49             2       96,08      6,40",
+      "candidats": 51,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2017",
+      "text": "178   HÎNCEŞTI     CĂRPINENI       Liceul Teoretic \"Ştefan Holban\"                                  43   39   4   90,70   6,76",
+      "candidats": 43,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.76
+    },
+    {
+      "year": "2018",
+      "text": "197   HÎNCEŞTI       CĂRPINENI        Liceul Teoretic \"Ştefan Holban\"                                 39   36   3   92.31   6.67",
+      "candidats": 39,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.67
+    },
+    {
+      "year": "2019",
+      "text": "66   HÎNCEŞTI       CĂRPINENI        Liceul Teoretic \"Ştefan Holban\"                                   46    46   0   100.00   7.13",
+      "candidats": 46,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.13
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

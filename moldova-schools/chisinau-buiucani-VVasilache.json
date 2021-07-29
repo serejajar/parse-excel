@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-buiucani-VVasilache",
+  "search": "vasilache",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"vasile vasilache\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "165   CHISINAU       BUIUCANI              Liceul Teoretic \"Vasile Vasilache\"                               64   48   16   75.00   6.50",
+      "candidats": 64,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016",
+      "text": "142   CHISINAU       BUIUCANI    Liceul Teoretic \"Vasile Vasilache\"                               48    44   4   91,67   6,66",
+      "candidats": 48,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.66
+    },
+    {
+      "year": "2016 all",
+      "text": "152   CHISINAU       BUIUCANI    Liceul Teoretic \"Vasile Vasilache\"                           60   47   13   78,33   6,56",
+      "candidats": 60,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2017",
+      "text": "180   CHISINAU     BUIUCANI   Liceul Teoretic \"Vasile Vasilache\"                               42   38   4   90,48   6,65",
+      "candidats": 42,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.65
+    },
+    {
+      "year": "2018",
+      "text": "77   CHISINAU       BUIUCANI   Liceul Teoretic \"Vasile Vasilache\"                                33   33   0   100.00   6.73",
+      "candidats": 33,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.73
+    },
+    {
+      "year": "2019",
+      "text": "144   CHISINAU       BUIUCANI   Instituţia Publică Liceul Teoretic \"Vasile Vasilache\"                       45         44         1          97.78   7.02",
+      "candidats": 45,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.02
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

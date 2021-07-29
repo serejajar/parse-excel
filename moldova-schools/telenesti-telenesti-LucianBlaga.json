@@ -1,0 +1,63 @@
+{
+  "id": "telenesti-telenesti-LucianBlaga",
+  "search": "blaga",
+  "address": {
+    "district": "telenesti",
+    "city": "telenesti"
+  },
+  "name": {
+    "ro": "liceul teoretic ”lucian blaga”",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "127   TELENEŞTI      TELENEŞTI           LICEUL TEORETIC ”LUCIAN BLAGA”                                                       101    79   22   78.22   6.56",
+      "candidats": 101,
+      "rejectedCandidats": 22,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2016",
+      "text": "112   TELENEŞTI      TELENEŞTI         LICEUL TEORETIC ”LUCIAN BLAGA”                                                        53    50   3   94,34   6,79",
+      "candidats": 53,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.79
+    },
+    {
+      "year": "2016 all",
+      "text": " 63   TELENEŞTI      TELENEŞTI         LICEUL TEORETIC ”LUCIAN BLAGA”                                                        62    56    6   90,32   6,60",
+      "candidats": 62,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.6
+    },
+    {
+      "year": "2017",
+      "text": "160   TELENEŞTI      TELENEŞTI       LICEUL TEORETIC \"LUCIAN BLAGA\"                                   53    49   4   92,45   6,91",
+      "candidats": 53,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.91
+    },
+    {
+      "year": "2018",
+      "text": "172   TELENEŞTI      TELENEŞTI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"LUCIAN BLAGA\"               68   64   4   94.12   6.92",
+      "candidats": 68,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.92
+    },
+    {
+      "year": "2019",
+      "text": "139   TELENEŞTI      TELENEŞTI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"LUCIAN BLAGA\"                           59         58         1          98.31   6.93",
+      "candidats": 59,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.93
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

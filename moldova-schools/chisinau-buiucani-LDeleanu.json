@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-buiucani-LDeleanu",
+  "search": "deleanu",
+  "address": {
+    "district": "chisinau",
+    "city": "buiucani"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"liviu deleanu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "97   CHISINAU       BUIUCANI            Instituţia Publică Liceul Teoretic \"Liviu Deleanu\"                                           104    85   19   81.73   6.39",
+      "candidats": 104,
+      "rejectedCandidats": 19,
+      "mediumNote": 6.39
+    },
+    {
+      "year": "2016",
+      "text": "152   CHISINAU       BUIUCANI    Instituţia Publică Liceul Teoretic \"Liviu Deleanu\"               57    52   5   91,23   6,53",
+      "candidats": 57,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.53
+    },
+    {
+      "year": "2016 all",
+      "text": "118   CHISINAU       BUIUCANI    Instituţia Publică Liceul Teoretic \"Liviu Deleanu\"           65   54   11   83,08   6,47",
+      "candidats": 65,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.47
+    },
+    {
+      "year": "2017",
+      "text": "195   CHISINAU     BUIUCANI   Instituţia Publică Liceul Teoretic \"Liviu Deleanu\"               47   42   5   89,36   6,69",
+      "candidats": 47,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.69
+    },
+    {
+      "year": "2018",
+      "text": "144   CHISINAU       BUIUCANI   Instituţia Publică Liceul Teoretic \"Liviu Deleanu\"                             53         51      2   96.23   7.02",
+      "candidats": 53,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.02
+    },
+    {
+      "year": "2019",
+      "text": "35   CHISINAU         BUIUCANI   Instituţia Publică Liceul Teoretic \"Liviu Deleanu\"                            66        66        0       100.00    7.41",
+      "candidats": 66,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.41
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

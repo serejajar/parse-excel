@@ -1,0 +1,62 @@
+{
+  "id": "cimislia-cimislia-ICreanga",
+  "search": "creanga",
+  "address": {
+    "district": "cimislia",
+    "city": "cimislia"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"ion creanga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "223   CIMIŞLIA       CIMIŞLIA            Instituţia Publică LICEUL TEORETIC \"ION CREANGĂ\"                      69    46   23   66.67   6.23",
+      "candidats": 69,
+      "rejectedCandidats": 23,
+      "mediumNote": 6.23
+    },
+    {
+      "year": "2016",
+      "text": "158   CIMIŞLIA       CIMIŞLIA          Instituţia Publică LICEUL TEORETIC \"ION CREANGĂ\"                 43    39   4   90,70   6,61",
+      "candidats": 43,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.61
+    },
+    {
+      "year": "2016 all",
+      "text": "180   CIMIŞLIA       CIMIŞLIA          Instituţia Publică LICEUL TEORETIC \"ION CREANGĂ\"                 55    41   14   74,55   6,58",
+      "candidats": 55,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2017",
+      "text": "127   CIMIŞLIA       CIMIŞLIA        Instituţia Publică LICEUL TEORETIC \"ION CREANGĂ\"                 39    37   2   94,87   6,20",
+      "candidats": 39,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.2
+    },
+    {
+      "year": "2018",
+      "text": "127   CIMIŞLIA       CIMIŞLIA         Instituţia Publică LICEUL TEORETIC \"ION CREANGĂ\"                               40         39      1   97.50   6.71",
+      "candidats": 40,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.71
+    },
+    {
+      "year": "2019",
+      "text": "148   CIMIŞLIA       CIMIŞLIA         Instituţia Publică LICEUL TEORETIC \"ION CREANGĂ\"                            41         40         1          97.56   6.75",
+      "candidats": 41,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.75
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

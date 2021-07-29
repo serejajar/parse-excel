@@ -1,0 +1,55 @@
+{
+  "id": "causeni-causeni-ICreanga",
+  "search": "creanga",
+  "address": {
+    "district": "causeni",
+    "city": "causeni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"ion creanga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "407   CAUSENI        CAUSENI             LICEUL TEORETIC \"ION CREANGĂ\"                10   1    9   10.00   5.00",
+      "candidats": 10,
+      "rejectedCandidats": 9,
+      "mediumNote": 5
+    },
+    {
+      "year": "2016",
+      "text": "100   CAUSENI        CAUSENI           LICEUL TEORETIC \"ION CREANGĂ\"                                                         22    21   1   95,45   5,70",
+      "candidats": 22,
+      "rejectedCandidats": 1,
+      "mediumNote": 5.7
+    },
+    {
+      "year": "2016 all",
+      "text": "150   CAUSENI        CAUSENI           LICEUL TEORETIC \"ION CREANGĂ\"                                28   22    6   78,57   5,68",
+      "candidats": 28,
+      "rejectedCandidats": 6,
+      "mediumNote": 5.68
+    },
+    {
+      "year": "2018",
+      "text": "103   CAUSENI        CAUSENI          LICEUL TEORETIC \"ION CREANGĂ\"                                   19         19   0   100.00   5.91",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 5.91
+    },
+    {
+      "year": "2019",
+      "text": "201   CAUSENI        CAUSENI          LICEUL TEORETIC \"ION CREANGĂ\"                                                 29        27   2   93.10   5.98",
+      "candidats": 29,
+      "rejectedCandidats": 2,
+      "mediumNote": 5.98
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

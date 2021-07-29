@@ -1,0 +1,27 @@
+{
+  "id": "causeni-causeni-DCantemir",
+  "search": "dimitrie cantemir|d.cantemir|d. cantemir",
+  "address": {
+    "district": "causeni",
+    "city": "causeni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"d.cantemir\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "398   CAUSENI        CAUSENI             LICEUL TEORETIC \"D.CANTEMIR\"                                      5    1     4   20.00   5.25",
+      "candidats": 5,
+      "rejectedCandidats": 4,
+      "mediumNote": 5.25
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

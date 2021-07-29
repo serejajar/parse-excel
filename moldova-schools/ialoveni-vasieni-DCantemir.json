@@ -1,0 +1,56 @@
+{
+  "id": "ialoveni-vasieni-DCantemir",
+  "search": "dimitrie cantemir|d.cantemir|d. cantemir",
+  "address": {
+    "district": "ialoveni",
+    "city": "vasieni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"dimitrie cantemir\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "224   IALOVENI       VĂSIENI             Liceul Teoretic \"Dimitrie Cantemir\"                                   45    30   15   66.67   6.17",
+      "candidats": 45,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.17
+    },
+    {
+      "year": "2016",
+      "text": "130   IALOVENI       VĂSIENI           Liceul Teoretic \"Dimitrie Cantemir\"                              14    13   1   92,86   6,67",
+      "candidats": 14,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.67
+    },
+    {
+      "year": "2016 all",
+      "text": "262   IALOVENI       VĂSIENI           Liceul Teoretic \"Dimitrie Cantemir\"                                   21   13    8   61,90   6,67",
+      "candidats": 21,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.67
+    },
+    {
+      "year": "2017",
+      "text": "33   IALOVENI         VĂSIENI         Liceul Teoretic \"Dimitrie Cantemir\"                                  11        11        0       100,00    6,95",
+      "candidats": 11,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.95
+    },
+    {
+      "year": "2018",
+      "text": "52   IALOVENI       VĂSIENI          Liceul Teoretic \"Dimitrie Cantemir\"                               25   25   0   100.00   7.04",
+      "candidats": 25,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.04
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

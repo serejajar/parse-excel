@@ -1,0 +1,27 @@
+{
+  "id": "rezina-peciste-liceul",
+  "search": "",
+  "address": {
+    "district": "rezina",
+    "city": "peciste"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic peciste",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "395   REZINA         PECIŞTE             Instituţie Publică Liceul Teoretic Pecişte                       41   10    31   24.39   5.98",
+      "candidats": 41,
+      "rejectedCandidats": 31,
+      "mediumNote": 5.98
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

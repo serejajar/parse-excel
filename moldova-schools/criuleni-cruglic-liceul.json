@@ -1,0 +1,62 @@
+{
+  "id": "criuleni-cruglic-liceul",
+  "search": "cruglic",
+  "address": {
+    "district": "criuleni",
+    "city": "cruglic"
+  },
+  "name": {
+    "ro": "liceul teoretic cruglic",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "103   CRIULENI       CRUGLIC             Liceul Teoretic CRUGLIC                                                               21    17    4   80.95   6.57",
+      "candidats": 21,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2016",
+      "text": "180   CRIULENI       CRUGLIC           Liceul Teoretic CRUGLIC                                    18    16    2   88,89   6,69",
+      "candidats": 18,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.69
+    },
+    {
+      "year": "2016 all",
+      "text": " 62   CRIULENI       CRUGLIC           Liceul Teoretic CRUGLIC                                                               21    19    2   90,48   6,45",
+      "candidats": 21,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.45
+    },
+    {
+      "year": "2017",
+      "text": "169   CRIULENI     CRUGLIC         Liceul Teoretic CRUGLIC                                            23   21   2   91,30   6,43",
+      "candidats": 23,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.43
+    },
+    {
+      "year": "2018",
+      "text": "259   CRIULENI       CRUGLIC         Liceul Teoretic CRUGLIC                                         23    19    4   82.61   6.49",
+      "candidats": 23,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.49
+    },
+    {
+      "year": "2019",
+      "text": "96   CRIULENI       CRUGLIC          Liceul Teoretic CRUGLIC                                           20         20    0   100.00   6.84",
+      "candidats": 20,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.84
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

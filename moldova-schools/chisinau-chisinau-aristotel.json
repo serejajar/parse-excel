@@ -1,0 +1,35 @@
+{
+  "id": "chisinau-chisinau-aristotel",
+  "search": "aristotel",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic republican \"aristotel\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2018",
+      "text": "1   CHISINAU         CHISINAU         Instituţia Publică Liceul Teoretic Republican \"Aristotel\"                     61        61        0       100.00    8.77",
+      "candidats": 61,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.77
+    },
+    {
+      "year": "2019",
+      "text": "1   CHISINAU         CHISINAU         Instituţia Publică Liceul Teoretic Republican \"Aristotel\"                     86        86        0       100.00    8.99",
+      "candidats": 86,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.99
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

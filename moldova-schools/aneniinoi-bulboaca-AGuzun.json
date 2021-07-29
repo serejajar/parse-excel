@@ -1,0 +1,42 @@
+{
+  "id": "aneniinoi-bulboaca-AGuzun",
+  "search": "guzun",
+  "address": {
+    "district": "aneniinoi",
+    "city": "bulboaca"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic \"anton guzun\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "284   ANENIINOI     BULBOACA            Instituţie Publică Liceul Teoretic \"Anton Guzun\"        39   23   16   58.97   5.96",
+      "candidats": 39,
+      "rejectedCandidats": 16,
+      "mediumNote": 5.96
+    },
+    {
+      "year": "2016",
+      "text": "60   ANENIINOI     BULBOACA          Instituţie Publică Liceul Teoretic \"Anton Guzun\"              20    20   0   100,00   6,20",
+      "candidats": 20,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.2
+    },
+    {
+      "year": "2016 all",
+      "text": "216   ANENIINOI     BULBOACA          Instituţie Publică Liceul Teoretic \"Anton Guzun\"                    29   20    9   68,97   6,20",
+      "candidats": 29,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.2
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

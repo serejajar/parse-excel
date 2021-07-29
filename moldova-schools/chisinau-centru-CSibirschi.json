@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-centru-CSibirschi",
+  "search": "sibirschi",
+  "address": {
+    "district": "chisinau",
+    "city": "centru"
+  },
+  "name": {
+    "ro": "liceul teoretic academician \"c.sibirschi\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "117   CHISINAU       CENTRU              Liceul Teoretic Academician \"C.Sibirschi\"                                             53    42   11   79.25   6.71",
+      "candidats": 53,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.71
+    },
+    {
+      "year": "2016",
+      "text": "105   CHISINAU       CENTRU    Liceul Teoretic \"Academician C.Sibirschi\"                                               20    19   1   95,00   6,92",
+      "candidats": 20,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.92
+    },
+    {
+      "year": "2016 all",
+      "text": "183   CHISINAU       CENTRU    Liceul Teoretic \"Academician C.Sibirschi\"                          27    20    7   74,07   6,88",
+      "candidats": 27,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.88
+    },
+    {
+      "year": "2017",
+      "text": "256   CHISINAU       CENTRU   Liceul Teoretic \"Academician C.Sibirschi\"                   34   27    7   79,41   6,47",
+      "candidats": 34,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.47
+    },
+    {
+      "year": "2018",
+      "text": "54   CHISINAU       CENTRU   Liceul Teoretic \"Academician C.Sibirschi\"                           20   20   0   100.00   7.01",
+      "candidats": 20,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.01
+    },
+    {
+      "year": "2019",
+      "text": "175   CHISINAU       CENTRU   Liceul Teoretic \"Academician C.Sibirschi\"                        42   40   2   95.24   6.93",
+      "candidats": 42,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.93
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

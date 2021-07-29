@@ -1,0 +1,63 @@
+{
+  "id": "drochia-drochia-rusnr3",
+  "search": "nr. ?3",
+  "address": {
+    "district": "drochia",
+    "city": "drochia"
+  },
+  "name": {
+    "ro": "institutia publica liceul rus nr.3",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "182   DROCHIA        DROCHIA               Instituţia Publică Liceul rus nr.3                               55   40   15   72.73   6.38",
+      "candidats": 55,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2016",
+      "text": "321   DROCHIA        DROCHIA           Instituţia Publică Liceul rus nr.3                                    24    14    10   58,33   6,57",
+      "candidats": 24,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2016 all",
+      "text": "319   DROCHIA        DROCHIA           Instituţia Publică Liceul rus nr.3                         34    16    18   47,06   6,41",
+      "candidats": 34,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.41
+    },
+    {
+      "year": "2017",
+      "text": "258   DROCHIA        DROCHIA         Instituţia Publică Liceul rus nr.3                           38   30    8   78,95   5,99",
+      "candidats": 38,
+      "rejectedCandidats": 8,
+      "mediumNote": 5.99
+    },
+    {
+      "year": "2018",
+      "text": "194   DROCHIA        DROCHIA          Instituţia Publică Liceul rus nr.3                                40   37   3   92.50   6.34",
+      "candidats": 40,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.34
+    },
+    {
+      "year": "2019",
+      "text": "183   DROCHIA        DROCHIA          Instituţia Publică Liceul rus nr.3                               20   19   1   95.00   6.25",
+      "candidats": 20,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.25
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

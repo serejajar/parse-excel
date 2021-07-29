@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-botanica-DCantemir",
+  "search": "dimitrie cantemir|d.cantemir|d. cantemir",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "liceul teoretic \"dimitrie cantemir\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "18   CHISINAU       BOTANICA   LICEUL TEORETIC \"DIMITRIE CANTEMIR\"                                       66        65           1        98.48    7.21",
+      "candidats": 66,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.21
+    },
+    {
+      "year": "2016",
+      "text": "137   CHISINAU       BOTANICA   LICEUL TEORETIC \"DIMITRIE CANTEMIR\"                               39    36   3   92,31   7,11",
+      "candidats": 39,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.11
+    },
+    {
+      "year": "2016 all",
+      "text": " 51   CHISINAU       BOTANICA   LICEUL TEORETIC \"DIMITRIE CANTEMIR\"                                                    39    36    3   92,31   7,11",
+      "candidats": 39,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.11
+    },
+    {
+      "year": "2017",
+      "text": "97   CHISINAU       BOTANICA   LICEUL TEORETIC \"DIMITRIE CANTEMIR\"                        66    64   2   96,97    7,03",
+      "candidats": 66,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.03
+    },
+    {
+      "year": "2018",
+      "text": "26   CHISINAU         BOTANICA   LICEUL TEORETIC \"DIMITRIE CANTEMIR\"                                           63        63        0       100.00    7.41",
+      "candidats": 63,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.41
+    },
+    {
+      "year": "2019",
+      "text": "25   CHISINAU         BOTANICA   INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"DIMITRIE CANTEMIR\"                        45        45        0       100.00    7.59",
+      "candidats": 45,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.59
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

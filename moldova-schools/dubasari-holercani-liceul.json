@@ -1,0 +1,55 @@
+{
+  "id": "dubasari-holercani-liceul",
+  "search": "holercani",
+  "address": {
+    "district": "dubasari",
+    "city": "holercani"
+  },
+  "name": {
+    "ro": "liceul teoretic holercani",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "185   DUBĂSARI       HOLERCANI             Liceul Teoretic Holercani                                        50   36   14   72.00   6.21",
+      "candidats": 50,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.21
+    },
+    {
+      "year": "2016",
+      "text": "337   DUBĂSARI       HOLERCANI         Liceul Teoretic Holercani                                             21    10    11   47,62   5,95",
+      "candidats": 21,
+      "rejectedCandidats": 11,
+      "mediumNote": 5.95
+    },
+    {
+      "year": "2016 all",
+      "text": "332   DUBĂSARI       HOLERCANI         Liceul Teoretic Holercani                                  34    14    20   41,18   5,79",
+      "candidats": 34,
+      "rejectedCandidats": 20,
+      "mediumNote": 5.79
+    },
+    {
+      "year": "2017",
+      "text": "250   DUBĂSARI       HOLERCANI       Liceul Teoretic Holercani                                    21   17    4   80,95   5,65",
+      "candidats": 21,
+      "rejectedCandidats": 4,
+      "mediumNote": 5.65
+    },
+    {
+      "year": "2019",
+      "text": "29   DUBĂSARI         HOLERCANI        Liceul Teoretic Holercani                                                       19        19        0       100.00    7.50",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.5
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

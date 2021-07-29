@@ -1,0 +1,27 @@
+{
+  "id": "floresti-cunicea-liceul",
+  "search": "cunicea",
+  "address": {
+    "district": "floresti",
+    "city": "cunicea"
+  },
+  "name": {
+    "ro": "liceul teoretic cunicea",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "200   FLOREŞTI       CUNICEA               Liceul Teoretic Cunicea                                          10    7    3   70.00   6.89",
+      "candidats": 10,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.89
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

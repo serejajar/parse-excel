@@ -1,0 +1,63 @@
+{
+  "id": "glodeni-glodeni-VCoroban",
+  "search": "coroban",
+  "address": {
+    "district": "glodeni",
+    "city": "glodeni"
+  },
+  "name": {
+    "ro": "liceul teoretic ”vasile coroban”",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "309   GLODENI        GLODENI             Liceul Teoretic ”Vasile Coroban”                                 91    50    41   54.95   6.07",
+      "candidats": 91,
+      "rejectedCandidats": 41,
+      "mediumNote": 6.07
+    },
+    {
+      "year": "2016",
+      "text": "272   GLODENI        GLODENI          Liceul Teoretic ”Vasile Coroban”                                    79   60   19   75,95   6,55",
+      "candidats": 79,
+      "rejectedCandidats": 19,
+      "mediumNote": 6.55
+    },
+    {
+      "year": "2016 all",
+      "text": "290   GLODENI        GLODENI           Liceul Teoretic ”Vasile Coroban”                                     126   73   53   57,94   6,31",
+      "candidats": 126,
+      "rejectedCandidats": 53,
+      "mediumNote": 6.31
+    },
+    {
+      "year": "2017",
+      "text": "200   GLODENI      GLODENI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"VASILE COROBAN\"              37   33   4   89,19   6,40",
+      "candidats": 37,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2018",
+      "text": "165   GLODENI        GLODENI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"VASILE COROBAN\"             37   35   2   94.59   6.36",
+      "candidats": 37,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.36
+    },
+    {
+      "year": "2019",
+      "text": "258   GLODENI        GLODENI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"VASILE COROBAN\"          37    31    6   83.78   7.28",
+      "candidats": 37,
+      "rejectedCandidats": 6,
+      "mediumNote": 7.28
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "balti-balti-APuskin",
+  "search": "puskin",
+  "address": {
+    "district": "balti",
+    "city": "balti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a.puskin\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "272   BALTI          BALTI               LICEUL TEORETIC \"A.PUŞKIN\"                              48   29   19   60.42   6.59",
+      "candidats": 48,
+      "rejectedCandidats": 19,
+      "mediumNote": 6.59
+    },
+    {
+      "year": "2016",
+      "text": "188   BALTI          BALTI             LICEUL TEORETIC \"A.PUŞKIN\"                                 35    31    4   88,57   6,33",
+      "candidats": 35,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.33
+    },
+    {
+      "year": "2016 all",
+      "text": "198   BALTI          BALTI             LICEUL TEORETIC \"A.PUŞKIN\"                                       46    33   13   71,74   6,30",
+      "candidats": 46,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.3
+    },
+    {
+      "year": "2017",
+      "text": "148   BALTI          BALTI           LICEUL TEORETIC \"A.PUŞKIN\"                                       29    27   2   93,10   6,73",
+      "candidats": 29,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.73
+    },
+    {
+      "year": "2018",
+      "text": "253   BALTI          BALTI           LICEUL TEORETIC \"A.PUŞKIN\"                                    32    27    5   84.38   6.36",
+      "candidats": 32,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.36
+    },
+    {
+      "year": "2019",
+      "text": "89   BALTI          BALTI            LICEUL TEORETIC \"A. PUŞKIN\"                                     37         37    0   100.00   6.90",
+      "candidats": 37,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.9
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

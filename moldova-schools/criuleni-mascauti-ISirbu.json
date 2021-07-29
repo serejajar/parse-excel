@@ -1,0 +1,42 @@
+{
+  "id": "criuleni-mascauti-ISirbu",
+  "search": "sirbu",
+  "address": {
+    "district": "criuleni",
+    "city": "mascauti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"ion sirbu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "316   CRIULENI       MAŞCĂUŢI            Liceul Teoretic \"Ion Sîrbu\"                                      43    23    20   53.49   5.62",
+      "candidats": 43,
+      "rejectedCandidats": 20,
+      "mediumNote": 5.62
+    },
+    {
+      "year": "2016",
+      "text": "62   CRIULENI       MAŞCĂUŢI          Liceul Teoretic \"Ion Sîrbu\"                                   21    21   0   100,00   6,08",
+      "candidats": 21,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.08
+    },
+    {
+      "year": "2016 all",
+      "text": "206   CRIULENI       MAŞCĂUŢI          Liceul Teoretic \"Ion Sîrbu\"                                         34   24   10   70,59   5,98",
+      "candidats": 34,
+      "rejectedCandidats": 10,
+      "mediumNote": 5.98
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

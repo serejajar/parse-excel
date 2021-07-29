@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-stauceni-DVoda",
+  "search": "dragos voda",
+  "address": {
+    "district": "chisinau",
+    "city": "stauceni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"dragos voda\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "14   CHISINAU       STAUCENI            Liceul Teoretic \"Dragoş Vodă\"                                             19        19           0      100.00     6.33",
+      "candidats": 19,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.33
+    },
+    {
+      "year": "2016",
+      "text": "47   CHISINAU       STAUCENI          Liceul Teoretic \"Dragoş Vodă\"                                 30    30   0   100,00   6,58",
+      "candidats": 30,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2016 all",
+      "text": "25   CHISINAU       STAUCENI          Liceul Teoretic \"Dragoş Vodă\"                                        30          30             0      100,00      6,58",
+      "candidats": 30,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2017",
+      "text": "205   CHISINAU     STAUCENI        Liceul Teoretic \"Dragoş Vodă\"                                    35   31   4   88,57   6,21",
+      "candidats": 35,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.21
+    },
+    {
+      "year": "2018",
+      "text": "143   CHISINAU       STAUCENI         Liceul Teoretic \"Dragoş Vodă\"                                                  27         26      1   96.30   6.74",
+      "candidats": 27,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.74
+    },
+    {
+      "year": "2019",
+      "text": "169   CHISINAU       STAUCENI         Liceul Teoretic \"Dragoş Vodă\"                                  24   23   1   95.83   7.04",
+      "candidats": 24,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.04
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

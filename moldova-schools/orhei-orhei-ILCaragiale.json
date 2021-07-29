@@ -1,0 +1,63 @@
+{
+  "id": "orhei-orhei-ILCaragiale",
+  "search": "caragiale",
+  "address": {
+    "district": "orhei",
+    "city": "orhei"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"i. l. caragiale\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "126   ORHEI          ORHEI               INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"I. L. CARAGIALE\"                                  97    76   21   78.35   6.69",
+      "candidats": 97,
+      "rejectedCandidats": 21,
+      "mediumNote": 6.69
+    },
+    {
+      "year": "2016",
+      "text": "120   ORHEI          ORHEI             INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION LUCA CARAGIALE\"                               64    60   4   93,75   6,80",
+      "candidats": 64,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.8
+    },
+    {
+      "year": "2016 all",
+      "text": "103   ORHEI          ORHEI             INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION LUCA CARAGIALE\"      76   65   11   85,53   6,71",
+      "candidats": 76,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.71
+    },
+    {
+      "year": "2017",
+      "text": "181   ORHEI        ORHEI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION LUCA CARAGIALE\"          84   76   8   90,48   6,62",
+      "candidats": 84,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.62
+    },
+    {
+      "year": "2018",
+      "text": "140   ORHEI          ORHEI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION LUCA CARAGIALE\"                        84         81      3   96.43   6.76",
+      "candidats": 84,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.76
+    },
+    {
+      "year": "2019",
+      "text": "180   ORHEI          ORHEI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION LUCA CARAGIALE\"       100   95   5   95.00   7.14",
+      "candidats": 100,
+      "rejectedCandidats": 5,
+      "mediumNote": 7.14
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

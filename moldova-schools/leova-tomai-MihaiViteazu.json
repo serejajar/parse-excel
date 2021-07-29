@@ -1,0 +1,42 @@
+{
+  "id": "leova-tomai-MihaiViteazu",
+  "search": "viteazu",
+  "address": {
+    "district": "leova",
+    "city": "tomai"
+  },
+  "name": {
+    "ro": "liceul teoretic \"mihai viteazu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "334   LEOVA          TOMAI               Liceul Teoretic \"Mihai Viteazu\"                                  10     5     5   50.00   5.20",
+      "candidats": 10,
+      "rejectedCandidats": 5,
+      "mediumNote": 5.2
+    },
+    {
+      "year": "2016 all",
+      "text": "381   LEOVA          TOMAI             Liceul Teoretic \"Mihai Viteazu\"                                      1    0     1    0,00   0",
+      "candidats": 1,
+      "rejectedCandidats": 1,
+      "mediumNote": 0
+    },
+    {
+      "year": "2017",
+      "text": "235   LEOVA          TOMAI           Liceul Teoretic \"Mihai Viteazu\"                                      18   15    3   83,33   5,73",
+      "candidats": 18,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.73
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

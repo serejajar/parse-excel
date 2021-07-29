@@ -1,0 +1,42 @@
+{
+  "id": "briceni-colicauti-liceul",
+  "search": "colicauti",
+  "address": {
+    "district": "briceni",
+    "city": "colicauti"
+  },
+  "name": {
+    "ro": "liceul teoretic colicauti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "279   BRICENI        COLICĂUŢI           Liceul Teoretic Colicăuţi                               32   19   13   59.38   6.32",
+      "candidats": 32,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.32
+    },
+    {
+      "year": "2016",
+      "text": "263   BRICENI        COLICĂUŢI        Liceul Teoretic Colicăuţi                                           14   11    3   78,57   6,34",
+      "candidats": 14,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.34
+    },
+    {
+      "year": "2016 all",
+      "text": "244   BRICENI        COLICĂUŢI         Liceul Teoretic Colicăuţi                                           20   13    7   65,00   6,19",
+      "candidats": 20,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.19
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-riscani-svetoci",
+  "search": "svetoci",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul \"svetoci\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "95   CHISINAU       RISCANI             Liceul \"Svetoci\"                                                                              33    27    6   81.82   6.30",
+      "candidats": 33,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.3
+    },
+    {
+      "year": "2016",
+      "text": "278   CHISINAU       RISCANI    Liceul \"Svetoci\"                                                    19   14    5   73,68   6,67",
+      "candidats": 19,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.67
+    },
+    {
+      "year": "2016 all",
+      "text": "286   CHISINAU       RISCANI    Liceul \"Svetoci\"                                                       24   14   10   58,33   6,67",
+      "candidats": 24,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.67
+    },
+    {
+      "year": "2017",
+      "text": "175   CHISINAU     RISCANI   Liceul \"Svetoci\"                                                 22   20   2   90,91   6,22",
+      "candidats": 22,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.22
+    },
+    {
+      "year": "2018",
+      "text": "220   CHISINAU       RISCANI    Liceul \"Svetoci\"                                               10    9    1   90.00   6.09",
+      "candidats": 10,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2019",
+      "text": "261   CHISINAU       RISCANI    Liceul \"Svetoci\"                                             22    18    4   81.82   6.29",
+      "candidats": 22,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.29
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

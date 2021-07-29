@@ -1,0 +1,55 @@
+{
+  "id": "chisinau-riscani-LimbiModerne",
+  "search": "liceul de limbi moderne si management",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul de limbi moderne si management",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "11   CHISINAU       RISCANI    Liceul de Limbi Moderne şi Management                                     12        12           0      100.00     6.94",
+      "candidats": 12,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.94
+    },
+    {
+      "year": "2016",
+      "text": "41   CHISINAU       RISCANI    Liceul de Limbi Moderne şi Management                           6     6   0   100,00   6,63",
+      "candidats": 6,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2016 all",
+      "text": "24   CHISINAU       RISCANI    Liceul de Limbi Moderne şi Management                                  6           6             0      100,00      6,63",
+      "candidats": 6,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2018",
+      "text": "45   CHISINAU       RISCANI    Liceul de Limbi Moderne şi Management                               11   11   0   100.00   7.11",
+      "candidats": 11,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.11
+    },
+    {
+      "year": "2019",
+      "text": "5   CHISINAU         RISCANI    Liceul de Limbi Moderne şi Management                                            7         7        0       100.00    8.39",
+      "candidats": 7,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.39
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-botanica-TVladimirescu",
+  "search": "vladimirescu",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"tudor vladimirescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "369   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Tudor Vladimirescu\"         193   77   116   39.90   5.73",
+      "candidats": 193,
+      "rejectedCandidats": 116,
+      "mediumNote": 5.73
+    },
+    {
+      "year": "2016",
+      "text": "301   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Tudor Vladimirescu\"                89    60    29   67,42   6,25",
+      "candidats": 89,
+      "rejectedCandidats": 29,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2016 all",
+      "text": "316   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Tudor Vladimirescu\"    134    67    67   50,00   6,16",
+      "candidats": 134,
+      "rejectedCandidats": 67,
+      "mediumNote": 6.16
+    },
+    {
+      "year": "2017",
+      "text": "259   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Tudor Vladimirescu\"    46   36   10   78,26   6,09",
+      "candidats": 46,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2018",
+      "text": "131   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Tudor Vladimirescu\"                        36         35      1   97.22   6.84",
+      "candidats": 36,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.84
+    },
+    {
+      "year": "2019",
+      "text": "227   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Tudor Vladimirescu\"                       48        43   5   89.58   6.89",
+      "candidats": 48,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.89
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

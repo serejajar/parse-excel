@@ -1,0 +1,63 @@
+{
+  "id": "ialoveni-razeni-IPelivan",
+  "search": "pelivan",
+  "address": {
+    "district": "ialoveni",
+    "city": "razeni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"ion pelivan\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "155   IALOVENI       RĂZENI                Liceul Teoretic \"Ion Pelivan\"                                    42   32   10   76.19   6.77",
+      "candidats": 42,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.77
+    },
+    {
+      "year": "2016",
+      "text": "27   IALOVENI       RĂZENI            Liceul Teoretic \"Ion Pelivan\"                                        20          20             0      100,00      6,95",
+      "candidats": 20,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.95
+    },
+    {
+      "year": "2016 all",
+      "text": "145   IALOVENI       RĂZENI            Liceul Teoretic \"Ion Pelivan\"                                29   23    6   79,31   6,72",
+      "candidats": 29,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.72
+    },
+    {
+      "year": "2017",
+      "text": "209   IALOVENI       RĂZENI          Liceul Teoretic \"Ion Pelivan\"                                        16   14    2   87,50   6,84",
+      "candidats": 16,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.84
+    },
+    {
+      "year": "2018",
+      "text": "33   IALOVENI         RĂZENI           Liceul Teoretic \"Ion Pelivan\"                                                 29        29        0       100.00    7.30",
+      "candidats": 29,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.3
+    },
+    {
+      "year": "2019",
+      "text": "215   IALOVENI       RĂZENI           Liceul Teoretic \"Ion Pelivan\"                                                 45        41   4   91.11   7.08",
+      "candidats": 45,
+      "rejectedCandidats": 4,
+      "mediumNote": 7.08
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

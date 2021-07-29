@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-riscani-ARusso",
+  "search": "russo",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"alecu russo\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "9   CHISINAU       RISCANI    LICEUL TEORETIC \"ALECU RUSSO\"                                             49        49           0      100.00     7.20",
+      "candidats": 49,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.2
+    },
+    {
+      "year": "2016",
+      "text": "19   CHISINAU       RISCANI    LICEUL TEORETIC \"ALECU RUSSO\"                                         53          53             0      100,00      7,18",
+      "candidats": 53,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.18
+    },
+    {
+      "year": "2016 all",
+      "text": "14   CHISINAU       RISCANI    LICEUL TEORETIC \"ALECU RUSSO\"                                         53          53             0      100,00      7,18",
+      "candidats": 53,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.18
+    },
+    {
+      "year": "2017",
+      "text": "51   CHISINAU       RISCANI   LICEUL TEORETIC \"ALECU RUSSO\"                                             43         43      0   100,00   6,65",
+      "candidats": 43,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.65
+    },
+    {
+      "year": "2018",
+      "text": "31   CHISINAU         RISCANI    LICEUL TEORETIC \"ALECU RUSSO\"                                                 28        28        0       100.00    7.31",
+      "candidats": 28,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.31
+    },
+    {
+      "year": "2019",
+      "text": "100   CHISINAU       RISCANI    LICEUL TEORETIC \"ALECU RUSSO\"                                   47         47    0   100.00   6.80",
+      "candidats": 47,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.8
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

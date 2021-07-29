@@ -1,0 +1,56 @@
+{
+  "id": "cimislia-guragalbenei-hyperion",
+  "search": "hyperion",
+  "address": {
+    "district": "cimislia",
+    "city": "guragalbenei"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"hyperion\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "79   CIMIŞLIA       GURA GALBENEI       Instituţia Publică LICEUL TEORETIC \"HYPERION\"                                                 41    35    6   85.37   6.39",
+      "candidats": 41,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.39
+    },
+    {
+      "year": "2016",
+      "text": "231   CIMIŞLIA       GURA GALBENEI     Instituţia Publică LICEUL TEORETIC \"HYPERION\"               18   15    3   83,33   6,78",
+      "candidats": 18,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.78
+    },
+    {
+      "year": "2016 all",
+      "text": "257   CIMIŞLIA       GURA GALBENEI     Instituţia Publică LICEUL TEORETIC \"HYPERION\"                         24   15    9   62,50   6,78",
+      "candidats": 24,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.78
+    },
+    {
+      "year": "2017",
+      "text": "122   CIMIŞLIA       GURA GALBENEI    Instituţia Publică LICEUL TEORETIC \"HYPERION\"                      22    21   1   95,45   6,17",
+      "candidats": 22,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.17
+    },
+    {
+      "year": "2018",
+      "text": "99   CIMIŞLIA       GURA GALBENEI    Instituţia Publică LICEUL TEORETIC \"HYPERION\"                      24         24   0   100.00   6.14",
+      "candidats": 24,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.14
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

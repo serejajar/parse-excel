@@ -1,0 +1,27 @@
+{
+  "id": "rezina-echimauti-liceul",
+  "search": "echimauti",
+  "address": {
+    "district": "rezina",
+    "city": "echimauti"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic echimauti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "91   REZINA         ECHIMĂUŢI           Instituţie Publică Liceul Teoretic Echimăuţi                                                  23    19    4   82.61   6.14",
+      "candidats": 23,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.14
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

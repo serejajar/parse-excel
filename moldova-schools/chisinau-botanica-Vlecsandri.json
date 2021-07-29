@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-botanica-Vlecsandri",
+  "search": "alecsandri",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "liceul teoretic \"v.alecsandri\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "141   CHISINAU       BOTANICA            LICEUL TEORETIC \"V.ALECSANDRI\"                                                       100    77   23   77.00   6.50",
+      "candidats": 100,
+      "rejectedCandidats": 23,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016",
+      "text": "117   CHISINAU       BOTANICA   LICEUL TEORETIC \"V.ALECSANDRI\"                                                         98    92   6   93,88   6,32",
+      "candidats": 98,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.32
+    },
+    {
+      "year": "2016 all",
+      "text": " 96   CHISINAU       BOTANICA   LICEUL TEORETIC \"V.ALECSANDRI\"                                                        114    98   16   85,96   6,27",
+      "candidats": 114,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.27
+    },
+    {
+      "year": "2017",
+      "text": "111   CHISINAU       BOTANICA   LICEUL TEORETIC \"V.ALECSANDRI\"                            79    76   3   96,20    6,47",
+      "candidats": 79,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.47
+    },
+    {
+      "year": "2018",
+      "text": "258   CHISINAU       BOTANICA   LICEUL TEORETIC \"V.ALECSANDRI\"                               128   106   22   82.81   6.58",
+      "candidats": 128,
+      "rejectedCandidats": 22,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2019",
+      "text": "178   CHISINAU       BOTANICA   LICEUL TEORETIC \"V.ALECSANDRI\"                                 62   59   3   95.16   6.66",
+      "candidats": 62,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.66
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

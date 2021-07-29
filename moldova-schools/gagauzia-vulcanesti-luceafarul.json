@@ -1,0 +1,27 @@
+{
+  "id": "gagauzia-vulcanesti-luceafarul",
+  "search": "luceafarul",
+  "address": {
+    "district": "gagauzia",
+    "city": "vulcanesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"luceafarul\" or. vulcanesti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2019",
+      "text": "127   GAGAUZIA   VULCĂNEŞTI       LICEUL TEORETIC \"LUCEAFĂRUL\" OR. VULCĂNEŞTI                                 12         12         0         100.00   5.96",
+      "candidats": 12,
+      "rejectedCandidats": 0,
+      "mediumNote": 5.96
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

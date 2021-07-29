@@ -1,0 +1,62 @@
+{
+  "id": "soroca-soroca-ICreanga",
+  "search": "creanga",
+  "address": {
+    "district": "soroca",
+    "city": "soroca"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"ion creanga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "247   SOROCA         SOROCA              Instituţia Publică Liceul Teoretic \"Ion Creangă\"                      71    45   26   63.38   5.98",
+      "candidats": 71,
+      "rejectedCandidats": 26,
+      "mediumNote": 5.98
+    },
+    {
+      "year": "2016",
+      "text": "200   SOROCA         SOROCA            Instituţia Publică Liceul Teoretic \"Ion Creangă\"           41    36    5   87,80   6,11",
+      "candidats": 41,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.11
+    },
+    {
+      "year": "2016 all",
+      "text": "209   SOROCA         SOROCA            Instituţia Publică Liceul Teoretic \"Ion Creangă\"                    60   42   18   70,00   5,96",
+      "candidats": 60,
+      "rejectedCandidats": 18,
+      "mediumNote": 5.96
+    },
+    {
+      "year": "2017",
+      "text": "166   SOROCA       SOROCA          Instituţia Publică Liceul Teoretic \"Ion Creangă\"                 24   22   2   91,67   6,52",
+      "candidats": 24,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.52
+    },
+    {
+      "year": "2018",
+      "text": "132   SOROCA         SOROCA           Instituţia Publică Liceul Teoretic \"Ion Creangă\"                               35         34      1   97.14   6.29",
+      "candidats": 35,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.29
+    },
+    {
+      "year": "2019",
+      "text": "211   SOROCA         SOROCA           Instituţia Publică Liceul Teoretic \"Ion Creangă\"                              23        21   2   91.30   7.39",
+      "candidats": 23,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.39
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

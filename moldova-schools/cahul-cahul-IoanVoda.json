@@ -1,0 +1,63 @@
+{
+  "id": "cahul-cahul-IoanVoda",
+  "search": "ioan voda",
+  "address": {
+    "district": "cahul",
+    "city": "cahul"
+  },
+  "name": {
+    "ro": "liceul teoretic \"ioan voda\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "175   CAHUL          CAHUL                 Liceul Teoretic \"Ioan Vodă\"                                     100   74   26   74.00   6.47",
+      "candidats": 100,
+      "rejectedCandidats": 26,
+      "mediumNote": 6.47
+    },
+    {
+      "year": "2016",
+      "text": "171   CAHUL          CAHUL             Liceul Teoretic \"Ioan Vodă\"                                96    86   10   89,58   6,63",
+      "candidats": 96,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2016 all",
+      "text": "124   CAHUL          CAHUL             Liceul Teoretic \"Ioan Vodă\"                                 114   94   20   82,46   6,53",
+      "candidats": 114,
+      "rejectedCandidats": 20,
+      "mediumNote": 6.53
+    },
+    {
+      "year": "2017",
+      "text": "89   CAHUL          CAHUL           Liceul Teoretic \"Ioan Vodă\"                                    53    52   1   98,11    6,87",
+      "candidats": 53,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.87
+    },
+    {
+      "year": "2018",
+      "text": "134   CAHUL          CAHUL            Instituţia Publică Liceul Teoretic \"Ioan Vodă\"                                 64         62      2   96.88   7.00",
+      "candidats": 64,
+      "rejectedCandidats": 2,
+      "mediumNote": 7
+    },
+    {
+      "year": "2019",
+      "text": "111   CAHUL          CAHUL            Instituţia Publică Liceul Teoretic \"Ioan Vodă\"                  65         65    0   100.00   6.64",
+      "candidats": 65,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.64
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

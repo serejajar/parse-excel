@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-riscani-AICuza",
+  "search": "cuza",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"alexandru ioan cuza\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "53   CHISINAU       RISCANI    Instituţia Publică Liceul Teoretic \"Alexandru Ioan Cuza\"                                      44    40    4   90.91   6.51",
+      "candidats": 44,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.51
+    },
+    {
+      "year": "2016",
+      "text": "224   CHISINAU       RISCANI    Instituţia Publică Liceul Teoretic \"Alexandru Ioan Cuza\"     62   52   10   83,87   6,57",
+      "candidats": 62,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2016 all",
+      "text": "121   CHISINAU       RISCANI    Instituţia Publică Liceul Teoretic \"Alexandru Ioan Cuza\"      64   53   11   82,81   6,56",
+      "candidats": 64,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2017",
+      "text": "126   CHISINAU       RISCANI   Instituţia Publică Liceul Teoretic \"Alexandru Ioan Cuza\"         39    37   2   94,87   6,55",
+      "candidats": 39,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.55
+    },
+    {
+      "year": "2018",
+      "text": "188   CHISINAU       RISCANI    Instituţia Publică Liceul Teoretic \"Alexandru Ioan Cuza\"        43   40   3   93.02   7.63",
+      "candidats": 43,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.63
+    },
+    {
+      "year": "2019",
+      "text": "158   CHISINAU       RISCANI    Instituţia Publică Liceul Teoretic \"Alexandru Ioan Cuza\"                    31         30         1          96.77   7.07",
+      "candidats": 31,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.07
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

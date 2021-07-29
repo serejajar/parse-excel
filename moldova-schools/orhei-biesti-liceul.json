@@ -1,0 +1,41 @@
+{
+  "id": "orhei-biesti-liceul",
+  "search": "biesti",
+  "address": {
+    "district": "orhei",
+    "city": "biesti"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic biesti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "143   ORHEI          BIEŞTI              INSTITUŢIA PUBLICĂ LICEUL TEORETIC BIEŞTI                                             13    10    3   76.92   6.48",
+      "candidats": 13,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.48
+    },
+    {
+      "year": "2016",
+      "text": "110   ORHEI          BIEŞTI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC BIEŞTI                                             18    17   1   94,44   6,15",
+      "candidats": 18,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.15
+    },
+    {
+      "year": "2016 all",
+      "text": "101   ORHEI          BIEŞTI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC BIEŞTI                    21   18    3   85,71   6,08",
+      "candidats": 21,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.08
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

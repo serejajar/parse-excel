@@ -1,0 +1,34 @@
+{
+  "id": "leova-borogani-GVieru",
+  "search": "vieru",
+  "address": {
+    "district": "leova",
+    "city": "borogani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"grigore vieru\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "322   LEOVA          BOROGANI            Liceul Teoretic \"Grigore Vieru\"                                  21    11    10   52.38   6.11",
+      "candidats": 21,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.11
+    },
+    {
+      "year": "2016 all",
+      "text": "359   LEOVA          BOROGANI          Liceul Teoretic \"Grigore Vieru\"                             4     1     3   25,00   5,50",
+      "candidats": 4,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.5
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

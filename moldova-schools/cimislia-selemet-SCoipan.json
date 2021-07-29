@@ -1,0 +1,28 @@
+{
+  "id": "cimislia-selemet-SCoipan",
+  "search": "coipan",
+  "address": {
+    "district": "cimislia",
+    "city": "selemet"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"sergiu coipan\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "371   CIMIŞLIA       SELEMET             Instituţia Publică LICEUL TEORETIC \"SERGIU COIPAN\"               31   12    19   38.71   5.67",
+      "candidats": 31,
+      "rejectedCandidats": 19,
+      "mediumNote": 5.67
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

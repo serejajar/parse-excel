@@ -1,0 +1,63 @@
+{
+  "id": "cantemir-cantemir-DCantemir",
+  "search": "dimitrie cantemir|d.cantemir|d. cantemir",
+  "address": {
+    "district": "cantemir",
+    "city": "cantemir"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"d.cantemir\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "110   CANTEMIR       CANTEMIR            Instituţia publică Liceul Teoretic \"D.Cantemir\"                                       96    77   19   80.21   6.45",
+      "candidats": 96,
+      "rejectedCandidats": 19,
+      "mediumNote": 6.45
+    },
+    {
+      "year": "2016",
+      "text": "124   CANTEMIR       CANTEMIR          Instituţia publică Liceul Teoretic \"D.Cantemir\"                                       61    57   4   93,44   6,68",
+      "candidats": 61,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.68
+    },
+    {
+      "year": "2016 all",
+      "text": "117   CANTEMIR       CANTEMIR          Instituţia publică Liceul Teoretic \"D.Cantemir\"              72   60   12   83,33   6,61",
+      "candidats": 72,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.61
+    },
+    {
+      "year": "2017",
+      "text": "186   CANTEMIR     CANTEMIR        Instituţia publică Liceul Teoretic \"D.Cantemir\"                  62   56   6   90,32   6,52",
+      "candidats": 62,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.52
+    },
+    {
+      "year": "2018",
+      "text": "110   CANTEMIR       CANTEMIR         Instituţia publică Liceul Teoretic \"D.Cantemir\"                 67         66   1   98.51    6.46",
+      "candidats": 67,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.46
+    },
+    {
+      "year": "2019",
+      "text": "179   CANTEMIR       CANTEMIR         Instituţia publică Liceul Teoretic \"Dimitrie Cantemir\"         61   58   3   95.08   6.88",
+      "candidats": 61,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.88
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

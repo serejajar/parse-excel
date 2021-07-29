@@ -1,0 +1,48 @@
+{
+  "id": "falesti-falesti-ICreanga",
+  "search": "creanga",
+  "address": {
+    "district": "falesti",
+    "city": "falesti"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"i.creanga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "299   FĂLEŞTI        FĂLEŞTI             INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"I.CREANGĂ\"          73   41   32   56.16   6.18",
+      "candidats": 73,
+      "rejectedCandidats": 32,
+      "mediumNote": 6.18
+    },
+    {
+      "year": "2016",
+      "text": "210   FĂLEŞTI        FĂLEŞTI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION CREANGĂ\"           22    19    3   86,36   6,25",
+      "candidats": 22,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2016 all",
+      "text": "275   FĂLEŞTI        FĂLEŞTI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION CREANGĂ\"                      37   22   15   59,46   6,09",
+      "candidats": 37,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2018",
+      "text": "238   FĂLEŞTI        FĂLEŞTI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION CREANGĂ\"               40   35    5   87.50   6.34",
+      "candidats": 40,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.34
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

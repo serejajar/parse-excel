@@ -1,0 +1,63 @@
+{
+  "id": "soroca-soroca-PRares",
+  "search": "rares",
+  "address": {
+    "district": "soroca",
+    "city": "soroca"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"petru rares\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "308   SOROCA         SOROCA              Instituţia Publică Liceul Teoretic \"Petru Rareş\"                 87    48    39   55.17   6.10",
+      "candidats": 87,
+      "rejectedCandidats": 39,
+      "mediumNote": 6.1
+    },
+    {
+      "year": "2016",
+      "text": "207   SOROCA         SOROCA            Instituţia Publică Liceul Teoretic \"Petru Rareş\"           30    26    4   86,67   6,37",
+      "candidats": 30,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.37
+    },
+    {
+      "year": "2016 all",
+      "text": "231   SOROCA         SOROCA            Instituţia Publică Liceul Teoretic \"Petru Rareş\"                    49   33   16   67,35   6,14",
+      "candidats": 49,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.14
+    },
+    {
+      "year": "2017",
+      "text": "252   SOROCA         SOROCA          Instituţia Publică Liceul Teoretic \"Petru Rareş\"           36   29    7   80,56   6,28",
+      "candidats": 36,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.28
+    },
+    {
+      "year": "2018",
+      "text": "73   SOROCA         SOROCA           Instituţia Publică Liceul Teoretic \"Petru Rareş\"                  27   27   0   100.00   6.81",
+      "candidats": 27,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.81
+    },
+    {
+      "year": "2019",
+      "text": "53   SOROCA         SOROCA           Instituţia Publică Liceul Teoretic \"Petru Rareş\"                  28    28   0   100.00   7.24",
+      "candidats": 28,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.24
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

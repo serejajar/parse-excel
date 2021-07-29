@@ -1,0 +1,56 @@
+{
+  "id": "ungheni-sculeni-liceul",
+  "search": "",
+  "address": {
+    "district": "ungheni",
+    "city": "sculeni"
+  },
+  "name": {
+    "ro": "liceul teoretic sculeni",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "301   UNGHENI        SCULENI             LICEUL TEORETIC SCULENI                                 68   38   30   55.88   6.24",
+      "candidats": 68,
+      "rejectedCandidats": 30,
+      "mediumNote": 6.24
+    },
+    {
+      "year": "2016",
+      "text": "243   UNGHENI        SCULENI           LICEUL TEORETIC SCULENI                                     39   32    7   82,05   6,09",
+      "candidats": 39,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2016 all",
+      "text": "253   UNGHENI        SCULENI           LICEUL TEORETIC SCULENI                                             57   36   21   63,16   6,02",
+      "candidats": 57,
+      "rejectedCandidats": 21,
+      "mediumNote": 6.02
+    },
+    {
+      "year": "2018",
+      "text": "270   UNGHENI        SCULENI         LICEUL TEORETIC SCULENI                                         38    30    8   78.95   6.13",
+      "candidats": 38,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.13
+    },
+    {
+      "year": "2019",
+      "text": "193   UNGHENI        SCULENI          LICEUL TEORETIC SCULENI                                          34   32   2   94.12   6.27",
+      "candidats": 34,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.27
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

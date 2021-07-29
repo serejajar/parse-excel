@@ -1,0 +1,42 @@
+{
+  "id": "orhei-susleni-VLupu",
+  "search": "lupu",
+  "address": {
+    "district": "orhei",
+    "city": "susleni"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"v. lupu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "315   ORHEI          SUSLENI             INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"V. LUPU\"                     41    22    19   53.66   6.28",
+      "candidats": 41,
+      "rejectedCandidats": 19,
+      "mediumNote": 6.28
+    },
+    {
+      "year": "2016",
+      "text": "64   ORHEI          SUSLENI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"VASILE LUPU\"              16    16   0   100,00   6,05",
+      "candidats": 16,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.05
+    },
+    {
+      "year": "2016 all",
+      "text": "283   ORHEI          SUSLENI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"VASILE LUPU\"                      29   17   12   58,62   5,99",
+      "candidats": 29,
+      "rejectedCandidats": 12,
+      "mediumNote": 5.99
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ungheni-ungheni-ICreanga",
+  "search": "creanga",
+  "address": {
+    "district": "ungheni",
+    "city": "ungheni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"i. creanga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "258   UNGHENI        UNGHENI             LICEUL TEORETIC \"I. CREANGĂ\"                            69   43   26   62.32   6.08",
+      "candidats": 69,
+      "rejectedCandidats": 26,
+      "mediumNote": 6.08
+    },
+    {
+      "year": "2016",
+      "text": "286   UNGHENI        UNGHENI          LICEUL TEORETIC \"ION CREANGĂ\"                                       44   32   12   72,73   6,01",
+      "candidats": 44,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.01
+    },
+    {
+      "year": "2016 all",
+      "text": "295   UNGHENI        UNGHENI           LICEUL TEORETIC \"ION CREANGĂ\"                                         66   37   29   56,06   5,95",
+      "candidats": 66,
+      "rejectedCandidats": 29,
+      "mediumNote": 5.95
+    },
+    {
+      "year": "2017",
+      "text": "238   UNGHENI        UNGHENI         LICEUL TEORETIC \"ION CREANGĂ\"                                        40   33    7   82,50   6,04",
+      "candidats": 40,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.04
+    },
+    {
+      "year": "2018",
+      "text": "287   UNGHENI        UNGHENI         LICEUL TEORETIC \"ION CREANGĂ\"                              35    24   11   68.57   6.02",
+      "candidats": 35,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.02
+    },
+    {
+      "year": "2019",
+      "text": "254   UNGHENI        UNGHENI          LICEUL TEORETIC \"ION CREANGĂ\"                                46    39    7   84.78   6.33",
+      "candidats": 46,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.33
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

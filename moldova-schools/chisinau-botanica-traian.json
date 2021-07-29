@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-botanica-traian",
+  "search": "traian",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"traian\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "159   CHISINAU       BOTANICA              Instituţia Publică Liceul Teoretic \"Traian\"                      74   56   18   75.68   6.40",
+      "candidats": 74,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2016",
+      "text": "144   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Traian\"                       60    55   5   91,67   6,37",
+      "candidats": 60,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.37
+    },
+    {
+      "year": "2016 all",
+      "text": "147   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Traian\"                   71   56   15   78,87   6,35",
+      "candidats": 71,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.35
+    },
+    {
+      "year": "2017",
+      "text": "145   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Traian\"                      15    14   1   93,33   6,71",
+      "candidats": 15,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.71
+    },
+    {
+      "year": "2018",
+      "text": "170   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Traian\"                     51   48   3   94.12   7.19",
+      "candidats": 51,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.19
+    },
+    {
+      "year": "2019",
+      "text": "231   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic \"Traian\"                                   37        33   4   89.19   6.74",
+      "candidats": 37,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.74
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

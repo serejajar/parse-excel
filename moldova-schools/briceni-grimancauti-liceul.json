@@ -1,0 +1,62 @@
+{
+  "id": "briceni-grimancauti-liceul",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "grimancauti"
+  },
+  "name": {
+    "ro": "liceul teoretic grimancauti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "379   BRICENI        GRIMĂNCĂUŢI         Liceul Teoretic Grimăncăuţi                                      30   11    19   36.67   6.00",
+      "candidats": 30,
+      "rejectedCandidats": 19,
+      "mediumNote": 6
+    },
+    {
+      "year": "2016",
+      "text": "336   BRICENI        GRIMĂNCĂUŢI       Liceul Teoretic Grimăncăuţi                                           20    10    10   50,00   6,50",
+      "candidats": 20,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016 all",
+      "text": "340   BRICENI        GRIMĂNCĂUŢI       Liceul Teoretic Grimăncăuţi                                32    12    20   37,50   6,27",
+      "candidats": 32,
+      "rejectedCandidats": 20,
+      "mediumNote": 6.27
+    },
+    {
+      "year": "2017",
+      "text": "189   BRICENI      GRIMĂNCĂUŢI     Liceul Teoretic Grimăncăuţi                                        10    9   1   90,00   6,44",
+      "candidats": 10,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2018",
+      "text": "243   BRICENI        GRIMĂNCĂUŢI     Liceul Teoretic Grimăncăuţi                                     15    13    2   86.67   6.21",
+      "candidats": 15,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.21
+    },
+    {
+      "year": "2019",
+      "text": "256   BRICENI        GRIMĂNCĂUŢI      Liceul Teoretic Grimăncăuţi                                    26    22    4   84.62   5.99",
+      "candidats": 26,
+      "rejectedCandidats": 4,
+      "mediumNote": 5.99
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

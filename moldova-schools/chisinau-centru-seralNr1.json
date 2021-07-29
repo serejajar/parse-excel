@@ -1,0 +1,64 @@
+{
+  "id": "chisinau-centru-seralNr1",
+  "search": "seral nr. ?1",
+  "address": {
+    "district": "chisinau",
+    "city": "centru"
+  },
+  "name": {
+    "ro": "liceul teoretic seral nr.1",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "357   CHISINAU       CENTRU     Liceul teoretic seral nr.1                                      223   96   127   43.05   5.65",
+      "candidats": 223,
+      "rejectedCandidats": 127,
+      "mediumNote": 5.65
+    },
+    {
+      "year": "2016",
+      "text": "335   CHISINAU       CENTRU    Liceul teoretic seral nr.1                                             149    76    73   51,01   5,66",
+      "candidats": 149,
+      "rejectedCandidats": 73,
+      "mediumNote": 5.66
+    },
+    {
+      "year": "2016 all",
+      "text": "330   CHISINAU       CENTRU    Liceul teoretic seral nr.1                                  210    87   123   41,43   5,60",
+      "candidats": 210,
+      "rejectedCandidats": 123,
+      "mediumNote": 5.6
+    },
+    {
+      "year": "2017",
+      "text": "288   CHISINAU       CENTRU   Liceul teoretic seral nr.1                                    60   36   24   60,00   5,54",
+      "candidats": 60,
+      "rejectedCandidats": 24,
+      "mediumNote": 5.54
+    },
+    {
+      "year": "2018",
+      "text": "294   CHISINAU       CENTRU   Liceul teoretic seral nr.1                                   108    71   37   65.74   5.85",
+      "candidats": 108,
+      "rejectedCandidats": 37,
+      "mediumNote": 5.85
+    },
+    {
+      "year": "2019",
+      "text": "287   CHISINAU       CENTRU    Instituţia Publică Liceul Teoretic cu Învăţământ Seral nr.1   126   86   40   68.25   5.90",
+      "candidats": 126,
+      "rejectedCandidats": 40,
+      "mediumNote": 5.9
+    }
+  ],
+  "langs": [
+    "romana",
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

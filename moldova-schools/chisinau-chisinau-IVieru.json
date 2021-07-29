@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-chisinau-IVieru",
+  "search": "igor vieru",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau"
+  },
+  "name": {
+    "ro": "liceul academic de arte plastice \"igor vieru\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "40   CHISINAU       CHISINAU            Liceul Academic de Arte Plastice \"Igor Vieru\"                             14        13           1        92.86    7.31",
+      "candidats": 14,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.31
+    },
+    {
+      "year": "2016",
+      "text": "6   CHISINAU       CHISINAU             Liceul Academic de Arte Plastice \"Igor Vieru\"                        15          15             0      100,00      7,82",
+      "candidats": 15,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.82
+    },
+    {
+      "year": "2016 all",
+      "text": "6   CHISINAU       CHISINAU          Liceul Academic de Arte Plastice \"Igor Vieru\"                        15          15             0      100,00      7,82",
+      "candidats": 15,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.82
+    },
+    {
+      "year": "2017",
+      "text": "188   CHISINAU     CHISINAU        Liceul Academic de Arte Plastice \"Igor Vieru\"                    10    9   1   90,00   7,00",
+      "candidats": 10,
+      "rejectedCandidats": 1,
+      "mediumNote": 7
+    },
+    {
+      "year": "2018",
+      "text": "10   CHISINAU         CHISINAU         Liceul Academic de Arte Plastice \"Igor Vieru\"                                 13        13        0       100.00    7.81",
+      "candidats": 13,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.81
+    },
+    {
+      "year": "2019",
+      "text": "16   CHISINAU         CHISINAU         Liceul Academic de Arte Plastice \"Igor Vieru\"                                 10        10        0       100.00    7.85",
+      "candidats": 10,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.85
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "arta"
+  ]
+}

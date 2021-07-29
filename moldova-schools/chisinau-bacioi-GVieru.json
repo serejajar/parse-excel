@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-bacioi-GVieru",
+  "search": "vieru",
+  "address": {
+    "district": "chisinau",
+    "city": "bacioi"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"grigore vieru\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "342   CHISINAU       BĂCIOI              Instituţia Publică Liceul Teoretic \"Grigore Vieru\"               61    29    32   47.54   6.09",
+      "candidats": 61,
+      "rejectedCandidats": 32,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2016",
+      "text": "325   CHISINAU       BĂCIOI            Instituţia Publică Liceul Teoretic \"Grigore Vieru\"                    37    21    16   56,76   6,36",
+      "candidats": 37,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.36
+    },
+    {
+      "year": "2016 all",
+      "text": "335   CHISINAU       BĂCIOI            Instituţia Publică Liceul Teoretic \"Grigore Vieru\"         55    22    33   40,00   6,30",
+      "candidats": 55,
+      "rejectedCandidats": 33,
+      "mediumNote": 6.3
+    },
+    {
+      "year": "2017",
+      "text": "113   CHISINAU       BĂCIOI          Instituţia Publică Liceul Teoretic \"Grigore Vieru\"            25    24   1   96,00    6,15",
+      "candidats": 25,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.15
+    },
+    {
+      "year": "2018",
+      "text": "249   CHISINAU       BĂCIOI          Instituţia Publică Liceul Teoretic \"Grigore Vieru\"            34    29    5   85.29   6.24",
+      "candidats": 34,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.24
+    },
+    {
+      "year": "2019",
+      "text": "202   CHISINAU       BĂCIOI           Instituţia Publică Liceul Teoretic \"Grigore Vieru\"                            28        26   2   92.86   6.27",
+      "candidats": 28,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.27
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

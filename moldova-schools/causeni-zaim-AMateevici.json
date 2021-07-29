@@ -1,0 +1,62 @@
+{
+  "id": "causeni-zaim-AMateevici",
+  "search": "mateevici",
+  "address": {
+    "district": "causeni",
+    "city": "zaim"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a.mateevici\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "277   CAUSENI        ZAIM                LICEUL TEORETIC \"A.MATEEVICI\"                           47   28   19   59.57   6.20",
+      "candidats": 47,
+      "rejectedCandidats": 19,
+      "mediumNote": 6.2
+    },
+    {
+      "year": "2016",
+      "text": "161   CAUSENI        ZAIM              LICEUL TEORETIC \"A.MATEEVICI\"                                    31    28   3   90,32   6,78",
+      "candidats": 31,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.78
+    },
+    {
+      "year": "2016 all",
+      "text": "195   CAUSENI        ZAIM              LICEUL TEORETIC \"A.MATEEVICI\"                                    40    29   11   72,50   6,72",
+      "candidats": 40,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.72
+    },
+    {
+      "year": "2017",
+      "text": "194   CAUSENI      ZAIM            LICEUL TEORETIC \"A.MATEEVICI\"                                    19   17   2   89,47   6,18",
+      "candidats": 19,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.18
+    },
+    {
+      "year": "2018",
+      "text": "98   CAUSENI        ZAIM             INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALEXEI MATEEVICI\"           21         21   0   100.00   6.25",
+      "candidats": 21,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2019",
+      "text": "223   CAUSENI        ZAIM             INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALEXEI MATEEVICI\"                         10         9   1   90.00   6.69",
+      "candidats": 10,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.69
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

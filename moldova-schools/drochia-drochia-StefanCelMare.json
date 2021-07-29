@@ -1,0 +1,63 @@
+{
+  "id": "drochia-drochia-StefanCelMare",
+  "search": "stefan cel mare",
+  "address": {
+    "district": "drochia",
+    "city": "drochia"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"stefan cel mare\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "271   DROCHIA        DROCHIA             Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"    56   34   22   60.71   5.94",
+      "candidats": 56,
+      "rejectedCandidats": 22,
+      "mediumNote": 5.94
+    },
+    {
+      "year": "2016",
+      "text": "300   DROCHIA        DROCHIA           Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"                  40    27    13   67,50   6,17",
+      "candidats": 40,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.17
+    },
+    {
+      "year": "2016 all",
+      "text": "305   DROCHIA        DROCHIA           Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"                  56   30   26   53,57   6,05",
+      "candidats": 56,
+      "rejectedCandidats": 26,
+      "mediumNote": 6.05
+    },
+    {
+      "year": "2017",
+      "text": "260   DROCHIA        DROCHIA         Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"       27   21    6   77,78   6,39",
+      "candidats": 27,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.39
+    },
+    {
+      "year": "2018",
+      "text": "262   DROCHIA        DROCHIA         Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"          38    31    7   81.58   6.52",
+      "candidats": 38,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.52
+    },
+    {
+      "year": "2019",
+      "text": "217   DROCHIA        DROCHIA          Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"                          33        30   3   90.91   6.33",
+      "candidats": 33,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.33
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

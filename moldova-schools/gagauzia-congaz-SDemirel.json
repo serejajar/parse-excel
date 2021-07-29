@@ -1,0 +1,63 @@
+{
+  "id": "gagauzia-congaz-SDemirel",
+  "search": "demirel",
+  "address": {
+    "district": "gagauzia",
+    "city": "congaz"
+  },
+  "name": {
+    "ro": "liceul moldo-turc \"s.demirel\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "306   GAGAUZIA   CONGAZ              LICEUL MOLDO-TURC \"S.DEMIREL\"                                    29    16    13   55.17   6.58",
+      "candidats": 29,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.58
+    },
+    {
+      "year": "2016",
+      "text": "255   GAGAUZIA   CONGAZ           LICEUL TEORETIC MOLDO-TURC \"S.DEMIREL\" s. CONGAZ                    25   20    5   80,00   6,77",
+      "candidats": 25,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.77
+    },
+    {
+      "year": "2016 all",
+      "text": "255   GAGAUZIA   CONGAZ            LICEUL TEORETIC MOLDO-TURC \"S.DEMIREL\" s. CONGAZ                    35   22   13   62,86   6,68",
+      "candidats": 35,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.68
+    },
+    {
+      "year": "2017",
+      "text": "31   GAGAUZIA     CONGAZ          LICEUL TEORETIC MOLDO-TURC \"S.DEMIREL\" s. CONGAZ                     18        18        0       100,00    6,98",
+      "candidats": 18,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.98
+    },
+    {
+      "year": "2018",
+      "text": "166   GAGAUZIA   CONGAZ           LICEUL TEORETIC MOLDO-TURC \"S.DEMIREL\" s. CONGAZ                18   17   1   94.44   7.27",
+      "candidats": 18,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.27
+    },
+    {
+      "year": "2019",
+      "text": "61   GAGAUZIA   CONGAZ           LICEUL TEORETIC MOLDO-TURC \"S.DEMIREL\" s. CONGAZ                  27    27   0   100.00   7.17",
+      "candidats": 27,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.17
+    }
+  ],
+  "langs": [
+    "engleza"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

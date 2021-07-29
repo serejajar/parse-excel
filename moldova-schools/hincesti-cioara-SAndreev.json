@@ -1,0 +1,41 @@
+{
+  "id": "hincesti-cioara-SAndreev",
+  "search": "andreev",
+  "address": {
+    "district": "hincesti",
+    "city": "cioara"
+  },
+  "name": {
+    "ro": "liceul teoretic \"s. andreev\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "252   HÎNCEŞTI       CIOARA              Liceul Teoretic \"S. Andreev\"                                          27    17   10   62.96   6.09",
+      "candidats": 27,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.09
+    },
+    {
+      "year": "2016",
+      "text": "291   HÎNCEŞTI       CIOARA           Liceul Teoretic \"S. Andreev\"                                        28   20    8   71,43   6,16",
+      "candidats": 28,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.16
+    },
+    {
+      "year": "2016 all",
+      "text": "246   HÎNCEŞTI       CIOARA            Liceul Teoretic \"S. Andreev\"                                        31   20   11   64,52   6,16",
+      "candidats": 31,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.16
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

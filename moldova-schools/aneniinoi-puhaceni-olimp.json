@@ -1,0 +1,56 @@
+{
+  "id": "aneniinoi-puhaceni-olimp",
+  "search": "olimp",
+  "address": {
+    "district": "aneniinoi",
+    "city": "puhaceni"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic \"olimp\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "166   ANENIINOI     PUHĂCENI              Instituţie Publică Liceul Teoretic \"Olimp\"                       44   33   11   75.00   6.33",
+      "candidats": 44,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.33
+    },
+    {
+      "year": "2016",
+      "text": "96   ANENIINOI     PUHĂCENI          Instituţie Publică Liceul Teoretic \"Olimp\"                                            23    22   1   95,65   6,22",
+      "candidats": 23,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.22
+    },
+    {
+      "year": "2016 all",
+      "text": " 74   ANENIINOI     PUHĂCENI          Instituţie Publică Liceul Teoretic \"Olimp\"                                            28    25    3   89,29   6,08",
+      "candidats": 28,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.08
+    },
+    {
+      "year": "2017",
+      "text": "241   ANENIINOI     PUHĂCENI        Instituţie Publică Liceul Teoretic \"Olimp\"                           17   14    3   82,35   6,41",
+      "candidats": 17,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.41
+    },
+    {
+      "year": "2019",
+      "text": "278   ANENIINOI     PUHĂCENI         Instituţie Publică Liceul Teoretic \"Olimp\"                   16    12    4   75.00   6.85",
+      "candidats": 16,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.85
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

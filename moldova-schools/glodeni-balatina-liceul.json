@@ -1,0 +1,63 @@
+{
+  "id": "glodeni-balatina-liceul",
+  "search": "",
+  "address": {
+    "district": "glodeni",
+    "city": "balatina"
+  },
+  "name": {
+    "ro": "liceul teoretic balatina",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "311   GLODENI        BALATINA            LICEUL TEORETIC BALATINA                                         37    20    17   54.05   6.25",
+      "candidats": 37,
+      "rejectedCandidats": 17,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2016",
+      "text": "323   GLODENI        BALATINA          LICEUL TEORETIC BALATINA                                              33    19    14   57,58   6,17",
+      "candidats": 33,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.17
+    },
+    {
+      "year": "2016 all",
+      "text": "321   GLODENI        BALATINA          LICEUL TEORETIC BALATINA                                   43    20    23   46,51   6,16",
+      "candidats": 43,
+      "rejectedCandidats": 23,
+      "mediumNote": 6.16
+    },
+    {
+      "year": "2017",
+      "text": "220   GLODENI        BALATINA        INSTITUŢIA PUBLICĂ LICEUL TEORETIC BALATINA                            29   25    4   86,21   6,26",
+      "candidats": 29,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.26
+    },
+    {
+      "year": "2018",
+      "text": "232   GLODENI        BALATINA         INSTITUŢIA PUBLICĂ LICEUL TEORETIC BALATINA                      51   45    6   88.24   6.34",
+      "candidats": 51,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.34
+    },
+    {
+      "year": "2019",
+      "text": "274   GLODENI        BALATINA         INSTITUŢIA PUBLICĂ LICEUL TEORETIC BALATINA                    34    26    8   76.47   6.94",
+      "candidats": 34,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.94
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

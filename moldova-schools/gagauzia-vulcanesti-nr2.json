@@ -1,0 +1,56 @@
+{
+  "id": "gagauzia-vulcanesti-nr2",
+  "search": "nr. ?2",
+  "address": {
+    "district": "gagauzia",
+    "city": "vulcanesti"
+  },
+  "name": {
+    "ro": "liceul teoretic nr.2",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "61   GAGAUZIA   VULCĂNEŞTI          LICEUL TEORETIC Nr.2                                                                           9     8    1   88.89   6.28",
+      "candidats": 9,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.28
+    },
+    {
+      "year": "2016",
+      "text": "254   GAGAUZIA   VULCĂNEŞTI       LICEUL TEORETIC Nr.2                                                10    8    2   80,00   6,91",
+      "candidats": 10,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.91
+    },
+    {
+      "year": "2016 all",
+      "text": "138   GAGAUZIA   VULCĂNEŞTI        LICEUL TEORETIC Nr.2                                         10    8    2   80,00   6,91",
+      "candidats": 10,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.91
+    },
+    {
+      "year": "2017",
+      "text": "72   GAGAUZIA   VULCĂNEŞTI      LICEUL TEORETIC Nr.2 DIN or. VULCĂNEŞTI                          11    11   0   100,00   6,25",
+      "candidats": 11,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2018",
+      "text": "147   GAGAUZIA   VULCĂNEŞTI       LICEUL TEORETIC Nr.2 DIN or. VULCĂNEŞTI                                          26         25      1   96.15   6.33",
+      "candidats": 26,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.33
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

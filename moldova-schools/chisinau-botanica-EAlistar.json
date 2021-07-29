@@ -1,0 +1,64 @@
+{
+  "id": "chisinau-botanica-EAlistar",
+  "search": "alistar",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "liceul teoretic cu profil de arte \"elena alistar\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "65   CHISINAU       BOTANICA   Liceul Teoretic cu profil de arte \"Elena Alistar\"                                             96    84   12   87.50   6.96",
+      "candidats": 96,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.96
+    },
+    {
+      "year": "2016",
+      "text": "179   CHISINAU       BOTANICA   Liceul Teoretic cu profil de arte \"Elena Alistar\"           72    64    8   88,89   6,84",
+      "candidats": 72,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.84
+    },
+    {
+      "year": "2016 all",
+      "text": " 95   CHISINAU       BOTANICA   Liceul Teoretic cu profil de arte \"Elena Alistar\"                                      79    68   11   86,08   6,76",
+      "candidats": 79,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.76
+    },
+    {
+      "year": "2017",
+      "text": "135   CHISINAU       BOTANICA   Liceul Teoretic cu profil de arte \"Elena Alistar\"                70    66   4   94,29   7,04",
+      "candidats": 70,
+      "rejectedCandidats": 4,
+      "mediumNote": 7.04
+    },
+    {
+      "year": "2018",
+      "text": "109   CHISINAU       BOTANICA   Liceul Teoretic cu profil de arte \"Elena Alistar\"               77         76   1   98.70    7.43",
+      "candidats": 77,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.43
+    },
+    {
+      "year": "2019",
+      "text": "132   CHISINAU       BOTANICA   Liceul Teoretic cu profil de arte \"Elena Alistar\"                           79         78         1          98.73   7.42",
+      "candidats": 79,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.42
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "arta",
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ialoveni-suruceni-ISuruceanu",
+  "search": "suruceanu",
+  "address": {
+    "district": "ialoveni",
+    "city": "suruceni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"ion suruceanu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "340   IALOVENI       SURUCENI            Liceul Teoretic \"Ion Suruceanu\"                                  60    29    31   48.33   5.97",
+      "candidats": 60,
+      "rejectedCandidats": 31,
+      "mediumNote": 5.97
+    },
+    {
+      "year": "2016",
+      "text": "250   IALOVENI       SURUCENI          Liceul Teoretic \"Ion Suruceanu\"                             26   21    5   80,77   6,79",
+      "candidats": 26,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.79
+    },
+    {
+      "year": "2016 all",
+      "text": "288   IALOVENI       SURUCENI          Liceul Teoretic \"Ion Suruceanu\"                                       43   25   18   58,14   6,54",
+      "candidats": 43,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.54
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

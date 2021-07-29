@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-botanica-MGrecu",
+  "search": "grecu",
+  "address": {
+    "district": "chisinau",
+    "city": "botanica"
+  },
+  "name": {
+    "ro": "liceul teoretic \"mihai grecu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "64   CHISINAU       BOTANICA   Liceul Teoretic \"Mihai Grecu\"                                                                 66    58    8   87.88   6.48",
+      "candidats": 66,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.48
+    },
+    {
+      "year": "2016",
+      "text": "50   CHISINAU       BOTANICA   Liceul Teoretic \"Mihai Grecu\"                                  37    37   0   100,00   6,46",
+      "candidats": 37,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.46
+    },
+    {
+      "year": "2016 all",
+      "text": " 82   CHISINAU       BOTANICA   Liceul Teoretic \"Mihai Grecu\"                                                          44    39    5   88,64   6,42",
+      "candidats": 44,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.42
+    },
+    {
+      "year": "2017",
+      "text": "68   CHISINAU       BOTANICA   Liceul Teoretic \"Mihai Grecu\"                                             29         29      0   100,00   6,37",
+      "candidats": 29,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.37
+    },
+    {
+      "year": "2018",
+      "text": "93   CHISINAU       BOTANICA   Liceul Teoretic \"Mihai Grecu\"                                   36         36   0   100.00   6.38",
+      "candidats": 36,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2019",
+      "text": "104   CHISINAU       BOTANICA   Liceul Teoretic \"Mihai Grecu\"                                   38         38    0   100.00   6.76",
+      "candidats": 38,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.76
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

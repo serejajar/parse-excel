@@ -1,0 +1,48 @@
+{
+  "id": "briceni-caracuseniivechi-liceul",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "caracuseniivechi"
+  },
+  "name": {
+    "ro": "liceul teoretic caracusenii vechi",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "410   BRICENI        CARACUŞENII VECHI   Liceul Teoretic Caracuşenii Vechi             7   0    7    0.00   0",
+      "candidats": 7,
+      "rejectedCandidats": 7,
+      "mediumNote": 0
+    },
+    {
+      "year": "2016",
+      "text": "247   BRICENI        CARACUŞENII VECHI    Liceul Teoretic Caracuşenii Vechi                           16   13    3   81,25   6,15",
+      "candidats": 16,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.15
+    },
+    {
+      "year": "2016 all",
+      "text": "263   BRICENI        CARACUŞENII VECHI    Liceul Teoretic Caracuşenii Vechi                                     21   13    8   61,90   6,15",
+      "candidats": 21,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.15
+    },
+    {
+      "year": "2019",
+      "text": "273   BRICENI        CARACUŞENII VECHI    Liceul Teoretic Caracuşenii Vechi                               9     7    2   77.78   7.32",
+      "candidats": 9,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.32
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

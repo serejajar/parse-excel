@@ -1,0 +1,63 @@
+{
+  "id": "gagauzia-vulcanesti-ADoljnenko",
+  "search": "doljnenko",
+  "address": {
+    "district": "gagauzia",
+    "city": "vulcanesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a. doljnenko\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "251   GAGAUZIA   VULCĂNEŞTI          LICEUL TEORETIC \"A. DOLJNENKO\"                                        27    17   10   62.96   6.41",
+      "candidats": 27,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.41
+    },
+    {
+      "year": "2016",
+      "text": "133   GAGAUZIA   VULCĂNEŞTI        LICEUL TEORETIC \"A. DOLJNENKO\"                                   27    25   2   92,59   6,70",
+      "candidats": 27,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.7
+    },
+    {
+      "year": "2016 all",
+      "text": "174   GAGAUZIA   VULCĂNEŞTI        LICEUL TEORETIC \"A. DOLJNENKO\"                                   36    27    9   75,00   6,61",
+      "candidats": 36,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.61
+    },
+    {
+      "year": "2017",
+      "text": "39   GAGAUZIA   VULCĂNEŞTI      LICEUL TEORETIC \"A. DOLJNENKO\" or. VULCĂNEŞTI                             24         24      0   100,00   6,88",
+      "candidats": 24,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.88
+    },
+    {
+      "year": "2018",
+      "text": "47   GAGAUZIA   VULCĂNEŞTI       LICEUL TEORETIC \"A. DOLJNENKO\" or. VULCĂNEŞTI                     25   25   0   100.00   7.10",
+      "candidats": 25,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.1
+    },
+    {
+      "year": "2019",
+      "text": "156   GAGAUZIA   VULCĂNEŞTI       LICEUL TEORETIC \"A. DOLJNENKO\" or. VULCĂNEŞTI                               34         33         1          97.06   6.66",
+      "candidats": 34,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.66
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nisporeni-grozesti-prometeu",
+  "search": "prometeu",
+  "address": {
+    "district": "nisporeni",
+    "city": "grozesti"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"prometeu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2016",
+      "text": "24   NISPORENI      GROZEŞTI          Instituţia Publică Liceul Teoretic \"Prometeu\"                        23          23             0      100,00      6,97",
+      "candidats": 23,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.97
+    },
+    {
+      "year": "2016 all",
+      "text": "17   NISPORENI      GROZEŞTI          Instituţia Publică Liceul Teoretic \"Prometeu\"                        23          23             0      100,00      6,97",
+      "candidats": 23,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.97
+    },
+    {
+      "year": "2018",
+      "text": "209   NISPORENI      GROZEŞTI         Instituţia Publică Liceul Teoretic \"Prometeu\"                  33   30    3   90.91   7.11",
+      "candidats": 33,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.11
+    },
+    {
+      "year": "2019",
+      "text": "70   NISPORENI      GROZEŞTI         Instituţia Publică Liceul Teoretic \"Prometeu\"                     30    30   0   100.00   7.11",
+      "candidats": 30,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.11
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

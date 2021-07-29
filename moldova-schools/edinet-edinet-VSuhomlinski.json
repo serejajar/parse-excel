@@ -1,0 +1,64 @@
+{
+  "id": "edinet-edinet-VSuhomlinski",
+  "search": "suhomlinski",
+  "address": {
+    "district": "edinet",
+    "city": "edinet"
+  },
+  "name": {
+    "ro": "institutie publica liceul teoretic \"v.suhomlinski\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "144   EDINET         EDINET              Instituţie Publică Liceul Teoretic \"V.Suhomlinski\"                                    39    30    9   76.92   6.18",
+      "candidats": 39,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.18
+    },
+    {
+      "year": "2016",
+      "text": "89   EDINET         EDINET            Instituţie Publică Liceul Teoretic \"V.Suhomlinski\"                                    27    26   1   96,30   6,65",
+      "candidats": 27,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.65
+    },
+    {
+      "year": "2016 all",
+      "text": " 71   EDINET         EDINET            Instituţie Publică Liceul Teoretic \"V.Suhomlinski\"                                    29    26    3   89,66   6,65",
+      "candidats": 29,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.65
+    },
+    {
+      "year": "2017",
+      "text": "118   EDINET         EDINET          Instituţie Publică Liceul Teoretic \"V.Suhomlinski\"            23    22   1   95,65    6,33",
+      "candidats": 23,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.33
+    },
+    {
+      "year": "2018",
+      "text": "83   EDINET         EDINET           Instituţie Publică Liceul Teoretic \"Vasile Suhomlinski\"         26         26   0   100.00   6.50",
+      "candidats": 26,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2019",
+      "text": "161   EDINET         EDINET           Instituţie Publică Liceul Teoretic \"Vasile Suhomlinski\"        29   28   1   96.55   6.65",
+      "candidats": 29,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.65
+    }
+  ],
+  "langs": [
+    "rusa",
+    "ucraineana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "chisinau-gratiesti-liceul",
+  "search": "gratiesti",
+  "address": {
+    "district": "chisinau",
+    "city": "gratiesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"gratiesti\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "207   CHISINAU       GRĂTIEŞTI           Liceul Teoretic \"Grătieşti\"                                           23    16    7   69.57   6.30",
+      "candidats": 23,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.3
+    },
+    {
+      "year": "2016",
+      "text": "267   CHISINAU       GRĂTIEŞTI        Liceul Teoretic \"Grătieşti\"                                         13   10    3   76,92   5,88",
+      "candidats": 13,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.88
+    },
+    {
+      "year": "2016 all",
+      "text": "282   CHISINAU       GRĂTIEŞTI         Liceul Teoretic \"Grătieşti\"                                           17   10    7   58,82   5,88",
+      "candidats": 17,
+      "rejectedCandidats": 7,
+      "mediumNote": 5.88
+    },
+    {
+      "year": "2017",
+      "text": "80   CHISINAU       GRĂTIEŞTI       Liceul Teoretic \"Grătieşti\"                                    7      7   0   100,00   5,54",
+      "candidats": 7,
+      "rejectedCandidats": 0,
+      "mediumNote": 5.54
+    },
+    {
+      "year": "2019",
+      "text": "235   CHISINAU       GRĂTIEŞTI        Liceul Teoretic \"Grătieşti\"                                                    9         8   1   88.89   5.78",
+      "candidats": 9,
+      "rejectedCandidats": 1,
+      "mediumNote": 5.78
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

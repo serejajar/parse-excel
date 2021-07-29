@@ -1,0 +1,56 @@
+{
+  "id": "ialoveni-puhoi-liceul",
+  "search": "puhoi",
+  "address": {
+    "district": "ialoveni",
+    "city": "puhoi"
+  },
+  "name": {
+    "ro": "liceul teoretic puhoi",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "266   IALOVENI       PUHOI               Liceul Teoretic Puhoi                                   54   33   21   61.11   6.07",
+      "candidats": 54,
+      "rejectedCandidats": 21,
+      "mediumNote": 6.07
+    },
+    {
+      "year": "2016",
+      "text": "308   IALOVENI       PUHOI             Liceul Teoretic Puhoi                                                 17    11     6   64,71   6,61",
+      "candidats": 17,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.61
+    },
+    {
+      "year": "2016 all",
+      "text": "338   IALOVENI       PUHOI             Liceul Teoretic Puhoi                                      28    11    17   39,29   6,61",
+      "candidats": 28,
+      "rejectedCandidats": 17,
+      "mediumNote": 6.61
+    },
+    {
+      "year": "2017",
+      "text": "102   IALOVENI       PUHOI           Liceul Teoretic Puhoi                                           32    31   1   96,88    6,44",
+      "candidats": 32,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2018",
+      "text": "246   IALOVENI       PUHOI           Liceul Teoretic Puhoi                                           28    24    4   85.71   6.57",
+      "candidats": 28,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.57
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

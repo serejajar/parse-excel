@@ -1,0 +1,63 @@
+{
+  "id": "riscani-riscani-LDamian",
+  "search": "damian",
+  "address": {
+    "district": "riscani",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"liviu damian\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "118   RÎŞCANI        RÎŞCANI             LICEUL TEORETIC \"LIVIU DAMIAN\"                                                        48    38   10   79.17   6.57",
+      "candidats": 48,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2016",
+      "text": "169   RÎŞCANI        RÎŞCANI           LICEUL TEORETIC \"LIVIU DAMIAN\"                                   39    35   4   89,74   6,28",
+      "candidats": 39,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.28
+    },
+    {
+      "year": "2016 all",
+      "text": "137   RÎŞCANI        RÎŞCANI           LICEUL TEORETIC \"LIVIU DAMIAN\"                               46   37    9   80,43   6,22",
+      "candidats": 46,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.22
+    },
+    {
+      "year": "2017",
+      "text": "141   RÎŞCANI        RÎŞCANI         LICEUL TEORETIC \"LIVIU DAMIAN\"                                   32    30   2   93,75   6,54",
+      "candidats": 32,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.54
+    },
+    {
+      "year": "2018",
+      "text": "180   RÎŞCANI        RÎŞCANI          LICEUL TEORETIC \"LIVIU DAMIAN\"                                  31   29   2   93.55   6.82",
+      "candidats": 31,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.82
+    },
+    {
+      "year": "2019",
+      "text": "65   RÎŞCANI        RÎŞCANI          LICEUL TEORETIC \"LIVIU DAMIAN\"                                    21    21   0   100.00   7.14",
+      "candidats": 21,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.14
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

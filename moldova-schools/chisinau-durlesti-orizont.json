@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-durlesti-orizont",
+  "search": "orizont",
+  "address": {
+    "district": "chisinau",
+    "city": "durlesti"
+  },
+  "name": {
+    "ro": "institutia privata de invatamint liceul teoretic \"orizont\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "55   CHISINAU       DURLEŞTI            Instituţia Privată de Învăţămînt Liceul Teoretic \"ORIZONT\"                                    31    28    3   90.32   7.87",
+      "candidats": 31,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.87
+    },
+    {
+      "year": "2016",
+      "text": "115   CHISINAU       DURLEŞTI          Instituţia Privată de Învăţămînt Liceul Teoretic \"ORIZONT\"                            34    32   2   94,12   7,68",
+      "candidats": 34,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.68
+    },
+    {
+      "year": "2016 all",
+      "text": " 70   CHISINAU       DURLEŞTI          Instituţia Privată de Învăţămînt Liceul Teoretic \"ORIZONT\"                            39    35    4   89,74   7,60",
+      "candidats": 39,
+      "rejectedCandidats": 4,
+      "mediumNote": 7.6
+    },
+    {
+      "year": "2017",
+      "text": "82   CHISINAU       DURLEŞTI        Instituţia Privată de Învăţămînt Liceul Teoretic \"ORIZONT\"     93    92   1   98,92    7,57",
+      "candidats": 93,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.57
+    },
+    {
+      "year": "2018",
+      "text": "12   CHISINAU         DURLEŞTI         Instituţia Privată de Învăţămînt Liceul Teoretic \"ORIZONT\"                    74        74        0       100.00    7.66",
+      "candidats": 74,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.66
+    },
+    {
+      "year": "2019",
+      "text": "151   CHISINAU       DURLEŞTI         Instituţia Privată de Învăţămînt Liceul Teoretic \"ORIZONT\"                  77         75         2          97.40   7.84",
+      "candidats": 77,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.84
+    }
+  ],
+  "langs": [
+    "engleza"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

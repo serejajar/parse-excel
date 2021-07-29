@@ -1,0 +1,41 @@
+{
+  "id": "hincesti-leuseni-CezarRadu",
+  "search": "radu",
+  "address": {
+    "district": "hincesti",
+    "city": "leuseni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"cezar radu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "412   HÎNCEŞTI       LEUŞENI             Liceul Teoretic \"Cezar Radu\"                  6   0    6    0.00   0",
+      "candidats": 6,
+      "rejectedCandidats": 6,
+      "mediumNote": 0
+    },
+    {
+      "year": "2016",
+      "text": "257   HÎNCEŞTI       LEUŞENI          Liceul Teoretic \"Cezar Radu\"                                        20   16    4   80,00   6,44",
+      "candidats": 20,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.44
+    },
+    {
+      "year": "2016 all",
+      "text": "194   HÎNCEŞTI       LEUŞENI           Liceul Teoretic \"Cezar Radu\"                                     22    16    6   72,73   6,44",
+      "candidats": 22,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.44
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

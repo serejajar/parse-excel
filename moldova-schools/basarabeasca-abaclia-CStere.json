@@ -1,0 +1,62 @@
+{
+  "id": "basarabeasca-abaclia-CStere",
+  "search": "stere",
+  "address": {
+    "district": "basarabeasca",
+    "city": "abaclia"
+  },
+  "name": {
+    "ro": "liceul teoretic \"constantin stere\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "140   BASARABEASCA   ABACLIA             LICEUL TEORETIC \"CONSTANTIN STERE\"                                                    44    34   10   77.27   6.40",
+      "candidats": 44,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2016",
+      "text": "125   BASARABEASCA   ABACLIA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"CONSTANTIN STERE\"                                 15    14   1   93,33   6,98",
+      "candidats": 15,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.98
+    },
+    {
+      "year": "2016 all",
+      "text": "266   BASARABEASCA   ABACLIA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"CONSTANTIN STERE\"                 23   14    9   60,87   6,98",
+      "candidats": 23,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.98
+    },
+    {
+      "year": "2017",
+      "text": "253   BASARABEASCA   ABACLIA         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"CONSTANTIN STERE\"      10    8    2   80,00   6,25",
+      "candidats": 10,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.25
+    },
+    {
+      "year": "2018",
+      "text": "86   BASARABEASCA   ABACLIA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"CONSTANTIN STERE\"           12         12   0   100.00   6.46",
+      "candidats": 12,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.46
+    },
+    {
+      "year": "2019",
+      "text": "98   BASARABEASCA   ABACLIA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"CONSTANTIN STERE\"           30         30    0   100.00   6.82",
+      "candidats": 30,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.82
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

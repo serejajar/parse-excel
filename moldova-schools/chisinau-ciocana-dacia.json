@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-ciocana-dacia",
+  "search": "dacia",
+  "address": {
+    "district": "chisinau",
+    "city": "ciocana"
+  },
+  "name": {
+    "ro": "liceul teoretic \"dacia\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "173   CHISINAU       CIOCANA               Liceul Teoretic \"Dacia\"                                          54   40   14   74.07   6.41",
+      "candidats": 54,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.41
+    },
+    {
+      "year": "2016",
+      "text": "165   CHISINAU       CIOCANA    Liceul Teoretic \"Dacia\"                                           20    18   2   90,00   6,26",
+      "candidats": 20,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.26
+    },
+    {
+      "year": "2016 all",
+      "text": "164   CHISINAU       CIOCANA    Liceul Teoretic \"Dacia\"                                           26    20    6   76,92   6,15",
+      "candidats": 26,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.15
+    },
+    {
+      "year": "2017",
+      "text": "272   CHISINAU       CIOCANA   Liceul Teoretic \"Dacia\"                                 39   29   10   74,36   5,83",
+      "candidats": 39,
+      "rejectedCandidats": 10,
+      "mediumNote": 5.83
+    },
+    {
+      "year": "2018",
+      "text": "193   CHISINAU       CIOCANA   Liceul Teoretic \"Dacia\"                                          27   25   2   92.59   6.42",
+      "candidats": 27,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.42
+    },
+    {
+      "year": "2019",
+      "text": "240   CHISINAU       CIOCANA   Liceul Teoretic \"Dacia\"                                                        33        29   4   87.88   6.17",
+      "candidats": 33,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.17
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

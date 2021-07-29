@@ -1,0 +1,49 @@
+{
+  "id": "singerei-singereiinoi-ARusso",
+  "search": "russo",
+  "address": {
+    "district": "singerei",
+    "city": "singereiinoi"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a.russo\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "241   SÎNGEREI       SÎNGEREII NOI       Liceul Teoretic \"A.Russo\"                                             34    22   12   64.71   5.86",
+      "candidats": 34,
+      "rejectedCandidats": 12,
+      "mediumNote": 5.86
+    },
+    {
+      "year": "2016",
+      "text": "290   SÎNGEREI       SÎNGEREII NOI    LICEUL TEORETIC \"ALECU RUSSO\"                                       28   20    8   71,43   6,21",
+      "candidats": 28,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.21
+    },
+    {
+      "year": "2016 all",
+      "text": "273   SÎNGEREI       SÎNGEREII NOI     LICEUL TEORETIC \"ALECU RUSSO\"                                         35   21   14   60,00   6,15",
+      "candidats": 35,
+      "rejectedCandidats": 14,
+      "mediumNote": 6.15
+    },
+    {
+      "year": "2018",
+      "text": "268   SÎNGEREI       SÎNGEREII NOI   INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALECU RUSSO\"              20    16    4   80.00   6.09",
+      "candidats": 20,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.09
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

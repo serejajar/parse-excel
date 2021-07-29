@@ -1,0 +1,62 @@
+{
+  "id": "straseni-lozova-NVornicescu",
+  "search": "vornicescu",
+  "address": {
+    "district": "straseni",
+    "city": "lozova"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"mitropolit nestor vornicescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "89   STRĂŞENI       LOZOVA              INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MITROPOLIT NESTOR VORNICESCU\"                             47    39    8   82.98   6.17",
+      "candidats": 47,
+      "rejectedCandidats": 8,
+      "mediumNote": 6.17
+    },
+    {
+      "year": "2016",
+      "text": "261   STRĂŞENI       LOZOVA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MITROPOLIT NESTOR VORNICESCU\"   14   11    3   78,57   7,39",
+      "candidats": 14,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.39
+    },
+    {
+      "year": "2016 all",
+      "text": "217   STRĂŞENI       LOZOVA            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MITROPOLIT NESTOR VORNICESCU\"   16   11    5   68,75   7,39",
+      "candidats": 16,
+      "rejectedCandidats": 5,
+      "mediumNote": 7.39
+    },
+    {
+      "year": "2017",
+      "text": "192   STRĂŞENI     LOZOVA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MITROPOLIT NESTOR VORNICESCU\"     29   26   3   89,66   6,33",
+      "candidats": 29,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.33
+    },
+    {
+      "year": "2018",
+      "text": "67   STRĂŞENI       LOZOVA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MITROPOLIT NESTOR VORNICESCU\"     26   26   0   100.00   6.88",
+      "candidats": 26,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.88
+    },
+    {
+      "year": "2019",
+      "text": "225   STRĂŞENI       LOZOVA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"MITROPOLIT NESTOR VORNICESCU\"             20        18   2   90.00   6.31",
+      "candidats": 20,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.31
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

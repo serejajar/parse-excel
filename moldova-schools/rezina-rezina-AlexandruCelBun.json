@@ -1,0 +1,63 @@
+{
+  "id": "rezina-rezina-AlexandruCelBun",
+  "search": "alexandru cel bun",
+  "address": {
+    "district": "rezina",
+    "city": "rezina"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"alexandru cel bun\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "178   REZINA         REZINA                Instituţia Publică Liceul Teoretic \"Alexandru cel Bun\"           41   30   11   73.17   6.47",
+      "candidats": 41,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.47
+    },
+    {
+      "year": "2016",
+      "text": "245   REZINA         REZINA            Instituţia Publică Liceul Teoretic \"Alexandru cel Bun\"      32   26    6   81,25   6,83",
+      "candidats": 32,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.83
+    },
+    {
+      "year": "2016 all",
+      "text": "247   REZINA         REZINA            Instituţia Publică Liceul Teoretic \"Alexandru cel Bun\"              45   29   16   64,44   6,70",
+      "candidats": 45,
+      "rejectedCandidats": 16,
+      "mediumNote": 6.7
+    },
+    {
+      "year": "2017",
+      "text": "96   REZINA         REZINA          Instituţia Publică Liceul Teoretic \"Alexandru cel Bun\"         34    33   1   97,06    6,55",
+      "candidats": 34,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.55
+    },
+    {
+      "year": "2018",
+      "text": "171   REZINA         REZINA           Instituţia Publică Liceul Teoretic \"Alexandru cel Bun\"          34   32   2   94.12   7.02",
+      "candidats": 34,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.02
+    },
+    {
+      "year": "2019",
+      "text": "48   REZINA         REZINA           Instituţia Publică Liceul Teoretic \"Alexandru cel Bun\"            35    35   0   100.00   7.27",
+      "candidats": 35,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.27
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

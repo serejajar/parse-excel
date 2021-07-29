@@ -1,0 +1,62 @@
+{
+  "id": "causeni-causeni-APuskin",
+  "search": "puskin",
+  "address": {
+    "district": "causeni",
+    "city": "causeni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"a.puskin\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "164   CAUSENI        CAUSENI               LICEUL TEORETIC \"A.PUŞKIN\"                                       16   12    4   75.00   6.63",
+      "candidats": 16,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2016",
+      "text": "266   CAUSENI        CAUSENI          LICEUL TEORETIC \"A.PUŞKIN\"                                           9    7    2   77,78   6,34",
+      "candidats": 9,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.34
+    },
+    {
+      "year": "2016 all",
+      "text": "212   CAUSENI        CAUSENI           LICEUL TEORETIC \"A.PUŞKIN\"                                          13    9    4   69,23   6,33",
+      "candidats": 13,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.33
+    },
+    {
+      "year": "2017",
+      "text": "43   CAUSENI        CAUSENI         LICEUL TEORETIC \"A.PUŞKIN\"                                                 9          9      0   100,00   6,84",
+      "candidats": 9,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.84
+    },
+    {
+      "year": "2018",
+      "text": "285   CAUSENI        CAUSENI         LICEUL TEORETIC \"A.PUŞKIN\"                                 13     9    4   69.23   6.78",
+      "candidats": 13,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.78
+    },
+    {
+      "year": "2019",
+      "text": "282   CAUSENI        CAUSENI          LICEUL TEORETIC \"A.PUŞKIN\"                                   15    11    4   73.33   6.87",
+      "candidats": 15,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.87
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

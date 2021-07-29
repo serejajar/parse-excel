@@ -1,0 +1,55 @@
+{
+  "id": "riscani-mihaileni-ECoseriu",
+  "search": "coseriu",
+  "address": {
+    "district": "riscani",
+    "city": "mihaileni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"eugen coseriu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "293   RÎŞCANI        MIHĂILENI           LICEUL TEORETIC \"EUGEN COŞERIU\"                         23   13   10   56.52   6.40",
+      "candidats": 23,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.4
+    },
+    {
+      "year": "2016",
+      "text": "55   RÎŞCANI        MIHĂILENI         LICEUL TEORETIC \"EUGEN COŞERIU\"                               21    21   0   100,00   6,38",
+      "candidats": 21,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2016 all",
+      "text": "126   RÎŞCANI        MIHĂILENI         LICEUL TEORETIC \"EUGEN COŞERIU\"                              28   23    5   82,14   6,30",
+      "candidats": 28,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.3
+    },
+    {
+      "year": "2017",
+      "text": "247   RÎŞCANI        MIHĂILENI       LICEUL TEORETIC \"EUGEN COŞERIU\"                                      16   13    3   81,25   5,98",
+      "candidats": 16,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.98
+    },
+    {
+      "year": "2018",
+      "text": "248   RÎŞCANI        MIHĂILENI       LICEUL TEORETIC \"EUGEN COŞERIU\"                               14    12    2   85.71   6.48",
+      "candidats": 14,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.48
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

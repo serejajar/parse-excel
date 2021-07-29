@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-riscani-cervantes",
+  "search": "cervantes",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"miguel de cervantes saavedra\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "70   CHISINAU       RISCANI    LICEUL TEORETIC \"MIGUEL DE CERVANTES SAAVEDRA\"                                                76    66   10   86.84   6.79",
+      "candidats": 76,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.79
+    },
+    {
+      "year": "2016",
+      "text": "83   CHISINAU       RISCANI    LICEUL TEORETIC \"MIGUEL DE CERVANTES SAAVEDRA\"                 64    62   2    96,88   6,87",
+      "candidats": 64,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.87
+    },
+    {
+      "year": "2016 all",
+      "text": "42   CHISINAU       RISCANI    LICEUL TEORETIC \"MIGUEL DE CERVANTES SAAVEDRA\"                        68          65             3       95,59      6,81",
+      "candidats": 68,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.81
+    },
+    {
+      "year": "2017",
+      "text": "14   CHISINAU         RISCANI   LICEUL TEORETIC \"MIGUEL DE CERVANTES SAAVEDRA\"                       51        51        0       100,00    7,45",
+      "candidats": 51,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.45
+    },
+    {
+      "year": "2018",
+      "text": "14   CHISINAU         RISCANI    LICEUL TEORETIC \"MIGUEL DE CERVANTES SAAVEDRA\"                                33        33        0       100.00    7.56",
+      "candidats": 33,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.56
+    },
+    {
+      "year": "2019",
+      "text": "18   CHISINAU         RISCANI    Liceul Teoretic \"Miguel de Cervantes Saavedra\"                                48        48        0       100.00    7.84",
+      "candidats": 48,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.84
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

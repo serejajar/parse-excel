@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-ciocana-GintaLatina",
+  "search": "ginta latina",
+  "address": {
+    "district": "chisinau",
+    "city": "ciocana"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"ginta latina\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "109   CHISINAU       CIOCANA             Instituţia Publică Liceul Teoretic \"Ginta Latină\"                                     97    78   19   80.41   6.54",
+      "candidats": 97,
+      "rejectedCandidats": 19,
+      "mediumNote": 6.54
+    },
+    {
+      "year": "2016",
+      "text": "248   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic \"Ginta Latină\"            69   56   13   81,16   6,80",
+      "candidats": 69,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.8
+    },
+    {
+      "year": "2016 all",
+      "text": "158   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic \"Ginta Latină\"                 80    62   18   77,50   6,68",
+      "candidats": 80,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.68
+    },
+    {
+      "year": "2017",
+      "text": "184   CHISINAU     CIOCANA   Instituţia Publică Liceul Teoretic \"Ginta Latină\"                52   47   5   90,38   6,79",
+      "candidats": 52,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.79
+    },
+    {
+      "year": "2018",
+      "text": "182   CHISINAU       CIOCANA   Instituţia Publică Liceul Teoretic \"Ginta Latină\"                46   43   3   93.48   7.13",
+      "candidats": 46,
+      "rejectedCandidats": 3,
+      "mediumNote": 7.13
+    },
+    {
+      "year": "2019",
+      "text": "232   CHISINAU       CIOCANA   Instituţia Publică Liceul Teoretic \"Ginta Latină\"                              46        41   5   89.13   6.88",
+      "candidats": 46,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.88
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

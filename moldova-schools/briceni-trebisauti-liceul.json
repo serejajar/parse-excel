@@ -1,0 +1,56 @@
+{
+  "id": "briceni-trebisauti-liceul",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "trebisauti"
+  },
+  "name": {
+    "ro": "liceul teoretic trebisauti",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "402   BRICENI        TREBISĂUŢI          Liceul Teoretic Trebisăuţi                                       24    4    20   16.67   6.50",
+      "candidats": 24,
+      "rejectedCandidats": 20,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016",
+      "text": "345   BRICENI        TREBISĂUŢI        Liceul Teoretic Trebisăuţi                                            15    3    12   20,00   6,75",
+      "candidats": 15,
+      "rejectedCandidats": 12,
+      "mediumNote": 6.75
+    },
+    {
+      "year": "2016 all",
+      "text": "363   BRICENI        TREBISĂUŢI        Liceul Teoretic Trebisăuţi                                          19    4    15   21,05   6,56",
+      "candidats": 19,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.56
+    },
+    {
+      "year": "2018",
+      "text": "291   BRICENI        TREBISĂUŢI      Liceul Teoretic Trebisăuţi                                    9     6    3   66.67   7.00",
+      "candidats": 9,
+      "rejectedCandidats": 3,
+      "mediumNote": 7
+    },
+    {
+      "year": "2019",
+      "text": "288   BRICENI        TREBISĂUŢI     Liceul Teoretic Trebisăuţi                                     13    8    5   61.54   7.06",
+      "candidats": 13,
+      "rejectedCandidats": 5,
+      "mediumNote": 7.06
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

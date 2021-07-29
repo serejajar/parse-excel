@@ -1,0 +1,28 @@
+{
+  "id": "ungheni-cornesti-DCantemir",
+  "search": "dimitrie cantemir|d.cantemir|d. cantemir",
+  "address": {
+    "district": "ungheni",
+    "city": "cornesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"d.cantemir\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "250   UNGHENI        CORNEŞTI            LICEUL TEORETIC \"D.CANTEMIR\"                                          38    24   14   63.16   5.78",
+      "candidats": 38,
+      "rejectedCandidats": 14,
+      "mediumNote": 5.78
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

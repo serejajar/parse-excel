@@ -1,0 +1,41 @@
+{
+  "id": "falesti-rautel-AMateevici",
+  "search": "mateevici",
+  "address": {
+    "district": "falesti",
+    "city": "rautel"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"a.mateevici\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "365   FĂLEŞTI        RĂUŢEL              INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"A.MATEEVICI\"                  5    2     3   40.00   5.50",
+      "candidats": 5,
+      "rejectedCandidats": 3,
+      "mediumNote": 5.5
+    },
+    {
+      "year": "2016",
+      "text": "202   FĂLEŞTI        RĂUŢEL            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALEXEI MATEEVICI\"      16    14    2   87,50   6,05",
+      "candidats": 16,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.05
+    },
+    {
+      "year": "2016 all",
+      "text": "157   FĂLEŞTI        RĂUŢEL            INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ALEXEI MATEEVICI\"            18    14    4   77,78   6,05",
+      "candidats": 18,
+      "rejectedCandidats": 4,
+      "mediumNote": 6.05
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

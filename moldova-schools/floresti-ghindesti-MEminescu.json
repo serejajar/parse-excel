@@ -1,0 +1,49 @@
+{
+  "id": "floresti-ghindesti-MEminescu",
+  "search": "eminescu",
+  "address": {
+    "district": "floresti",
+    "city": "ghindesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"m. eminescu\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "275   FLOREŞTI       GHINDEŞTI           Liceul Teoretic \"M. Eminescu\"                           40   24   16   60.00   5.80",
+      "candidats": 40,
+      "rejectedCandidats": 16,
+      "mediumNote": 5.8
+    },
+    {
+      "year": "2016",
+      "text": "168   FLOREŞTI       GHINDEŞTI         Liceul Teoretic \"M. Eminescu\"                                    20    18   2   90,00   5,82",
+      "candidats": 20,
+      "rejectedCandidats": 2,
+      "mediumNote": 5.82
+    },
+    {
+      "year": "2016 all",
+      "text": "202   FLOREŞTI       GHINDEŞTI         Liceul Teoretic \"M. Eminescu\"                                    28    20    8   71,43   5,79",
+      "candidats": 28,
+      "rejectedCandidats": 8,
+      "mediumNote": 5.79
+    },
+    {
+      "year": "2017",
+      "text": "275   FLOREŞTI       GHINDEŞTI       Liceul Teoretic \"M. Eminescu\"                              22   16    6   72,73   6,50",
+      "candidats": 22,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.5
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

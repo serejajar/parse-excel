@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-riscani-StefalCelMare",
+  "search": "stefan cel mare",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"stefan cel mare\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "193   CHISINAU       RISCANI               Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"             45   32   13   71.11   6.66",
+      "candidats": 45,
+      "rejectedCandidats": 13,
+      "mediumNote": 6.66
+    },
+    {
+      "year": "2016",
+      "text": "216   CHISINAU       RISCANI    Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"         39   33    6   84,62   7,05",
+      "candidats": 39,
+      "rejectedCandidats": 6,
+      "mediumNote": 7.05
+    },
+    {
+      "year": "2016 all",
+      "text": "204   CHISINAU       RISCANI    Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"              51    36   15   70,59   6,90",
+      "candidats": 51,
+      "rejectedCandidats": 15,
+      "mediumNote": 6.9
+    },
+    {
+      "year": "2017",
+      "text": "123   CHISINAU       RISCANI   Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"             42    40   2   95,24   6,61",
+      "candidats": 42,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.61
+    },
+    {
+      "year": "2018",
+      "text": "152   CHISINAU       RISCANI    Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"                           45         43      2   95.56   7.41",
+      "candidats": 45,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.41
+    },
+    {
+      "year": "2019",
+      "text": "90   CHISINAU       RISCANI    Instituţia Publică Liceul Teoretic \"Ştefan cel Mare\"            33         33    0   100.00   6.90",
+      "candidats": 33,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.9
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

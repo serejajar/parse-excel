@@ -1,0 +1,28 @@
+{
+  "id": "causeni-copanca-VAlecsandri",
+  "search": "alecsandri",
+  "address": {
+    "district": "causeni",
+    "city": "copanca"
+  },
+  "name": {
+    "ro": "liceul teoretic \"v.alecsandri\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "394   CAUSENI        COPANCA             LICEUL TEORETIC \"V.ALECSANDRI\"                                    4    1     3   25.00   5.00",
+      "candidats": 4,
+      "rejectedCandidats": 3,
+      "mediumNote": 5
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

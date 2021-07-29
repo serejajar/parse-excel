@@ -1,0 +1,49 @@
+{
+  "id": "chisinau-chisinau-externat3",
+  "search": "externat 3",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau"
+  },
+  "name": {
+    "ro": "centru externat 3",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "335   CHISINAU       CHISINAU            CENTRU EXTERNAT 3                                                87    43    44   49.43   6.03",
+      "candidats": 87,
+      "rejectedCandidats": 44,
+      "mediumNote": 6.03
+    },
+    {
+      "year": "2016",
+      "text": "341   CHISINAU       CHISINAU          CENTRU EXTERNAT 3                                                     66   27    39   40,91   6,08",
+      "candidats": 66,
+      "rejectedCandidats": 39,
+      "mediumNote": 6.08
+    },
+    {
+      "year": "2016 all",
+      "text": "341   CHISINAU       CHISINAU          CENTRU EXTERNAT 3                                          78    29    49   37,18   6,03",
+      "candidats": 78,
+      "rejectedCandidats": 49,
+      "mediumNote": 6.03
+    },
+    {
+      "year": "2017",
+      "text": "294   CHISINAU    CHISINAU    CENTRU EXTERNAT 3                        54   26    28   48,15   5,94",
+      "candidats": 54,
+      "rejectedCandidats": 28,
+      "mediumNote": 5.94
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

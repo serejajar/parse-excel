@@ -1,0 +1,62 @@
+{
+  "id": "chisinau-riscani-socrate",
+  "search": "socrate",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul de limbi moderne si tehnologii informationale \"socrate\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "34   CHISINAU       RISCANI    Liceul de Limbi Moderne şi Tehnologii Informaţionale \"SOCRATE\"            18        17           1        94.44    6.59",
+      "candidats": 18,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.59
+    },
+    {
+      "year": "2016",
+      "text": "138   CHISINAU       RISCANI    Liceul de Limbi Moderne şi Tehnologii Informaţionale \"SOCRATE\"    13    12   1   92,31   6,77",
+      "candidats": 13,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.77
+    },
+    {
+      "year": "2016 all",
+      "text": " 99   CHISINAU       RISCANI    Liceul de Limbi Moderne şi Tehnologii Informaţionale \"SOCRATE\"                         14    12    2   85,71   6,77",
+      "candidats": 14,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.77
+    },
+    {
+      "year": "2017",
+      "text": "16   CHISINAU         RISCANI   Liceul de Limbi Moderne şi Tehnologii Informaţionale \"SOCRATE\"       11        11        0       100,00    7,34",
+      "candidats": 11,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.34
+    },
+    {
+      "year": "2018",
+      "text": "40   CHISINAU       RISCANI    Liceul de Limbi Moderne şi Tehnologii Informaţionale \"SOCRATE\"     9    9   0   100.00   7.19",
+      "candidats": 9,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.19
+    },
+    {
+      "year": "2019",
+      "text": "46   CHISINAU       RISCANI    Liceul de Limbi Moderne şi Tehnologii Informaţionale \"SOCRATE\"    16    16   0   100.00   7.28",
+      "candidats": 16,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.28
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "umanist"
+  ]
+}

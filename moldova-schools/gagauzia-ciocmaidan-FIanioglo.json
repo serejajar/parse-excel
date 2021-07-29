@@ -1,0 +1,41 @@
+{
+  "id": "gagauzia-ciocmaidan-FIanioglo",
+  "search": "ianioglo",
+  "address": {
+    "district": "gagauzia",
+    "city": "ciocmaidan"
+  },
+  "name": {
+    "ro": "liceul teoretic fiodor ianioglo",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "384   GAGAUZIA   CIOC MAIDAN         LICEUL TEORETIC FIODOR IANIOGLO                                   9    3     6   33.33   5.80",
+      "candidats": 9,
+      "rejectedCandidats": 6,
+      "mediumNote": 5.8
+    },
+    {
+      "year": "2016 all",
+      "text": "347   GAGAUZIA   CIOC MAIDAN       LICEUL TEORETIC FIODOR IANIOGLO                             3     1     2   33,33   5,80",
+      "candidats": 3,
+      "rejectedCandidats": 2,
+      "mediumNote": 5.8
+    },
+    {
+      "year": "2017",
+      "text": "27   GAGAUZIA     CIOC MAIDAN     LICEUL TEORETIC \"FIODOR IANIOGLO\" s. CIOC MAIDAN                      6         6        0       100,00    7,02",
+      "candidats": 6,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.02
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

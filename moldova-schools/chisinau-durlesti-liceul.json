@@ -1,0 +1,36 @@
+{
+  "id": "chisinau-durlesti-liceul",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "durlesti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"durlesti\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "376   CHISINAU       DURLEŞTI            Liceul Teoretic \"Durleşti\"                                       35   13    22   37.14   5.79",
+      "candidats": 35,
+      "rejectedCandidats": 22,
+      "mediumNote": 5.79
+    },
+    {
+      "year": "2016 all",
+      "text": "354   CHISINAU       DURLEŞTI          Liceul Teoretic \"Durleşti\"                                 13     4     9   30,77   5,00",
+      "candidats": 13,
+      "rejectedCandidats": 9,
+      "mediumNote": 5
+    }
+  ],
+  "langs": [
+    "engleza",
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

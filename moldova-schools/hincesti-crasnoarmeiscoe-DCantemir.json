@@ -1,0 +1,49 @@
+{
+  "id": "hincesti-crasnoarmeiscoe-DCantemir",
+  "search": "dimitrie cantemir|d.cantemir|d. cantemir",
+  "address": {
+    "district": "hincesti",
+    "city": "crasnoarmeiscoe"
+  },
+  "name": {
+    "ro": "liceul teoretic \"dimitrie cantemir\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "350   HÎNCEŞTI       CRASNOARMEISCOE     Liceul Teoretic \"Dimitrie Cantemir\"                              34    15    19   44.12   6.52",
+      "candidats": 34,
+      "rejectedCandidats": 19,
+      "mediumNote": 6.52
+    },
+    {
+      "year": "2016",
+      "text": "230   HÎNCEŞTI       CRASNOARMEISCOE    Liceul Teoretic \"Dimitrie Cantemir\"                           12   10    2   83,33   6,84",
+      "candidats": 12,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.84
+    },
+    {
+      "year": "2016 all",
+      "text": "309   HÎNCEŞTI       CRASNOARMEISCOE    Liceul Teoretic \"Dimitrie Cantemir\"                          21    11    10   52,38   6,70",
+      "candidats": 21,
+      "rejectedCandidats": 10,
+      "mediumNote": 6.7
+    },
+    {
+      "year": "2018",
+      "text": "178   HÎNCEŞTI       CRASNOARMEISCOE     Liceul Teoretic \"Dimitrie Cantemir\"                             16   15   1   93.75   6.51",
+      "candidats": 16,
+      "rejectedCandidats": 1,
+      "mediumNote": 6.51
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

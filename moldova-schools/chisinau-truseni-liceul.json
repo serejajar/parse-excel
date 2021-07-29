@@ -1,0 +1,34 @@
+{
+  "id": "chisinau-truseni-liceul",
+  "search": "truseni",
+  "address": {
+    "district": "chisinau",
+    "city": "truseni"
+  },
+  "name": {
+    "ro": "liceul teoretic \"truseni\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "260   CHISINAU       TRUŞENI             Liceul Teoretic \"Truşeni\"                               29   18   11   62.07   6.24",
+      "candidats": 29,
+      "rejectedCandidats": 11,
+      "mediumNote": 6.24
+    },
+    {
+      "year": "2016 all",
+      "text": "376   CHISINAU       TRUŞENI           Liceul Teoretic \"Truşeni\"                                            3    0     3    0,00   0",
+      "candidats": 3,
+      "rejectedCandidats": 3,
+      "mediumNote": 0
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

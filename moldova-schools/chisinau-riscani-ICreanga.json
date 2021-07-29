@@ -1,0 +1,63 @@
+{
+  "id": "chisinau-riscani-ICreanga",
+  "search": "creanga",
+  "address": {
+    "district": "chisinau",
+    "city": "riscani"
+  },
+  "name": {
+    "ro": "liceul teoretic \"ion creanga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "19   CHISINAU       RISCANI    Liceul Teoretic \"Ion Creangă\"                                             95        93           2        97.89    7.83",
+      "candidats": 95,
+      "rejectedCandidats": 2,
+      "mediumNote": 7.83
+    },
+    {
+      "year": "2016",
+      "text": "10   CHISINAU       RISCANI    Liceul Teoretic \"Ion Creangă\"                                         89          89             0      100,00      7,76",
+      "candidats": 89,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.76
+    },
+    {
+      "year": "2016 all",
+      "text": "29   CHISINAU       RISCANI    Liceul Teoretic \"Ion Creangă\"                                         91          90             1       98,90      7,75",
+      "candidats": 91,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.75
+    },
+    {
+      "year": "2017",
+      "text": "6   CHISINAU         RISCANI   Liceul Teoretic \"Ion Creangă\"                                        75        75        0       100,00    7,76",
+      "candidats": 75,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.76
+    },
+    {
+      "year": "2018",
+      "text": "9   CHISINAU         RISCANI    Liceul Teoretic \"Ion Creangă\"                                                 78        78        0       100.00    7.86",
+      "candidats": 78,
+      "rejectedCandidats": 0,
+      "mediumNote": 7.86
+    },
+    {
+      "year": "2019",
+      "text": "7   CHISINAU         RISCANI    Liceul Teoretic \"Ion Creangă\"                                                 85        85        0       100.00    8.24",
+      "candidats": 85,
+      "rejectedCandidats": 0,
+      "mediumNote": 8.24
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

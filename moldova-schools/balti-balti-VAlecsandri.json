@@ -1,0 +1,56 @@
+{
+  "id": "balti-balti-VAlecsandri",
+  "search": "alecsandri",
+  "address": {
+    "district": "balti",
+    "city": "balti"
+  },
+  "name": {
+    "ro": "liceul teoretic \"v.alecsandri\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "290   BALTI          BALTI               LICEUL TEORETIC \"V.ALECSANDRI\"                          68   39   29   57.35   6.59",
+      "candidats": 68,
+      "rejectedCandidats": 29,
+      "mediumNote": 6.59
+    },
+    {
+      "year": "2016",
+      "text": "177   BALTI          BALTI             LICEUL TEORETIC \"V.ALECSANDRI\"                             46    41    5   89,13   6,79",
+      "candidats": 46,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.79
+    },
+    {
+      "year": "2016 all",
+      "text": "242   BALTI          BALTI             LICEUL TEORETIC \"V.ALECSANDRI\"                                      73   48   25   65,75   6,57",
+      "candidats": 73,
+      "rejectedCandidats": 25,
+      "mediumNote": 6.57
+    },
+    {
+      "year": "2017",
+      "text": "149   BALTI          BALTI           LICEUL TEORETIC \"V.ALECSANDRI\"                                   29    27   2   93,10   6,67",
+      "candidats": 29,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.67
+    },
+    {
+      "year": "2019",
+      "text": "185   BALTI          BALTI            LICEUL TEORETIC \"V. ALECSANDRI\"                                39   37   2   94.87   6.89",
+      "candidats": 39,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.89
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

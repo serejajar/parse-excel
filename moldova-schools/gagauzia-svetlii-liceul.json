@@ -1,0 +1,27 @@
+{
+  "id": "gagauzia-svetlii-liceul",
+  "search": "",
+  "address": {
+    "district": "gagauzia",
+    "city": "svetlii"
+  },
+  "name": {
+    "ro": "liceul teoretic svetlii",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "417   GAGAUZIA   SVETLÎI             LICEUL TEORETIC SVETLÎI                       3   0    3    0.00   0",
+      "candidats": 3,
+      "rejectedCandidats": 3,
+      "mediumNote": 0
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

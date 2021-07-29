@@ -1,0 +1,34 @@
+{
+  "id": "gagauzia-besghioz-liceul",
+  "search": "",
+  "address": {
+    "district": "gagauzia",
+    "city": "besghioz"
+  },
+  "name": {
+    "ro": "liceul teoretic besghioz",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "415   GAGAUZIA   BEŞGHIOZ            LICEUL TEORETIC BEŞGHIOZ                      6   0    6    0.00   0",
+      "candidats": 6,
+      "rejectedCandidats": 6,
+      "mediumNote": 0
+    },
+    {
+      "year": "2016 all",
+      "text": "384   GAGAUZIA   BEŞGHIOZ          LICEUL TEORETIC BEŞGHIOZ                                             2    0     2    0,00   0",
+      "candidats": 2,
+      "rejectedCandidats": 2,
+      "mediumNote": 0
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "profiles": [
+    "real"
+  ]
+}

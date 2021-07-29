@@ -1,0 +1,63 @@
+{
+  "id": "straseni-vorniceni-IInculet",
+  "search": "inculet",
+  "address": {
+    "district": "straseni",
+    "city": "vorniceni"
+  },
+  "name": {
+    "ro": "institutia publica liceul teoretic \"ion inculet\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "87   STRĂŞENI       VORNICENI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION INCULEŢ\"                                              36    30    6   83.33   6.38",
+      "candidats": 36,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2016",
+      "text": "256   STRĂŞENI       VORNICENI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION INCULEŢ\"                    25   20    5   80,00   6,51",
+      "candidats": 25,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.51
+    },
+    {
+      "year": "2016 all",
+      "text": "214   STRĂŞENI       VORNICENI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION INCULEŢ\"                    29   20    9   68,97   6,51",
+      "candidats": 29,
+      "rejectedCandidats": 9,
+      "mediumNote": 6.51
+    },
+    {
+      "year": "2017",
+      "text": "202   STRĂŞENI     VORNICENI       INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION INCULEŢ\"                 27   24   3   88,89   6,27",
+      "candidats": 27,
+      "rejectedCandidats": 3,
+      "mediumNote": 6.27
+    },
+    {
+      "year": "2018",
+      "text": "264   STRĂŞENI       VORNICENI       INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION INCULEŢ\"              27    22    5   81.48   6.63",
+      "candidats": 27,
+      "rejectedCandidats": 5,
+      "mediumNote": 6.63
+    },
+    {
+      "year": "2019",
+      "text": "87   STRĂŞENI       VORNICENI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"ION INCULEŢ\"                22         22    0   100.00   6.92",
+      "candidats": 22,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.92
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

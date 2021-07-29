@@ -1,0 +1,42 @@
+{
+  "id": "glodeni-cobani-liceul",
+  "search": "cobani",
+  "address": {
+    "district": "glodeni",
+    "city": "cobani"
+  },
+  "name": {
+    "ro": "liceul teoretic cobani",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "115   GLODENI        COBANI              LICEUL TEORETIC COBANI                                                                35    28    7   80.00   6.03",
+      "candidats": 35,
+      "rejectedCandidats": 7,
+      "mediumNote": 6.03
+    },
+    {
+      "year": "2016",
+      "text": "61   GLODENI        COBANI            LICEUL TEORETIC COBANI                                        14    14   0   100,00   6,18",
+      "candidats": 14,
+      "rejectedCandidats": 0,
+      "mediumNote": 6.18
+    },
+    {
+      "year": "2016 all",
+      "text": "201   GLODENI        COBANI            LICEUL TEORETIC COBANI                                           21    15    6   71,43   6,13",
+      "candidats": 21,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.13
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}

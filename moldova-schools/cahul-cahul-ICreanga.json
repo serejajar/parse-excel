@@ -1,0 +1,63 @@
+{
+  "id": "cahul-cahul-ICreanga",
+  "search": "creanga",
+  "address": {
+    "district": "cahul",
+    "city": "cahul"
+  },
+  "name": {
+    "ro": "liceul teoretic \"i.creanga\"",
+    "ru": ""
+  },
+  "bac": [
+    {
+      "year": "2015",
+      "text": "121   CAHUL          CAHUL               Liceul Teoretic \"I.Creangă\"                                                           76    60   16   78.95   5.99",
+      "candidats": 76,
+      "rejectedCandidats": 16,
+      "mediumNote": 5.99
+    },
+    {
+      "year": "2016",
+      "text": "280   CAHUL          CAHUL            Liceul Teoretic \"I.Creangă\"                                         68   50   18   73,53   6,50",
+      "candidats": 68,
+      "rejectedCandidats": 18,
+      "mediumNote": 6.5
+    },
+    {
+      "year": "2016 all",
+      "text": "222   CAHUL          CAHUL             Liceul Teoretic \"I.Creangă\"                                         79   54   25   68,35   6,39",
+      "candidats": 79,
+      "rejectedCandidats": 25,
+      "mediumNote": 6.39
+    },
+    {
+      "year": "2017",
+      "text": "107   CAHUL          CAHUL           Liceul Teoretic \"I.Creangă\"                                   56    54   2   96,43    6,16",
+      "candidats": 56,
+      "rejectedCandidats": 2,
+      "mediumNote": 6.16
+    },
+    {
+      "year": "2018",
+      "text": "215   CAHUL          CAHUL            Instituţia Publică Liceul Teoretic \"I.Creangă\"                 64   58    6   90.63   6.38",
+      "candidats": 64,
+      "rejectedCandidats": 6,
+      "mediumNote": 6.38
+    },
+    {
+      "year": "2019",
+      "text": "143   CAHUL          CAHUL            Instituţia Publică Liceul Teoretic \"I.Creangă\"                              45         44         1          97.78   7.23",
+      "candidats": 45,
+      "rejectedCandidats": 1,
+      "mediumNote": 7.23
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "profiles": [
+    "real",
+    "umanist"
+  ]
+}
