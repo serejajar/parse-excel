@@ -10,6 +10,8 @@ const files = readFiles(dirPath);
 files.forEach((file) => {
   const filePath = path.join(dirPath, `${file.id}.json`);
   const newData = findData(file);
-  console.log(newData);
-  fs.writeFileSync(filePath, JSON.stringify(newData, null, 2));
+
+  if (newData.idnp) {
+    fs.writeFileSync(filePath, JSON.stringify(newData, null, 2));
+  }
 });
