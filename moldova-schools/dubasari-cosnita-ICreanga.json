@@ -3,7 +3,9 @@
   "search": "creanga",
   "address": {
     "district": "dubasari",
-    "city": "cosnita"
+    "city": "cosnita",
+    "street": "pacii",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"ion creanga\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "24844212"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000216"
 }

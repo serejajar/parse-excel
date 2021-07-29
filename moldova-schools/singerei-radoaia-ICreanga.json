@@ -3,7 +3,9 @@
   "search": "creanga",
   "address": {
     "district": "singerei",
-    "city": "radoaia"
+    "city": "radoaia",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"ion creanga\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026237387"
+  ],
+  "type": "Liceu",
+  "idnp": "1013630001006"
 }

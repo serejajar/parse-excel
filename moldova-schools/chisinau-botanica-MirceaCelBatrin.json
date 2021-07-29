@@ -3,7 +3,9 @@
   "search": "mircea cel batrin",
   "address": {
     "district": "chisinau",
-    "city": "botanica"
+    "city": "botanica",
+    "street": "sarmizegetusa 39",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"mircea cel batrin\"",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "55-52-12"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010448"
 }

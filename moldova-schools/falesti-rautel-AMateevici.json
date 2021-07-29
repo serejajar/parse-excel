@@ -3,7 +3,9 @@
   "search": "mateevici",
   "address": {
     "district": "falesti",
-    "city": "rautel"
+    "city": "rautel",
+    "street": "stefan cel mare 44",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"a.mateevici\"",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025954761"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011631"
 }

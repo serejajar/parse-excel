@@ -3,7 +3,9 @@
   "search": "hilendarschi",
   "address": {
     "district": "taraclia",
-    "city": "corten"
+    "city": "corten",
+    "street": "kirov",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"sfintul paisii hilendarschi\"",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029172319"
+  ],
+  "type": "Liceu",
+  "idnp": "1014620000084"
 }

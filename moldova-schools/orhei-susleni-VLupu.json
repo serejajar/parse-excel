@@ -3,7 +3,9 @@
   "search": "lupu",
   "address": {
     "district": "orhei",
-    "city": "susleni"
+    "city": "susleni",
+    "street": "satul susleni, raionul orhei",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"v. lupu\"",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023546335"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011354"
 }

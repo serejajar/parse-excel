@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "floresti",
-    "city": "ghindesti"
+    "city": "ghindesti",
+    "street": "stefan voda 8",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m. eminescu\"",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025071579"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620012409"
 }

@@ -3,7 +3,9 @@
   "search": "dimitrie cantemir|d.cantemir|d. cantemir",
   "address": {
     "district": "ungheni",
-    "city": "cornesti"
+    "city": "cornesti",
+    "street": "stefan cel mare",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"d.cantemir\"",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0236-61-273"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620001084"
 }

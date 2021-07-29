@@ -1,9 +1,11 @@
 {
   "id": "basarabeasca-basarabeasca-MBasarab",
-  "search": "matei basarab",
+  "search": "matei basarab|m. ?basarab",
   "address": {
     "district": "basarabeasca",
-    "city": "basarabeasca"
+    "city": "basarabeasca",
+    "street": "octombrie 54",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"matei basarab\"",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029722489"
+  ],
+  "type": "Liceu",
+  "idnp": "1016620000147"
 }

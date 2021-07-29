@@ -3,7 +3,9 @@
   "search": "vornicescu",
   "address": {
     "district": "straseni",
-    "city": "lozova"
+    "city": "lozova",
+    "street": "ion creanga, 80",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"mitropolit nestor vornicescu\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023747310"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010151"
 }

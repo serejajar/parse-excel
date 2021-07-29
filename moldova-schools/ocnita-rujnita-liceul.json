@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "ocnita",
-    "city": "rujnita"
+    "city": "rujnita",
+    "street": "c.ружница окницкий район",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic rujnita",
@@ -38,5 +40,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "027175353"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012155"
 }

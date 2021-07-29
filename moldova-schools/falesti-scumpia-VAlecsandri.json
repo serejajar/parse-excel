@@ -3,7 +3,9 @@
   "search": "alecsandri",
   "address": {
     "district": "falesti",
-    "city": "scumpia"
+    "city": "scumpia",
+    "street": "satul scumpia",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"v.alecsandri\"",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025963413"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011712"
 }

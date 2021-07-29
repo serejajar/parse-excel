@@ -3,7 +3,9 @@
   "search": "negruzzi",
   "address": {
     "district": "chisinau",
-    "city": "ciocana"
+    "city": "ciocana",
+    "street": "igor vieru 6/2",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"constantin negruzzi\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022483019"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620007352"
 }

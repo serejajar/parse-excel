@@ -3,7 +3,9 @@
   "search": "ioan voda",
   "address": {
     "district": "cahul",
-    "city": "cahul"
+    "city": "cahul",
+    "street": "stefan cel mare 118",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"ioan voda\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029934289"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009784"
 }

@@ -3,7 +3,9 @@
   "search": "stere",
   "address": {
     "district": "basarabeasca",
-    "city": "abaclia"
+    "city": "abaclia",
+    "street": "independentei nr. 108",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"constantin stere\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "297-5-13-88"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620011538"
 }

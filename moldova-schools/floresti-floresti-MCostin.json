@@ -3,7 +3,9 @@
   "search": "costin",
   "address": {
     "district": "floresti",
-    "city": "floresti"
+    "city": "floresti",
+    "street": "ion creanga 3",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m. costin\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025021271"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012410"
 }

@@ -3,7 +3,9 @@
   "search": "lomonosov",
   "address": {
     "district": "hincesti",
-    "city": "hincesti"
+    "city": "hincesti",
+    "street": "m. hancu  126",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m. lomonosov\"",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0269-2-39-09"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009810"
 }

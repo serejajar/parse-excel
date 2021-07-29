@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "ocnita",
-    "city": "otaci"
+    "city": "otaci",
+    "street": "libertatii, 33",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"mihai eminescu\"",
@@ -52,5 +54,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "027179438"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012100"
 }

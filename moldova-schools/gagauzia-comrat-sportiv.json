@@ -3,7 +3,9 @@
   "search": "sportiv",
   "address": {
     "district": "gagauzia",
-    "city": "comrat"
+    "city": "comrat",
+    "street": "lenin 40",
+    "building": ""
   },
   "name": {
     "ro": "liceul regional-internat sportiv",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "sport"
-  ]
+  ],
+  "phones": [
+    "0(298)2-72-54"
+  ],
+  "type": "Liceu",
+  "idnp": "99694467"
 }

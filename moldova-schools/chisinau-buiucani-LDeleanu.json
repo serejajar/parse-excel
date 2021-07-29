@@ -3,7 +3,9 @@
   "search": "deleanu",
   "address": {
     "district": "chisinau",
-    "city": "buiucani"
+    "city": "buiucani",
+    "street": "l. deleanu 5/4",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"liviu deleanu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022516373, 022516346"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620005901"
 }

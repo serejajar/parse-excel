@@ -3,7 +3,9 @@
   "search": "stefan voda",
   "address": {
     "district": "chisinau",
-    "city": "vadulluivoda"
+    "city": "vadulluivoda",
+    "street": "stefan cel mare, 11",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"stefan voda\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "(022)416-329"
+  ],
+  "type": "Liceu",
+  "idnp": "10076010600"
 }

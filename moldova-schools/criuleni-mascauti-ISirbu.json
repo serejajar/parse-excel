@@ -3,7 +3,9 @@
   "search": "sirbu",
   "address": {
     "district": "criuleni",
-    "city": "mascauti"
+    "city": "mascauti",
+    "street": "s.mascauti, raionul criuleni, republica moldova",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"ion sirbu\"",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024864249"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009418"
 }

@@ -3,7 +3,9 @@
   "search": "economov",
   "address": {
     "district": "gagauzia",
-    "city": "etulia"
+    "city": "etulia",
+    "street": "str.lenin 177",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"s.p.economov\"",
@@ -31,5 +33,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029376219"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000468"
 }

@@ -3,7 +3,9 @@
   "search": "stefan cel mare",
   "address": {
     "district": "balti",
-    "city": "balti"
+    "city": "balti",
+    "street": "ostrovschi 17",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"stefan cel mare\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023130510"
+  ],
+  "type": "Liceu",
+  "idnp": "184542"
 }

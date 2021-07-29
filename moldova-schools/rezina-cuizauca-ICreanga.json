@@ -3,7 +3,9 @@
   "search": "creanga",
   "address": {
     "district": "rezina",
-    "city": "cuizauca"
+    "city": "cuizauca",
+    "street": "s. cuizauca",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic \"ion creanga\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "254-4-62-07"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620012222"
 }

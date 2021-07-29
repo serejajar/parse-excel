@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "cahul",
-    "city": "cahul"
+    "city": "cahul",
+    "street": "c. nagruzzi 143",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m.eminescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029944820"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009740"
 }

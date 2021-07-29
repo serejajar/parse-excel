@@ -3,7 +3,9 @@
   "search": "sadoveanu",
   "address": {
     "district": "hincesti",
-    "city": "hincesti"
+    "city": "hincesti",
+    "street": "mihail sadoveanu, 26",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m. sadoveanu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026922145, 026923542"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009636"
 }

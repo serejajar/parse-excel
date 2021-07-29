@@ -3,7 +3,9 @@
   "search": "nekrasov",
   "address": {
     "district": "straseni",
-    "city": "straseni"
+    "city": "straseni",
+    "street": "m. eminescu, 22",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"nicolai nekrasov\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023722788"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010184"
 }

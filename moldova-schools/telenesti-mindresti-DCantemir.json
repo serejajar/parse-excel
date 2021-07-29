@@ -3,7 +3,9 @@
   "search": "dimitrie cantemir|d.cantemir|d. cantemir",
   "address": {
     "district": "telenesti",
-    "city": "mindresti"
+    "city": "mindresti",
+    "street": "m.eminescu 3",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic “d.cantemir”",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "25844377"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011413"
 }

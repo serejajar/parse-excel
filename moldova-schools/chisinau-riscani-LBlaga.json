@@ -3,7 +3,9 @@
   "search": "blaga",
   "address": {
     "district": "chisinau",
-    "city": "riscani"
+    "city": "riscani",
+    "street": "a. russo, 10",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"lucian blaga\"",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022-495-081"
+  ],
+  "type": "Liceu",
+  "idnp": "20022"
 }

@@ -3,7 +3,9 @@
   "search": "ciobanu",
   "address": {
     "district": "stefanvoda",
-    "city": "talmaza"
+    "city": "talmaza",
+    "street": "27 august",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"stefan ciobanu\"",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0242-40-487"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620009378"
 }

@@ -3,7 +3,9 @@
   "search": "stefan voda",
   "address": {
     "district": "stefanvoda",
-    "city": "stefanvoda"
+    "city": "stefanvoda",
+    "street": "stefan cel mare, 1",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"stefan voda\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024222650"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "101361000015"
 }

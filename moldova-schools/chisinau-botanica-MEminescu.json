@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "chisinau",
-    "city": "botanica"
+    "city": "botanica",
+    "street": "varsovia 2",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"mihai eminescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022553096"
+  ],
+  "type": "Liceu",
+  "idnp": "101262001243"
 }

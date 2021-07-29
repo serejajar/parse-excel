@@ -3,7 +3,9 @@
   "search": "traian",
   "address": {
     "district": "chisinau",
-    "city": "botanica"
+    "city": "botanica",
+    "street": "cuza voda 36",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"traian\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022-66-14-01"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620005864"
 }

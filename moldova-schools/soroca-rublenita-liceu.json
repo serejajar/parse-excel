@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "soroca",
-    "city": "rublenita"
+    "city": "rublenita",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceu teoretic rublenita",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0-230-9-36-07,0-230-5-11-40"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620000560"
 }

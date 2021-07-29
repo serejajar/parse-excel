@@ -3,7 +3,9 @@
   "search": "truseni",
   "address": {
     "district": "chisinau",
-    "city": "truseni"
+    "city": "truseni",
+    "street": "stefan cel mare, nr.1",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"truseni\"",
@@ -30,5 +32,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "022-590-332"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601010600"
 }

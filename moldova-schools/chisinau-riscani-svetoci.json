@@ -3,7 +3,9 @@
   "search": "svetoci",
   "address": {
     "district": "chisinau",
-    "city": "riscani"
+    "city": "riscani",
+    "street": "florilor 28/1",
+    "building": ""
   },
   "name": {
     "ro": "liceul \"svetoci\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022430385"
+  ],
+  "type": "Liceu",
+  "idnp": "1003600078984"
 }

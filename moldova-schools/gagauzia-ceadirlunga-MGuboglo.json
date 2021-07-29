@@ -3,7 +3,9 @@
   "search": "guboglo",
   "address": {
     "district": "gagauzia",
-    "city": "ceadirlunga"
+    "city": "ceadirlunga",
+    "street": "sirtmaci,44",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic raional \"m.guboglo\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029122178"
+  ],
+  "type": "Liceu",
+  "idnp": "1012601000236"
 }

@@ -3,7 +3,9 @@
   "search": "silvian lucaci",
   "address": {
     "district": "riscani",
-    "city": "costesti"
+    "city": "costesti",
+    "street": "prieteniei 18",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"silvian lucaci\"",
@@ -52,5 +54,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025632342"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000630"
 }

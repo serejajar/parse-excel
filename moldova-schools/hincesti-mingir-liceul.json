@@ -3,7 +3,9 @@
   "search": "mingir",
   "address": {
     "district": "hincesti",
-    "city": "mingir"
+    "city": "mingir",
+    "street": "dimitrie cantemir, 13",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic mingir",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026976283"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009946"
 }

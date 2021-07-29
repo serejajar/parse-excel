@@ -3,7 +3,9 @@
   "search": "topala",
   "address": {
     "district": "edinet",
-    "city": "zabriceni"
+    "city": "zabriceni",
+    "street": "s.zabriceni, r.edinet",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic \"v.topala\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024651346"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620011432"
 }

@@ -3,7 +3,9 @@
   "search": "universul",
   "address": {
     "district": "straseni",
-    "city": "scoreni"
+    "city": "scoreni",
+    "street": "rm, r-nul straseni,s. scoreni",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"universul\"",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023774332"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010139"
 }

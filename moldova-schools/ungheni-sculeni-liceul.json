@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "ungheni",
-    "city": "sculeni"
+    "city": "sculeni",
+    "street": "ion creanga 3",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic sculeni",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023663266"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620001187"
 }

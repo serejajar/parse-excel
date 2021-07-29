@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "floresti",
-    "city": "frumusica"
+    "city": "frumusica",
+    "street": "s. frumusica, r. floresti",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic frumusica",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025061209"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620012085"
 }

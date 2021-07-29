@@ -3,7 +3,9 @@
   "search": "stefan cel mare",
   "address": {
     "district": "dubasari",
-    "city": "molovata"
+    "city": "molovata",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"stefan cel mare\"",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "24854439"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000146"
 }

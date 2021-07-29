@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "gagauzia",
-    "city": "svetlii"
+    "city": "svetlii",
+    "street": "lenin 32",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic svetlii",
@@ -23,5 +25,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "029862534"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000398"
 }

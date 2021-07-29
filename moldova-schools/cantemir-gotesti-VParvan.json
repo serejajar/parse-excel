@@ -3,7 +3,9 @@
   "search": "parvan",
   "address": {
     "district": "cantemir",
-    "city": "gotesti"
+    "city": "gotesti",
+    "street": "stefan cel mare, nr85",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"vasile parvan\"",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "027344281"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620000364"
 }

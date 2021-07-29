@@ -3,7 +3,9 @@
   "search": "vatamanu",
   "address": {
     "district": "straseni",
-    "city": "straseni"
+    "city": "straseni",
+    "street": "st.m.eminescu, 78",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"ion vatamanu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0237-22-258"
+  ],
+  "type": "Liceu",
+  "idnp": "32926867"
 }

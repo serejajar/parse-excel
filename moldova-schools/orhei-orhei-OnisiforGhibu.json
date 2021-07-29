@@ -3,7 +3,9 @@
   "search": "ghibu",
   "address": {
     "district": "orhei",
-    "city": "orhei"
+    "city": "orhei",
+    "street": "v. lupu 149",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"onisifor ghibu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023524720"
+  ],
+  "type": "Liceu",
+  "idnp": "1015620007471"
 }

@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "gagauzia",
-    "city": "baurci"
+    "city": "baurci",
+    "street": "lenina",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic baurci",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029132168"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000619"
 }

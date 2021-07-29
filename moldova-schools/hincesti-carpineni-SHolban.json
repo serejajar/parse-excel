@@ -3,7 +3,9 @@
   "search": "holban",
   "address": {
     "district": "hincesti",
-    "city": "carpineni"
+    "city": "carpineni",
+    "street": "independentei, 28",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"stefan holban\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026928251"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009717"
 }

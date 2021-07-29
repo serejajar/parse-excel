@@ -3,7 +3,9 @@
   "search": "cotofana",
   "address": {
     "district": "drochia",
-    "city": "chetrosu"
+    "city": "chetrosu",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"victor cotofana\"",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025254288"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009728"
 }

@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "glodeni",
-    "city": "limbeniivechi"
+    "city": "limbeniivechi",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic limbenii vechi",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024975298"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620005791"
 }

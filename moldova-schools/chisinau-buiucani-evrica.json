@@ -3,7 +3,9 @@
   "search": "evrica",
   "address": {
     "district": "chisinau",
-    "city": "buiucani"
+    "city": "buiucani",
+    "street": "calea iesilor, 19/2",
+    "building": ""
   },
   "name": {
     "ro": "liceul \"evrica\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022 50 85 70"
+  ],
+  "type": "Liceu",
+  "idnp": "1002600026807"
 }

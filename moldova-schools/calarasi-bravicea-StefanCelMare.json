@@ -1,9 +1,11 @@
 {
   "id": "calarasi-bravicea-StefanCelMare",
-  "search": "stefan cel mare",
+  "search": "bravicea",
   "address": {
     "district": "calarasi",
-    "city": "bravicea"
+    "city": "bravicea",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic “stefan cel mare”",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024434254"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011918"
 }

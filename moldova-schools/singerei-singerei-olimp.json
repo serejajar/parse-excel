@@ -3,7 +3,9 @@
   "search": "olimp",
   "address": {
     "district": "singerei",
-    "city": "singerei"
+    "city": "singerei",
+    "street": "independentei 105",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"olimp\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026221039"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012487"
 }

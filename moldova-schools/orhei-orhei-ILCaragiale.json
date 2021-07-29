@@ -3,7 +3,9 @@
   "search": "caragiale",
   "address": {
     "district": "orhei",
-    "city": "orhei"
+    "city": "orhei",
+    "street": "v.lupu 60",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"i. l. caragiale\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0-235-2-49-07"
+  ],
+  "type": "Liceu",
+  "idnp": "220106033386653"
 }

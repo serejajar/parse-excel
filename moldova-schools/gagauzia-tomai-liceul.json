@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "gagauzia",
-    "city": "tomai"
+    "city": "tomai",
+    "street": "ул.школьная 103-а",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic tomai",
@@ -30,5 +32,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "029151289"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000620"
 }

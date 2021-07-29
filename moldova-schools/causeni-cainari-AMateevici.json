@@ -3,7 +3,9 @@
   "search": "mateevici",
   "address": {
     "district": "causeni",
-    "city": "cainari"
+    "city": "cainari",
+    "street": "trandafirilor,51",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"a.mateevici\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0(243)3-26-93"
+  ],
+  "type": "Liceu",
+  "idnp": "1012608001760"
 }

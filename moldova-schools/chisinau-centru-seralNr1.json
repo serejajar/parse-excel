@@ -3,7 +3,9 @@
   "search": "seral nr. ?1",
   "address": {
     "district": "chisinau",
-    "city": "centru"
+    "city": "centru",
+    "street": "korolenko, 1",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic seral nr.1",
@@ -60,5 +62,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022735200, 022735205"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601009417"
 }

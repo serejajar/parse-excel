@@ -3,7 +3,9 @@
   "search": "nr. ?2",
   "address": {
     "district": "gagauzia",
-    "city": "vulcanesti"
+    "city": "vulcanesti",
+    "street": "popov, 7",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic nr.2",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "(0293) 2-03-43"
+  ],
+  "type": "Liceu",
+  "idnp": "101160100505"
 }

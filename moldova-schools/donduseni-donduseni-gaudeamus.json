@@ -3,7 +3,9 @@
   "search": "gaudeamus",
   "address": {
     "district": "donduseni",
-    "city": "donduseni"
+    "city": "donduseni",
+    "street": "pacii 15",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"gaudeamus\"",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025121540"
+  ],
+  "type": "Liceu",
+  "idnp": "1010601000162"
 }

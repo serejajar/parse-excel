@@ -3,7 +3,9 @@
   "search": "lomonosov",
   "address": {
     "district": "balti",
-    "city": "balti"
+    "city": "balti",
+    "street": "bulevardul larisa 5",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m.lomonosov\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023149531"
+  ],
+  "type": "Liceu",
+  "idnp": "184542"
 }

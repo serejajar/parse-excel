@@ -3,7 +3,9 @@
   "search": "alexandru cel bun",
   "address": {
     "district": "rezina",
-    "city": "rezina"
+    "city": "rezina",
+    "street": "1 mai 11/1",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"alexandru cel bun\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025421780"
+  ],
+  "type": "Liceu",
+  "idnp": "1014620008323"
 }

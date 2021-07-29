@@ -3,7 +3,9 @@
   "search": "b. ?p. ?hasdeu|petriceicu hasdeu",
   "address": {
     "district": "stefanvoda",
-    "city": "olanesti"
+    "city": "olanesti",
+    "street": "alexandru cel bun",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"bogdan petriceicu hasdeu\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "024252972"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009234"
 }

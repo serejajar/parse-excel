@@ -3,7 +3,9 @@
   "search": "molesti",
   "address": {
     "district": "ialoveni",
-    "city": "molesti"
+    "city": "molesti",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic molesti",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026855322"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008798"
 }

@@ -3,7 +3,9 @@
   "search": "baranovski",
   "address": {
     "district": "gagauzia",
-    "city": "copceac"
+    "city": "copceac",
+    "street": "ceapaev",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"s.i.baranovski\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "29450503"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000664"
 }

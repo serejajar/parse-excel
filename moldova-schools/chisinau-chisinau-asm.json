@@ -3,7 +3,9 @@
   "search": "academiei",
   "address": {
     "district": "chisinau",
-    "city": "chisinau"
+    "city": "chisinau",
+    "street": "str. spincenoaia, 1",
+    "building": ""
   },
   "name": {
     "ro": "liceul academiei de stiinte a moldovei",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022 2814 64"
+  ],
+  "type": "Liceu",
+  "idnp": "1007600037637"
 }

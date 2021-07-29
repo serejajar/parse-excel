@@ -3,7 +3,9 @@
   "search": "dimitrie cantemir|d.cantemir|d. cantemir",
   "address": {
     "district": "cahul",
-    "city": "cahul"
+    "city": "cahul",
+    "street": "ion luca caragiale",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"d. cantemir\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029932283"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010069"
 }

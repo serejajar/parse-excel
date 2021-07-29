@@ -3,7 +3,9 @@
   "search": "neciui-levitchi",
   "address": {
     "district": "chisinau",
-    "city": "buiucani"
+    "city": "buiucani",
+    "street": "ion pelivan 24",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"i.s.neciui-levitchi\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "227-4-45-22"
+  ],
+  "type": "Liceu",
+  "idnp": "7024966"
 }

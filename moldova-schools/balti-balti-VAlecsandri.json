@@ -3,7 +3,9 @@
   "search": "alecsandri",
   "address": {
     "district": "balti",
-    "city": "balti"
+    "city": "balti",
+    "street": "str. konev 16 a",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"v.alecsandri\"",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023175541"
+  ],
+  "type": "Liceu",
+  "idnp": "184542"
 }

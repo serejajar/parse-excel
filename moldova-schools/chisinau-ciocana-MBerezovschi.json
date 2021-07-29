@@ -3,7 +3,9 @@
   "search": "berezovschi",
   "address": {
     "district": "chisinau",
-    "city": "ciocana"
+    "city": "ciocana",
+    "street": "i.vieru 15/2",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cu profil de arte \"mihail berezovschi\"",
@@ -60,5 +62,10 @@
     "arta",
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0-224-8-41-91"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601009565"
 }

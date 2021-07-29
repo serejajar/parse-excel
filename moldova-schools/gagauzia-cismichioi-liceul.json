@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "gagauzia",
-    "city": "cismichioi"
+    "city": "cismichioi",
+    "street": "cosmodemianskaia",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cismichioi",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "029363263"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000491"
 }

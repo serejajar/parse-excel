@@ -3,7 +3,9 @@
   "search": "creanga",
   "address": {
     "district": "cahul",
-    "city": "zirnesti"
+    "city": "zirnesti",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"ion creanga\"",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029959786"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010760"
 }

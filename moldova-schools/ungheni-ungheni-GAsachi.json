@@ -3,7 +3,9 @@
   "search": "asachi",
   "address": {
     "district": "ungheni",
-    "city": "ungheni"
+    "city": "ungheni",
+    "street": "str.crestiuc  49",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"gh. asachi\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0 236 2 08 48"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620001198"
 }

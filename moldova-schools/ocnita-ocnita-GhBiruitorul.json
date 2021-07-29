@@ -3,7 +3,9 @@
   "search": "biruitorul",
   "address": {
     "district": "ocnita",
-    "city": "ocnita"
+    "city": "ocnita",
+    "street": "50 ani ai biruintei 21",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"gheorghe biruitorul\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "027122252"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012030"
 }

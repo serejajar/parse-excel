@@ -3,7 +3,9 @@
   "search": "stefan cel mare",
   "address": {
     "district": "causeni",
-    "city": "taraclia"
+    "city": "taraclia",
+    "street": "stefan cel mare si sfint nr.4",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"stefan cel mare si sfint\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0-243-61-258"
+  ],
+  "type": "Liceu",
+  "idnp": "1012608001704"
 }

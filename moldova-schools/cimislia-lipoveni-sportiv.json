@@ -3,7 +3,9 @@
   "search": "sportiv",
   "address": {
     "district": "cimislia",
-    "city": "lipoveni"
+    "city": "lipoveni",
+    "street": "satul lipoveni, raionul cimislia",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceu internat cu profil sportiv",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "sport"
-  ]
+  ],
+  "phones": [
+    "024171234"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620011066"
 }

@@ -3,7 +3,9 @@
   "search": "gloria",
   "address": {
     "district": "chisinau",
-    "city": "botanica"
+    "city": "botanica",
+    "street": "teilor, 7",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cu profil sportiv \"gloria\"",
@@ -52,5 +54,10 @@
   "profiles": [
     "sport",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022-77-78-30"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601101448"
 }

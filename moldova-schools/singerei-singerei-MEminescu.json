@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "singerei",
-    "city": "singerei"
+    "city": "singerei",
+    "street": "independentei 109",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m. eminescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026223257"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000102"
 }

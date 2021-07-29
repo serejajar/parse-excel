@@ -3,7 +3,9 @@
   "search": "donici",
   "address": {
     "district": "hincesti",
-    "city": "ciuciuleni"
+    "city": "ciuciuleni",
+    "street": "alexandru donici",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"a. donici\"",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026933242"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009898"
 }

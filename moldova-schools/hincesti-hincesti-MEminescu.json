@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "hincesti",
-    "city": "hincesti"
+    "city": "hincesti",
+    "street": "mihai eminescu 43",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m. eminescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026922285 /FAX: 026925286"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009876"
 }

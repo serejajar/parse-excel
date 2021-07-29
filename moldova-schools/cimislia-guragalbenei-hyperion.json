@@ -3,7 +3,9 @@
   "search": "hyperion",
   "address": {
     "district": "cimislia",
-    "city": "guragalbenei"
+    "city": "guragalbenei",
+    "street": "mihai  eminescu , nr. 121",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"hyperion\"",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024146407"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010335"
 }

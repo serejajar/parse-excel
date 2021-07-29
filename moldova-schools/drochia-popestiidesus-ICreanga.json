@@ -3,7 +3,9 @@
   "search": "creanga",
   "address": {
     "district": "drochia",
-    "city": "popestiidesus"
+    "city": "popestiidesus",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"ion creanga\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025279214"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009821"
 }

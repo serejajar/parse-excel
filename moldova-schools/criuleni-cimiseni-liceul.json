@@ -3,7 +3,9 @@
   "search": "cimiseni",
   "address": {
     "district": "criuleni",
-    "city": "cimiseni"
+    "city": "cimiseni",
+    "street": "satul cimiseni",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cimiseni",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024831415"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009371"
 }

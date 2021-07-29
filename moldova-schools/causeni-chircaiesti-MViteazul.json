@@ -3,7 +3,9 @@
   "search": "viteazul",
   "address": {
     "district": "causeni",
-    "city": "chircaiesti"
+    "city": "chircaiesti",
+    "street": "pacii 16",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m.viteazul\"",
@@ -23,5 +25,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "024354219"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012608001885"
 }

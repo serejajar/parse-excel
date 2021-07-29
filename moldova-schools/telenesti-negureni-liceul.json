@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "telenesti",
-    "city": "negureni"
+    "city": "negureni",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic negureni",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "258-6-02-95"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011402"
 }

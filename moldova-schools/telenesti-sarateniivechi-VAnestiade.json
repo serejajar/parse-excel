@@ -3,7 +3,9 @@
   "search": "anestiade",
   "address": {
     "district": "telenesti",
-    "city": "sarateniivechi"
+    "city": "sarateniivechi",
+    "street": "s.saratenii vechi, rnul telenesti",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic “v.anestiade”",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025873275"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011387"
 }

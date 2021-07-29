@@ -3,7 +3,9 @@
   "search": "tvardita",
   "address": {
     "district": "taraclia",
-    "city": "tvardita"
+    "city": "tvardita",
+    "street": "frunze,6",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic tvardita",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029162244"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620012598"
 }

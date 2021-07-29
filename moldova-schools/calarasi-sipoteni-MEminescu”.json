@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "calarasi",
-    "city": "sipoteni"
+    "city": "sipoteni",
+    "street": "latiniei",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic “mihai eminescu”",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024476259"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012317"
 }

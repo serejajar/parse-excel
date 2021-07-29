@@ -3,7 +3,9 @@
   "search": "lomonosov",
   "address": {
     "district": "chisinau",
-    "city": "riscani"
+    "city": "riscani",
+    "street": "gheorghe madan, 83",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"mihail lomonosov\"",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022466931"
+  ],
+  "type": "Liceu",
+  "idnp": "7025530"
 }

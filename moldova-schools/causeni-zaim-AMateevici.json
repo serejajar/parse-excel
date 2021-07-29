@@ -3,7 +3,9 @@
   "search": "mateevici",
   "address": {
     "district": "causeni",
-    "city": "zaim"
+    "city": "zaim",
+    "street": "str. a. mateevici 35",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"a.mateevici\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024372292"
+  ],
+  "type": "Liceu",
+  "idnp": "1012608001944"
 }

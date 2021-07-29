@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "edinet",
-    "city": "fetesti"
+    "city": "fetesti",
+    "street": "s.fetesti, r. edinet",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic fetesti",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0 246 62 3 16"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620011410"
 }

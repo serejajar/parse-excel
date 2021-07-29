@@ -3,7 +3,9 @@
   "search": "elada",
   "address": {
     "district": "ungheni",
-    "city": "macaresti"
+    "city": "macaresti",
+    "street": "s. macaresti, r-nul ungheni",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"elada\"",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0236-45-095"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620001110"
 }

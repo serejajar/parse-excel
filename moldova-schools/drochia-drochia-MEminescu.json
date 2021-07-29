@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "drochia",
-    "city": "drochia"
+    "city": "drochia",
+    "street": "independentei 36 a",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"mihai eminescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025222957"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009809"
 }

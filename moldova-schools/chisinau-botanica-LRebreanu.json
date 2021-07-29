@@ -3,7 +3,9 @@
   "search": "rebreanu",
   "address": {
     "district": "chisinau",
-    "city": "botanica"
+    "city": "botanica",
+    "street": "hristo borev 9/2",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"liviu rebreanu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "227-7-89-18; 227-6-17-77"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620005820"
 }

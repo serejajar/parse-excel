@@ -3,7 +3,9 @@
   "search": "zimbreni",
   "address": {
     "district": "ialoveni",
-    "city": "zimbreni"
+    "city": "zimbreni",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic zimbreni",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026857255"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008662"
 }

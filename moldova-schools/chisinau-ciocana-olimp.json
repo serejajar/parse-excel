@@ -3,7 +3,9 @@
   "search": "olimp",
   "address": {
     "district": "chisinau",
-    "city": "ciocana"
+    "city": "ciocana",
+    "street": "petru zadnipru 7/1",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"olimp\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "223-3-83-34"
+  ],
+  "type": "Liceu",
+  "idnp": "1014620005137"
 }

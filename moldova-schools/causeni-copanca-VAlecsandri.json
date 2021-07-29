@@ -3,7 +3,9 @@
   "search": "alecsandri",
   "address": {
     "district": "causeni",
-    "city": "copanca"
+    "city": "copanca",
+    "street": "alexandru cel bun",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"v.alecsandri\"",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "243 50 428"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012608001988"
 }

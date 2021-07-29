@@ -3,7 +3,9 @@
   "search": "stefan cel mare",
   "address": {
     "district": "basarabeasca",
-    "city": "carabetovca"
+    "city": "carabetovca",
+    "street": "stefan cel mare",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"stefan cel mare\"",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029756280"
+  ],
+  "type": "Liceu",
+  "idnp": "1016620000114"
 }

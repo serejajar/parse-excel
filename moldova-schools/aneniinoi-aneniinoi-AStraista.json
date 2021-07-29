@@ -3,7 +3,9 @@
   "search": "straista",
   "address": {
     "district": "aneniinoi",
-    "city": "aneniinoi"
+    "city": "aneniinoi",
+    "street": "32 august nr. 5",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic \"andrei straista\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026522395"
+  ],
+  "type": "Liceu",
+  "idnp": "1008600010242"
 }

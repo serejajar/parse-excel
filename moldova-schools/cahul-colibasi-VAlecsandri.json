@@ -3,7 +3,9 @@
   "search": "alecsandri",
   "address": {
     "district": "cahul",
-    "city": "colibasi"
+    "city": "colibasi",
+    "street": "libertatii",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"v. alecsandri\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029962-2-98"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010265"
 }

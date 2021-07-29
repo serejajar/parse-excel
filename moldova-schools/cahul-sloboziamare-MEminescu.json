@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "cahul",
-    "city": "sloboziamare"
+    "city": "sloboziamare",
+    "street": "ulita mare, nr.196",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"mihai eminescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029961343"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010287"
 }

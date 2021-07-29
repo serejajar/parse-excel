@@ -3,7 +3,9 @@
   "search": "chiosea",
   "address": {
     "district": "gagauzia",
-    "city": "besalma"
+    "city": "besalma",
+    "street": "lenin, 89",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic m. chiosea",
@@ -30,5 +32,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "0(298)53-1-40"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000365"
 }

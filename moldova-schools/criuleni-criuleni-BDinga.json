@@ -3,7 +3,9 @@
   "search": "dinga",
   "address": {
     "district": "criuleni",
-    "city": "criuleni"
+    "city": "criuleni",
+    "street": "bulevardul biruinta, 2a",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"boris dinga\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0-248-2-21-97"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009577"
 }

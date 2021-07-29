@@ -3,7 +3,9 @@
   "search": "gherman",
   "address": {
     "district": "riscani",
-    "city": "zaicani"
+    "city": "zaicani",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"leonid gherman\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025672339"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000250"
 }

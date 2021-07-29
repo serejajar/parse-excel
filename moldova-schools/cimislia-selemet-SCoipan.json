@@ -3,7 +3,9 @@
   "search": "coipan",
   "address": {
     "district": "cimislia",
-    "city": "selemet"
+    "city": "selemet",
+    "street": "ion creanga 42",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"sergiu coipan\"",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024139392"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010243"
 }

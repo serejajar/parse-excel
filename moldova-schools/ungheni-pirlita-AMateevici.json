@@ -3,7 +3,9 @@
   "search": "mateevici",
   "address": {
     "district": "ungheni",
-    "city": "pirlita"
+    "city": "pirlita",
+    "street": "s.pirlita",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"a. mateevici\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023664394"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620001154"
 }

@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "gagauzia",
-    "city": "cazaclia"
+    "city": "cazaclia",
+    "street": "puschin",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cazaclia",
@@ -30,5 +32,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029167240"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1011601000653"
 }

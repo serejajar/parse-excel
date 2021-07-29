@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "edinet",
-    "city": "bratuseni"
+    "city": "bratuseni",
+    "street": "lenina, 79",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic bratuseni",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024675456"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000142"
 }

@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "ungheni",
-    "city": "ungheni"
+    "city": "ungheni",
+    "street": "nationala 3",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m. eminescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "23622486"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620001132"
 }

@@ -3,7 +3,9 @@
   "search": "sulac",
   "address": {
     "district": "chisinau",
-    "city": "centru"
+    "city": "centru",
+    "street": "grenoble 108",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cu profil de arte \"nicolae sulac\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "arta",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022729325"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601009417"
 }

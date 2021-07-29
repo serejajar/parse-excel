@@ -3,7 +3,9 @@
   "search": "gheorghiu",
   "address": {
     "district": "chisinau",
-    "city": "riscani"
+    "city": "riscani",
+    "street": "florilor 6",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"natalia gheorghiu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022446123, 022446238"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601009716"
 }

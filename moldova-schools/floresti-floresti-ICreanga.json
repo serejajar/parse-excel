@@ -3,7 +3,9 @@
   "search": "creanga",
   "address": {
     "district": "floresti",
-    "city": "floresti"
+    "city": "floresti",
+    "street": "starda dacia 4",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"ion creanga\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025021569"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012236"
 }

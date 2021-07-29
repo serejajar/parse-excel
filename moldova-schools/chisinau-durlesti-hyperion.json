@@ -3,7 +3,9 @@
   "search": "hyperion",
   "address": {
     "district": "chisinau",
-    "city": "durlesti"
+    "city": "durlesti",
+    "street": "cartusa",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"hyperion\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022584476"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620006230"
 }

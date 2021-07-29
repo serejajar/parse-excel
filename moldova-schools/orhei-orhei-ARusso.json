@@ -3,7 +3,9 @@
   "search": "russo",
   "address": {
     "district": "orhei",
-    "city": "orhei"
+    "city": "orhei",
+    "street": "v. lupu 13",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"a. russo\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023523473"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010900"
 }

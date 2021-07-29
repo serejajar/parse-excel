@@ -3,7 +3,9 @@
   "search": "rahmaninov",
   "address": {
     "district": "chisinau",
-    "city": "chisinau"
+    "city": "chisinau",
+    "street": "m. kogalniceanu 39",
+    "building": ""
   },
   "name": {
     "ro": "liceul-internat republican de muzica \"serghei rahmaninov\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "arta"
-  ]
+  ],
+  "phones": [
+    "373 22 274118"
+  ],
+  "type": "Liceu",
+  "idnp": "1014620008057"
 }

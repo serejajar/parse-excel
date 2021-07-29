@@ -3,7 +3,9 @@
   "search": "creanga",
   "address": {
     "district": "cahul",
-    "city": "cahul"
+    "city": "cahul",
+    "street": "bulevardul victoriei 4",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"i.creanga\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029925875"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010081"
 }

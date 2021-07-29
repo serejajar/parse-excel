@@ -3,7 +3,9 @@
   "search": "oliscani",
   "address": {
     "district": "soldanesti",
-    "city": "oliscani"
+    "city": "oliscani",
+    "street": "s. oliscani r. soldanesti",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic oliscani",
@@ -30,5 +32,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "027244222, 027244235"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011561"
 }

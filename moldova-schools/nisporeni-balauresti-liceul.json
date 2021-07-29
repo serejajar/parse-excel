@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "nisporeni",
-    "city": "balauresti"
+    "city": "balauresti",
+    "street": "md-6413,s. balauresti, r. nisporeni",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic balauresti",
@@ -30,5 +32,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0264-48-363"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010966"
 }

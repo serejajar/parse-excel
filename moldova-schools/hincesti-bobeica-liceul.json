@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "hincesti",
-    "city": "bobeica"
+    "city": "bobeica",
+    "street": "satul bobeica, raionul hancesti",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic bobeica",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026956285"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010036"
 }

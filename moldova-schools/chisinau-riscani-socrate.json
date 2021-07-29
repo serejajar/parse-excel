@@ -3,7 +3,9 @@
   "search": "socrate",
   "address": {
     "district": "chisinau",
-    "city": "riscani"
+    "city": "riscani",
+    "street": "matei basarab, 5/2",
+    "building": ""
   },
   "name": {
     "ro": "liceul de limbi moderne si tehnologii informationale \"socrate\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0223-1-05-68"
+  ],
+  "type": "Liceu",
+  "idnp": "1002600054105"
 }

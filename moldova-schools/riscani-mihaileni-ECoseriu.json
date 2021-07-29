@@ -3,7 +3,9 @@
   "search": "coseriu",
   "address": {
     "district": "riscani",
-    "city": "mihaileni"
+    "city": "mihaileni",
+    "street": "s.mihaileni, r. riscani",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"eugen coseriu\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025676219"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000571"
 }

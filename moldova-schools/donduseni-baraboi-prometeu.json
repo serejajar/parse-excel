@@ -3,7 +3,9 @@
   "search": "prometeu",
   "address": {
     "district": "donduseni",
-    "city": "baraboi"
+    "city": "baraboi",
+    "street": "satul baraboi",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"prometeu\"",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025170234"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620011321"
 }

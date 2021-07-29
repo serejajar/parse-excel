@@ -3,7 +3,9 @@
   "search": "elitex",
   "address": {
     "district": "balti",
-    "city": "balti"
+    "city": "balti",
+    "street": "aerodromului 14",
+    "building": ""
   },
   "name": {
     "ro": "institutia de invatamint privat liceul\"elitex\"",
@@ -31,5 +33,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023143803"
+  ],
+  "type": "Liceu",
+  "idnp": "1005602004895"
 }

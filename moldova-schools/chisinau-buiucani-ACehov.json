@@ -3,7 +3,9 @@
   "search": "cehov",
   "address": {
     "district": "chisinau",
-    "city": "buiucani"
+    "city": "buiucani",
+    "street": "alba iulia 200/2",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"anton cehov\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022 517136  022 516809"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010600"
 }

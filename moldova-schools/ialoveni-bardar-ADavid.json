@@ -3,7 +3,9 @@
   "search": "aurel david",
   "address": {
     "district": "ialoveni",
-    "city": "bardar"
+    "city": "bardar",
+    "street": "str. guguta, 2",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"aurel david\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026837351"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008721"
 }

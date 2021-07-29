@@ -3,7 +3,9 @@
   "search": "bubuiog",
   "address": {
     "district": "chisinau",
-    "city": "bubuieci"
+    "city": "bubuieci",
+    "street": "stefan cel  mare, 21",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"toader bubuiog\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022-414-941"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620006366"
 }

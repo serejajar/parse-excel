@@ -3,7 +3,9 @@
   "search": "seral nr. ?2",
   "address": {
     "district": "chisinau",
-    "city": "botanica"
+    "city": "botanica",
+    "street": "bd. traian 11/2",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic seral nr.2",
@@ -60,5 +62,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022-76-36-34"
+  ],
+  "type": "Liceu",
+  "idnp": "17993"
 }

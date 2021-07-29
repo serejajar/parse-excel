@@ -3,7 +3,9 @@
   "search": "stamati",
   "address": {
     "district": "ocnita",
-    "city": "ocnita"
+    "city": "ocnita",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"constantin stamati\"",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "27151477"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012133"
 }

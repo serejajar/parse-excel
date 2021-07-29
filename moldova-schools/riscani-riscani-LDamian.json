@@ -3,7 +3,9 @@
   "search": "damian",
   "address": {
     "district": "riscani",
-    "city": "riscani"
+    "city": "riscani",
+    "street": "g.muzicescu 2",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"liviu damian\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025622963"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000559"
 }

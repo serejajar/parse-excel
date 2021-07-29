@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "falesti",
-    "city": "falesti"
+    "city": "falesti",
+    "street": "a.lapusneanu 1",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"m.eminescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025922183"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620011594"
 }

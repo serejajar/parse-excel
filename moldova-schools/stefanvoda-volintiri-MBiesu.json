@@ -3,7 +3,9 @@
   "search": "biesu",
   "address": {
     "district": "stefanvoda",
-    "city": "volintiri"
+    "city": "volintiri",
+    "street": "mihai eminescu",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"maria biesu\"",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024255826"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009256"
 }

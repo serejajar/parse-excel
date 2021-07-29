@@ -3,7 +3,9 @@
   "search": "hirtopul mic",
   "address": {
     "district": "criuleni",
-    "city": "hirtopulmic"
+    "city": "hirtopulmic",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic hirtopul mic",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "24872529"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009496"
 }

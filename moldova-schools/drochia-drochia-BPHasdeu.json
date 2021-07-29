@@ -3,7 +3,9 @@
   "search": "b. ?p. ?hasdeu|petriceicu hasdeu",
   "address": {
     "district": "drochia",
-    "city": "drochia"
+    "city": "drochia",
+    "street": "independentei 18",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"bogdan petriceicu hasdeu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025222203"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009795"
 }

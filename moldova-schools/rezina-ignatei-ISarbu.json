@@ -3,7 +3,9 @@
   "search": "sarbu",
   "address": {
     "district": "rezina",
-    "city": "ignatei"
+    "city": "ignatei",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic \"ioan sarbu\" ignatei",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0254-48-275"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620012406"
 }

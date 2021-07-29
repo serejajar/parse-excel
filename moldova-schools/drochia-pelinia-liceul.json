@@ -3,7 +3,9 @@
   "search": "pelinia",
   "address": {
     "district": "drochia",
-    "city": "pelinia"
+    "city": "pelinia",
+    "street": "31 august 4",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic pelinia",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025258349"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009670"
 }

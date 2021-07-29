@@ -3,7 +3,9 @@
   "search": "ianacoglo",
   "address": {
     "district": "gagauzia",
-    "city": "copceac"
+    "city": "copceac",
+    "street": "rodac",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"boris ianacoglo\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "0294-5-05-43"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000642"
 }

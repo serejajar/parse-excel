@@ -3,7 +3,9 @@
   "search": "nicula",
   "address": {
     "district": "aneniinoi",
-    "city": "mereni"
+    "city": "mereni",
+    "street": "stefan cel mare 104",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic \"emil nicula\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026554304"
+  ],
+  "type": "Liceu",
+  "idnp": "1008600010792"
 }

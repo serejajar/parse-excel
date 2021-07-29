@@ -3,7 +3,9 @@
   "search": "puhoi",
   "address": {
     "district": "ialoveni",
-    "city": "puhoi"
+    "city": "puhoi",
+    "street": "stefan cel mare,79",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic puhoi",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026863281"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008802"
 }

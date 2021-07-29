@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "ialoveni",
-    "city": "tipala"
+    "city": "tipala",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic tipala",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0268-61-065"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008846"
 }

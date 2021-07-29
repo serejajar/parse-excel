@@ -3,7 +3,9 @@
   "search": "russo",
   "address": {
     "district": "chisinau",
-    "city": "riscani"
+    "city": "riscani",
+    "street": "alecu russo 10",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"alecu russo\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022-44-10-01"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601009716"
 }

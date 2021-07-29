@@ -3,7 +3,9 @@
   "search": "alighieri",
   "address": {
     "district": "chisinau",
-    "city": "buiucani"
+    "city": "buiucani",
+    "street": "ion creanga, 80",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"dante alighieri\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "227-4-25-88"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010600"
 }

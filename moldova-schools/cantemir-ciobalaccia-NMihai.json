@@ -3,7 +3,9 @@
   "search": "nicolae mihai",
   "address": {
     "district": "cantemir",
-    "city": "ciobalaccia"
+    "city": "ciobalaccia",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"nicolae mihai\"",
@@ -60,5 +62,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0273-70263"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620008153"
 }

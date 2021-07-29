@@ -3,7 +3,9 @@
   "search": "rumeantev",
   "address": {
     "district": "cahul",
-    "city": "cahul"
+    "city": "cahul",
+    "street": "31 august, 7",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"p.rumeantev\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029920739"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009924"
 }

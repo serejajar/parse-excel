@@ -3,7 +3,9 @@
   "search": "coroban",
   "address": {
     "district": "glodeni",
-    "city": "glodeni"
+    "city": "glodeni",
+    "street": "eminescu 9",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic ”vasile coroban”",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024922269"
+  ],
+  "type": "Liceu",
+  "idnp": "1009601000212"
 }

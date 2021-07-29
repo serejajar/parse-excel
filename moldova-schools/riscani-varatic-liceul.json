@@ -3,7 +3,9 @@
   "search": "varatic",
   "address": {
     "district": "riscani",
-    "city": "varatic"
+    "city": "varatic",
+    "street": "s. varatic, r. rascani",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic varatic",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0-256-79-4-22"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000238"
 }

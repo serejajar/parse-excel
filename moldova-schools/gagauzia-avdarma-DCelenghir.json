@@ -3,7 +3,9 @@
   "search": "celenghir",
   "address": {
     "district": "gagauzia",
-    "city": "avdarma"
+    "city": "avdarma",
+    "street": "sovetscaia, 33a",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"d.celenghir\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029858272"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000295"
 }

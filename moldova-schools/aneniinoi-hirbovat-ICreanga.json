@@ -3,7 +3,9 @@
   "search": "creanga",
   "address": {
     "district": "aneniinoi",
-    "city": "hirbovat"
+    "city": "hirbovat",
+    "street": "pacii 4",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic \"ion creanga\"",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026572601"
+  ],
+  "type": "Liceu",
+  "idnp": "1008600010688"
 }

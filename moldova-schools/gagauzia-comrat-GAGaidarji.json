@@ -3,7 +3,9 @@
   "search": "gaidarji",
   "address": {
     "district": "gagauzia",
-    "city": "comrat"
+    "city": "comrat",
+    "street": "lenin 198",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic raional \"g.a.gaidarji\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "298-2-41-44"
+  ],
+  "type": "Liceu",
+  "idnp": "1012601000214"
 }

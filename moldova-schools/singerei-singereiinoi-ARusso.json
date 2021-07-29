@@ -3,7 +3,9 @@
   "search": "russo",
   "address": {
     "district": "singerei",
-    "city": "singereiinoi"
+    "city": "singereiinoi",
+    "street": "str. alecu russo",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"a.russo\"",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026273587"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000076"
 }

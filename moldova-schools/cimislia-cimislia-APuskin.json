@@ -3,7 +3,9 @@
   "search": "puskin",
   "address": {
     "district": "cimislia",
-    "city": "cimislia"
+    "city": "cimislia",
+    "street": "decebal 1",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"alexandr puskin\"",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "021422146"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010324"
 }

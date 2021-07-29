@@ -3,7 +3,9 @@
   "search": "sibirschi",
   "address": {
     "district": "chisinau",
-    "city": "centru"
+    "city": "centru",
+    "street": "lech kaczynski, 4",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic academician \"c.sibirschi\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022729038"
+  ],
+  "type": "Liceu",
+  "idnp": "02168123"
 }

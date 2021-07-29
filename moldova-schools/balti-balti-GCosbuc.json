@@ -3,7 +3,9 @@
   "search": "cosbuc",
   "address": {
     "district": "balti",
-    "city": "balti"
+    "city": "balti",
+    "street": "bul.larisa 3",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"g.cosbuc\"",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023166016"
+  ],
+  "type": "Liceu",
+  "idnp": "184542"
 }

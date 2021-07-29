@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "briceni",
-    "city": "trebisauti"
+    "city": "trebisauti",
+    "street": "satul trebisauti, raionul briceni",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic trebisauti",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024741318"
+  ],
+  "type": "Liceu",
+  "idnp": "1009601000131"
 }

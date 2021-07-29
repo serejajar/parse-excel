@@ -3,7 +3,9 @@
   "search": "ianioglo",
   "address": {
     "district": "gagauzia",
-    "city": "ciocmaidan"
+    "city": "ciocmaidan",
+    "street": "cotovschi 72",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic fiodor ianioglo",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "373-298-55-3-31"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000387"
 }

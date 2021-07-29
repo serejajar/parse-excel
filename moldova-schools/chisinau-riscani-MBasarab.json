@@ -3,7 +3,9 @@
   "search": "basarab",
   "address": {
     "district": "chisinau",
-    "city": "riscani"
+    "city": "riscani",
+    "street": "m.basarab, 14",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"matei basarab\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "223-2-34-33"
+  ],
+  "type": "Liceu",
+  "idnp": "7025546"
 }

@@ -3,7 +3,9 @@
   "search": "dadiani",
   "address": {
     "district": "chisinau",
-    "city": "buiucani"
+    "city": "buiucani",
+    "street": "calea iesilor 21",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"principesa natalia dadiani\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022742918"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601009967"
 }

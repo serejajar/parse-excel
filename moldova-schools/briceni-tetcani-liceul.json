@@ -3,7 +3,9 @@
   "search": "tetcani",
   "address": {
     "district": "briceni",
-    "city": "tetcani"
+    "city": "tetcani",
+    "street": "scolinaia",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic tetcani",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024739323"
+  ],
+  "type": "Liceu",
+  "idnp": "1009601000131"
 }

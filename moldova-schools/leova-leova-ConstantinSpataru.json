@@ -3,7 +3,9 @@
   "search": "spataru",
   "address": {
     "district": "leova",
-    "city": "leova"
+    "city": "leova",
+    "street": "stefan cel mare 56",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"constantin spataru\"",
@@ -60,5 +62,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "+37326323455"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010575"
 }

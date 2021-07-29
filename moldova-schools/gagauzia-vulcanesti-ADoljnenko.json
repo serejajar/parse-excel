@@ -3,7 +3,9 @@
   "search": "doljnenko",
   "address": {
     "district": "gagauzia",
-    "city": "vulcanesti"
+    "city": "vulcanesti",
+    "street": "lenin,77",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"a. doljnenko\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029320284"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000480"
 }

@@ -3,7 +3,9 @@
   "search": "bostan",
   "address": {
     "district": "cahul",
-    "city": "brinza"
+    "city": "brinza",
+    "street": "sfintii arhangheli gavriil si mihail",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"academicianul ion bostan\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029936347"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009980"
 }

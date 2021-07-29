@@ -3,7 +3,9 @@
   "search": "cervantes",
   "address": {
     "district": "chisinau",
-    "city": "riscani"
+    "city": "riscani",
+    "street": "avram iancu 36",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"miguel de cervantes saavedra\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "+37322543596"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010600"
 }

@@ -3,7 +3,9 @@
   "search": "popovici",
   "address": {
     "district": "riscani",
-    "city": "nihoreni"
+    "city": "nihoreni",
+    "street": "lermontov 123",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"constantin popovici\"",
@@ -60,5 +62,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0256-2-62-40"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000618"
 }

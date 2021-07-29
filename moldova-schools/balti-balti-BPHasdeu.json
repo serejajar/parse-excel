@@ -3,7 +3,9 @@
   "search": "b. ?p. ?hasdeu|petriceicu hasdeu",
   "address": {
     "district": "balti",
-    "city": "balti"
+    "city": "balti",
+    "street": "cehov 19",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"b.p.hasdeu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023133324"
+  ],
+  "type": "Liceu",
+  "idnp": "184542"
 }

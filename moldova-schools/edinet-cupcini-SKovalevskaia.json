@@ -3,7 +3,9 @@
   "search": "kovalevskaia",
   "address": {
     "district": "edinet",
-    "city": "cupcini"
+    "city": "cupcini",
+    "street": "eminescu,2",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic \"s.kovalevskaia\"",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024671190"
+  ],
+  "type": "Liceu",
+  "idnp": "1009601000142"
 }

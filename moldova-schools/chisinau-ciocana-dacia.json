@@ -3,7 +3,9 @@
   "search": "dacia",
   "address": {
     "district": "chisinau",
-    "city": "ciocana"
+    "city": "ciocana",
+    "street": "petru zadnipru 16/4",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"dacia\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "223-3-10-98"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601009565"
 }

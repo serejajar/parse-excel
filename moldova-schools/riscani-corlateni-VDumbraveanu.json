@@ -3,7 +3,9 @@
   "search": "dumbraveanu",
   "address": {
     "district": "riscani",
-    "city": "corlateni"
+    "city": "corlateni",
+    "street": "victor dumbraveanu 26",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"victor dumbraveanu\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025656309"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000652"
 }

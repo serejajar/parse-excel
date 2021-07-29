@@ -3,7 +3,9 @@
   "search": "erhan",
   "address": {
     "district": "causeni",
-    "city": "tanatari"
+    "city": "tanatari",
+    "street": "v. alecsandri 8",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"p.erhan\"",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0243-77-280"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012608001645"
 }

@@ -3,7 +3,9 @@
   "search": "cuhnesti",
   "address": {
     "district": "glodeni",
-    "city": "cuhnesti"
+    "city": "cuhnesti",
+    "street": "4919 r-nul glodeni, s. cuhnesti",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cuhnesti",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "(249) 58 246"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620006950"
 }

@@ -3,7 +3,9 @@
   "search": "suhomlinski",
   "address": {
     "district": "edinet",
-    "city": "edinet"
+    "city": "edinet",
+    "street": "visinarilor 11",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic \"v.suhomlinski\"",
@@ -60,5 +62,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0(246) 2-36-30"
+  ],
+  "type": "Liceu",
+  "idnp": "1009601000142"
 }

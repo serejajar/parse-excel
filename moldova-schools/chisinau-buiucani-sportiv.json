@@ -3,7 +3,9 @@
   "search": "sportiv",
   "address": {
     "district": "chisinau",
-    "city": "buiucani"
+    "city": "buiucani",
+    "street": "teilor, 7",
+    "building": ""
   },
   "name": {
     "ro": "liceul - internat municipal cu profil sportiv",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "sport"
-  ]
+  ],
+  "phones": [
+    "022-77-78-30"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601101448"
 }

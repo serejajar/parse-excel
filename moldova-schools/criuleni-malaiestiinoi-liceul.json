@@ -3,7 +3,9 @@
   "search": "malaiesti",
   "address": {
     "district": "criuleni",
-    "city": "malaiestiinoi"
+    "city": "malaiestiinoi",
+    "street": "s.malaiestii noi, strada ion pruteanu",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic malaiesti",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024865241"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009544"
 }

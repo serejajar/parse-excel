@@ -3,7 +3,9 @@
   "search": "tarlev",
   "address": {
     "district": "basarabeasca",
-    "city": "bascalia"
+    "city": "bascalia",
+    "street": "stefan cel mare 93",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"marcu tarlev\"",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029754244"
+  ],
+  "type": "Liceu",
+  "idnp": "1016620000103"
 }

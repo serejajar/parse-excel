@@ -3,7 +3,9 @@
   "search": "biesti",
   "address": {
     "district": "orhei",
-    "city": "biesti"
+    "city": "biesti",
+    "street": "md 3512, s. biesti, raionul orhei",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic biesti",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023545577"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011022"
 }

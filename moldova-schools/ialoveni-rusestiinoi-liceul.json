@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "ialoveni",
-    "city": "rusestiinoi"
+    "city": "rusestiinoi",
+    "street": "comuna rusestii noi raionul ialoveni",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic rusestii noi",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "268-41-2-17"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008824"
 }

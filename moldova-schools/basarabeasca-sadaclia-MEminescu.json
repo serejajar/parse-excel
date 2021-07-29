@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "basarabeasca",
-    "city": "sadaclia"
+    "city": "sadaclia",
+    "street": "31 august 1989",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \" mihai eminescu\"",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "029757444"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620011549"
 }

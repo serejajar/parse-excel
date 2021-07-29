@@ -3,7 +3,9 @@
   "search": "ciumai",
   "address": {
     "district": "taraclia",
-    "city": "ciumai"
+    "city": "ciumai",
+    "street": "lomonosov 12",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic ciumai",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029433923"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010391"
 }

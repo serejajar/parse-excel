@@ -3,7 +3,9 @@
   "search": "liceul teoretic costesti",
   "address": {
     "district": "ialoveni",
-    "city": "costesti"
+    "city": "costesti",
+    "street": "petru movila 2/2",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic costesti",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026851481"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008743"
 }

@@ -3,7 +3,9 @@
   "search": "paunescu",
   "address": {
     "district": "telenesti",
-    "city": "cazanesti"
+    "city": "cazanesti",
+    "street": "s. cazanesti, r. telenesti",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"a. paunescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "2-58-72-4-10"
+  ],
+  "type": "Liceu",
+  "idnp": "1014620010096"
 }

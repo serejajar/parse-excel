@@ -3,7 +3,9 @@
   "search": "dimitrie cantemir|d.cantemir|d. cantemir",
   "address": {
     "district": "hincesti",
-    "city": "crasnoarmeiscoe"
+    "city": "crasnoarmeiscoe",
+    "street": "tentralinaia",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"dimitrie cantemir\"",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0269-71-2-20"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009843"
 }

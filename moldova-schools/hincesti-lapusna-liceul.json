@@ -3,7 +3,9 @@
   "search": "lapusna",
   "address": {
     "district": "hincesti",
-    "city": "lapusna"
+    "city": "lapusna",
+    "street": "s. lapusna str. m. eminescu nr. 10",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic lapusna",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "(0269)51280"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009935"
 }

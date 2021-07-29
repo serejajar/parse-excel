@@ -3,7 +3,9 @@
   "search": "ginta latina",
   "address": {
     "district": "chisinau",
-    "city": "ciocana"
+    "city": "ciocana",
+    "street": "gintalatina 9",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"ginta latina\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022340100"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620006355"
 }

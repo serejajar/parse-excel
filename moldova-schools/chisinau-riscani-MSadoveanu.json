@@ -3,7 +3,9 @@
   "search": "sadoveanu",
   "address": {
     "district": "chisinau",
-    "city": "riscani"
+    "city": "riscani",
+    "street": "aerodromului ,5",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"mihail sadoveanu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022442331"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601009716"
 }

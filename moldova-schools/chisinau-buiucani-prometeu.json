@@ -3,7 +3,9 @@
   "search": "prometeu",
   "address": {
     "district": "chisinau",
-    "city": "buiucani"
+    "city": "buiucani",
+    "street": "nicolae iorga nr. 2",
+    "building": ""
   },
   "name": {
     "ro": "liceul de creativitate si inventica \"prometeu-prim\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022238643"
+  ],
+  "type": "Liceu",
+  "idnp": "1006600027190"
 }

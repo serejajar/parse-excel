@@ -3,7 +3,9 @@
   "search": "vieru",
   "address": {
     "district": "leova",
-    "city": "borogani"
+    "city": "borogani",
+    "street": "31august",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"grigore vieru\"",
@@ -30,5 +32,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029871509"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010564"
 }

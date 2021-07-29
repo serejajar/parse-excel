@@ -3,7 +3,9 @@
   "search": "hanganu",
   "address": {
     "district": "cantemir",
-    "city": "cociulia"
+    "city": "cociulia",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"valeriu hanganu\"",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "027365258"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620000342"
 }

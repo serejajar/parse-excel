@@ -3,7 +3,9 @@
   "search": "alecsandri",
   "address": {
     "district": "calarasi",
-    "city": "calarasi"
+    "city": "calarasi",
+    "street": "toma ciorba, 11",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic “vasile alecsandri”",
@@ -60,5 +62,10 @@
     "arta",
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "24422568"
+  ],
+  "type": "Liceu",
+  "idnp": "1014620006260"
 }

@@ -3,7 +3,9 @@
   "search": "stefan cel mare",
   "address": {
     "district": "drochia",
-    "city": "drochia"
+    "city": "drochia",
+    "street": "alexandru cel bun 21",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"stefan cel mare\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025226183"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009751"
 }

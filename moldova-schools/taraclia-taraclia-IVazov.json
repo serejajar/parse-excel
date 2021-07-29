@@ -3,7 +3,9 @@
   "search": "vazov",
   "address": {
     "district": "taraclia",
-    "city": "taraclia"
+    "city": "taraclia",
+    "street": "cotovscova 2a",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"ivan vazov\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "29423723"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000192"
 }

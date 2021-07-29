@@ -3,7 +3,9 @@
   "search": "alecsandri",
   "address": {
     "district": "floresti",
-    "city": "marculesti"
+    "city": "marculesti",
+    "street": "m. eminescu, 64",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"v. alecsandri\"",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025045218"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620012247"
 }

@@ -3,7 +3,9 @@
   "search": "mateevici",
   "address": {
     "district": "chisinau",
-    "city": "cricova"
+    "city": "cricova",
+    "street": "tineretului, 32",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"alexei mateevici\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "224-5-34-05"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010600"
 }

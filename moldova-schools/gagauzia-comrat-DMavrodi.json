@@ -3,7 +3,9 @@
   "search": "mavrodi",
   "address": {
     "district": "gagauzia",
-    "city": "comrat"
+    "city": "comrat",
+    "street": "ostrovscogo, 2",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"d.mavrodi\"",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0(298)23453"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000343"
 }

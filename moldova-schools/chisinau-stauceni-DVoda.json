@@ -3,7 +3,9 @@
   "search": "dragos voda",
   "address": {
     "district": "chisinau",
-    "city": "stauceni"
+    "city": "stauceni",
+    "street": "livezilor nr. 2",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"dragos voda\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "(+373 22) 32-67-54"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010600"
 }

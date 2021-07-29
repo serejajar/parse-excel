@@ -3,7 +3,9 @@
   "search": "viteazu",
   "address": {
     "district": "leova",
-    "city": "tomai"
+    "city": "tomai",
+    "street": "s.tomai,r.leova",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"mihai viteazu\"",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026369468"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010553"
 }

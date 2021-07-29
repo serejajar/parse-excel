@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "gagauzia",
-    "city": "dezghingea"
+    "city": "dezghingea",
+    "street": "miciurina",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic dezghingea",
@@ -23,5 +25,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "0298-63-2-67"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000321"
 }

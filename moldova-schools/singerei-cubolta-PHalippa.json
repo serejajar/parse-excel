@@ -3,7 +3,9 @@
   "search": "halippa",
   "address": {
     "district": "singerei",
-    "city": "cubolta"
+    "city": "cubolta",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"p. halippa\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026258332"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000087"
 }

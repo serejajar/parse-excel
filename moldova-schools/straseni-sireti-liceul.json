@@ -3,7 +3,9 @@
   "search": "sireti",
   "address": {
     "district": "straseni",
-    "city": "sireti"
+    "city": "sireti",
+    "street": "scolii 1",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic sireti",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023771224"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010210"
 }

@@ -3,7 +3,9 @@
   "search": "haret",
   "address": {
     "district": "chisinau",
-    "city": "buiucani"
+    "city": "buiucani",
+    "street": "miria cebotari,53",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"spiru haret\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022226011"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620005772"
 }

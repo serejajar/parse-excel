@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "aneniinoi",
-    "city": "gurabicului"
+    "city": "gurabicului",
+    "street": "canas camzin",
+    "building": ""
   },
   "name": {
     "ro": "institutie publicaliceul teoretic gura bicului",
@@ -23,5 +25,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "0-265-41-6-80"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009061"
 }

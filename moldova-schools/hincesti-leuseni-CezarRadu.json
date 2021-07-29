@@ -3,7 +3,9 @@
   "search": "radu",
   "address": {
     "district": "hincesti",
-    "city": "leuseni"
+    "city": "leuseni",
+    "street": "s.leuseni,r.hincesti",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"cezar radu\"",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026954349"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009865"
 }

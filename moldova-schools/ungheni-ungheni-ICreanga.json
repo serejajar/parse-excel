@@ -3,7 +3,9 @@
   "search": "creanga",
   "address": {
     "district": "ungheni",
-    "city": "ungheni"
+    "city": "ungheni",
+    "street": "stefan cel mare 151",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"i. creanga\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0236-3-40-27"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620001017"
 }

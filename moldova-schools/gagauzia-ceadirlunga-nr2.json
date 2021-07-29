@@ -3,7 +3,9 @@
   "search": "nr. ?2",
   "address": {
     "district": "gagauzia",
-    "city": "ceadirlunga"
+    "city": "ceadirlunga",
+    "street": "буджакская 259",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic nr. 2",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "029122306"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000594"
 }

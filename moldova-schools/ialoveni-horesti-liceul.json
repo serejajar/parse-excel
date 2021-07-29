@@ -3,7 +3,9 @@
   "search": "horesti",
   "address": {
     "district": "ialoveni",
-    "city": "horesti"
+    "city": "horesti",
+    "street": "stefan cel mare 148",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic horesti",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026858249"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008754"
 }

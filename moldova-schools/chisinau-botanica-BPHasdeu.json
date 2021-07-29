@@ -3,7 +3,9 @@
   "search": "b. ?p. ?hasdeu|petriceicu hasdeu",
   "address": {
     "district": "chisinau",
-    "city": "botanica"
+    "city": "botanica",
+    "street": "zelinski 34",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"bogdan petriceicu hasdeu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022550497"
+  ],
+  "type": "Liceu",
+  "idnp": "17993"
 }

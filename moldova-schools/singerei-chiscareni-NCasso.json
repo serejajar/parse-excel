@@ -3,7 +3,9 @@
   "search": "casso",
   "address": {
     "district": "singerei",
-    "city": "chiscareni"
+    "city": "chiscareni",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"n. casso\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026241064"
+  ],
+  "type": "Liceu",
+  "idnp": "103620000397"
 }

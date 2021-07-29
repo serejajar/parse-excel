@@ -3,7 +3,9 @@
   "search": "alecsandri",
   "address": {
     "district": "ungheni",
-    "city": "ungheni"
+    "city": "ungheni",
+    "street": "nationala 13",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"vasile alecsandri\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023622965"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620001039"
 }

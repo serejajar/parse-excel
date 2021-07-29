@@ -3,7 +3,9 @@
   "search": "creanga",
   "address": {
     "district": "soroca",
-    "city": "soroca"
+    "city": "soroca",
+    "street": "calea baltului 87",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"ion creanga\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "0230 2-65-44"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000733"
 }

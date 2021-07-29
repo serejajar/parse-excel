@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "donduseni",
-    "city": "sudarca"
+    "city": "sudarca",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"mihai eminescu\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025178255, 025178477"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620011228"
 }

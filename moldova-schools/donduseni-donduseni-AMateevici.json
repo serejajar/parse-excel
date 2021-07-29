@@ -3,7 +3,9 @@
   "search": "mateevici",
   "address": {
     "district": "donduseni",
-    "city": "donduseni"
+    "city": "donduseni",
+    "street": "elena sirbu 3",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"a.mateevici\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0-251-2-21-07"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620011284"
 }

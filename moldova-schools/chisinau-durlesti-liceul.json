@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "chisinau",
-    "city": "durlesti"
+    "city": "durlesti",
+    "street": "n. dimo",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"durlesti\"",
@@ -32,5 +34,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022999182"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010600"
 }

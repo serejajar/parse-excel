@@ -3,7 +3,9 @@
   "search": "orizont",
   "address": {
     "district": "gagauzia",
-    "city": "ceadirlunga"
+    "city": "ceadirlunga",
+    "street": "lenin, 87",
+    "building": ""
   },
   "name": {
     "ro": "filiala ceadir lunga a institutiei private de invatamint liceul teoretic \"orizont\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0/291/21733-0/291/20142"
+  ],
+  "type": "Liceu",
+  "idnp": "1002600026438"
 }

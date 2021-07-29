@@ -3,7 +3,9 @@
   "search": "puskin",
   "address": {
     "district": "balti",
-    "city": "balti"
+    "city": "balti",
+    "street": "bulgara 122",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"a.puskin\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023176698"
+  ],
+  "type": "Liceu",
+  "idnp": "1015601000259"
 }

@@ -3,7 +3,9 @@
   "search": "kotiubinski",
   "address": {
     "district": "chisinau",
-    "city": "centru"
+    "city": "centru",
+    "street": "str. m.eminescu,54",
+    "building": ""
   },
   "name": {
     "ro": "liceul \"m. kotiubinski\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022-22-40-42"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010600"
 }

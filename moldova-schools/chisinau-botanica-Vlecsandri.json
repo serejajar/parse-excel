@@ -3,7 +3,9 @@
   "search": "alecsandri",
   "address": {
     "district": "chisinau",
-    "city": "botanica"
+    "city": "botanica",
+    "street": "mazililor 34a",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"v.alecsandri\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022354822"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010600"
 }

@@ -3,7 +3,9 @@
   "search": "cruglic",
   "address": {
     "district": "criuleni",
-    "city": "cruglic"
+    "city": "cruglic",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cruglic",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "248-6-63-95"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009393"
 }

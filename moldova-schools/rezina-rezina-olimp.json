@@ -3,7 +3,9 @@
   "search": "olimp",
   "address": {
     "district": "rezina",
-    "city": "rezina"
+    "city": "rezina",
+    "street": "eminescu 4",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"olimp\"",
@@ -39,5 +41,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025422552"
+  ],
+  "type": "Liceu",
+  "idnp": "1016620006068"
 }

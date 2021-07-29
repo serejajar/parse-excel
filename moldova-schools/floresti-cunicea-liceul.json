@@ -3,7 +3,9 @@
   "search": "cunicea",
   "address": {
     "district": "floresti",
-    "city": "cunicea"
+    "city": "cunicea",
+    "street": "scolinaia 1",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cunicea",
@@ -23,5 +25,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "250-5-12-87"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620012063"
 }

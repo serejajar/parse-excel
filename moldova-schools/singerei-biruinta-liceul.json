@@ -3,7 +3,9 @@
   "search": "luceafarul",
   "address": {
     "district": "singerei",
-    "city": "biruinta"
+    "city": "biruinta",
+    "street": "independentei 17",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"luceafarul\"",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "026260221"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620000995"
 }

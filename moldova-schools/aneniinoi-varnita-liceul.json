@@ -3,7 +3,9 @@
   "search": "liceul",
   "address": {
     "district": "aneniinoi",
-    "city": "varnita"
+    "city": "varnita",
+    "street": "ion creanga 20a",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic varnita",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "265-46-235"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009094"
 }

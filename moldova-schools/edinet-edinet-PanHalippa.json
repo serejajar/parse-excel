@@ -3,7 +3,9 @@
   "search": "halippa",
   "address": {
     "district": "edinet",
-    "city": "edinet"
+    "city": "edinet",
+    "street": "independentei",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic \"pan halippa\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024622654"
+  ],
+  "type": "Liceu",
+  "idnp": "1009601000142"
 }

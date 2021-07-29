@@ -3,7 +3,9 @@
   "search": "cantemir",
   "address": {
     "district": "drochia",
-    "city": "sofia"
+    "city": "sofia",
+    "street": "satul sofia, raionul drochia",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"viorel cantemir\"",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025230380"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009452"
 }

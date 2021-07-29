@@ -3,7 +3,9 @@
   "search": "recea",
   "address": {
     "district": "riscani",
-    "city": "recea"
+    "city": "recea",
+    "street": "cunostintelor 6",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic recea",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "25674289"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601002902"
 }

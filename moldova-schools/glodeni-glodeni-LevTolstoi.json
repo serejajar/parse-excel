@@ -3,7 +3,9 @@
   "search": "tolstoi",
   "address": {
     "district": "glodeni",
-    "city": "glodeni"
+    "city": "glodeni",
+    "street": "decebal 16",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"lev tolstoi\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024922297"
+  ],
+  "type": "Liceu",
+  "idnp": "1014620005827"
 }

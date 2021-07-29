@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "soldanesti",
-    "city": "cotiujeniimari"
+    "city": "cotiujeniimari",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic cotiujenii mari",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "027274375"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620011550"
 }

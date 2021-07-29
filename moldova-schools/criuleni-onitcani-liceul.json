@@ -3,7 +3,9 @@
   "search": "onitcani",
   "address": {
     "district": "criuleni",
-    "city": "onitcani"
+    "city": "onitcani",
+    "street": "satul onitcani, raionul criuleni",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic onitcani",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024879280"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009511"
 }

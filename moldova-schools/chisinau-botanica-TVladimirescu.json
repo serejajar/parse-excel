@@ -3,7 +3,9 @@
   "search": "vladimirescu",
   "address": {
     "district": "chisinau",
-    "city": "botanica"
+    "city": "botanica",
+    "street": "plaiului 17",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"tudor vladimirescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0-22-55-10-49"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620005875"
 }

@@ -3,7 +3,9 @@
   "search": "puskin",
   "address": {
     "district": "ungheni",
-    "city": "ungheni"
+    "city": "ungheni",
+    "street": "decebal 36 a",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"a. puskin\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0236-235-96"
+  ],
+  "type": "Liceu",
+  "idnp": "226606"
 }

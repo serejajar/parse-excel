@@ -3,7 +3,9 @@
   "search": "vederea slaba",
   "address": {
     "district": "chisinau",
-    "city": "centru"
+    "city": "centru",
+    "street": "vlaicu pircalab, nr. 32",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cu profil tehnologic pentru copii cu vederea slaba",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "022 225014"
+  ],
+  "type": "Pentru copii orbi şi slab văzători",
+  "idnp": "1007601009417"
 }

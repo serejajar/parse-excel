@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "briceni",
-    "city": "grimancauti"
+    "city": "grimancauti",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic grimancauti",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024748325"
+  ],
+  "type": "Liceu",
+  "idnp": "1009601000131"
 }

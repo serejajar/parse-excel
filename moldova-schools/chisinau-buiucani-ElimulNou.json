@@ -3,7 +3,9 @@
   "search": "elimul",
   "address": {
     "district": "chisinau",
-    "city": "buiucani"
+    "city": "buiucani",
+    "street": "str. calea iesilor 59",
+    "building": ""
   },
   "name": {
     "ro": "institutia de invatamant liceul teoretic \"elimul nou\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022745434"
+  ],
+  "type": "Liceu",
+  "idnp": "1004600058509"
 }

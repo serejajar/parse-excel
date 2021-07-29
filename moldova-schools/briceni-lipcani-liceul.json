@@ -3,7 +3,9 @@
   "search": "lipcani",
   "address": {
     "district": "briceni",
-    "city": "lipcani"
+    "city": "lipcani",
+    "street": "libertatii, 71",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic lipcani",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024761950"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000131"
 }

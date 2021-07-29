@@ -3,7 +3,9 @@
   "search": "sadoveanu",
   "address": {
     "district": "ocnita",
-    "city": "ocnita"
+    "city": "ocnita",
+    "street": "independentei 80",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"mihail sadoveanu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0271-2-23-72"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012074"
 }

@@ -3,7 +3,9 @@
   "search": "manole",
   "address": {
     "district": "causeni",
-    "city": "salcuta"
+    "city": "salcuta",
+    "street": "pavel creanga 47",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m.manole\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0243-41-2-47"
+  ],
+  "type": "Liceu",
+  "idnp": "1012608001999"
 }

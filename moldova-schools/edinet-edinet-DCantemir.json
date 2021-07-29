@@ -3,7 +3,9 @@
   "search": "dimitrie cantemir|d.cantemir|d. cantemir",
   "address": {
     "district": "edinet",
-    "city": "edinet"
+    "city": "edinet",
+    "street": "m.eminescu",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic \"dimitrie cantemir\"",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024622454"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620011421"
 }

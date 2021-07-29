@@ -3,7 +3,9 @@
   "search": "mateevici",
   "address": {
     "district": "floresti",
-    "city": "sanatauca"
+    "city": "sanatauca",
+    "street": "s.sanatauca, r.floresti",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"a. mateevici\"",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0-250-66-167"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012306"
 }

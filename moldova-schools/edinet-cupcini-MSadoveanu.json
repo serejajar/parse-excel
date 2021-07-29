@@ -3,7 +3,9 @@
   "search": "sadoveanu",
   "address": {
     "district": "edinet",
-    "city": "cupcini"
+    "city": "cupcini",
+    "street": "mateevici 09",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic \"m.sadoveanu\"",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024672301; 024671373"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000142"
 }

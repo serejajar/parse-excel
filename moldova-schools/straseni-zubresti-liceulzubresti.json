@@ -3,7 +3,9 @@
   "search": "zubresti",
   "address": {
     "district": "straseni",
-    "city": "zubresti"
+    "city": "zubresti",
+    "street": "mihai eminescu 36/a",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic zubresti",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0237-79-365"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010128"
 }

@@ -3,7 +3,9 @@
   "search": "teodorovici",
   "address": {
     "district": "chisinau",
-    "city": "buiucani"
+    "city": "buiucani",
+    "street": "doina si ion aldea-teodorovici 13",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cu profil de arte \"ion si doina aldea-teodorovici\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022 74-57-22"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601009967"
 }

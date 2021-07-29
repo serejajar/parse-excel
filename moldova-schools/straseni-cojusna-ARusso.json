@@ -3,7 +3,9 @@
   "search": "russo",
   "address": {
     "district": "straseni",
-    "city": "cojusna"
+    "city": "cojusna",
+    "street": "mihai viteazul",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"alecu russo\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "068205031"
+  ],
+  "type": "Liceu",
+  "idnp": "0991201332378"
 }

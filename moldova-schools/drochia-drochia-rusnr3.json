@@ -3,7 +3,9 @@
   "search": "nr. ?3",
   "address": {
     "district": "drochia",
-    "city": "drochia"
+    "city": "drochia",
+    "street": "31 august 5",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul rus nr.3",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025222470"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009773"
 }

@@ -3,7 +3,9 @@
   "search": "rambam",
   "address": {
     "district": "chisinau",
-    "city": "botanica"
+    "city": "botanica",
+    "street": "independentei  5/2",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"rambam\" ort",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022775994"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010600"
 }

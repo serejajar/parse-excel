@@ -3,7 +3,9 @@
   "search": "creanga",
   "address": {
     "district": "balti",
-    "city": "balti"
+    "city": "balti",
+    "street": "puskin, 38, blocul nr.6, et.3-4",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic republican \"ion creanga\"",
@@ -60,5 +62,10 @@
     "arta",
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "(0231)52-3-56"
+  ],
+  "type": "Liceu",
+  "idnp": "21010603383896"
 }

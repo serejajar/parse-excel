@@ -3,7 +3,9 @@
   "search": "zadnipru",
   "address": {
     "district": "chisinau",
-    "city": "ciocana"
+    "city": "ciocana",
+    "street": "n.m.spataru 9/3",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"petru zadnipru\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022338654"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601009565"
 }

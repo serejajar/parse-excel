@@ -3,7 +3,9 @@
   "search": "gorki",
   "address": {
     "district": "balti",
-    "city": "balti"
+    "city": "balti",
+    "street": "bld.eminescu 4",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m.gorki\"",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "021346188"
+  ],
+  "type": "Liceu",
+  "idnp": "184542"
 }

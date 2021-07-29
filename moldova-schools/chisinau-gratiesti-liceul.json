@@ -3,7 +3,9 @@
   "search": "gratiesti",
   "address": {
     "district": "chisinau",
-    "city": "gratiesti"
+    "city": "gratiesti",
+    "street": "stefan cel mare 17",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"gratiesti\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022451154"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010600"
 }

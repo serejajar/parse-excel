@@ -3,7 +3,9 @@
   "search": "stefan cel mare",
   "address": {
     "district": "cimislia",
-    "city": "mihailovca"
+    "city": "mihailovca",
+    "street": "31 august 1989",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"stefan cel mare\"",
@@ -23,5 +25,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "024144118"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010346"
 }

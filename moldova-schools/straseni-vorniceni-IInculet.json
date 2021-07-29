@@ -3,7 +3,9 @@
   "search": "inculet",
   "address": {
     "district": "straseni",
-    "city": "vorniceni"
+    "city": "vorniceni",
+    "street": "sfatul tarii 14",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"ion inculet\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023746433"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010254"
 }

@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "briceni",
-    "city": "tabani"
+    "city": "tabani",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic tabani",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0-247-4-33-20"
+  ],
+  "type": "Liceu",
+  "idnp": "1009601000131"
 }

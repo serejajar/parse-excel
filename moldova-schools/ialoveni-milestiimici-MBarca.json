@@ -3,7 +3,9 @@
   "search": "barca",
   "address": {
     "district": "ialoveni",
-    "city": "milestiimici"
+    "city": "milestiimici",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"mihail barca\"",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "26868580"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008787"
 }

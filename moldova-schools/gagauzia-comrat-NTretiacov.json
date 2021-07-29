@@ -3,7 +3,9 @@
   "search": "tretiacov",
   "address": {
     "district": "gagauzia",
-    "city": "comrat"
+    "city": "comrat",
+    "street": "lenin 144",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"n.tretiacov\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0(298) 2-23-82"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000446"
 }

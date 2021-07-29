@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "gagauzia",
-    "city": "besghioz"
+    "city": "besghioz",
+    "street": "serghei lazo",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic besghioz",
@@ -30,5 +32,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "029178568"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000631"
 }

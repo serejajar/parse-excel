@@ -3,7 +3,9 @@
   "search": "creanga",
   "address": {
     "district": "falesti",
-    "city": "falesti"
+    "city": "falesti",
+    "street": "stefan cel mare 89",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"i.creanga\"",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025922438"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620011608"
 }

@@ -3,7 +3,9 @@
   "search": "saseni",
   "address": {
     "district": "calarasi",
-    "city": "saseni"
+    "city": "saseni",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic saseni",
@@ -23,5 +25,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024466235"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011882"
 }

@@ -3,7 +3,9 @@
   "search": "vieru",
   "address": {
     "district": "gagauzia",
-    "city": "chioseliarusa"
+    "city": "chioseliarusa",
+    "street": "tineretului  nr.1",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"gr.vieru\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029866186"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000402"
 }

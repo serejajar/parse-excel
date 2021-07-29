@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "soroca",
-    "city": "visoca"
+    "city": "visoca",
+    "street": "satul visoca, raionul soroca",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic visoca",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023052266"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601011342"
 }

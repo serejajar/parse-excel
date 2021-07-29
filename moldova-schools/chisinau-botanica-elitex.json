@@ -3,7 +3,9 @@
   "search": "elitex",
   "address": {
     "district": "chisinau",
-    "city": "botanica"
+    "city": "botanica",
+    "street": "dacia 53/2",
+    "building": ""
   },
   "name": {
     "ro": "liceul \"elitex\"",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "(022) 77-78-60"
+  ],
+  "type": "Liceu",
+  "idnp": "1005602004895"
 }

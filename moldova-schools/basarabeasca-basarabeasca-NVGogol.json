@@ -3,7 +3,9 @@
   "search": "gogol",
   "address": {
     "district": "basarabeasca",
-    "city": "basarabeasca"
+    "city": "basarabeasca",
+    "street": "gogol 8",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"n.v.gogol\"",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "029725216"
+  ],
+  "type": "Liceu",
+  "idnp": "1016620000217"
 }

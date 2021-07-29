@@ -3,7 +3,9 @@
   "search": "blaga",
   "address": {
     "district": "leova",
-    "city": "iargara"
+    "city": "iargara",
+    "street": "scolii 1",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"lucian blaga\"",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "263-63-5-34"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010531"
 }

@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "glodeni",
-    "city": "danu"
+    "city": "danu",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic danu",
@@ -23,5 +25,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024971285"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000212"
 }

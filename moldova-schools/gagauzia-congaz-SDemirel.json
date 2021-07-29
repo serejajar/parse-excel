@@ -3,7 +3,9 @@
   "search": "demirel",
   "address": {
     "district": "gagauzia",
-    "city": "congaz"
+    "city": "congaz",
+    "street": "kalinin 13",
+    "building": ""
   },
   "name": {
     "ro": "liceul moldo-turc \"s.demirel\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0298-68-4-35"
+  ],
+  "type": "Liceu",
+  "idnp": "1012601000247"
 }

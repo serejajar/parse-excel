@@ -3,7 +3,9 @@
   "search": "moscov",
   "address": {
     "district": "gagauzia",
-    "city": "ceadirlunga"
+    "city": "ceadirlunga",
+    "street": "лundefinedнина 112",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"v.moscov\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029121737"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000608"
 }

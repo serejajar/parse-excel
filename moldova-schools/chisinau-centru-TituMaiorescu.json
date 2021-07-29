@@ -3,7 +3,9 @@
   "search": "maiorescu",
   "address": {
     "district": "chisinau",
-    "city": "centru"
+    "city": "centru",
+    "street": "hincesti, 13",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"titu maiorescu\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022725854"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601009417"
 }

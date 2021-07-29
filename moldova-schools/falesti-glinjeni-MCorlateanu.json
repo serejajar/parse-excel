@@ -3,7 +3,9 @@
   "search": "corlateanu",
   "address": {
     "district": "falesti",
-    "city": "glinjeni"
+    "city": "glinjeni",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"mihai corlateanu\"",
@@ -23,5 +25,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0-259-71-4-83"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011675"
 }

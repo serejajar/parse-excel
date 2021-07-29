@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "glodeni",
-    "city": "balatina"
+    "city": "balatina",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic balatina",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024941291"
+  ],
+  "type": "Liceu",
+  "idnp": "1014620005252"
 }

@@ -3,7 +3,9 @@
   "search": "lomonosov",
   "address": {
     "district": "orhei",
-    "city": "orhei"
+    "city": "orhei",
+    "street": "v.mahu, 148",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m. lomonosov\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023522610"
+  ],
+  "type": "Liceu",
+  "idnp": "1015620007459"
 }

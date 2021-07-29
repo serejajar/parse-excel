@@ -3,7 +3,9 @@
   "search": "cotova",
   "address": {
     "district": "drochia",
-    "city": "cotova"
+    "city": "cotova",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic cotova",
@@ -23,5 +25,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025262347"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009430"
 }

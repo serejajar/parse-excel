@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "aneniinoi",
-    "city": "aneniinoi"
+    "city": "aneniinoi",
+    "street": "tighina 15",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic \"mihai eminescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026524330"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009119"
 }

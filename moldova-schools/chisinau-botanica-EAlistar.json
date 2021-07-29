@@ -3,7 +3,9 @@
   "search": "alistar",
   "address": {
     "district": "chisinau",
-    "city": "botanica"
+    "city": "botanica",
+    "street": "decebal 74",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cu profil de arte \"elena alistar\"",
@@ -60,5 +62,10 @@
     "arta",
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022550215"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010448"
 }

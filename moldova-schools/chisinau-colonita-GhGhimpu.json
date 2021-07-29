@@ -3,7 +3,9 @@
   "search": "ghimpu",
   "address": {
     "district": "chisinau",
-    "city": "colonita"
+    "city": "colonita",
+    "street": "ion creanga 1",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"gh.ghimpu\"",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022-57-93-04"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010600"
 }

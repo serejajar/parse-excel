@@ -3,7 +3,9 @@
   "search": "ortodox",
   "address": {
     "district": "chisinau",
-    "city": "chisinau"
+    "city": "chisinau",
+    "street": "izmail 46",
+    "building": ""
   },
   "name": {
     "ro": "seminarul teologic ortodox",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022275039"
+  ],
+  "type": "Liceu",
+  "idnp": "41618017"
 }

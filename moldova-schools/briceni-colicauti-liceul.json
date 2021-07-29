@@ -3,7 +3,9 @@
   "search": "colicauti",
   "address": {
     "district": "briceni",
-    "city": "colicauti"
+    "city": "colicauti",
+    "street": "s colicauti raionul briceni",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic colicauti",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024742-395"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000131"
 }

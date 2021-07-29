@@ -3,7 +3,9 @@
   "search": "maiakovski",
   "address": {
     "district": "balti",
-    "city": "balti"
+    "city": "balti",
+    "street": "t. vladimirescu, 32b",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"v.maiakovski\"",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0231-3-31-26"
+  ],
+  "type": "Liceu",
+  "idnp": "184545"
 }

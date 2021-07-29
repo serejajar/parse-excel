@@ -3,7 +3,9 @@
   "search": "olimp",
   "address": {
     "district": "ialoveni",
-    "city": "costesti"
+    "city": "costesti",
+    "street": "stefan cel mare, 107-a",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"olimp\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0268-51252"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008732"
 }

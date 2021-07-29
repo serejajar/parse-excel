@@ -3,7 +3,9 @@
   "search": "dimitrie cantemir|d.cantemir|d. cantemir",
   "address": {
     "district": "ialoveni",
-    "city": "vasieni"
+    "city": "vasieni",
+    "street": "s. vasieni, r. ialoveni",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"dimitrie cantemir\"",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026844251"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008673"
 }

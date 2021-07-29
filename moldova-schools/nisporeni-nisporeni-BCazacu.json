@@ -3,7 +3,9 @@
   "search": "cazacu",
   "address": {
     "district": "nisporeni",
-    "city": "nisporeni"
+    "city": "nisporeni",
+    "street": "alexandru cel bun 75",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"boris cazacu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "264 2 39 36"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620012129"
 }

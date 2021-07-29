@@ -3,7 +3,9 @@
   "search": "blaga",
   "address": {
     "district": "tiraspol",
-    "city": "tiraspol"
+    "city": "tiraspol",
+    "street": "odesei, 75",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic\"lucian blaga\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "+160037353326568  + 0037353360438"
+  ],
+  "type": "Liceu",
+  "idnp": "1007600014748"
 }

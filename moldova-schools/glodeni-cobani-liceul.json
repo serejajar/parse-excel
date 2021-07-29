@@ -3,7 +3,9 @@
   "search": "cobani",
   "address": {
     "district": "glodeni",
-    "city": "cobani"
+    "city": "cobani",
+    "street": "s. cobani, r-ul glodeni, republica moldova",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cobani",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024972454"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620006983"
 }

@@ -3,7 +3,9 @@
   "search": "dimitrie cantemir|d.cantemir|d. cantemir",
   "address": {
     "district": "singerei",
-    "city": "singerei"
+    "city": "singerei",
+    "street": "testemitianu,12",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"d.cantemir\"",
@@ -44,5 +46,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "262-2-10-59"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012502"
 }

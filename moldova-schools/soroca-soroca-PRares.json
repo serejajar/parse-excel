@@ -3,7 +3,9 @@
   "search": "rares",
   "address": {
     "district": "soroca",
-    "city": "soroca"
+    "city": "soroca",
+    "street": "testemiteanu2",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"petru rares\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023022589"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000777"
 }

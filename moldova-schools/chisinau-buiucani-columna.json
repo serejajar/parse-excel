@@ -3,7 +3,9 @@
   "search": "columna",
   "address": {
     "district": "chisinau",
-    "city": "buiucani"
+    "city": "buiucani",
+    "street": "alba iulia, 5/2",
+    "building": ""
   },
   "name": {
     "ro": "liceul \"columna\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "022742852"
+  ],
+  "type": "Liceu",
+  "idnp": "1004600000818"
 }

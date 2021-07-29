@@ -3,7 +3,9 @@
   "search": "stefanesti",
   "address": {
     "district": "floresti",
-    "city": "stefanesti"
+    "city": "stefanesti",
+    "street": "ion codreanu",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic stefanesti",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025049228"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012007"
 }

@@ -3,7 +3,9 @@
   "search": "andreev",
   "address": {
     "district": "hincesti",
-    "city": "cioara"
+    "city": "cioara",
+    "street": "s.cioara,r-nul hincesti",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"s. andreev\"",
@@ -37,5 +39,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026947219"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010025"
 }

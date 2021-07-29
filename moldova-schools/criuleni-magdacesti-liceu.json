@@ -3,7 +3,9 @@
   "search": "magdacesti",
   "address": {
     "district": "criuleni",
-    "city": "magdacesti"
+    "city": "magdacesti",
+    "street": "stefan cel mare",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic magdacesti",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0248 33995"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009429"
 }

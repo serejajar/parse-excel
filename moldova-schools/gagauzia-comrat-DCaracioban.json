@@ -3,7 +3,9 @@
   "search": "caracioban",
   "address": {
     "district": "gagauzia",
-    "city": "comrat"
+    "city": "comrat",
+    "street": "skolnii 6",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"d.caracioban\" mun. comrat",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0-298-2-58-56"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000457"
 }

@@ -3,7 +3,9 @@
   "search": "suruceanu",
   "address": {
     "district": "ialoveni",
-    "city": "suruceni"
+    "city": "suruceni",
+    "street": "ion creanga,16",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"ion suruceanu\"",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026833259"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008835"
 }

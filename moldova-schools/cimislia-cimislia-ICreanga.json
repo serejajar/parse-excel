@@ -3,7 +3,9 @@
   "search": "creanga",
   "address": {
     "district": "cimislia",
-    "city": "cimislia"
+    "city": "cimislia",
+    "street": "stefan cel mare,15",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"ion creanga\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024122084"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010689"
 }

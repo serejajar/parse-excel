@@ -3,7 +3,9 @@
   "search": "cuza",
   "address": {
     "district": "chisinau",
-    "city": "riscani"
+    "city": "riscani",
+    "street": "postei 44",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"alexandru ioan cuza\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022468909"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620006193"
 }

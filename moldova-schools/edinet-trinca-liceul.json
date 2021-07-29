@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "edinet",
-    "city": "trinca"
+    "city": "trinca",
+    "street": "s. trinca, r. edinet",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic trinca",
@@ -24,5 +26,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "024641609"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620011616"
 }

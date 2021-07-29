@@ -3,7 +3,9 @@
   "search": "iorga",
   "address": {
     "district": "chisinau",
-    "city": "botanica"
+    "city": "botanica",
+    "street": "valea crucii 4/1",
+    "building": ""
   },
   "name": {
     "ro": "liceul \"nicolae iorga\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022766653"
+  ],
+  "type": "Liceu",
+  "idnp": "20437510"
 }

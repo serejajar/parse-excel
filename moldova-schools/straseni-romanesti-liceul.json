@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "straseni",
-    "city": "romanesti"
+    "city": "romanesti",
+    "street": "r.haceaturean,38",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic romanesti",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023760242"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010117"
 }

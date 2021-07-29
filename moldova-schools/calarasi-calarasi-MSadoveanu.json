@@ -3,7 +3,9 @@
   "search": "sadoveanu",
   "address": {
     "district": "calarasi",
-    "city": "calarasi"
+    "city": "calarasi",
+    "street": "31 august nr.13",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic “mihail sadoveanu”",
@@ -60,5 +62,10 @@
     "real",
     "sport",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0244-2-20-84"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012096"
 }

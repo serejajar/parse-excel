@@ -3,7 +3,9 @@
   "search": "calinescu",
   "address": {
     "district": "chisinau",
-    "city": "riscani"
+    "city": "riscani",
+    "street": "ceucari 7",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"g.calinescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022466923"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601009716"
 }

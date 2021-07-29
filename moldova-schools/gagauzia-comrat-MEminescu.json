@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "gagauzia",
-    "city": "comrat"
+    "city": "comrat",
+    "street": "suvorov",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m.eminescu\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029831739"
+  ],
+  "type": "Liceu",
+  "idnp": "1012601000225"
 }

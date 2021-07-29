@@ -3,7 +3,9 @@
   "search": "lupu",
   "address": {
     "district": "chisinau",
-    "city": "centru"
+    "city": "centru",
+    "street": "ungureanu",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"vasile lupu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022765522"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601009417"
 }

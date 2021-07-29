@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "straseni",
-    "city": "straseni"
+    "city": "straseni",
+    "street": "mihai eminescu 187",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"mihai eminescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023729688"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620010232"
 }

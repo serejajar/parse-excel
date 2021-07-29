@@ -3,7 +3,9 @@
   "search": "vartic",
   "address": {
     "district": "ialoveni",
-    "city": "ialoveni"
+    "city": "ialoveni",
+    "street": "alexandru cel bun, 84",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"andrei vartic\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0268-26036"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008776"
 }

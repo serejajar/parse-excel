@@ -3,7 +3,9 @@
   "search": "sportiv nr. ?2",
   "address": {
     "district": "chisinau",
-    "city": "ciocana"
+    "city": "ciocana",
+    "street": "alecu russo 57",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic cu profil sportiv nr. 2",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "sport"
-  ]
+  ],
+  "phones": [
+    "022-33-13-45"
+  ],
+  "type": "Liceu",
+  "idnp": "101462001782"
 }

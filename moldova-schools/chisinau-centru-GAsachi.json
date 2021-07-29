@@ -3,7 +3,9 @@
   "search": "asachi",
   "address": {
     "district": "chisinau",
-    "city": "centru"
+    "city": "centru",
+    "street": "bucuresti 64",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"gheorghe asachi\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "022223460"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010600"
 }

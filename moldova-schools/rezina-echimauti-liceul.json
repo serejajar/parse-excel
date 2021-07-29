@@ -3,7 +3,9 @@
   "search": "echimauti",
   "address": {
     "district": "rezina",
-    "city": "echimauti"
+    "city": "echimauti",
+    "street": "s. echimauti r. rezina",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic echimauti",
@@ -23,5 +25,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "25447268"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620012200"
 }

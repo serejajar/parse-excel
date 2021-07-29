@@ -3,7 +3,9 @@
   "search": "pelivan",
   "address": {
     "district": "ialoveni",
-    "city": "razeni"
+    "city": "razeni",
+    "street": "comuna  razeni raionul ialoveni",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"ion pelivan\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "026874866"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008813"
 }

@@ -3,7 +3,9 @@
   "search": "evrika",
   "address": {
     "district": "ribnita",
-    "city": "ribnita"
+    "city": "ribnita",
+    "street": "str. valcenco - 23",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"evrika\"",
@@ -52,5 +54,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "(555) 2-16-65"
+  ],
+  "type": "Liceu",
+  "idnp": "1007600024716"
 }

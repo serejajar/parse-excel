@@ -3,7 +3,9 @@
   "search": "porumbescu",
   "address": {
     "district": "chisinau",
-    "city": "chisinau"
+    "city": "chisinau",
+    "street": "kiev, 1",
+    "building": ""
   },
   "name": {
     "ro": "liceul-internat republican de muzica \"ciprian porumbescu\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "arta"
-  ]
+  ],
+  "phones": [
+    "+373 (22)41-39-05, 44-11-60, 44-10-15"
+  ],
+  "type": "Liceu",
+  "idnp": "1014620000578"
 }

@@ -3,7 +3,9 @@
   "search": "stratulat",
   "address": {
     "district": "criuleni",
-    "city": "boscana"
+    "city": "boscana",
+    "street": "piata demnitatii nationale 4",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"mihail stratulat\"",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0248-70-285"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009441"
 }

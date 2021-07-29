@@ -3,7 +3,9 @@
   "search": "universul",
   "address": {
     "district": "chisinau",
-    "city": "centru"
+    "city": "centru",
+    "street": "soseaua hincesti, 136",
+    "building": ""
   },
   "name": {
     "ro": "institutia publica liceul teoretic \"universul\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "227-3-82-10"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620007857"
 }

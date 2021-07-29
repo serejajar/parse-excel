@@ -3,7 +3,9 @@
   "search": "eminescu",
   "address": {
     "district": "balti",
-    "city": "balti"
+    "city": "balti",
+    "street": "stefan cel mare 81",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"m.eminescu\"",
@@ -59,5 +61,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "023121564"
+  ],
+  "type": "Liceu",
+  "idnp": "101762004231"
 }

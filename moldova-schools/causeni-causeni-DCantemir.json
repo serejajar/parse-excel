@@ -3,7 +3,9 @@
   "search": "dimitrie cantemir|d.cantemir|d. cantemir",
   "address": {
     "district": "causeni",
-    "city": "causeni"
+    "city": "causeni",
+    "street": "stefan cel mare 114",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"d.cantemir\"",
@@ -23,5 +25,10 @@
   ],
   "profiles": [
     "real"
-  ]
+  ],
+  "phones": [
+    "0-243-2-76-61"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012608001003"
 }

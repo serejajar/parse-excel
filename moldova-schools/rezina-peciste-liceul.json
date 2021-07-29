@@ -3,7 +3,9 @@
   "search": "",
   "address": {
     "district": "rezina",
-    "city": "peciste"
+    "city": "peciste",
+    "street": "",
+    "building": ""
   },
   "name": {
     "ro": "institutie publica liceul teoretic peciste",
@@ -23,5 +25,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025474224"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620012428"
 }

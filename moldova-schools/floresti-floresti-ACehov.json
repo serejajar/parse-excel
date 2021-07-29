@@ -3,7 +3,9 @@
   "search": "cehov",
   "address": {
     "district": "floresti",
-    "city": "floresti"
+    "city": "floresti",
+    "street": "c. porumbescu 12",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"a. cehov\"",
@@ -58,5 +60,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "25022272"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012225"
 }

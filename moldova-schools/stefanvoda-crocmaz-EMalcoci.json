@@ -3,7 +3,9 @@
   "search": "malcoci",
   "address": {
     "district": "stefanvoda",
-    "city": "crocmaz"
+    "city": "crocmaz",
+    "street": "independentei 2",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"ecaterina malcoci\"",
@@ -38,5 +40,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0242-46-2-25"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1016620006770"
 }

@@ -3,7 +3,9 @@
   "search": "holercani",
   "address": {
     "district": "dubasari",
-    "city": "holercani"
+    "city": "holercani",
+    "street": "stefan voda",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic holercani",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "0248-53-2-44"
+  ],
+  "type": "Liceu",
+  "idnp": "1013620000205"
 }

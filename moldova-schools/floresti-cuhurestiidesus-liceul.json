@@ -3,7 +3,9 @@
   "search": "cuhurestii de sus",
   "address": {
     "district": "floresti",
-    "city": "cuhurestiidesus"
+    "city": "cuhurestiidesus",
+    "street": "s. cuhurestii de sus , r-nul floresti",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic cuhurestii de sus",
@@ -51,5 +53,10 @@
   ],
   "profiles": [
     "umanist"
-  ]
+  ],
+  "phones": [
+    "025057360"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620012041"
 }

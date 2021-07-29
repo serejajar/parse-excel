@@ -3,7 +3,9 @@
   "search": "zanet",
   "address": {
     "district": "gagauzia",
-    "city": "congaz"
+    "city": "congaz",
+    "street": "gorkii,9",
+    "building": ""
   },
   "name": {
     "ro": "liceul teoretic \"todur zanet\"",
@@ -45,5 +47,10 @@
   "profiles": [
     "real",
     "umanist"
-  ]
+  ],
+  "phones": [
+    "029868359"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000424"
 }
