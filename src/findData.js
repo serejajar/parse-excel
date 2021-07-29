@@ -4,6 +4,18 @@ const replaceRoDiacritics = require('./replaceRoDiacritics');
 
 let parsedXlsx = xlsx.parse(`${__dirname}/../excels/Adresa_scolii_2017-2018.xlsx`)[0].data;
 
+// const test = parsedXlsx.map(([
+//   districtStr,
+//   cityStr,
+//   nameStr,
+//   idnp,
+//   street = '',
+//   phonesStr,
+//   type
+// ]) => replaceRoDiacritics(districtStr, true).toLowerCase().replace(/s\.|or\.|mun\.|-/gi, ''))
+//
+// console.log(test.join('\n'));
+
 function findData(file) {
   const regexp = new RegExp(file.search, 'gi');
 
@@ -25,20 +37,15 @@ function findData(file) {
 
     const city = replaceRoDiacritics(cityStr, true)
       .toLowerCase()
-      .replace(/s\.|or\./, '');
+      .replace(/s\.|or\.|mun\.|-/gi, '');
 
     const name = replaceRoDiacritics(nameStr)
 
     const isSchool = name.search(regexp) !== -1;
 
-    // console.log('District:', file.address.district, district, file.district === district );
-    // console.log('City:', file.address.city, city, file.city === city );
-    // console.log('isSchool:', isSchool,  nameStr);
-    // console.log('------------------------------------------------------');
-
     if (
       file.address.district === district &&
-      file.address.city === city &&
+      (file.address.district === 'chisinau' || file.address.city === city) &&
       isSchool
     ) {
       newData = {
@@ -49,6 +56,7 @@ function findData(file) {
         },
         phones: [ phonesStr ],
         type,
+        idnp
       }
 
       return false;
