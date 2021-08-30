@@ -8,14 +8,14 @@ const replaceRoDiacritics = require('./src/replaceRoDiacritics');
 const dirPath = path.join(__dirname, 'moldova-schools');
 const files = readFiles(dirPath);
 
-// files.forEach((file) => {
-//   const filePath = path.join(dirPath, `${file.id}.json`);
-//   const newData = findData(file);
-//
-//   // if (newData.idnp) {
-//   //   fs.writeFileSync(filePath, JSON.stringify(newData, null, 2));
-//   // }
-// });
+files.forEach((file) => {
+  const filePath = path.join(dirPath, `${file.id}.json`);
+  const newData = findData(file);
+
+  // if (newData.idnp) {
+  //   fs.writeFileSync(filePath, JSON.stringify(newData, null, 2));
+  // }
+});
 
 const parsedXlsx = getParsedXlsx();
 parsedXlsx.forEach((school, i) => {
