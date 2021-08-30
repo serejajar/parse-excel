@@ -1,0 +1,22 @@
+{
+  "id": "drochia-suri-none",
+  "search": "",
+  "address": {
+    "district": "drochia",
+    "city": "suri",
+    "street": "Mihai Eminescu, 84",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul \"Viorel  Ciobanu\", Şuri",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025277451"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009832"
+}

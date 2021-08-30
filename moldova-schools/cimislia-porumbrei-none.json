@@ -1,0 +1,21 @@
+{
+  "id": "cimislia-porumbrei-none",
+  "search": "",
+  "address": {
+    "district": "cimislia",
+    "city": "porumbrei",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Porumbrei",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024176243"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011044"
+}

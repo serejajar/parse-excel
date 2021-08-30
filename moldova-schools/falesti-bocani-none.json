@@ -1,0 +1,22 @@
+{
+  "id": "falesti-bocani-none",
+  "search": "",
+  "address": {
+    "district": "falesti",
+    "city": "bocani",
+    "street": "satul Bocani",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Bocani",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025978700"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620007547"
+}

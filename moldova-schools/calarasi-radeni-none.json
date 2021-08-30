@@ -1,0 +1,22 @@
+{
+  "id": "calarasi-radeni-none",
+  "search": "",
+  "address": {
+    "district": "calarasi",
+    "city": "radeni",
+    "street": "-",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziu, Rădeni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0244-31-2-23"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014601000034"
+}

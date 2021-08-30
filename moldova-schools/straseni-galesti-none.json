@@ -1,0 +1,21 @@
+{
+  "id": "straseni-galesti-none",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "galesti",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Găleşti",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0-237-53-240"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "3879866"
+}

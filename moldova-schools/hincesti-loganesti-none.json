@@ -1,0 +1,22 @@
+{
+  "id": "hincesti-loganesti-none",
+  "search": "",
+  "address": {
+    "district": "hincesti",
+    "city": "loganesti",
+    "street": "Constantin Stamati,13",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziul Logăneşti",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "026957317"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620012037"
+}

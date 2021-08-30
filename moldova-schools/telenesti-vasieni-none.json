@@ -1,0 +1,21 @@
+{
+  "id": "telenesti-vasieni-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "vasieni",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Văsieni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025855208"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013601000093"
+}

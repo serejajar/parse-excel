@@ -1,0 +1,22 @@
+{
+  "id": "straseni-bucovati-none",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "bucovati",
+    "street": "Ştefan cel Mare, 40",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, or. Bucovăţ",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0237-62-249"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "33879866"
+}

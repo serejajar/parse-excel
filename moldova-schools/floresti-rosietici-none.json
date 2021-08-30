@@ -1,0 +1,22 @@
+{
+  "id": "floresti-rosietici-none",
+  "search": "",
+  "address": {
+    "district": "floresti",
+    "city": "rosietici",
+    "street": "s.Rosietici",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Roşetici",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025048319"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620012188"
+}

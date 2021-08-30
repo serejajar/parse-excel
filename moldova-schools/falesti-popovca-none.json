@@ -1,0 +1,21 @@
+{
+  "id": "falesti-popovca-none",
+  "search": "",
+  "address": {
+    "district": "falesti",
+    "city": "popovca",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Popovca",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025955189"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "220106033370745"
+}

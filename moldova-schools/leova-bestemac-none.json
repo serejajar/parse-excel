@@ -1,0 +1,22 @@
+{
+  "id": "leova-bestemac-none",
+  "search": "",
+  "address": {
+    "district": "leova",
+    "city": "bestemac",
+    "street": "Beştemac",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Beştemac",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0263-59-2-49"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601011331"
+}

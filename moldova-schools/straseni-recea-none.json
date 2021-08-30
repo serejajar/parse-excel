@@ -1,0 +1,22 @@
+{
+  "id": "straseni-recea-none",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "recea",
+    "street": "Ștefan cel Mare",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Recea",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0-237-41-455"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "3879866"
+}

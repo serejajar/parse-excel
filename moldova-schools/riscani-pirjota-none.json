@@ -1,0 +1,21 @@
+{
+  "id": "riscani-pirjota-none",
+  "search": "",
+  "address": {
+    "district": "riscani",
+    "city": "pirjota",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul \"Valeriu Ghereg\", Pîrjota",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0256 43 346"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620000353"
+}

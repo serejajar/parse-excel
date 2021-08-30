@@ -1,0 +1,21 @@
+{
+  "id": "riscani-braniste-none",
+  "search": "",
+  "address": {
+    "district": "riscani",
+    "city": "braniste",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Branişte",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0-256-78-3-86"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620000010"
+}

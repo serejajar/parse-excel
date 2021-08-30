@@ -1,0 +1,22 @@
+{
+  "id": "causeni-ursoaia-none",
+  "search": "",
+  "address": {
+    "district": "causeni",
+    "city": "ursoaia",
+    "street": "Ion Creangă 36",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Ursoaia",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024342274"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012608001232"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "telenesti-coropceni-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "coropceni",
+    "street": "s,Coropceni  r.Telenești",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Coropceni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "258-75-221"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620000442"
+}

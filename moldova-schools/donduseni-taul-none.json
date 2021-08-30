@@ -1,0 +1,22 @@
+{
+  "id": "donduseni-taul-none",
+  "search": "",
+  "address": {
+    "district": "donduseni",
+    "city": "taul",
+    "street": "Ştefan cel Mare",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Ţaul",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025161381"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "226634"
+}

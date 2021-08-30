@@ -1,0 +1,22 @@
+{
+  "id": "telenesti-chistelnita-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "chistelnita",
+    "street": "s. Chiștelnița",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul ”Tudor Brădescu”, Chiştelniţa",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0258-78-255"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620000515"
+}

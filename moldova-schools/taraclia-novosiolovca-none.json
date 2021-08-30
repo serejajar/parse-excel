@@ -1,0 +1,22 @@
+{
+  "id": "taraclia-novosiolovca-none",
+  "search": "",
+  "address": {
+    "district": "taraclia",
+    "city": "novosiolovca",
+    "street": "Lenin",
+    "building": ""
+  },
+  "name": {
+    "ro": "GIMNAZIUL NOVOSIOLOVCA",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "029434145"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "220106033377638"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "telenesti-budai-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "budai",
+    "street": "-",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Budăi",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025863294"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620010166"
+}

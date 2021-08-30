@@ -1,0 +1,22 @@
+{
+  "id": "leova-orac-none",
+  "search": "",
+  "address": {
+    "district": "leova",
+    "city": "orac",
+    "street": "-",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Orac",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "026352399"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620010007"
+}

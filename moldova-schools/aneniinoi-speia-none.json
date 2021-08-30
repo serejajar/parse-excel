@@ -1,0 +1,22 @@
+{
+  "id": "aneniinoi-speia-none",
+  "search": "",
+  "address": {
+    "district": "aneniinoi",
+    "city": "speia",
+    "street": "strada Ștefan cel Mare 10",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituția Publică Gimnaziul Speia",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "026574606"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620007639"
+}

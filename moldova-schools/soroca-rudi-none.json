@@ -1,0 +1,21 @@
+{
+  "id": "soroca-rudi-none",
+  "search": "",
+  "address": {
+    "district": "soroca",
+    "city": "rudi",
+    "building": ""
+  },
+  "name": {
+    "ro": "IPGimnaziul Rudi",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025193528"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601011342"
+}

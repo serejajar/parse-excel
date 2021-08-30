@@ -1,0 +1,22 @@
+{
+  "id": "telenesti-hiriseni-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "hiriseni",
+    "street": "s.Hiriseni",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP gimnaziul \"Ion Bînzari\"",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "(+258) 7-92-20"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1015620000391"
+}

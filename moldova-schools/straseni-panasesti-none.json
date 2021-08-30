@@ -1,0 +1,22 @@
+{
+  "id": "straseni-panasesti-none",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "panasesti",
+    "street": "s. Pănășești, r-nul Strășeni",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Pănăşeşti",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "023777215"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "33879866"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hincesti-onesti-none",
+  "search": "",
+  "address": {
+    "district": "hincesti",
+    "city": "onesti",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziul Oneşti",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "026958227"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620011580"
+}

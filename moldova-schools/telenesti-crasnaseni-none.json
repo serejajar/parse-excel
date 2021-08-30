@@ -1,0 +1,22 @@
+{
+  "id": "telenesti-crasnaseni-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "crasnaseni",
+    "street": "s.Crasnaseni, r.Telenesti",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Crăsnăşeni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025861223"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013601000093"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "orhei-berezlogi-none",
+  "search": "",
+  "address": {
+    "district": "orhei",
+    "city": "berezlogi",
+    "street": "satul Berezlogi",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Berezlogi",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "023567534"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011011"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "floresti-zaluceni-none",
+  "search": "",
+  "address": {
+    "district": "floresti",
+    "city": "zaluceni",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Zăluceni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0250-5-42-69"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000094"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "falesti-pruteni-none",
+  "search": "",
+  "address": {
+    "district": "falesti",
+    "city": "pruteni",
+    "street": "r-nul Fălești s.Pruteni",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Pruteni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025966573"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1008601000097"
+}

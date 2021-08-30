@@ -1,0 +1,22 @@
+{
+  "id": "dubasari-ustia-none",
+  "search": "",
+  "address": {
+    "district": "dubasari",
+    "city": "ustia",
+    "street": "Scolii 26",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Ustia",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "248-55-3-58"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620000157"
+}

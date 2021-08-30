@@ -1,0 +1,22 @@
+{
+  "id": "floresti-temeleuti-none",
+  "search": "",
+  "address": {
+    "district": "floresti",
+    "city": "temeleuti",
+    "street": "s. Temeleuţi, raionul Floreşti",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Temeleuţi",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025058343"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1006901000094"
+}

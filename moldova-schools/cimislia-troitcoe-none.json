@@ -1,0 +1,21 @@
+{
+  "id": "cimislia-troitcoe-none",
+  "search": "",
+  "address": {
+    "district": "cimislia",
+    "city": "troitcoe",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul  Troiţcoe",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024150210"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010690"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "drochia-mindic-none",
+  "search": "",
+  "address": {
+    "district": "drochia",
+    "city": "mindic",
+    "street": "s. Mîndîc",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Mîndîc",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025175215"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009692"
+}

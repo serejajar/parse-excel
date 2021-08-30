@@ -1,0 +1,21 @@
+{
+  "id": "cimislia-satulnou-none",
+  "search": "",
+  "address": {
+    "district": "cimislia",
+    "city": "satulnou",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul \"Tudor Strişcă\" Satul Nou, r. Cimişlia",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024154362"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620000718"
+}

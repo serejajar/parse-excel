@@ -1,0 +1,22 @@
+{
+  "id": "telenesti-inesti-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "inesti",
+    "street": "-",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Ineşti",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0258-50-293"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013601000093"
+}

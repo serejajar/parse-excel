@@ -1,0 +1,22 @@
+{
+  "id": "soldanesti-salcia-none",
+  "search": "",
+  "address": {
+    "district": "soldanesti",
+    "city": "salcia",
+    "street": "S.Salcia r-nul Soldanesti",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituția Publică Gimnaziul Salcia",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "027253187"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620010963"
+}

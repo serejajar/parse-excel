@@ -1,0 +1,22 @@
+{
+  "id": "ocnita-berezovca-none",
+  "search": "",
+  "address": {
+    "district": "ocnita",
+    "city": "berezovca",
+    "street": "s.Berezovca",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Berezovca",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0271-2-94-62"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011848"
+}

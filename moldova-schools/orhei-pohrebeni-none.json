@@ -1,0 +1,22 @@
+{
+  "id": "orhei-pohrebeni-none",
+  "search": "",
+  "address": {
+    "district": "orhei",
+    "city": "pohrebeni",
+    "street": "s.Pohrebeni,r.Orhei",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziul Pohrebeni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "023565244"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011310"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hincesti-bujor-none",
+  "search": "",
+  "address": {
+    "district": "hincesti",
+    "city": "bujor",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziul Bujor",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0269722269"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620012211"
+}

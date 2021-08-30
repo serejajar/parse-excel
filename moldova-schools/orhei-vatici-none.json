@@ -1,0 +1,22 @@
+{
+  "id": "orhei-vatici-none",
+  "search": "",
+  "address": {
+    "district": "orhei",
+    "city": "vatici",
+    "street": "s.Vatici, raionul Orhei",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituția Publică Gimnaziul Vatici",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0235 5-91-07"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1015620007507"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "orhei-piatra-none",
+  "search": "",
+  "address": {
+    "district": "orhei",
+    "city": "piatra",
+    "street": "s.Piatra, r-nul Orhei",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziul Piatra",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "235-58-2-86"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011181"
+}

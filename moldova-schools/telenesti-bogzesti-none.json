@@ -1,0 +1,21 @@
+{
+  "id": "telenesti-bogzesti-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "bogzesti",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Bogzeşti",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0258 43 216"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013601000093"
+}

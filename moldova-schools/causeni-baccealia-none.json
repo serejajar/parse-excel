@@ -1,0 +1,22 @@
+{
+  "id": "causeni-baccealia-none",
+  "search": "",
+  "address": {
+    "district": "causeni",
+    "city": "baccealia",
+    "street": "str. M. Eminescu, 16",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul \"Grigore Vieru\",s.Baccealia",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "243 79 2 44"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012608001690"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "hincesti-boghiceni-none",
+  "search": "",
+  "address": {
+    "district": "hincesti",
+    "city": "boghiceni",
+    "street": "Dacia, 39",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziul Boghiceni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "026942221"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620011487"
+}

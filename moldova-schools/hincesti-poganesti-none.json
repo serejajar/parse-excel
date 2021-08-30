@@ -1,0 +1,22 @@
+{
+  "id": "hincesti-poganesti-none",
+  "search": "",
+  "address": {
+    "district": "hincesti",
+    "city": "poganesti",
+    "street": "0",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziul Pogănești",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "026948217"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620012277"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "telenesti-pistruieni-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "pistruieni",
+    "street": "s. Pistruieni, r- nul Telenesti",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul ”Anton Moraru”, Pistruieni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025868244"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1015620000210"
+}

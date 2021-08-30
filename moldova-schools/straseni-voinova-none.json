@@ -1,0 +1,22 @@
+{
+  "id": "straseni-voinova-none",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "voinova",
+    "street": "s Voinova, r-l Străşeni",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Voinova",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0237 76293"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "3879866"
+}

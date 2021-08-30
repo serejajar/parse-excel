@@ -1,0 +1,22 @@
+{
+  "id": "edinet-terebna-none",
+  "search": "",
+  "address": {
+    "district": "edinet",
+    "city": "terebna",
+    "street": "s. Terebna, r. Edineț",
+    "building": ""
+  },
+  "name": {
+    "ro": "I.P. Gimnaziul Terebna",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024655388"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620008459"
+}

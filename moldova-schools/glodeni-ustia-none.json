@@ -1,0 +1,22 @@
+{
+  "id": "glodeni-ustia-none",
+  "search": "",
+  "address": {
+    "district": "glodeni",
+    "city": "ustia",
+    "street": "s.Ustia ,r-nGlodeni ,Republica Moldova",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziul Ustia",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "249-51-282"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000212"
+}

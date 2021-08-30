@@ -1,0 +1,22 @@
+{
+  "id": "edinet-parcova-none",
+  "search": "",
+  "address": {
+    "district": "edinet",
+    "city": "parcova",
+    "street": "s. Parcova, r-nul Edineț",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Parcova",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024669311"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620009272"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rezina-horodiste-none",
+  "search": "",
+  "address": {
+    "district": "rezina",
+    "city": "horodiste",
+    "street": "s.Horodiste,r-nul Rezina",
+    "building": ""
+  },
+  "name": {
+    "ro": "Institutia Publica Gimnaziul Horodişte",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025476336"
+  ],
+  "type": "Alte",
+  "idnp": "1013601000440"
+}

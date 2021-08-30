@@ -1,0 +1,22 @@
+{
+  "id": "glodeni-camenca-none",
+  "search": "",
+  "address": {
+    "district": "glodeni",
+    "city": "camenca",
+    "street": "s. Camenca",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziul ”V. Coroban”, s. Camenca",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "24977241"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "01009601000212"
+}

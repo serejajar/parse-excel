@@ -1,0 +1,21 @@
+{
+  "id": "ocnita-verejeni-none",
+  "search": "",
+  "address": {
+    "district": "ocnita",
+    "city": "verejeni",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul \"Al. Groppa\"",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0271-5-23-63"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011815"
+}

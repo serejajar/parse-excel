@@ -1,0 +1,22 @@
+{
+  "id": "floresti-casunca-none",
+  "search": "",
+  "address": {
+    "district": "floresti",
+    "city": "casunca",
+    "street": "r.Floreşti  s. Caşunca",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Caşunca",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025067444"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620012111"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "telenesti-mihalasa-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "mihalasa",
+    "street": "s. Mihalașa",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Mihalaşa",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0258 51215"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013601000093"
+}

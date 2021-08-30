@@ -1,0 +1,22 @@
+{
+  "id": "causeni-opaci-none",
+  "search": "",
+  "address": {
+    "district": "causeni",
+    "city": "opaci",
+    "street": "Letea nr.1",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul \"Ion Ungureanu\"",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024373249"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012608001911"
+}

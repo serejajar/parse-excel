@@ -1,0 +1,22 @@
+{
+  "id": "riscani-mihaileni-none",
+  "search": "",
+  "address": {
+    "district": "riscani",
+    "city": "mihaileni",
+    "street": "str.Murelor",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Mihăileni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025676218"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620000043"
+}

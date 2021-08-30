@@ -1,0 +1,22 @@
+{
+  "id": "cimislia-gradiste-none",
+  "search": "",
+  "address": {
+    "district": "cimislia",
+    "city": "gradiste",
+    "street": "Eminescu 45",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziu Gradişte",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0241-78-2-35"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010450"
+}

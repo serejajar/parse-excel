@@ -1,0 +1,22 @@
+{
+  "id": "donduseni-tirnova-none",
+  "search": "",
+  "address": {
+    "district": "donduseni",
+    "city": "tirnova",
+    "street": "Ion Mahu",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul \"C.Negruzzi\", Tîrnova",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025155454"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011365"
+}

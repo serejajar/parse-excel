@@ -1,0 +1,22 @@
+{
+  "id": "falesti-musteata-none",
+  "search": "",
+  "address": {
+    "district": "falesti",
+    "city": "musteata",
+    "street": "Ştefan Cel Mare",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Musteaţa",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025950559"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1008601000097"
+}

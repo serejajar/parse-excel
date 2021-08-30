@@ -1,0 +1,21 @@
+{
+  "id": "briceni-bogdanesti-none",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "bogdanesti",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Bogdăneşti",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024730339"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000131"
+}

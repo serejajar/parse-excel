@@ -1,0 +1,22 @@
+{
+  "id": "floresti-guracamencii-none",
+  "search": "",
+  "address": {
+    "district": "floresti",
+    "city": "guracamencii",
+    "street": "s.Gura Camencii",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Gura Camencii",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025043256"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014920000512"
+}

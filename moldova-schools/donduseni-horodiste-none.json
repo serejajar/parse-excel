@@ -1,0 +1,21 @@
+{
+  "id": "donduseni-horodiste-none",
+  "search": "",
+  "address": {
+    "district": "donduseni",
+    "city": "horodiste",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul \"Vasile Gangal\", Horodişte",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025140224"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1010601000162"
+}

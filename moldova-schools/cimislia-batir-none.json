@@ -1,0 +1,22 @@
+{
+  "id": "cimislia-batir-none",
+  "search": "",
+  "address": {
+    "district": "cimislia",
+    "city": "batir",
+    "street": "s. Batîr, r. Cimişlia",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Batîr",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024159343"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010379"
+}

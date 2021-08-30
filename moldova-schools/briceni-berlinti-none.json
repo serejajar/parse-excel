@@ -1,0 +1,21 @@
+{
+  "id": "briceni-berlinti-none",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "berlinti",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Berlinţi",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024764397"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000131"
+}

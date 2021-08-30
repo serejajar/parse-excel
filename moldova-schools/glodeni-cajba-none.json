@@ -1,0 +1,22 @@
+{
+  "id": "glodeni-cajba-none",
+  "search": "",
+  "address": {
+    "district": "glodeni",
+    "city": "cajba",
+    "street": "s.Cajba, r.Glodeni",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziul Cajba",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024952274"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000212"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "telenesti-ratus-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "ratus",
+    "street": "0",
+    "building": ""
+  },
+  "name": {
+    "ro": "I.P. Gimnaziul Ratuş",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "25871226"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620010085"
+}

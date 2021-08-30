@@ -1,0 +1,21 @@
+{
+  "id": "falesti-horesti-none",
+  "search": "",
+  "address": {
+    "district": "falesti",
+    "city": "horesti",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Horeşti",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0-259-77-1-39"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620011742"
+}

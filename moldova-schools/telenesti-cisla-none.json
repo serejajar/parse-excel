@@ -1,0 +1,22 @@
+{
+  "id": "telenesti-cisla-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "cisla",
+    "street": "Satul Cîșla",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Cîşla",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025892054"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013601000093"
+}

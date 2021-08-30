@@ -1,0 +1,22 @@
+{
+  "id": "donduseni-plop-none",
+  "search": "",
+  "address": {
+    "district": "donduseni",
+    "city": "plop",
+    "street": "s. Plop, r-nul Dondușeni",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Plop",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "251-71-2-26"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620000320"
+}

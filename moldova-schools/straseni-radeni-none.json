@@ -1,0 +1,21 @@
+{
+  "id": "straseni-radeni-none",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "radeni",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Rădeni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "023757286"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "3879866"
+}

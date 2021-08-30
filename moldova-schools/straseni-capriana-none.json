@@ -1,0 +1,21 @@
+{
+  "id": "straseni-capriana-none",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "capriana",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Căpriana",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "023768340"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "3879866"
+}

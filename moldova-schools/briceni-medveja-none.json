@@ -1,0 +1,21 @@
+{
+  "id": "briceni-medveja-none",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "medveja",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Medveja",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024732264"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000131"
+}

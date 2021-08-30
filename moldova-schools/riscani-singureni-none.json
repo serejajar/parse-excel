@@ -1,0 +1,22 @@
+{
+  "id": "riscani-singureni-none",
+  "search": "",
+  "address": {
+    "district": "riscani",
+    "city": "singureni",
+    "street": "Mihai Viteazul 67",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Singureni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "256-71-4-40"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620000098"
+}

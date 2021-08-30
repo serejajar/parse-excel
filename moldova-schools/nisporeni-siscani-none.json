@@ -1,0 +1,22 @@
+{
+  "id": "nisporeni-siscani-none",
+  "search": "",
+  "address": {
+    "district": "nisporeni",
+    "city": "siscani",
+    "street": "Ștefan cel Mare 111",
+    "building": ""
+  },
+  "name": {
+    "ro": "I.P.Gimnaziul Şişcani",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0-264-427-11"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "35087712"
+}

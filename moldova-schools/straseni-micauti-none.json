@@ -1,0 +1,21 @@
+{
+  "id": "straseni-micauti-none",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "micauti",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul „Valentin Slobozenco”, Micăuţi",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "023764345"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "3879866"
+}

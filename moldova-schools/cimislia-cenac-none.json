@@ -1,0 +1,21 @@
+{
+  "id": "cimislia-cenac-none",
+  "search": "",
+  "address": {
+    "district": "cimislia",
+    "city": "cenac",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Cenac",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0241-38-2-31"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010405"
+}

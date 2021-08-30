@@ -1,0 +1,22 @@
+{
+  "id": "criuleni-miclesti-none",
+  "search": "",
+  "address": {
+    "district": "criuleni",
+    "city": "miclesti",
+    "street": "-",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Micleşti",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024836088"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009245"
+}

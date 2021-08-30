@@ -1,0 +1,22 @@
+{
+  "id": "cantemir-plopi-none",
+  "search": "",
+  "address": {
+    "district": "cantemir",
+    "city": "plopi",
+    "street": "Jubileului 10",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituţia Publică gimnaziul Plopi",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "27345276"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620008164"
+}

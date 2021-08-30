@@ -1,0 +1,22 @@
+{
+  "id": "basarabeasca-iserlia-none",
+  "search": "",
+  "address": {
+    "district": "basarabeasca",
+    "city": "iserlia",
+    "street": "SCOLII 9",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Iserlia",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "029758225"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1020000158"
+}

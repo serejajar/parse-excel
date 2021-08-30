@@ -1,0 +1,22 @@
+{
+  "id": "falesti-pompa-none",
+  "search": "",
+  "address": {
+    "district": "falesti",
+    "city": "pompa",
+    "street": "r.Fălești, s.Pompa",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituția Publică Gimnaziul Pompa",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025955649"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620000534"
+}

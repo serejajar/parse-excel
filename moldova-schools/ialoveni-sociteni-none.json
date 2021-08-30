@@ -1,0 +1,22 @@
+{
+  "id": "ialoveni-sociteni-none",
+  "search": "",
+  "address": {
+    "district": "ialoveni",
+    "city": "sociteni",
+    "street": "Tudor Ciorescu , 42",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Sociteni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "268-35-2-95"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620008606"
+}

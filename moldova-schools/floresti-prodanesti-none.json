@@ -1,0 +1,22 @@
+{
+  "id": "floresti-prodanesti-none",
+  "search": "",
+  "address": {
+    "district": "floresti",
+    "city": "prodanesti",
+    "street": "com. Prodănești, r. Florești",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Prodăneşti",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "25044359"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620012144"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "soroca-holosnita-none",
+  "search": "",
+  "address": {
+    "district": "soroca",
+    "city": "holosnita",
+    "street": "nu",
+    "building": ""
+  },
+  "name": {
+    "ro": "iI.P.Gimnaziul, Holoşniţa",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "023070054"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601011342"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "telenesti-banestiinoi-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "banestiinoi",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Băneştii Noi",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "25857704"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620010018"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "edinet-corpaci-none",
+  "search": "",
+  "address": {
+    "district": "edinet",
+    "city": "corpaci",
+    "street": "Mihai Eminescu 16",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Corpaci",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024657376"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000142"
+}

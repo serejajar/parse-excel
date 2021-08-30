@@ -1,0 +1,22 @@
+{
+  "id": "straseni-dolna-none",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "dolna",
+    "street": "MDA Strășeni Dolna",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Dolna",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0-237-58-2-32"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "3879866"
+}

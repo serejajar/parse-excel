@@ -1,0 +1,22 @@
+{
+  "id": "edinet-ruseni-none",
+  "search": "",
+  "address": {
+    "district": "edinet",
+    "city": "ruseni",
+    "street": "s.RUSENI",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Ruseni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024665303"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000142"
+}

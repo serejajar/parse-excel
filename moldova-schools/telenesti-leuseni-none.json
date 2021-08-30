@@ -1,0 +1,22 @@
+{
+  "id": "telenesti-leuseni-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "leuseni",
+    "street": "-",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul ”Eleonora Romanescu”, Leuşeni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0258-74-254"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620000121"
+}

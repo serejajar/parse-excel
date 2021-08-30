@@ -1,0 +1,22 @@
+{
+  "id": "leova-sirma-none",
+  "search": "",
+  "address": {
+    "district": "leova",
+    "city": "sirma",
+    "street": "satul Sîrma",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Sîrma",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0263-71-2-10"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620012749"
+}

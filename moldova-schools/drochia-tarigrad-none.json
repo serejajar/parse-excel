@@ -1,0 +1,22 @@
+{
+  "id": "drochia-tarigrad-none",
+  "search": "",
+  "address": {
+    "district": "drochia",
+    "city": "tarigrad",
+    "street": "s.Țarigrad",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul \"Ion Creangă\", Ţarigrad",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025271286"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620012716"
+}

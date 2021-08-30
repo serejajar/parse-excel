@@ -1,0 +1,22 @@
+{
+  "id": "nisporeni-boltun-none",
+  "search": "",
+  "address": {
+    "district": "nisporeni",
+    "city": "boltun",
+    "street": "S.BOLŢUN",
+    "building": ""
+  },
+  "name": {
+    "ro": "IPGimnaziul, Bolţun",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "TEL. FIX: 026461235"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "35087712"
+}

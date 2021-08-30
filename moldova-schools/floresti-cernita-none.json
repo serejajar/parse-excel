@@ -1,0 +1,22 @@
+{
+  "id": "floresti-cernita-none",
+  "search": "",
+  "address": {
+    "district": "floresti",
+    "city": "cernita",
+    "street": "s. Cernița, r-ul Florești",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Cerniţa",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "250-59-276 ;250-94-191"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000094"
+}

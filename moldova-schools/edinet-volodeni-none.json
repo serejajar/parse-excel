@@ -1,0 +1,22 @@
+{
+  "id": "edinet-volodeni-none",
+  "search": "",
+  "address": {
+    "district": "edinet",
+    "city": "volodeni",
+    "street": "s.Volodeni, r-nul Edineț",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Volodeni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0246 61 3 01"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000142"
+}

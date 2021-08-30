@@ -1,0 +1,22 @@
+{
+  "id": "telenesti-verejeni-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "verejeni",
+    "street": "s. Verejeni, r. Telenești",
+    "building": ""
+  },
+  "name": {
+    "ro": "I.P.Gimnaziul ” Nicolae Popa”",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "069974717"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1014620000213"
+}

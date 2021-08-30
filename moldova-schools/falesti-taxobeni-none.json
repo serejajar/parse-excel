@@ -1,0 +1,22 @@
+{
+  "id": "falesti-taxobeni-none",
+  "search": "",
+  "address": {
+    "district": "falesti",
+    "city": "taxobeni",
+    "street": "s.Taxobeni, r.Fălești",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Taxobeni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "0259-68-6-25"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1008601000097"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "telenesti-banesti-none",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "banesti",
+    "street": "s.Bănești, r. Telenești",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Băneşti",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "25857292"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620011398"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "riscani-sturzeni-none",
+  "search": "",
+  "address": {
+    "district": "riscani",
+    "city": "sturzeni",
+    "street": "s.Sturzeni,r.Riscani",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Sturzeni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "025666438,025666222"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601010998"
+}

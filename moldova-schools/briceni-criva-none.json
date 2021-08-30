@@ -1,0 +1,21 @@
+{
+  "id": "briceni-criva-none",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "criva",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Criva",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "024747350"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000131"
+}

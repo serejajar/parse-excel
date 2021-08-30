@@ -1,0 +1,21 @@
+{
+  "id": "soroca-badiceni-none",
+  "search": "",
+  "address": {
+    "district": "soroca",
+    "city": "badiceni",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituţia Publică Gimnaziul Bădiceni",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "023041420"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "123345"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cantemir-sadic-none",
+  "search": "",
+  "address": {
+    "district": "cantemir",
+    "city": "sadic",
+    "street": "N.Sulac-17",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituţia Publică Gimnaziul \"Nicolae Sulac\"",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "029875293"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620008289"
+}

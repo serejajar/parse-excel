@@ -1,0 +1,22 @@
+{
+  "id": "straseni-roscani-none",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "roscani",
+    "street": "r. Străşeni, s. Roşcani",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Roşcani",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "023765249"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "3879866"
+}

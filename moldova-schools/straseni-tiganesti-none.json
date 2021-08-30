@@ -1,0 +1,21 @@
+{
+  "id": "straseni-tiganesti-none",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "tiganesti",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Ţigăneşti",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [],
+  "profiles": [],
+  "phones": [
+    "63146"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "3879866"
+}
