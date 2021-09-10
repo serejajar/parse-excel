@@ -31,5 +31,34 @@
     "026956285"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010036"
+  "idnp": "1012620010036",
+  "directors": [
+    {
+      "name": "BEREHOI ANA, TEL. 026956478 MOBIL: 069650955",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 239,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 31,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

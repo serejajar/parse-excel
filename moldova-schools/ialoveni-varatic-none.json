@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0-268-75-356"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620008628"
+  "idnp": "1012620008628",
+  "directors": [
+    {
+      "name": "Cojocari Dinu\r\n079220340  026875356",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 106,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 6,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

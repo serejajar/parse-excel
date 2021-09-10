@@ -1,0 +1,47 @@
+{
+  "id": "balti-balti-489977386",
+  "search": "",
+  "address": {
+    "district": "balti",
+    "city": "balti",
+    "street": "Copernic",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr. 9",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "023124567"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "184542___(balti-balti-489977386)",
+  "directors": [
+    {
+      "name": "L. Plasiciuc\r\n069488748",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 188,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
+}

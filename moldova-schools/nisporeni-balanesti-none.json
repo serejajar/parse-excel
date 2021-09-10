@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "264 53 2 31"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620012082"
+  "idnp": "1013620012082",
+  "directors": [
+    {
+      "name": "CHIRTOACĂ SVETLANA, 026494392 069712103",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 202,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 21,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

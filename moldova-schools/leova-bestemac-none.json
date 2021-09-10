@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0263-59-2-49"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601011331___(leova-bestemac-none)"
+  "idnp": "1007601011331___(leova-bestemac-none)",
+  "directors": [
+    {
+      "name": "Lungu Daniela,    telefon fix 263-5-92-24, mobil 078157240",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 12,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 66,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 15,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

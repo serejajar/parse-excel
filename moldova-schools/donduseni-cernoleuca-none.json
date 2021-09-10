@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025177440"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011309"
+  "idnp": "1012620011309",
+  "directors": [
+    {
+      "name": "Frecăuţanu Rodica, 0251-77-532, 060217446",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 151,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 15,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

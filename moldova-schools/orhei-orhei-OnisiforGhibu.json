@@ -66,5 +66,34 @@
     "023524720"
   ],
   "type": "Liceu",
-  "idnp": "1015620007471"
+  "idnp": "1015620007471",
+  "directors": [
+    {
+      "name": "BULAT EUGENIA,",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 37,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 374,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 19,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 8,
+      "interactiveTable": 7,
+      "year": "2017"
+    }
+  ]
 }

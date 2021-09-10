@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0-273-75-231"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010656"
+  "idnp": "1012620010656",
+  "directors": [
+    {
+      "name": "CULEA MARIA 027375387, 079126497",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 176,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

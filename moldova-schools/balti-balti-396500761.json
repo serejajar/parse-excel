@@ -1,0 +1,53 @@
+{
+  "id": "balti-balti-396500761",
+  "search": "",
+  "address": {
+    "district": "balti",
+    "city": "balti",
+    "street": "Dubinovschi 19a",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr. 10",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "0231-6-29-70"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "184542___(balti-balti-396500761)",
+  "directors": [
+    {
+      "name": "MARINA CRICLIVAIA, 6-25-97,079067590",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 214,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 10,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

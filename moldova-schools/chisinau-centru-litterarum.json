@@ -66,5 +66,34 @@
     "022289034"
   ],
   "type": "Liceu",
-  "idnp": "1003600094014"
+  "idnp": "1003600094014",
+  "directors": [
+    {
+      "name": "PRISACUTA MARIA, TEL. FIX: 022289034, MOBIL 069275925",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 44,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 456,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 24,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

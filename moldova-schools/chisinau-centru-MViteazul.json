@@ -66,5 +66,33 @@
     "022-73-39-87"
   ],
   "type": "Liceu",
-  "idnp": "1013620005886"
+  "idnp": "1013620005886",
+  "directors": [
+    {
+      "name": "NELLY BEREZOVSCHI \r\n022-73-39-87\r\nnelly_be@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 113,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1652,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

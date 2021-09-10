@@ -1,0 +1,52 @@
+{
+  "id": "balti-balti-594109624",
+  "search": "",
+  "address": {
+    "district": "balti",
+    "city": "balti",
+    "street": "SADOVEANU, 54",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr.2",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "0231-2-53-54"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "184542___(balti-balti-594109624)",
+  "directors": [
+    {
+      "name": "FLORESCU ROMAN",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 149,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

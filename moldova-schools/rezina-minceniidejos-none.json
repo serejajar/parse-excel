@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0254-92-1-14"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620008220"
+  "idnp": "1014620008220",
+  "directors": [
+    {
+      "name": "Brasovean Tatiana",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 6,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 2,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

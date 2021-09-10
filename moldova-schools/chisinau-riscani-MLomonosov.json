@@ -52,5 +52,34 @@
     "022466931"
   ],
   "type": "Liceu",
-  "idnp": "7025530"
+  "idnp": "7025530",
+  "directors": [
+    {
+      "name": "GURIEV LUDMILA, 22 46-08-28, 795-2-06-18,       lomonosov46@list.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 36,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 351,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 12,
+      "notebook": 0,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

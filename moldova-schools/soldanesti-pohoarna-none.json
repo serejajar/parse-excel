@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "027247281"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620011041"
+  "idnp": "1013620011041",
+  "directors": [
+    {
+      "name": "Groza Ruslan",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 135,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 11,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

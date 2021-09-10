@@ -66,5 +66,34 @@
     "026237387"
   ],
   "type": "Liceu",
-  "idnp": "1013630001006"
+  "idnp": "1013630001006",
+  "directors": [
+    {
+      "name": "Petrov Vitalie tel fix 026237182/068247747",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 59,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 751,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 12,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -65,5 +65,33 @@
     "/0259/ 25457"
   ],
   "type": "Liceu",
-  "idnp": "1012620011619"
+  "idnp": "1012620011619",
+  "directors": [
+    {
+      "name": "TABANSCAIA LIUDMILA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 49,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 508,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 5,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

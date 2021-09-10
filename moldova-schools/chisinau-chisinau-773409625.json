@@ -1,0 +1,52 @@
+{
+  "id": "chisinau-chisinau-773409625",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "bd. Cuza Vodă 18/4",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala-grădiniţa nr. 124",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022 77 95 11"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "20437510___(chisinau-chisinau-773409625)",
+  "directors": [
+    {
+      "name": "FURCULIȚA ANGELA \r\n022 779511 \r\n069482403",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 94,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

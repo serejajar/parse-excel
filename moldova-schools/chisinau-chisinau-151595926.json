@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-151595926",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "P.Zadnipru, 2/3",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala primară nr. 95, mun. Chişinău",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022 338856"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1007601009565___(chisinau-chisinau-151595926)",
+  "directors": [
+    {
+      "name": "IVAŞCENCO TATIANA 022604402 \r\n078903002",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 272,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 5,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

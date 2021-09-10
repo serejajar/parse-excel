@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025062649"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000094___(floresti-izvoare-none)"
+  "idnp": "1009601000094___(floresti-izvoare-none)",
+  "directors": [
+    {
+      "name": "Nestor Ludmila,025062227, 060077630",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 132,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

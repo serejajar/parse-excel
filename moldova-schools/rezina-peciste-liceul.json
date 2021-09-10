@@ -30,5 +30,34 @@
     "025474224"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620012428"
+  "idnp": "1013620012428",
+  "directors": [
+    {
+      "name": "URSU EFIMIA\r\ngimnaziupeciste@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 225,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

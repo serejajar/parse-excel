@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-687671810",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Andrei Doga 32/1",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituția Publică Şcoala primară-grădiniţa nr. 199, mun. Chişinău",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022442226"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1015620000106",
+  "directors": [
+    {
+      "name": "Ceaușceac Iana\r\n022-44-22-26",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 6,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 87,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

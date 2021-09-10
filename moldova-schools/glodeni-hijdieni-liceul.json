@@ -31,5 +31,34 @@
     "024956381"
   ],
   "type": "Gimnaziu",
-  "idnp": "1016620000642"
+  "idnp": "1016620000642",
+  "directors": [
+    {
+      "name": "Grama Daniela 024956358\r\n068905559",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 332,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 32,
+      "notebook": 12,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

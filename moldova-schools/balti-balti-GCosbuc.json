@@ -59,5 +59,34 @@
     "023166016"
   ],
   "type": "Liceu",
-  "idnp": "184542___(balti-balti-GCosbuc)"
+  "idnp": "184542___(balti-balti-GCosbuc)",
+  "directors": [
+    {
+      "name": "Bujor Viorica",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 73,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1243,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 55,
+      "notebook": 57,
+      "netbook": 60,
+      "tabletPC": 20,
+      "proector": 7,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

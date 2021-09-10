@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "024665580"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620008482"
+  "idnp": "1014620008482",
+  "directors": [
+    {
+      "name": "Prodan Elena\r\n024665349",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 10,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 64,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 4,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

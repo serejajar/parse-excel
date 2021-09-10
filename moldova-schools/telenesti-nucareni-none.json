@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0(258)46433"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620010177"
+  "idnp": "1014620010177",
+  "directors": [
+    {
+      "name": "Popescu Svetlana, tel.fix:0258-46-263, 068113459",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 84,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -56,7 +56,7 @@
     }
   ],
   "langs": [
-    "engleza"
+    "rusa"
   ],
   "profiles": [
     "real",
@@ -66,5 +66,34 @@
     "0298-68-4-35"
   ],
   "type": "Liceu",
-  "idnp": "1012601000247"
+  "idnp": "1012601000247",
+  "directors": [
+    {
+      "name": "MINCU ANNA\r\n0298-68-4-35",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 138,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 26,
+      "notebook": 17,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 10,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

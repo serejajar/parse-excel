@@ -66,5 +66,28 @@
     "022745592"
   ],
   "type": "Liceu",
-  "idnp": "1007600006040"
+  "idnp": "1007600006040",
+  "directors": [
+    {
+      "name": "Gînju Gheorghe",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 53,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 662,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
 }

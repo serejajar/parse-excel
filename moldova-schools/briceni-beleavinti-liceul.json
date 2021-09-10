@@ -35,7 +35,7 @@
     }
   ],
   "langs": [
-    "rusa"
+    "romana"
   ],
   "profiles": [
     "umanist"
@@ -44,5 +44,34 @@
     "0-247-45-3-12"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000131___(briceni-beleavinti-liceul)"
+  "idnp": "1009601000131___(briceni-beleavinti-liceul)",
+  "directors": [
+    {
+      "name": "Bejenari Zinaida, 0-247-45-3-12, 069558170",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 165,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

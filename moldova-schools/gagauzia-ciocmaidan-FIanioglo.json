@@ -35,7 +35,7 @@
     }
   ],
   "langs": [
-    "rusa"
+    "gagauza"
   ],
   "profiles": [
     "real"
@@ -44,5 +44,34 @@
     "373-298-55-3-31"
   ],
   "type": "Liceu",
-  "idnp": "1011601000387"
+  "idnp": "1011601000387",
+  "directors": [
+    {
+      "name": "Știroi Maria, стац.тел.\r\n 373-298-55-3-31,\r\n моб. 069217546",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 193,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 30,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 9,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

@@ -65,5 +65,34 @@
     "024372292"
   ],
   "type": "Liceu",
-  "idnp": "1012608001944"
+  "idnp": "1012608001944",
+  "directors": [
+    {
+      "name": "CERNAT RICA  TEL. FIX 0243-72-292   MOBIL:  069259346",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 35,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 467,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 32,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

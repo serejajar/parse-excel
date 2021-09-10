@@ -66,5 +66,34 @@
     "0-248-2-21-97"
   ],
   "type": "Liceu",
-  "idnp": "1012620009577"
+  "idnp": "1012620009577",
+  "directors": [
+    {
+      "name": "NOVIC ANA, 0-248-22-1-97; 069146714",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 42,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 536,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 30,
+      "notebook": 24,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

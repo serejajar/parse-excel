@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "248-7-82-41"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009304"
+  "idnp": "1012620009304",
+  "directors": [
+    {
+      "name": "CRIŞMARIUC ECATERINA 248-7-83-30  069187846",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 212,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

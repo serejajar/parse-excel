@@ -1,0 +1,52 @@
+{
+  "id": "singerei-sacarovca-379640060",
+  "search": "",
+  "address": {
+    "district": "singerei",
+    "city": "sacarovca",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Sacarovca",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "0262 3-96-43"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601011098___(singerei-sacarovca-379640060)",
+  "directors": [
+    {
+      "name": "Osipova Aliona   0262 3-95-16",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 0,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 41,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 1,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

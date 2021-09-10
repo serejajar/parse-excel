@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "023672254"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620011214"
+  "idnp": "1013620011214",
+  "directors": [
+    {
+      "name": "Gurdis Dumitru_069488984",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 159,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

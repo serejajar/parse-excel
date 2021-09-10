@@ -66,5 +66,34 @@
     "026524330"
   ],
   "type": "Liceu",
-  "idnp": "1012620009119"
+  "idnp": "1012620009119",
+  "directors": [
+    {
+      "name": "BORISOV VICTORIA, TEL.FIX 026525961, MOB.069993912",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 73,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 952,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 44,
+      "notebook": 7,
+      "netbook": 30,
+      "tabletPC": 0,
+      "proector": 8,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

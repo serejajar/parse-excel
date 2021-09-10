@@ -1,0 +1,47 @@
+{
+  "id": "chisinau-chisinau-243006731",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "bulevardul Dacia 45A",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituţia Privată Liceul \"Şcoala Internaţională Heritage\"",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "(0) 62022210, (022)022210"
+  ],
+  "type": "Liceu",
+  "idnp": "1017620003396",
+  "directors": [
+    {
+      "name": "Bogdanka Adamu",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 51,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 253,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
+}

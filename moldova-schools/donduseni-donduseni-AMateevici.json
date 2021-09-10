@@ -66,5 +66,33 @@
     "0-251-2-21-07"
   ],
   "type": "Liceu",
-  "idnp": "1012620011284"
+  "idnp": "1012620011284",
+  "directors": [
+    {
+      "name": "GRIGORIEV GULNARA  079573583",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 50,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 564,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0-236-55-307"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620001040"
+  "idnp": "1013620001040",
+  "directors": [
+    {
+      "name": "ȘOBRANEȚCHI IULIA,    236-55272",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 179,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 2,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

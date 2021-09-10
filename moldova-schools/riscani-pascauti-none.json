@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "025675293"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601010998___(riscani-pascauti-none)"
+  "idnp": "1007601010998___(riscani-pascauti-none)",
+  "directors": [
+    {
+      "name": "Вольская Наталья, 025675276, 069972933",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 10,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 51,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

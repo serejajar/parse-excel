@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "248-55-3-58"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000157"
+  "idnp": "1013620000157",
+  "directors": [
+    {
+      "name": "Valentina Tomas",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 289,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

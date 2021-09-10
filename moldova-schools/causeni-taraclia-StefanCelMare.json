@@ -66,5 +66,34 @@
     "0-243-61-258"
   ],
   "type": "Liceu",
-  "idnp": "1012608001704"
+  "idnp": "1012608001704",
+  "directors": [
+    {
+      "name": "TRACI PELAGHIA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 32,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 462,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 43,
+      "notebook": 4,
+      "netbook": 41,
+      "tabletPC": 1,
+      "proector": 10,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

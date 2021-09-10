@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "023657003"
   ],
   "type": "Gimnaziu",
-  "idnp": "187509___(ungheni-floritoaianoua-none)"
+  "idnp": "187509___(ungheni-floritoaianoua-none)",
+  "directors": [
+    {
+      "name": "BAMBULEAC ADRIAN\r\ntel.023657139\r\nmobil 076734081",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 153,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

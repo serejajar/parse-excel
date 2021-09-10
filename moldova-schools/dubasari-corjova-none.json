@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024892234"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007600007391"
+  "idnp": "1007600007391",
+  "directors": [
+    {
+      "name": "SUCITU CONSTANTIN 024892015  3-21-91  069114754",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 63,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

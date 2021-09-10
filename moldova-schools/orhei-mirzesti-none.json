@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "023563264"
   ],
   "type": "Gimnaziu",
-  "idnp": "1015620007518"
+  "idnp": "1015620007518",
+  "directors": [
+    {
+      "name": "Creţu  Dorina,tel. fix. 0235 63 264,tel. mob. 068549080",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 136,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 13,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

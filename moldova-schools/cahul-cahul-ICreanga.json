@@ -66,5 +66,34 @@
     "029925875"
   ],
   "type": "Liceu",
-  "idnp": "1012620010081"
+  "idnp": "1012620010081",
+  "directors": [
+    {
+      "name": "CARAJA RODICA 299-25875  079116132",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 44,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 657,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 37,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+{
+  "id": "stefanvoda-stefanvoda-326630928",
+  "search": "",
+  "address": {
+    "district": "stefanvoda",
+    "city": "stefanvoda",
+    "street": "LIBERTATII, 8",
+    "building": ""
+  },
+  "name": {
+    "ro": "Liceul Teoretic „Ştefan Vodă”, or. Ştefan Vodă",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "0242-2-27-87; 0242-2-00-65"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620008950",
+  "directors": [
+    {
+      "name": "Cornițel Elena, 0-242-2-00-65",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 51,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 603,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 30,
+      "notebook": 11,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 5,
+      "year": "2017"
+    }
+  ]
+}

@@ -65,5 +65,34 @@
     "0-247-4-33-20"
   ],
   "type": "Liceu",
-  "idnp": "1009601000131___(briceni-tabani-liceul)"
+  "idnp": "1009601000131___(briceni-tabani-liceul)",
+  "directors": [
+    {
+      "name": "GUȚU LEONID          247-4-34-65         068182050",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 270,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -66,5 +66,34 @@
     "0-256-2-36-82"
   ],
   "type": "Liceu",
-  "idnp": "1013620000607"
+  "idnp": "1013620000607",
+  "directors": [
+    {
+      "name": "CIUMAC DANIELA\r\n025623682\r\n068503990",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 59,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 649,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 29,
+      "notebook": 23,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 15,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

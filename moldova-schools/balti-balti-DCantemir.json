@@ -66,5 +66,34 @@
     "023123458"
   ],
   "type": "Liceu",
-  "idnp": "184542___(balti-balti-DCantemir)"
+  "idnp": "184542___(balti-balti-DCantemir)",
+  "directors": [
+    {
+      "name": "MURZAC ANGELA,0231-2-34-58,069059659",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 57,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 828,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 35,
+      "notebook": 31,
+      "netbook": 60,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

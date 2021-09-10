@@ -66,5 +66,34 @@
     "0268-51252"
   ],
   "type": "Liceu",
-  "idnp": "1012620008732"
+  "idnp": "1012620008732",
+  "directors": [
+    {
+      "name": "BIVOL MARIA 026851252,\r\n069496062",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 34,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 539,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 25,
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

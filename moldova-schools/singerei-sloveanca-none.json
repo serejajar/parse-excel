@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026292287"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601011098___(singerei-sloveanca-none)"
+  "idnp": "1007601011098___(singerei-sloveanca-none)",
+  "directors": [
+    {
+      "name": "Galben Svetlana, 026292213,069702156",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 91,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

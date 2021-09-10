@@ -35,7 +35,7 @@
     }
   ],
   "langs": [
-    "romana"
+    "alta"
   ],
   "profiles": [
     "real"
@@ -44,5 +44,33 @@
     "026260221"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000995"
+  "idnp": "1013620000995",
+  "directors": [
+    {
+      "name": "Vechiu Natalia, 262-6-01-96, 069279181",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 34,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 426,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

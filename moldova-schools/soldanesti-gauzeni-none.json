@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0-272-46-2-10"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620010974"
+  "idnp": "1013620010974",
+  "directors": [
+    {
+      "name": "Ceban Viorica, 068519297\r\n027246123\r\n027246210",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 169,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

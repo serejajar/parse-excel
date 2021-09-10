@@ -65,5 +65,34 @@
     "026322333"
   ],
   "type": "Liceu",
-  "idnp": "1012620010520"
+  "idnp": "1012620010520",
+  "directors": [
+    {
+      "name": "STANISLAV LOZAN \r\n026322333, 067328989 /  079594816",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 57,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 657,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 15,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 13,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

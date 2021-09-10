@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0 243 66 455"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012608001922"
+  "idnp": "1012608001922",
+  "directors": [
+    {
+      "name": "POPESCU GALINA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 200,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 1,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

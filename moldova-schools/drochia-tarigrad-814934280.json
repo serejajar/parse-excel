@@ -1,0 +1,53 @@
+{
+  "id": "drochia-tarigrad-814934280",
+  "search": "",
+  "address": {
+    "district": "drochia",
+    "city": "tarigrad",
+    "street": "s.Ţarigrad rnul Drochia",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Ţarigrad",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "025271591"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009474",
+  "directors": [
+    {
+      "name": "Bodean Ana FIX 025271549 MOB. 078233299",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 174,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 27,
+      "notebook": 0,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

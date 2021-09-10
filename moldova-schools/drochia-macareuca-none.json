@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025234135"
   ],
   "type": "Alte",
-  "idnp": "1015620008227"
+  "idnp": "1015620008227",
+  "directors": [
+    {
+      "name": "Sprincean Nelea,025234065",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 4,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

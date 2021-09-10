@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-692904505",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Munceşti 400",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr.31",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022553093"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "17993___(chisinau-chisinau-692904505)",
+  "directors": [
+    {
+      "name": "Pînzaru Nina \r\nFix. 022553093 Mob.068414999",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 32,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 438,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 13,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

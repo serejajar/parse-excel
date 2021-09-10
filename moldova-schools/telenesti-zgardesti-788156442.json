@@ -1,0 +1,51 @@
+{
+  "id": "telenesti-zgardesti-788156442",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "zgardesti",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Zgărdeşti",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "25845406"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013601000093___(telenesti-zgardesti-788156442)",
+  "directors": [
+    {
+      "name": "Fialcovschi Ina\r\n acasa fix:025845208; mobil:067386460,",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 0,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 0,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

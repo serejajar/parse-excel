@@ -12,11 +12,36 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024193745"
   ],
   "type": "Şcoală primară",
-  "idnp": "1017620000199"
+  "idnp": "1017620000199",
+  "directors": [
+    {
+      "name": "Certan Tatiana, 241-93-7-04, 068470390, 067345380",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 3,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
 }

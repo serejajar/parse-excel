@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "027254390"
   ],
   "type": "Şcoală primară",
-  "idnp": "1016601000201___(soldanesti-socola-none)"
+  "idnp": "1016601000201___(soldanesti-socola-none)",
+  "directors": [
+    {
+      "name": "Paierele Valenntina,027254504,060207670",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 5,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 12,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

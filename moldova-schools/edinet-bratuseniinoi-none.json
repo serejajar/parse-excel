@@ -11,11 +11,38 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "246-49-2-23"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000142___(edinet-bratuseniinoi-none)"
+  "idnp": "1009601000142___(edinet-bratuseniinoi-none)",
+  "directors": [
+    {
+      "name": "GOSTINAR EMILIA 246-49-2-23;",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 11,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 62,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 3,
+      "notebook": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -65,5 +65,33 @@
     "44-53-83"
   ],
   "type": "Liceu",
-  "idnp": "1011601000228"
+  "idnp": "1011601000228",
+  "directors": [
+    {
+      "name": "Stati Nicoleta",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 31,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 112,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

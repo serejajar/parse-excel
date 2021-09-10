@@ -66,5 +66,33 @@
     "0(241)22256"
   ],
   "type": "Liceu",
-  "idnp": "1012620011055"
+  "idnp": "1012620011055",
+  "directors": [
+    {
+      "name": "Comerzan Tatiana, TELEFON 241-22256, MOBIL069559183",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 56,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 685,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 46,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

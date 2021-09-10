@@ -58,5 +58,34 @@
     "026837351"
   ],
   "type": "Liceu",
-  "idnp": "1012620008721"
+  "idnp": "1012620008721",
+  "directors": [
+    {
+      "name": "Ciobanu Zinaida, 026837351, 026837969, 060110504",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 34,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 539,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 22,
+      "notebook": 11,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

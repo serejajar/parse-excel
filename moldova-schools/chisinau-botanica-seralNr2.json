@@ -56,8 +56,7 @@
     }
   ],
   "langs": [
-    "romana",
-    "rusa"
+    "romana"
   ],
   "profiles": [
     "real",
@@ -67,5 +66,34 @@
     "022-76-36-34"
   ],
   "type": "Liceu",
-  "idnp": "17993___(chisinau-botanica-seralNr2)"
+  "idnp": "17993___(chisinau-botanica-seralNr2)",
+  "directors": [
+    {
+      "name": "Jora Tatiana",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 27,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 510,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 17,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

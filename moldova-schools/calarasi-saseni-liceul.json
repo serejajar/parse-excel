@@ -30,5 +30,34 @@
     "024466235"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011882"
+  "idnp": "1012620011882",
+  "directors": [
+    {
+      "name": "Gancearuc Aliona 0244 43 258; mob.069420025",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 174,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 13,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

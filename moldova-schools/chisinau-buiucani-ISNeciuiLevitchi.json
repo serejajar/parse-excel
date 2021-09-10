@@ -58,5 +58,33 @@
     "227-4-45-22"
   ],
   "type": "Liceu",
-  "idnp": "7024966"
+  "idnp": "7024966",
+  "directors": [
+    {
+      "name": "CUCU OLESEA\r\n079454748\r\ncucu-olesea@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 39,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 402,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

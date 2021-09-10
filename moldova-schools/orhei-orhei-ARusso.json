@@ -66,5 +66,34 @@
     "023523473"
   ],
   "type": "Liceu",
-  "idnp": "1012620010900"
+  "idnp": "1012620010900",
+  "directors": [
+    {
+      "name": "HACINA LILIA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 72,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1081,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 9,
+      "notebook": 51,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

@@ -66,5 +66,34 @@
     "026922285 /FAX: 026925286"
   ],
   "type": "Liceu",
-  "idnp": "1012620009876"
+  "idnp": "1012620009876",
+  "directors": [
+    {
+      "name": "PLĂCINTĂ  ANA, \r\nMOB: 060119342",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 53,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 793,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 16,
+      "notebook": 72,
+      "netbook": 13,
+      "tabletPC": 0,
+      "proector": 20,
+      "interactiveTable": 4,
+      "year": "2017"
+    }
+  ]
 }

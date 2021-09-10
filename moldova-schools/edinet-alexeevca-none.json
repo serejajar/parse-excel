@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "024640317"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000142___(edinet-alexeevca-none)"
+  "idnp": "1009601000142___(edinet-alexeevca-none)",
+  "directors": [
+    {
+      "name": "Belinscaia Tatiana      tel (0246)40-3-71        mob  068157890",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 10,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 30,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026931231"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620012314"
+  "idnp": "1013620012314",
+  "directors": [
+    {
+      "name": "Iurceac Nina\r\nmobil 067304709",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 161,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 27,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

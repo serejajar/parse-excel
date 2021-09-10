@@ -1,0 +1,52 @@
+{
+  "id": "cahul-cahul-170527360",
+  "search": "",
+  "address": {
+    "district": "cahul",
+    "city": "cahul",
+    "street": "Sciusev 20",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala Primară-Grădiniță  ”A. Donici”, or. Cahul",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "299-47238"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1012620009706",
+  "directors": [
+    {
+      "name": "PARVANA GALINA 079436993",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 357,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

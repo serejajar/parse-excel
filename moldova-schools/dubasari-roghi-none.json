@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0 248 92-2-30"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007600008952"
+  "idnp": "1007600008952",
+  "directors": [
+    {
+      "name": "Tîrbu Marina, tel.fix.: 0 248 92230: mobil:069857822",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 49,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

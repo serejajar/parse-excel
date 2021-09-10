@@ -52,5 +52,33 @@
     "026273587"
   ],
   "type": "Liceu",
-  "idnp": "1013620000076"
+  "idnp": "1013620000076",
+  "directors": [
+    {
+      "name": "Caplinscaia Valentina, TEL.FIX 026253829, TEL.MOB 069974873",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 34,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 494,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

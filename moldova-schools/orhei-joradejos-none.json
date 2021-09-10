@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0235-55-2-53"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010298"
+  "idnp": "1012620010298",
+  "directors": [
+    {
+      "name": "Cicala Liliana tel.0(235) 55-3-58 mob. 068330944",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 231,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 0,
+      "netbook": 7,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

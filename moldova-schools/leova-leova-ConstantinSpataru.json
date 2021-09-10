@@ -56,8 +56,7 @@
     }
   ],
   "langs": [
-    "romana",
-    "rusa"
+    "romana"
   ],
   "profiles": [
     "real",
@@ -67,5 +66,34 @@
     "+37326323455"
   ],
   "type": "Liceu",
-  "idnp": "1012620010575"
+  "idnp": "1012620010575",
+  "directors": [
+    {
+      "name": "MARIN DORIN ,tel. fix +37326323455, tel. mob. 079615967",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 40,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 437,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 59,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 24,
+      "interactiveTable": 7,
+      "year": "2017"
+    }
+  ]
 }

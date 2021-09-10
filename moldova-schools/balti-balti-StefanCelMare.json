@@ -58,5 +58,34 @@
     "023130510"
   ],
   "type": "Liceu",
-  "idnp": "184542___(balti-balti-StefanCelMare)"
+  "idnp": "184542___(balti-balti-StefanCelMare)",
+  "directors": [
+    {
+      "name": "POŞTARI IGOR,0-231-3-05-10,0-786-84-2-84,0-693-06-247",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 45,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 590,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 27,
+      "notebook": 10,
+      "netbook": 20,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

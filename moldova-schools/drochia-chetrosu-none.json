@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025254211"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009588"
+  "idnp": "1012620009588",
+  "directors": [
+    {
+      "name": "Bunescu Viorica tel.025254344 mobil 068923004",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 161,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 22,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

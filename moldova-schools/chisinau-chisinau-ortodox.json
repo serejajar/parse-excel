@@ -65,5 +65,33 @@
     "022275039"
   ],
   "type": "Liceu",
-  "idnp": "41618017"
+  "idnp": "41618017",
+  "directors": [
+    {
+      "name": "Cazacu Vetcislav",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 77,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -66,5 +66,34 @@
     "022446123, 022446238"
   ],
   "type": "Liceu",
-  "idnp": "1007601009716___(chisinau-riscani-NGheorghiu)"
+  "idnp": "1007601009716___(chisinau-riscani-NGheorghiu)",
+  "directors": [
+    {
+      "name": "BOGACIUC IRINA, 079567852,",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 47,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 513,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 20,
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

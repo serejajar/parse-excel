@@ -31,5 +31,34 @@
     "024434254"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011918"
+  "idnp": "1012620011918",
+  "directors": [
+    {
+      "name": "GODOVANIUC ELENA, , 078914395",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 323,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 39,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

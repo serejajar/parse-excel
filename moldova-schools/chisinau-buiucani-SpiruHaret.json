@@ -66,5 +66,33 @@
     "022226011"
   ],
   "type": "Liceu",
-  "idnp": "1013620005772"
+  "idnp": "1013620005772",
+  "directors": [
+    {
+      "name": "AMBROCI VICTOR, 22-13-97, 069594824",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 64,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1256,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 21,
+      "netbook": 4,
+      "tabletPC": 34,
+      "proector": 10,
+      "interactiveTable": 12,
+      "year": "2017"
+    }
+  ]
 }

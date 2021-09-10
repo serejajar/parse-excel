@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "25473224"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620012473"
+  "idnp": "1013620012473",
+  "directors": [
+    {
+      "name": "Cazimir Aurelia 025473217, 068068553",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 146,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

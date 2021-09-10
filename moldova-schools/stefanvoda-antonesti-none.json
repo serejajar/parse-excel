@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024248244"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620009367"
+  "idnp": "1013620009367",
+  "directors": [
+    {
+      "name": "MORARI NADEJDA, 24248325, 069948185",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 235,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -66,5 +66,34 @@
     "0236-3-40-27"
   ],
   "type": "Liceu",
-  "idnp": "1013620001017"
+  "idnp": "1013620001017",
+  "directors": [
+    {
+      "name": "VRABIE ZINAIDA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 53,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 722,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 31,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

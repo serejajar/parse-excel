@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "027161391"
   ],
   "type": "Şcoală primară",
-  "idnp": "1012620011985"
+  "idnp": "1012620011985",
+  "directors": [
+    {
+      "name": "Bohonovscaia Stela TEL. FIX 0271 61 1 50, MOBIL 067255055",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 3,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

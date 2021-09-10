@@ -66,5 +66,34 @@
     "022729325"
   ],
   "type": "Liceu",
-  "idnp": "1007601009417___(chisinau-centru-NSulac)"
+  "idnp": "1007601009417___(chisinau-centru-NSulac)",
+  "directors": [
+    {
+      "name": "BULAT INA, 022729325,\r\n069925635",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 102,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1025,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 29,
+      "notebook": 11,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

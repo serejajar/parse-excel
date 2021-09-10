@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "273-54-691"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620011281"
+  "idnp": "1013620011281",
+  "directors": [
+    {
+      "name": "Zagorschi Ecaterina tel. fix-273-54-691 mob.067555653",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 86,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

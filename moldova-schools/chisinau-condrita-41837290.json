@@ -1,0 +1,51 @@
+{
+  "id": "chisinau-condrita-41837290",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "condrita",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr. 65, s. Condriţa",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022797880"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601010600___(chisinau-condrita-41837290)",
+  "directors": [
+    {
+      "name": "Veaceslav Eremei",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 46,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

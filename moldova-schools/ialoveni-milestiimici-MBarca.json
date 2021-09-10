@@ -52,5 +52,34 @@
     "26868580"
   ],
   "type": "Liceu",
-  "idnp": "1012620008787"
+  "idnp": "1012620008787",
+  "directors": [
+    {
+      "name": "Pulbere Aliona, tel. 0268-68-580 (serviciu), mob.068844420",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 28,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 366,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 8,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -65,5 +65,34 @@
     "022-44-10-01"
   ],
   "type": "Liceu",
-  "idnp": "1007601009716___(chisinau-riscani-ARusso)"
+  "idnp": "1007601009716___(chisinau-riscani-ARusso)",
+  "directors": [
+    {
+      "name": "MUNTEANU IRINA.",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 66,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 811,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 25,
+      "notebook": 0,
+      "netbook": 3,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

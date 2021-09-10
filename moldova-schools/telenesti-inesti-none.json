@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0258-50-293"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013601000093___(telenesti-inesti-none)"
+  "idnp": "1013601000093___(telenesti-inesti-none)",
+  "directors": [
+    {
+      "name": "Sîrbu Dmitrii",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 204,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 16,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 11,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

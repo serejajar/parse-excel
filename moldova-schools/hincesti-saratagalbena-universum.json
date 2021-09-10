@@ -35,8 +35,7 @@
     }
   ],
   "langs": [
-    "romana",
-    "rusa"
+    "romana"
   ],
   "profiles": [
     "umanist"
@@ -45,5 +44,34 @@
     "269-50-5-61"
   ],
   "type": "Liceu",
-  "idnp": "1012620009854"
+  "idnp": "1012620009854",
+  "directors": [
+    {
+      "name": "LOZOVOI, ANA,   TEL.FIX:269-50-2-82  MOBIL:068764633",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 44,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 647,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 33,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

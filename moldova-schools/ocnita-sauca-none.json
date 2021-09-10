@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "027129339"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011963"
+  "idnp": "1012620011963",
+  "directors": [
+    {
+      "name": "Țurcanu Angela, \r\n0271-29-144,\r\n060-39-50-60,\r\n078-60-62-38",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 170,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

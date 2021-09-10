@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "24957225"
   ],
   "type": "Gimnaziu",
-  "idnp": "7026735"
+  "idnp": "7026735",
+  "directors": [
+    {
+      "name": "Gurău Lilia 24957472",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 169,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

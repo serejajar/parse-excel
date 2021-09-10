@@ -66,5 +66,33 @@
     "0-22-55-10-49"
   ],
   "type": "Liceu",
-  "idnp": "1013620005875"
+  "idnp": "1013620005875",
+  "directors": [
+    {
+      "name": "FUSA ZINAIDA, TEL. FIX: 022-55-61-40, MOB. 782-4-47-07",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 50,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 730,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 9,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 8,
+      "year": "2017"
+    }
+  ]
 }

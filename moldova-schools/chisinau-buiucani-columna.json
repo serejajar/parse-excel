@@ -65,5 +65,34 @@
     "022742852"
   ],
   "type": "Liceu",
-  "idnp": "1004600000818"
+  "idnp": "1004600000818",
+  "directors": [
+    {
+      "name": "DANIȚĂ GHENADIE, 022592237",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 310,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 25,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

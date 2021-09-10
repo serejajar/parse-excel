@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0-230-53-2-18"
   ],
   "type": "Şcoală primară",
-  "idnp": "1007601011342___(soroca-parcani-none)"
+  "idnp": "1007601011342___(soroca-parcani-none)",
+  "directors": [
+    {
+      "name": "Boldescu Svetlana",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 4,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 4,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

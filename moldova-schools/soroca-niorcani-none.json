@@ -11,11 +11,37 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "079850177"
   ],
   "type": "Şcoală primară",
-  "idnp": "1007601011342___(soroca-niorcani-none)"
+  "idnp": "1007601011342___(soroca-niorcani-none)",
+  "directors": [
+    {
+      "name": "BUZILĂ SVETLANA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 4,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 11,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 1,
+      "year": "2017"
+    }
+  ]
 }

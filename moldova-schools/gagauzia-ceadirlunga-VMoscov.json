@@ -66,5 +66,34 @@
     "029121737"
   ],
   "type": "Liceu",
-  "idnp": "1011601000608"
+  "idnp": "1011601000608",
+  "directors": [
+    {
+      "name": "TERZINOVA LIUBOV   079021737",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 63,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 750,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 15,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

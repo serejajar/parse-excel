@@ -65,5 +65,34 @@
     "022 225014"
   ],
   "type": "Pentru copii orbi şi slab văzători",
-  "idnp": "1007601009417___(chisinau-centru-VedereaSlaba)"
+  "idnp": "1007601009417___(chisinau-centru-VedereaSlaba)",
+  "directors": [
+    {
+      "name": "Aurica Brînza, 022-22-50-14, str. Vlaicu Pîrcălab, 32",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 49,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 87,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 16,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

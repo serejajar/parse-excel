@@ -1,0 +1,53 @@
+{
+  "id": "aneniinoi-zolotievca-583381701",
+  "search": "",
+  "address": {
+    "district": "aneniinoi",
+    "city": "zolotievca",
+    "street": "Şcolii, 26",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Zolotievca",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "026595030"
+  ],
+  "type": "Gimnaziu",
+  "idnp": 1013620012657,
+  "directors": [
+    {
+      "name": "Osipov Piotr",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 70,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 11,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

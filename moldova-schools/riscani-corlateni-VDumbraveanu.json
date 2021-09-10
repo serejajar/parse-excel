@@ -65,5 +65,33 @@
     "025656309"
   ],
   "type": "Liceu",
-  "idnp": "1013620000652"
+  "idnp": "1013620000652",
+  "directors": [
+    {
+      "name": "Parea Zinaida 069294071",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 40,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 504,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 9,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

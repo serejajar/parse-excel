@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026842953"
   ],
   "type": "Alte",
-  "idnp": "1012620008640"
+  "idnp": "1012620008640",
+  "directors": [
+    {
+      "name": "Trohin Nadejda-director interimar",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 6,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 4,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0269-7-240"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620012299"
+  "idnp": "1013620012299",
+  "directors": [
+    {
+      "name": "MITITEL, VIOLETA TEL.FIX: 269-7-45-09  MOBIL:069724206",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 158,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

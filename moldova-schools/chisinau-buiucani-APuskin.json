@@ -66,5 +66,33 @@
     "022213564"
   ],
   "type": "Liceu",
-  "idnp": "1013620006470"
+  "idnp": "1013620006470",
+  "directors": [
+    {
+      "name": "Abramova Oxana  069153839",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 76,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1150,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

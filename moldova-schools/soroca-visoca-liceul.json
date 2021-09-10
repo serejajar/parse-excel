@@ -65,5 +65,34 @@
     "023052266"
   ],
   "type": "Liceu",
-  "idnp": "1007601011342___(soroca-visoca-liceul)"
+  "idnp": "1007601011342___(soroca-visoca-liceul)",
+  "directors": [
+    {
+      "name": "BUZILA MARIN",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 220,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

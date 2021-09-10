@@ -66,5 +66,34 @@
     "0/291/21733-0/291/20142"
   ],
   "type": "Liceu",
-  "idnp": "1002600026438___(gagauzia-ceadirlunga-orizont)"
+  "idnp": "1002600026438___(gagauzia-ceadirlunga-orizont)",
+  "directors": [
+    {
+      "name": "TUFEKCI MEHMET FERIDUN\r\n062169249",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 11,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 196,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 13,
+      "interactiveTable": 5,
+      "year": "2017"
+    }
+  ]
 }

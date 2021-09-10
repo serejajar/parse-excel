@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "024954395"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000212___(glodeni-iabloana-none)"
+  "idnp": "1009601000212___(glodeni-iabloana-none)",
+  "directors": [
+    {
+      "name": "Mîrza Irina, 069635609",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 74,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

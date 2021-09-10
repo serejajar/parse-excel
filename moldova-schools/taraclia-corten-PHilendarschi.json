@@ -51,5 +51,34 @@
     "029172319"
   ],
   "type": "Liceu",
-  "idnp": "1014620000084"
+  "idnp": "1014620000084",
+  "directors": [
+    {
+      "name": "PETCOVA LIUDMILA\r\n029172319",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 194,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 11,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

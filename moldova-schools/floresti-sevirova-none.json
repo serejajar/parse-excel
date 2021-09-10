@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "250-4-22-17"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000094___(floresti-sevirova-none)"
+  "idnp": "1009601000094___(floresti-sevirova-none)",
+  "directors": [
+    {
+      "name": "Ixari Natalia  250-4-22-17, 69011753",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 76,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

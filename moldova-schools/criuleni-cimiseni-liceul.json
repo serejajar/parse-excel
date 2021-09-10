@@ -51,5 +51,34 @@
     "024831415"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009371"
+  "idnp": "1012620009371",
+  "directors": [
+    {
+      "name": "Cristea Natalia, 024831404, 0694651100",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 261,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 16,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "56-2-34"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000283"
+  "idnp": "1013620000283",
+  "directors": [
+    {
+      "name": "Leunti Andrei, 248-56-2-62, 079675343",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 286,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+{
+  "id": "gagauzia-cismichioi-270394885",
+  "search": "",
+  "address": {
+    "district": "gagauzia",
+    "city": "cismichioi",
+    "street": "Scolinaea,39",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul s.Cişmichioi",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "0 293 63-5-33"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1011601000479",
+  "directors": [
+    {
+      "name": "Момча Константин  069225514\r\n\r\n0 293 63-5-33",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 136,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
+}

@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025155454"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011365"
+  "idnp": "1012620011365",
+  "directors": [
+    {
+      "name": "LISII LARISA, 025155454, 069505507",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 312,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

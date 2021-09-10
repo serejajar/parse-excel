@@ -52,5 +52,33 @@
     "0269-71-2-20"
   ],
   "type": "Liceu",
-  "idnp": "1012620009843"
+  "idnp": "1012620009843",
+  "directors": [
+    {
+      "name": "Mlladan Diana , MOB:078428805, FIX:0-269-71-220",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 36,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 381,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

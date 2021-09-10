@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "023757286"
   ],
   "type": "Gimnaziu",
-  "idnp": "3879866___(straseni-radeni-none)"
+  "idnp": "3879866___(straseni-radeni-none)",
+  "directors": [
+    {
+      "name": "Panfil Galina",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 360,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 25,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

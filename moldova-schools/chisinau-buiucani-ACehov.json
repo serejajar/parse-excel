@@ -65,5 +65,28 @@
     "022 517136  022 516809"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-buiucani-ACehov)"
+  "idnp": "1007601010600___(chisinau-buiucani-ACehov)",
+  "directors": [
+    {
+      "name": "BERDAN VALENTINA \r\ntel. serv. 51-71-36\r\nmob. 069960057\r\nE-mail: liceul.anton_cehov@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 47,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 559,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
 }

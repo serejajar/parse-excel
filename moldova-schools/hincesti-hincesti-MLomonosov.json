@@ -51,5 +51,34 @@
     "0269-2-39-09"
   ],
   "type": "Liceu",
-  "idnp": "1012620009810"
+  "idnp": "1012620009810",
+  "directors": [
+    {
+      "name": "TANURCOVA, NATALIA, TEL.FIX:026923909 MOBIL:069390475",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 106,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 12,
+      "notebook": 1,
+      "netbook": 21,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

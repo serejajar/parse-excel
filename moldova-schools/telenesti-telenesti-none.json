@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0258-2-34-66"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011446"
+  "idnp": "1012620011446",
+  "directors": [
+    {
+      "name": "Chicu   Nelea\r\ntel. fix: 0258-2-23-64;   \r\n0258-51-6-46 \r\nmobil:069-322-682",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 46,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 688,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 19,
+      "notebook": 17,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 21,
+      "interactiveTable": 5,
+      "year": "2017"
+    }
+  ]
 }

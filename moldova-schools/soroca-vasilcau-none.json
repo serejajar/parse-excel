@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "230 48265"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620010479"
+  "idnp": "1013620010479",
+  "directors": [
+    {
+      "name": "Solovei Iuliana",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 232,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 16,
+      "notebook": 0,
+      "netbook": 3,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

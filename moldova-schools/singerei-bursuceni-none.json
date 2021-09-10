@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026256266"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601011098___(singerei-bursuceni-none)"
+  "idnp": "1007601011098___(singerei-bursuceni-none)",
+  "directors": [
+    {
+      "name": "Tcaci Ala, 026256239;  060174579",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 12,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 89,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

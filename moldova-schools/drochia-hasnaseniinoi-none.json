@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025235250 / 067366011"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009739"
+  "idnp": "1012620009739",
+  "directors": [
+    {
+      "name": "Caraseni Natalia",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 12,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 133,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

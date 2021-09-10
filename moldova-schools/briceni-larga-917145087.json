@@ -1,0 +1,52 @@
+{
+  "id": "briceni-larga-917145087",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "larga",
+    "street": "Filimon Dranca",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Larga",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "0-247-5-13-39"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000131___(briceni-larga-917145087)",
+  "directors": [
+    {
+      "name": "ŞTIRBU ELENA TEL.0-247-5-13-39",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 162,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

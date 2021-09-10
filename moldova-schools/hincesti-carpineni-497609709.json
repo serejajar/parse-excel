@@ -1,0 +1,53 @@
+{
+  "id": "hincesti-carpineni-497609709",
+  "search": "",
+  "address": {
+    "district": "hincesti",
+    "city": "carpineni",
+    "street": "Gagarin  42",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziul \"Dumitru Crețu\"",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "026928435"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620012244",
+  "directors": [
+    {
+      "name": "Călugăreanu Vera\r\n tel.fix 026928435",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 142,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 15,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

@@ -45,5 +45,34 @@
     "024864249"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009418"
+  "idnp": "1012620009418",
+  "directors": [
+    {
+      "name": "CARŢÎN    ANGELA     24864249     069767577",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 34,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 385,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 16,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

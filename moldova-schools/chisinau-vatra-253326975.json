@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-vatra-253326975",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "vatra",
+    "street": "Frunze   1",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul  nr.51 (Vatra)",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "0-22-61-52-64,"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601010600___(chisinau-vatra-253326975)",
+  "directors": [
+    {
+      "name": "Maţcu Ludmila 0-22-61-52-64,\r\n 079570578",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 176,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

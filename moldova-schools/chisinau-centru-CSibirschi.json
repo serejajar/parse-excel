@@ -66,5 +66,34 @@
     "022729038"
   ],
   "type": "Liceu",
-  "idnp": "02168123___(chisinau-centru-CSibirschi)"
+  "idnp": "02168123___(chisinau-centru-CSibirschi)",
+  "directors": [
+    {
+      "name": "MACARI PAVEL\r\n022 72-90-38\r\nMOB. 069265990\r\nsibirschi@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 76,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 660,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

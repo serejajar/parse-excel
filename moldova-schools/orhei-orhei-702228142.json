@@ -1,0 +1,53 @@
+{
+  "id": "orhei-orhei-702228142",
+  "search": "",
+  "address": {
+    "district": "orhei",
+    "city": "orhei",
+    "street": "Stejarilor 3",
+    "building": ""
+  },
+  "name": {
+    "ro": "IPGimnaziul „ Doina și Ion Aldea Teodorovici”, or. Orhei",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "023530176"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1015620007530",
+  "directors": [
+    {
+      "name": "CEBAN ANA      235-3-01-76                               79600504",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 307,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 9,
+      "notebook": 11,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

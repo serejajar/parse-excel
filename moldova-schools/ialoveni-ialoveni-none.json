@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0268-2-20-74"
   ],
   "type": "Şcoală primară",
-  "idnp": "1012620008639"
+  "idnp": "1012620008639",
+  "directors": [
+    {
+      "name": "Hincu Alexandra,068544469,\r\n02682-20-74",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 214,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 5,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 1,
+      "proector": 3,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

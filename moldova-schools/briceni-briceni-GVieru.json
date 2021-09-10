@@ -65,5 +65,34 @@
     "024723238"
   ],
   "type": "Liceu",
-  "idnp": "1009601000131___(briceni-briceni-GVieru)"
+  "idnp": "1009601000131___(briceni-briceni-GVieru)",
+  "directors": [
+    {
+      "name": "CADUC ALIONA, TEL.0Е4748206, MOB. 069777656",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 39,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 478,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 11,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

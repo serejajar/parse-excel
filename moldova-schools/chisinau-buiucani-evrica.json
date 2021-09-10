@@ -65,5 +65,33 @@
     "022 50 85 70"
   ],
   "type": "Liceu",
-  "idnp": "1002600026807"
+  "idnp": "1002600026807",
+  "directors": [
+    {
+      "name": "SULIM NADEJDA \r\nтел.: 022 50 85 68",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 93,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

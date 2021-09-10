@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026547161"
   ],
   "type": "Auxiliară",
-  "idnp": "1011601000044"
+  "idnp": "1011601000044",
+  "directors": [
+    {
+      "name": "BURUIAN EUGENIU\r\ntel. 069594051",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 59,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

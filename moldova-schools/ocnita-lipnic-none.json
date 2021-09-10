@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "027193468"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011952"
+  "idnp": "1012620011952",
+  "directors": [
+    {
+      "name": "Chiriac Valentina, 027121249, 068843136",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 143,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

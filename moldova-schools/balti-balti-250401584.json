@@ -1,0 +1,53 @@
+{
+  "id": "balti-balti-250401584",
+  "search": "",
+  "address": {
+    "district": "balti",
+    "city": "balti",
+    "street": "Decebal 99 a",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala internat auxiliară, or. Bălţi",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "0231 - 32567"
+  ],
+  "type": "Auxiliară",
+  "idnp": "119191919",
+  "directors": [
+    {
+      "name": "Dulap Svetlana 0231- 32567",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 7,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 2,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

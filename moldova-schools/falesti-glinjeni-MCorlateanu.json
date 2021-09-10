@@ -30,5 +30,33 @@
     "0-259-71-4-83"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011675"
+  "idnp": "1012620011675",
+  "directors": [
+    {
+      "name": "LUNGU EFIM, tel.   025971483,  mob.079147411",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 277,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 1,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+{
+  "id": "taraclia-tvardita-209720663",
+  "search": "",
+  "address": {
+    "district": "taraclia",
+    "city": "tvardita",
+    "street": "LENIN,248",
+    "building": ""
+  },
+  "name": {
+    "ro": "GIMNAZIUL or.TVARDIŢA",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "029162535"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620012587",
+  "directors": [
+    {
+      "name": "Iazadji Prascovia       029162535\r\n068756254",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 94,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

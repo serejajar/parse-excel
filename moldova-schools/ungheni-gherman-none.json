@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "023665293"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620011111"
+  "idnp": "1013620011111",
+  "directors": [
+    {
+      "name": "TOLOCICA MARGARITA, TEL.23665267,GSM 068057060",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 148,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 18,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

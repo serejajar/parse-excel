@@ -65,5 +65,34 @@
     "025279214"
   ],
   "type": "Liceu",
-  "idnp": "1012620009821"
+  "idnp": "1012620009821",
+  "directors": [
+    {
+      "name": "Necoara Silvia, 025279555, 068437114",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 194,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 32,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

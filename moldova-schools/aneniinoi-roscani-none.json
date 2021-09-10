@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "26538170"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009072"
+  "idnp": "1012620009072",
+  "directors": [
+    {
+      "name": "LUNGU NADEJDA , TEL  26538551 ,69308195",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 236,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 7,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

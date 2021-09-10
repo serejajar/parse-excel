@@ -65,5 +65,33 @@
     "024757396"
   ],
   "type": "Liceu",
-  "idnp": "1009601000131___(briceni-corjeuti-liceul)"
+  "idnp": "1009601000131___(briceni-corjeuti-liceul)",
+  "directors": [
+    {
+      "name": "ARMANU  ANNA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 35,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 406,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -65,5 +65,34 @@
     "025124689"
   ],
   "type": "Liceu",
-  "idnp": "1012620011343"
+  "idnp": "1012620011343",
+  "directors": [
+    {
+      "name": "CERNEȚCHII  LIDIA    251-2-35-25     69309380",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 252,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

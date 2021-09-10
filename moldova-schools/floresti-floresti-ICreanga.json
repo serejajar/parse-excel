@@ -66,5 +66,33 @@
     "025021569"
   ],
   "type": "Liceu",
-  "idnp": "1012620012236"
+  "idnp": "1012620012236",
+  "directors": [
+    {
+      "name": "DOROŞ ANATOLIE",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 539,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

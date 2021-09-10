@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "027322532"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620008119"
+  "idnp": "1013620008119",
+  "directors": [
+    {
+      "name": "ENCIU ECATERINA   0-273-41-4-73       067560722",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 37,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 499,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 33,
+      "notebook": 20,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

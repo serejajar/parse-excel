@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0-250-61-2-25"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000094___(floresti-trifanesti-none)"
+  "idnp": "1009601000094___(floresti-trifanesti-none)",
+  "directors": [
+    {
+      "name": "Gaivas Ana, 61-2-25, 060224855",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 76,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

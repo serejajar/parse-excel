@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026970227"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620011476"
+  "idnp": "1013620011476",
+  "directors": [
+    {
+      "name": "DONICĂ LIUBA, TEL.FIX: 269-70-278, MOBIL:068571881",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 197,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 22,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

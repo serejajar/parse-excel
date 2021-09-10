@@ -59,5 +59,34 @@
     "023663266"
   ],
   "type": "Liceu",
-  "idnp": "1013620001187"
+  "idnp": "1013620001187",
+  "directors": [
+    {
+      "name": "CIUVAGA  IULIA, 023663438, 068931438",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 44,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 576,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 29,
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

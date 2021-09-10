@@ -30,5 +30,34 @@
     "024971285"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000212___(glodeni-danu-liceul)"
+  "idnp": "1009601000212___(glodeni-danu-liceul)",
+  "directors": [
+    {
+      "name": "Popov Victor tel:024971285 mob:068115339",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 207,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

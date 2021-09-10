@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-648302530",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Grenoble 191",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul „Decebal”",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022765833"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "2004047030042",
+  "directors": [
+    {
+      "name": "Vlădicescu Angela",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 33,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 225,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 22,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

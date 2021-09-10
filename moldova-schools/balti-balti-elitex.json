@@ -38,5 +38,34 @@
     "023143803"
   ],
   "type": "Liceu",
-  "idnp": "1005602004895___(balti-balti-elitex)"
+  "idnp": "1005602004895___(balti-balti-elitex)",
+  "directors": [
+    {
+      "name": "CALISTRU TATIANA 069111589",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 9,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 1,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 1,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

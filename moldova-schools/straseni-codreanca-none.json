@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0237-75-355"
   ],
   "type": "Gimnaziu",
-  "idnp": "3879866___(straseni-codreanca-none)"
+  "idnp": "3879866___(straseni-codreanca-none)",
+  "directors": [
+    {
+      "name": "BÂCOS TUDOR TEL.023775206 MOB.060093013",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 277,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

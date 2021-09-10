@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026445273"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000456"
+  "idnp": "1013620000456",
+  "directors": [
+    {
+      "name": "Crîşmaru Svetlana,  tel.026445273, \r\nmobil 060271724",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 308,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 36,
+      "notebook": 11,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

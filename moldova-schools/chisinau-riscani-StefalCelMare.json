@@ -66,5 +66,34 @@
     "224-4-01-39"
   ],
   "type": "Liceu",
-  "idnp": "1013620007178"
+  "idnp": "1013620007178",
+  "directors": [
+    {
+      "name": "AXÎNTI SERGHEI, 795-3-82-85\r\n224-4-01-39\r\nsaxinti@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 60,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 822,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-896545131",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Drumul Viilor 38/2",
+    "building": ""
+  },
+  "name": {
+    "ro": "Scoala primara-gradinita nr. 226, mun. Chişinău",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022727760"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "0983103423751",
+  "directors": [
+    {
+      "name": "BURLACU LINA,TEL.FIX 022727760, MOBIL 069006156",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 8,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 107,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 2,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024974697"
   ],
   "type": "Gimnaziu",
-  "idnp": "1017620000605"
+  "idnp": "1017620000605",
+  "directors": [
+    {
+      "name": "ISTRATI ION, 24974697, 068474610",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 179,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 11,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

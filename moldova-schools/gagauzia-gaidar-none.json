@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "gagauza"
+  ],
   "profiles": [],
   "phones": [
     "(0291) 71-2-66"
   ],
   "type": "Gimnaziu",
-  "idnp": "1011601000583"
+  "idnp": "1011601000583",
+  "directors": [
+    {
+      "name": "Nadejda\r\nCoceanji\r\n(0291)71266\r\n078759053",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 271,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 23,
+      "notebook": 9,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 9,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

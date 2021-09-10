@@ -65,5 +65,34 @@
     "223-2-34-33"
   ],
   "type": "Liceu",
-  "idnp": "7025546"
+  "idnp": "7025546",
+  "directors": [
+    {
+      "name": "Prisacari Lidia 223-2-34-33/ mob:069274961\r\nmbasarab14lic@gmail.com\r\nlida_prisakari@list.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 44,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 463,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 20,
+      "netbook": 2,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

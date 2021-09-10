@@ -1,0 +1,52 @@
+{
+  "id": "chisinau-chisinau-681682056",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Alexe Mateevici 15",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala auxiliară nr. 7",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022-22-10-95"
+  ],
+  "type": "Auxiliară",
+  "idnp": "1007601009417___(chisinau-chisinau-681682056)",
+  "directors": [
+    {
+      "name": "Voinu Natalia",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 55,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

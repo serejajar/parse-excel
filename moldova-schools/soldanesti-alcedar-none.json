@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0 272 56 222"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620011030"
+  "idnp": "1013620011030",
+  "directors": [
+    {
+      "name": "Lopaci Alina\r\ntel. serv. 0 272 56 222\r\nMob. 068238473\r\nalina.lopaci@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 152,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 3,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

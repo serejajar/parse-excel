@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024445453"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620012362"
+  "idnp": "1012620012362",
+  "directors": [
+    {
+      "name": "Zemlinschi Galina,024445453,069212548",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 215,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 20,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

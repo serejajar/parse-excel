@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026865492"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009175"
+  "idnp": "1012620009175",
+  "directors": [
+    {
+      "name": "UNTILA ION     026865260       060251446",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 133,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 16,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

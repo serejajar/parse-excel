@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    ""
+  ],
   "profiles": [],
   "phones": [
     "025140224"
   ],
   "type": "Gimnaziu",
-  "idnp": "1010601000162___(donduseni-horodiste-none)"
+  "idnp": "1010601000162___(donduseni-horodiste-none)",
+  "directors": [
+    {
+      "name": "OPREA LILIA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 82,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

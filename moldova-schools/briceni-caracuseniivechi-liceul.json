@@ -51,5 +51,34 @@
     "024744323"
   ],
   "type": "Liceu",
-  "idnp": "1009601000131___(briceni-caracuseniivechi-liceul)"
+  "idnp": "1009601000131___(briceni-caracuseniivechi-liceul)",
+  "directors": [
+    {
+      "name": "Şchiopu Eleonora, 024744332, 068611799",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 36,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 424,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 23,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

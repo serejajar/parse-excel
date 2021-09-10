@@ -52,5 +52,33 @@
     "022 2814 64"
   ],
   "type": "Liceu",
-  "idnp": "1007600037637"
+  "idnp": "1007600037637",
+  "directors": [
+    {
+      "name": "Cristea Iurie\r\n022731012\r\n069782800\r\niurie,cristea@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 237,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 12,
+      "netbook": 5,
+      "tabletPC": 0,
+      "proector": 15,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

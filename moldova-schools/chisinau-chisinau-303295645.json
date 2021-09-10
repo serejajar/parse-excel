@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-303295645",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Gh. Iablocikin 2/1",
+    "building": ""
+  },
+  "name": {
+    "ro": "Liceul Teoretic European",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022 509 131"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620000703",
+  "directors": [
+    {
+      "name": "Rusnac Valentina",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 109,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

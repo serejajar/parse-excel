@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0236-92-925"
   ],
   "type": "Gimnaziu",
-  "idnp": "187509___(ungheni-bogheniinoi-none)"
+  "idnp": "187509___(ungheni-bogheniinoi-none)",
+  "directors": [
+    {
+      "name": "Roșca Rodica (tel. fix 236-9-29-44, mob. 068501040)",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 146,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 22,
+      "notebook": 6,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

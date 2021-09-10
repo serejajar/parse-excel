@@ -65,5 +65,34 @@
     "026241064"
   ],
   "type": "Liceu",
-  "idnp": "103620000397"
+  "idnp": "103620000397",
+  "directors": [
+    {
+      "name": "Barbacari Galina,    078823275",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 42,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 425,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 19,
+      "notebook": 12,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

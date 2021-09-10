@@ -30,5 +30,34 @@
     "024144118"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010346"
+  "idnp": "1012620010346",
+  "directors": [
+    {
+      "name": "ARHIRII LARISA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 222,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

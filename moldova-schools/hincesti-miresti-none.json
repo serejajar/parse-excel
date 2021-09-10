@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026963415"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620012288"
+  "idnp": "1013620012288",
+  "directors": [
+    {
+      "name": "Creţu  Elena, 069069971",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 167,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 11,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

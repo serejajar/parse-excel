@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024643238"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620008437"
+  "idnp": "1014620008437",
+  "directors": [
+    {
+      "name": "LUNGU DIANA 24643230, 69562059",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 12,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 74,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 10,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

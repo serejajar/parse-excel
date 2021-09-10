@@ -56,7 +56,7 @@
     }
   ],
   "langs": [
-    "rusa"
+    "gagauza"
   ],
   "profiles": [
     "real",
@@ -66,5 +66,33 @@
     "029122178"
   ],
   "type": "Liceu",
-  "idnp": "1012601000236"
+  "idnp": "1012601000236",
+  "directors": [
+    {
+      "name": "IURCENCO ELENA ,",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 43,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 548,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

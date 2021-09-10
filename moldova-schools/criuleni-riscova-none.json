@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024876312"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601010068___(criuleni-riscova-none)"
+  "idnp": "1007601010068___(criuleni-riscova-none)",
+  "directors": [
+    {
+      "name": "Coadă Cristina, 069563059,",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 120,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

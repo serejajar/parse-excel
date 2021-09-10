@@ -1,0 +1,53 @@
+{
+  "id": "balti-balti-652973182",
+  "search": "",
+  "address": {
+    "district": "balti",
+    "city": "balti",
+    "street": "Sorocii,21",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr.3",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "0231-4-42-87"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "184542___(balti-balti-652973182)",
+  "directors": [
+    {
+      "name": "NATALIA IULIC",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 141,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 35,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

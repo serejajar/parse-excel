@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024463233"
   ],
   "type": "Şcoală primară",
-  "idnp": "31942389___(calarasi-niscani-none)"
+  "idnp": "31942389___(calarasi-niscani-none)",
+  "directors": [
+    {
+      "name": "Stratan Ludmila, 244-63-2-78, 079629434",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 8,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 47,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

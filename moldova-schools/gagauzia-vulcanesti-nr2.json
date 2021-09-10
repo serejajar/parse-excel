@@ -59,5 +59,33 @@
     "(0293) 2-03-43"
   ],
   "type": "Liceu",
-  "idnp": "101160100505"
+  "idnp": "101160100505",
+  "directors": [
+    {
+      "name": "CHILIMICENCO SERGHEI/067345539",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 31,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 290,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

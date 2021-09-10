@@ -1,0 +1,53 @@
+{
+  "id": "cantemir-cantemir-744192101",
+  "search": "",
+  "address": {
+    "district": "cantemir",
+    "city": "cantemir",
+    "street": "31 August 1",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituția Publică Gimnaziul “A. Puşkin”",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "027322070"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620008267",
+  "directors": [
+    {
+      "name": "COLOMAN NADEJDA, TEL. FIX.:27322070, 79661264",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 67,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 15,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

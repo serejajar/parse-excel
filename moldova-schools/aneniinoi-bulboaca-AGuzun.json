@@ -45,5 +45,33 @@
     "026547359"
   ],
   "type": "Liceu",
-  "idnp": "1012620009027"
+  "idnp": "1012620009027",
+  "directors": [
+    {
+      "name": "GUZUN IGOR   265-4-77-23    069039226",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 403,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

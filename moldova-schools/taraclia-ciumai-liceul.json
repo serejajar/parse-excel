@@ -65,5 +65,34 @@
     "029433923"
   ],
   "type": "Liceu",
-  "idnp": "1012620010391"
+  "idnp": "1012620010391",
+  "directors": [
+    {
+      "name": "Șcerban Ecaterina   060328388",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 249,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 27,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

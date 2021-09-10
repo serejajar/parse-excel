@@ -65,5 +65,33 @@
     "0294-5-05-43"
   ],
   "type": "Liceu",
-  "idnp": "1011601000642"
+  "idnp": "1011601000642",
+  "directors": [
+    {
+      "name": "Хаджиогло Ольга   0-294-59-2-45 моб.:078660682",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 44,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 350,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 4,
+      "year": "2017"
+    }
+  ]
 }

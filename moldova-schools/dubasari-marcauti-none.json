@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0248-57-219"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601010954___(dubasari-marcauti-none)"
+  "idnp": "1007601010954___(dubasari-marcauti-none)",
+  "directors": [
+    {
+      "name": "Cazac Nina, 024857320, 069541723",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 66,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

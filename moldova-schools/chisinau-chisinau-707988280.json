@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-707988280",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "V. Cheltuială 42",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr. 53, mun. Chişinău",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022727005"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601009417___(chisinau-chisinau-707988280)",
+  "directors": [
+    {
+      "name": "STAŞEVSHI SVETLANA, TEL. 222-8-77-68, MOB. 797-8-62-61",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 37,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 421,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

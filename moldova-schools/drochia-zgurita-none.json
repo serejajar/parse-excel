@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025244398"
   ],
   "type": "Gimnaziu",
-  "idnp": "1008601000950___(drochia-zgurita-none)"
+  "idnp": "1008601000950___(drochia-zgurita-none)",
+  "directors": [
+    {
+      "name": "Guţu Vasilisa",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 219,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 27,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

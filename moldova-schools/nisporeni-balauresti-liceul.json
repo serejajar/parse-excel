@@ -37,5 +37,34 @@
     "0264-48-363"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010966"
+  "idnp": "1012620010966",
+  "directors": [
+    {
+      "name": "ANDRONACHI VIOREL, TEL: 0264-48-363, MOB: 068110714",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 231,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 44,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 11,
+      "proector": 10,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

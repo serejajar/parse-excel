@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-81957814",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Dacia, 75",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul „Galata”",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "(+373 22) 52-44-90"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "17993___(chisinau-chisinau-81957814)",
+  "directors": [
+    {
+      "name": "Macarenco Nicolai Mihai, \r\n022-920-979, \r\n069-001-798",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 34,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 356,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "alta"
+  ],
+  "equipment": [
+    {
+      "pc": 30,
+      "notebook": 0,
+      "netbook": 3,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

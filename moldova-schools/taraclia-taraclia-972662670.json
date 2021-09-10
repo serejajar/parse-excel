@@ -1,0 +1,53 @@
+{
+  "id": "taraclia-taraclia-972662670",
+  "search": "",
+  "address": {
+    "district": "taraclia",
+    "city": "taraclia",
+    "street": "cotovski,27",
+    "building": ""
+  },
+  "name": {
+    "ro": "GIMNAZIUL ”OLIMPII PANOV”",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "029423632"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010449",
+  "directors": [
+    {
+      "name": "Chirova, Maria, +373 (294) 23-6-32",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 31,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 314,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 26,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 9,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

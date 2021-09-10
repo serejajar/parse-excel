@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0236-41-241,0236-41-223"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620009146"
+  "idnp": "1014620009146",
+  "directors": [
+    {
+      "name": "Dumitraş Ion , tel 0236-41-482-dom , 0236-41-241, 0236-41-223-serv. 069531858",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 80,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

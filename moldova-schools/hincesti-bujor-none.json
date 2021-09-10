@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0269722269"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620012211"
+  "idnp": "1013620012211",
+  "directors": [
+    {
+      "name": "MOŞNEAGU VERA MOB.069503155.\r\nFIX.269-7-22-69",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 258,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 17,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

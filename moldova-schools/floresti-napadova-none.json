@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025052202"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000094___(floresti-napadova-none)"
+  "idnp": "1009601000094___(floresti-napadova-none)",
+  "directors": [
+    {
+      "name": "Moroi Vladimir    tel.fix 250-52-282         mobil 069554538",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 83,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

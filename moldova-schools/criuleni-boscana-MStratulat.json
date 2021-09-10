@@ -52,5 +52,33 @@
     "0248-70-285"
   ],
   "type": "Liceu",
-  "idnp": "1012620009441"
+  "idnp": "1012620009441",
+  "directors": [
+    {
+      "name": "Stavila Viorica 248-70-229, 060080083",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 32,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 401,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 18,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -44,5 +44,34 @@
     "026947219"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010025"
+  "idnp": "1012620010025",
+  "directors": [
+    {
+      "name": "Gherela Galina",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 284,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 30,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

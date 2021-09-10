@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "25451283"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620008312"
+  "idnp": "1014620008312",
+  "directors": [
+    {
+      "name": "Cuşnir Ala, 025451521 fix\r\n069028330, mobil",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 30,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 241,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 14,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

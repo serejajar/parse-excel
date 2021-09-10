@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025449295"
   ],
   "type": "Şcoală primară",
-  "idnp": "1014620008242"
+  "idnp": "1014620008242",
+  "directors": [
+    {
+      "name": "Cuculescu Silvia, 0254 49 2 08, 068412231",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 4,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 6,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

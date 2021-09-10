@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025464324"
   ],
   "type": "Şcoală primară",
-  "idnp": "1014620008161"
+  "idnp": "1014620008161",
+  "directors": [
+    {
+      "name": "Angela Braga",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 6,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 34,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 1,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

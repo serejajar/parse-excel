@@ -51,5 +51,33 @@
     "(249) 58 246"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620006950"
+  "idnp": "1014620006950",
+  "directors": [
+    {
+      "name": "FURDUI VLADIMIR,TEL FIX 0-249-58-374, 0-249-58-246,MOB 069715322",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 267,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

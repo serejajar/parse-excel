@@ -66,5 +66,34 @@
     "022516373, 022516346"
   ],
   "type": "Liceu",
-  "idnp": "1013620005901"
+  "idnp": "1013620005901",
+  "directors": [
+    {
+      "name": "Gherman Ala, tel. 022-98-27-56, mob.069176108",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 88,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1447,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 61,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 14,
+      "interactiveTable": 13,
+      "year": "2017"
+    }
+  ]
 }

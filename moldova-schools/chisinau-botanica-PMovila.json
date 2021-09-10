@@ -66,5 +66,34 @@
     "022 55-99-01"
   ],
   "type": "Liceu",
-  "idnp": "1007606010448"
+  "idnp": "1007606010448",
+  "directors": [
+    {
+      "name": "BOGOEVA ELENA TEL. FIX. 022-76-68-80  MOB. 069963876",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 86,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1094,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 78,
+      "notebook": 12,
+      "netbook": 30,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

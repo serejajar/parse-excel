@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026955219"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620011502"
+  "idnp": "1013620011502",
+  "directors": [
+    {
+      "name": "Sîrbu Natalia tel.fix.026955508  tel.mobil 068014343",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 115,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

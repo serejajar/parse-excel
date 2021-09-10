@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024846518"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000261"
+  "idnp": "1013620000261",
+  "directors": [
+    {
+      "name": "VERLAN FEODORA TEL.024846518 MOB.060406199",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 30,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 321,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

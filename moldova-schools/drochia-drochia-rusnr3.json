@@ -66,5 +66,34 @@
     "025222470"
   ],
   "type": "Liceu",
-  "idnp": "1012620009773"
+  "idnp": "1012620009773",
+  "directors": [
+    {
+      "name": "MELINTE VALENTINA, 025226292, 069379342",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 44,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 581,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 20,
+      "notebook": 16,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 8,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

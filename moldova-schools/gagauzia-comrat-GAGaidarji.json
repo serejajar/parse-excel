@@ -66,5 +66,33 @@
     "298-2-41-44"
   ],
   "type": "Liceu",
-  "idnp": "1012601000214"
+  "idnp": "1012601000214",
+  "directors": [
+    {
+      "name": "ГОРБУНОВА ЛЮДМИЛА ГРИГОРЬЕВНА\r\n ДОМ. 029865247\r\n МОБ. 069912016",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 66,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 683,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

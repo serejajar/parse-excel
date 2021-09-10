@@ -66,5 +66,33 @@
     "(552) 50850, 59150"
   ],
   "type": "Liceu",
-  "idnp": "1007600018595"
+  "idnp": "1007600018595",
+  "directors": [
+    {
+      "name": "ROIBU MARIA, \r\nTEL. FIX: (552)59150,\r\n TEL. MOBIL: 069243498",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 46,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 446,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 33,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 32,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

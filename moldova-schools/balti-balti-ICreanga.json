@@ -67,5 +67,34 @@
     "(0231)52-3-56"
   ],
   "type": "Liceu",
-  "idnp": "21010603383896"
+  "idnp": "21010603383896",
+  "directors": [
+    {
+      "name": "Pascari Lia",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 47,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 422,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

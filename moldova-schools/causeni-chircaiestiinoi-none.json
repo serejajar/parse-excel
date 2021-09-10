@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024394197"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012608001726"
+  "idnp": "1012608001726",
+  "directors": [
+    {
+      "name": "Pomujac Nina, 243-63-289, 069-39-62-01-DIRECTOR INTERIMAR",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 127,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

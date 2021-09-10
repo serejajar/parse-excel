@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "25432217"
   ],
   "type": "Şcoală primară",
-  "idnp": "1007601004674"
+  "idnp": "1007601004674",
+  "directors": [
+    {
+      "name": "Bodiu Maxim",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 3,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 10,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 1,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

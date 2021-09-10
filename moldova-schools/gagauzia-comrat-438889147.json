@@ -1,0 +1,53 @@
+{
+  "id": "gagauzia-comrat-438889147",
+  "search": "",
+  "address": {
+    "district": "gagauzia",
+    "city": "comrat",
+    "street": "SUVOROV 54",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul ”S. Curoglo”, or. Comrat",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "029831951"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1011601000354",
+  "directors": [
+    {
+      "name": "BOTOŞAN ANNA\r\n068537513\r\n0296682",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 27,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 272,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "gagauza"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

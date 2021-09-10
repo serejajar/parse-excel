@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "0 294 24-4-51"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010416"
+  "idnp": "1012620010416",
+  "directors": [
+    {
+      "name": "ELENA CIOBANU \r\nTEL 294 24-4-51\r\n MOB. 079713737",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 43,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 423,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 19,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 8,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

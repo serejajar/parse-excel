@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "alta"
+  ],
   "profiles": [],
   "phones": [
     "0246-5-23-83"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000142___(edinet-cuconestiinoi-none)"
+  "idnp": "1009601000142___(edinet-cuconestiinoi-none)",
+  "directors": [
+    {
+      "name": "VOINA NATALIA  069557742    246-5-23-84",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 163,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 26,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

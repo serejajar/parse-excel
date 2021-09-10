@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026358295"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010597"
+  "idnp": "1012620010597",
+  "directors": [
+    {
+      "name": "Guştiuc Ludmila, 026358370, 068507235",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 162,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 10,
+      "notebook": 12,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

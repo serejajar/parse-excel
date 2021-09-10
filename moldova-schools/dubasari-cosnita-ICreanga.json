@@ -65,5 +65,33 @@
     "24844212"
   ],
   "type": "Liceu",
-  "idnp": "1013620000216"
+  "idnp": "1013620000216",
+  "directors": [
+    {
+      "name": "VERLAN TUDOR,24844212",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 48,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 570,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 7,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

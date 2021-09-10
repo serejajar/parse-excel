@@ -66,5 +66,34 @@
     "223-3-83-34"
   ],
   "type": "Liceu",
-  "idnp": "1014620005137"
+  "idnp": "1014620005137",
+  "directors": [
+    {
+      "name": "VASIC ELVIRA\r\ntel.fix:022338334\r\ntel.mob.:069316994\r\ne-mail:vira-65@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 62,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 861,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 49,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

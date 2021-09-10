@@ -58,5 +58,33 @@
     "025676219"
   ],
   "type": "Liceu",
-  "idnp": "1013620000571"
+  "idnp": "1013620000571",
+  "directors": [
+    {
+      "name": "ŞONŢU LILIAN, TELEFON FIX: 256-76-2-47, MOBIL: 0-697-75-610",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 28,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 199,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 15,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

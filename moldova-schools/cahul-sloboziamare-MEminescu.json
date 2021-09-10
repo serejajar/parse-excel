@@ -66,5 +66,33 @@
     "029961343"
   ],
   "type": "Liceu",
-  "idnp": "1012620010287"
+  "idnp": "1012620010287",
+  "directors": [
+    {
+      "name": "Gîrneţ Elena\r\n029961343",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 38,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 355,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 20,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

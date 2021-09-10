@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0251-51-245"
   ],
   "type": "Şcoală primară",
-  "idnp": "1010601000162___(donduseni-briceni-none)"
+  "idnp": "1010601000162___(donduseni-briceni-none)",
+  "directors": [
+    {
+      "name": "Pilipenco Dina / tel:251-51-105; mob. 780-69-519",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 3,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 7,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

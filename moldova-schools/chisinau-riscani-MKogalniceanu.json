@@ -66,5 +66,34 @@
     "022498285"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-riscani-MKogalniceanu)"
+  "idnp": "1007601010600___(chisinau-riscani-MKogalniceanu)",
+  "directors": [
+    {
+      "name": "Beregoi Elena 079740392",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 71,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1007,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 31,
+      "notebook": 22,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 12,
+      "interactiveTable": 9,
+      "year": "2017"
+    }
+  ]
 }

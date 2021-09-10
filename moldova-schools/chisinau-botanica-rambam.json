@@ -58,5 +58,33 @@
     "022775994"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-botanica-rambam)"
+  "idnp": "1007601010600___(chisinau-botanica-rambam)",
+  "directors": [
+    {
+      "name": "ŞCOLNIC SOFIA   mob.067170880  \r\nemail: sofia.scolnic@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 36,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 402,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 4,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -58,5 +58,34 @@
     "224-5-34-05"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-cricova-AMateevici)"
+  "idnp": "1007601010600___(chisinau-cricova-AMateevici)",
+  "directors": [
+    {
+      "name": "BOLOCAN LILIANA, 224-5-34-05, 608-7-48-88",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 48,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 667,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 24,
+      "notebook": 12,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

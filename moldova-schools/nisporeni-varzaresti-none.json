@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0264-65-316"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620012521"
+  "idnp": "1013620012521",
+  "directors": [
+    {
+      "name": "ULINICI INGA \r\nTEL.FIX.0264-65-894 MOB.069298816",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 30,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 349,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 20,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0242-42-349"
   ],
   "type": "Gimnaziu",
-  "idnp": "101262308709"
+  "idnp": "101262308709",
+  "directors": [
+    {
+      "name": "Florean Aliona\r\n 0242 -42-521 \r\n068582993",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 28,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 248,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

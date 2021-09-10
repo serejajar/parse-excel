@@ -11,11 +11,36 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "023072325"
   ],
   "type": "Şcoală primară",
-  "idnp": "1007601011342___(soroca-slobozianoua-none)"
+  "idnp": "1007601011342___(soroca-slobozianoua-none)",
+  "directors": [
+    {
+      "name": "CATLABUGA LILIA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 3,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 10,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
 }

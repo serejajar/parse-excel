@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025966573"
   ],
   "type": "Gimnaziu",
-  "idnp": "1008601000097___(falesti-pruteni-none)"
+  "idnp": "1008601000097___(falesti-pruteni-none)",
+  "directors": [
+    {
+      "name": "Clipa Raisa,",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 224,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

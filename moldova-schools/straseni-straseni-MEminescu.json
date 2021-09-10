@@ -66,5 +66,34 @@
     "023729688"
   ],
   "type": "Liceu",
-  "idnp": "1012620010232"
+  "idnp": "1012620010232",
+  "directors": [
+    {
+      "name": "Troian Tatiana",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 59,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 946,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 43,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 9,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

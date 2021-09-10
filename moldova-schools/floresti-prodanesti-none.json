@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "25044359"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620012144"
+  "idnp": "1012620012144",
+  "directors": [
+    {
+      "name": "Juncu Lilia,250-44-3-03,068962226",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 225,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 10,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

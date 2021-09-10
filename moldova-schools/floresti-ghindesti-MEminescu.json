@@ -52,5 +52,34 @@
     "025071579"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620012409"
+  "idnp": "1012620012409",
+  "directors": [
+    {
+      "name": "DOGOTARI ILIE, 025071579",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 32,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 293,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

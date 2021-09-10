@@ -59,5 +59,33 @@
     "022-495-081"
   ],
   "type": "Liceu",
-  "idnp": "20022"
+  "idnp": "20022",
+  "directors": [
+    {
+      "name": "JICUL GALINA, 022-495-081,\r\n069139548",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 32,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 460,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

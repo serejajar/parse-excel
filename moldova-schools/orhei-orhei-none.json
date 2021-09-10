@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "023530706"
   ],
   "type": "Gimnaziu",
-  "idnp": "33781740___(orhei-orhei-none)"
+  "idnp": "33781740___(orhei-orhei-none)",
+  "directors": [
+    {
+      "name": "GAVRILENCO  VERONICA   023530706",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 28,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 280,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 32,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

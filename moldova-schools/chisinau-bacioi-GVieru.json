@@ -66,5 +66,33 @@
     "022487794"
   ],
   "type": "Şcoală primară",
-  "idnp": "1013620006241"
+  "idnp": "1013620006241",
+  "directors": [
+    {
+      "name": "EFTODE NATALIA,069144492",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 44,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 530,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -1,0 +1,52 @@
+{
+  "id": "glodeni-sturzovca-112807454",
+  "search": "",
+  "address": {
+    "district": "glodeni",
+    "city": "sturzovca",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziu Sturzovca nr.1",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "024945226"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000212___(glodeni-sturzovca-112807454)",
+  "directors": [
+    {
+      "name": "Dragot Valentina , 24945226, 069709799",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 159,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

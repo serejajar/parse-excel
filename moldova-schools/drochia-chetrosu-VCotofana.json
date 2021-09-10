@@ -44,5 +44,34 @@
     "025254288"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009728"
+  "idnp": "1012620009728",
+  "directors": [
+    {
+      "name": "Novac Elena, tel.fix 252-54-2-03, mobil 068719340",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 207,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 19,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

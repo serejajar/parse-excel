@@ -65,5 +65,34 @@
     "022 74-57-22"
   ],
   "type": "Liceu",
-  "idnp": "1007601009967___(chisinau-buiucani-DIAldeaTeodorovici)"
+  "idnp": "1007601009967___(chisinau-buiucani-DIAldeaTeodorovici)",
+  "directors": [
+    {
+      "name": "Donțu Iurie, 069055939\r\n74-57-22",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 73,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1055,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 25,
+      "notebook": 13,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

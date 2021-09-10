@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-cruzesti-521183351",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "cruzesti",
+    "street": "Sfîntul Avraam 14",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr. 75, s. Cruzeşti",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022-419-769"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601010600___(chisinau-cruzesti-521183351)",
+  "directors": [
+    {
+      "name": "Rusu Aurelia\r\ndom.022-419 - 802 ;  \r\n060557957",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 116,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

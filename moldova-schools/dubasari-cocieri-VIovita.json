@@ -65,5 +65,34 @@
     "024852249"
   ],
   "type": "Liceu",
-  "idnp": "1013620000124"
+  "idnp": "1013620000124",
+  "directors": [
+    {
+      "name": "Roșca Tatiana,024852249,",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 276,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 17,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

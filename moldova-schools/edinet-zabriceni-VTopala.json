@@ -58,5 +58,34 @@
     "024651346"
   ],
   "type": "Liceu",
-  "idnp": "1013620011432"
+  "idnp": "1013620011432",
+  "directors": [
+    {
+      "name": "Botnariuc Angelica, tel.fix 24651346, mob.69603788",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 187,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 18,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

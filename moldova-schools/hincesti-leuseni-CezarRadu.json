@@ -44,5 +44,34 @@
     "026954349"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009865"
+  "idnp": "1012620009865",
+  "directors": [
+    {
+      "name": "Rusu Maria , FIX 0-269-54-5-31, MOB. 069214756",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 198,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 23,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

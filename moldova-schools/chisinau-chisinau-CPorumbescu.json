@@ -65,5 +65,28 @@
     "+373 (22)41-39-05, 44-11-60, 44-10-15"
   ],
   "type": "Liceu",
-  "idnp": "1014620000578"
+  "idnp": "1014620000578",
+  "directors": [
+    {
+      "name": "Galina Buinovschi",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 122,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 361,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
 }

@@ -1,0 +1,52 @@
+{
+  "id": "chisinau-chisinau-9252103",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Gr. Ureche, 30",
+    "building": ""
+  },
+  "name": {
+    "ro": "Scoala - auxiliară nr.6",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022 54-19-86"
+  ],
+  "type": "Auxiliară",
+  "idnp": "1007601009716___(chisinau-chisinau-9252103)",
+  "directors": [
+    {
+      "name": "Danilenco Svetlana",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 30,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 84,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

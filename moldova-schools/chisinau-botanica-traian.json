@@ -66,5 +66,34 @@
     "022-66-14-01"
   ],
   "type": "Liceu",
-  "idnp": "1013620005864"
+  "idnp": "1013620005864",
+  "directors": [
+    {
+      "name": "GOGU TATIANA, tel. 022-66-14-01, mob. 069004107",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 76,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1246,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 34,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

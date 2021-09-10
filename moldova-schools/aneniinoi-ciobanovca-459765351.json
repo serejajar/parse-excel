@@ -1,0 +1,52 @@
+{
+  "id": "aneniinoi-ciobanovca-459765351",
+  "search": "",
+  "address": {
+    "district": "aneniinoi",
+    "city": "ciobanovca",
+    "street": "Octombriei 48",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituţia Publică Gimnaziul Ciobanovca",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "026578206"
+  ],
+  "type": "Gimnaziu",
+  "idnp": 70291887029188,
+  "directors": [
+    {
+      "name": "Teslari Gulnara \r\n026578282",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 150,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

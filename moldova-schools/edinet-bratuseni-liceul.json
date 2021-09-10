@@ -31,5 +31,34 @@
     "024675456"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000142___(edinet-bratuseni-liceul)"
+  "idnp": "1009601000142___(edinet-bratuseni-liceul)",
+  "directors": [
+    {
+      "name": "Șveț Inna 024675456",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 38,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 357,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 18,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

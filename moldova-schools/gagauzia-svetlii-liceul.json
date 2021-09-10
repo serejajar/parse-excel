@@ -30,5 +30,34 @@
     "029862534"
   ],
   "type": "Liceu",
-  "idnp": "1011601000398"
+  "idnp": "1011601000398",
+  "directors": [
+    {
+      "name": "Бояджи Светлана Семёновна, 029862556,\r\n079476568",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 27,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 262,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 22,
+      "notebook": 9,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 10,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

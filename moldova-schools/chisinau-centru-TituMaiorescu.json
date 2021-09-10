@@ -65,5 +65,34 @@
     "022725854"
   ],
   "type": "Liceu",
-  "idnp": "1007601009417___(chisinau-centru-TituMaiorescu)"
+  "idnp": "1007601009417___(chisinau-centru-TituMaiorescu)",
+  "directors": [
+    {
+      "name": "CRAPIVNAIA NINA,227-2-58-54, 691-1-40-40",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 39,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 424,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 43,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

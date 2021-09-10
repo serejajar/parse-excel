@@ -49,8 +49,7 @@
     }
   ],
   "langs": [
-    "romana",
-    "rusa"
+    "romana"
   ],
   "profiles": [
     "umanist"
@@ -59,5 +58,34 @@
     "025632342"
   ],
   "type": "Liceu",
-  "idnp": "1013620000630"
+  "idnp": "1013620000630",
+  "directors": [
+    {
+      "name": "IACHIMCIUC LILIA, 069573775",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 31,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 368,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 27,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

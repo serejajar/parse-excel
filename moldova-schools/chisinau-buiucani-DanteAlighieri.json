@@ -66,5 +66,34 @@
     "227-4-25-88"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-buiucani-DanteAlighieri)"
+  "idnp": "1007601010600___(chisinau-buiucani-DanteAlighieri)",
+  "directors": [
+    {
+      "name": "Leca Ala, 227-4-25-88, 603-3-60-15",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 71,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1207,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

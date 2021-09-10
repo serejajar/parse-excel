@@ -65,5 +65,34 @@
     "0223-1-05-68"
   ],
   "type": "Liceu",
-  "idnp": "1002600054105"
+  "idnp": "1002600054105",
+  "directors": [
+    {
+      "name": "SIREŢEANU ION",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 38,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 358,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 20,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

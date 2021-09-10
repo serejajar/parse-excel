@@ -66,5 +66,34 @@
     "022765522"
   ],
   "type": "Liceu",
-  "idnp": "1007601009417___(chisinau-centru-VLupu)"
+  "idnp": "1007601009417___(chisinau-centru-VLupu)",
+  "directors": [
+    {
+      "name": "VÎPOLZOV IRINA  TEL.MOB : 795-7-87-42",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 61,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 544,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 29,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

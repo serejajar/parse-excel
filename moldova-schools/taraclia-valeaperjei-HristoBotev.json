@@ -56,7 +56,7 @@
     }
   ],
   "langs": [
-    "rusa"
+    "alta"
   ],
   "profiles": [
     "umanist"
@@ -65,5 +65,34 @@
     "29147054"
   ],
   "type": "Liceu",
-  "idnp": "1003611003865"
+  "idnp": "1003611003865",
+  "directors": [
+    {
+      "name": "PETROVA ECATERINA 29147-0-54     079239745",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 37,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 348,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 21,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

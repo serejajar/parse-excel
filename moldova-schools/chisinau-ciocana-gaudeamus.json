@@ -66,5 +66,34 @@
     "022 33 10 54, 022 33 10 56, 022 33 10 67"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-ciocana-gaudeamus)"
+  "idnp": "1007601010600___(chisinau-ciocana-gaudeamus)",
+  "directors": [
+    {
+      "name": "GANGAN ZINAIDA, 022-331054, 079443705",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 55,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 949,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 75,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 4,
+      "year": "2017"
+    }
+  ]
 }

@@ -58,5 +58,33 @@
     "022451154"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-gratiesti-liceul)"
+  "idnp": "1007601010600___(chisinau-gratiesti-liceul)",
+  "directors": [
+    {
+      "name": "PASCAL -OLEINIC GALINA 022451154, acasă 022451203\r\n060211225, E-mail ltgratiesti@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 42,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 410,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

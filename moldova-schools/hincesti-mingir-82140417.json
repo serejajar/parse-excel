@@ -1,0 +1,52 @@
+{
+  "id": "hincesti-mingir-82140417",
+  "search": "",
+  "address": {
+    "district": "hincesti",
+    "city": "mingir",
+    "street": "Brașoveanu 15",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Școala Primară Mingir",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "026976021"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1013620012015",
+  "directors": [
+    {
+      "name": "Tătaru Viorica\r\nTEL.FIX:026976021, MOBIL:060028574",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 0,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

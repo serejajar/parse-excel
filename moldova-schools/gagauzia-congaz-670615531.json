@@ -1,0 +1,53 @@
+{
+  "id": "gagauzia-congaz-670615531",
+  "search": "",
+  "address": {
+    "district": "gagauzia",
+    "city": "congaz",
+    "street": "Lenina",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul ”N. Cebanov”, Congaz",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "029868540"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1011601000240",
+  "directors": [
+    {
+      "name": "Пулукчу Мария Григорьевна, 068450762",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 31,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 274,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "gagauza"
+  ],
+  "equipment": [
+    {
+      "pc": 28,
+      "notebook": 12,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

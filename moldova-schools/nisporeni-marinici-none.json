@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0264444491"
   ],
   "type": "Gimnaziu",
-  "idnp": "35087712___(nisporeni-marinici-none)"
+  "idnp": "35087712___(nisporeni-marinici-none)",
+  "directors": [
+    {
+      "name": "VELESCU TATIANA  026444491MOB.  068092945",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 201,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 13,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 10,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

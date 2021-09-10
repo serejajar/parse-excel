@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025479232"
   ],
   "type": "Şcoală primară",
-  "idnp": "1014620008301"
+  "idnp": "1014620008301",
+  "directors": [
+    {
+      "name": "Calin Angela, 025479259\r\n060545929\r\ncalin.angela72@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 4,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 4,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

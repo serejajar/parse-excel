@@ -65,5 +65,34 @@
     "25022272"
   ],
   "type": "Liceu",
-  "idnp": "1012620012225"
+  "idnp": "1012620012225",
+  "directors": [
+    {
+      "name": "GOLUBEVA IRINA 250-2-22-72 (LUC) 250-2-25-19 (DOM) 60657778 (MOB)",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 30,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 280,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 13,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

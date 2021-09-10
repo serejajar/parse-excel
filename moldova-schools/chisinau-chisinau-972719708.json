@@ -1,0 +1,52 @@
+{
+  "id": "chisinau-chisinau-972719708",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "BD. DECEBAL 91A",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şc.-gr.nr.152 “Pas cu Pas”",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "0-(22)-52-87-23"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1013620007189",
+  "directors": [
+    {
+      "name": "LUNGU VALENTINA\r\n0-(22)-52-30-82, 069675125",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 42,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 416,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

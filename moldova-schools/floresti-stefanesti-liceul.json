@@ -52,5 +52,34 @@
     "025049228"
   ],
   "type": "Liceu",
-  "idnp": "1012620012007"
+  "idnp": "1012620012007",
+  "directors": [
+    {
+      "name": "BODIU AURICA,025049279, 069912273",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 286,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 36,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

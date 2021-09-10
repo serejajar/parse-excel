@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0299-76654"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010221"
+  "idnp": "1012620010221",
+  "directors": [
+    {
+      "name": "UZUN TAMARA   0299-76748    MOB. 079889434",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 258,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 12,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

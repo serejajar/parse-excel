@@ -49,7 +49,6 @@
     }
   ],
   "langs": [
-    "romana",
     "rusa"
   ],
   "profiles": [
@@ -59,5 +58,34 @@
     "027179438"
   ],
   "type": "Liceu",
-  "idnp": "1012620012100"
+  "idnp": "1012620012100",
+  "directors": [
+    {
+      "name": "DIRECTOR interimar\r\nBelcencova Zoia",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 43,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 545,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 29,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

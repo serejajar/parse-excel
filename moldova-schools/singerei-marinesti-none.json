@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0-262-53-903"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000054"
+  "idnp": "1013620000054",
+  "directors": [
+    {
+      "name": "RAZLOG RAISA, 0262-5-37-78,068560368",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 164,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

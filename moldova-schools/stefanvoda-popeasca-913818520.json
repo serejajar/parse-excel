@@ -1,0 +1,53 @@
+{
+  "id": "stefanvoda-popeasca-913818520",
+  "search": "",
+  "address": {
+    "district": "stefanvoda",
+    "city": "popeasca",
+    "street": "I. Creangă,1",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Popeasca",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "024234359"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013601000015___(stefanvoda-popeasca-913818520)",
+  "directors": [
+    {
+      "name": "Zmeu Diana, 078446086",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 244,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 20,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

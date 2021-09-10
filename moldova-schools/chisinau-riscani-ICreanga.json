@@ -66,5 +66,34 @@
     "022-32-13-74"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-riscani-ICreanga)"
+  "idnp": "1007601010600___(chisinau-riscani-ICreanga)",
+  "directors": [
+    {
+      "name": "CORNELIU SOLOMON\r\n  022-32-53-35, 069-81-11-39",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 128,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1410,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 88,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 10,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

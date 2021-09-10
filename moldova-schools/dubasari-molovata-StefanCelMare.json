@@ -51,5 +51,33 @@
     "24854439"
   ],
   "type": "Liceu",
-  "idnp": "1013620000146"
+  "idnp": "1013620000146",
+  "directors": [
+    {
+      "name": "BEJENARI AURICA 24854439",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 282,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

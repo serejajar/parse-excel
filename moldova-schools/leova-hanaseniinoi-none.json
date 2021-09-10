@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0263-72-2-84"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601011331___(leova-hanaseniinoi-none)"
+  "idnp": "1007601011331___(leova-hanaseniinoi-none)",
+  "directors": [
+    {
+      "name": "Dreglea Leonid Alexandru   \r\n0263-72-2-50\r\n067692320",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 105,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 17,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

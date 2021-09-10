@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024836088"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009245"
+  "idnp": "1012620009245",
+  "directors": [
+    {
+      "name": "Zavtur Elena, 024836211",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 93,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 11,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

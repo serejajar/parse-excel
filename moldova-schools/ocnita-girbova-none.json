@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "027159187"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011745"
+  "idnp": "1012620011745",
+  "directors": [
+    {
+      "name": "CERNETCAIA ANGELA , FIX.027159139    MOB.068705175",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 81,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 7,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

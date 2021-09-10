@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0236-5-43-23"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620001143"
+  "idnp": "1013620001143",
+  "directors": [
+    {
+      "name": "Burlacu Nina, 0236-5-46-45",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 256,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 24,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

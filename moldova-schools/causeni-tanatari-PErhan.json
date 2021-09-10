@@ -31,5 +31,34 @@
     "0243-77-280"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012608001645"
+  "idnp": "1012608001645",
+  "directors": [
+    {
+      "name": "Moisei Ecaterina, TEL. FIX 024377280, MOBIL 069633468",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 262,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 39,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

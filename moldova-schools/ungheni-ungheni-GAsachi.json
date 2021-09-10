@@ -66,5 +66,34 @@
     "0 236 2 08 48"
   ],
   "type": "Liceu",
-  "idnp": "1013620001198"
+  "idnp": "1013620001198",
+  "directors": [
+    {
+      "name": "PRIMAC GHEORGHE  069019165",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 58,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 835,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 36,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 4,
+      "year": "2017"
+    }
+  ]
 }

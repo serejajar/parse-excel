@@ -66,5 +66,34 @@
     "268-2-24-37"
   ],
   "type": "Liceu",
-  "idnp": "1012620008765"
+  "idnp": "1012620008765",
+  "directors": [
+    {
+      "name": "BALAN VERA, \r\n268-2-19-65, \r\n069563509",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 75,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 890,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 62,
+      "notebook": 32,
+      "netbook": 2,
+      "tabletPC": 20,
+      "proector": 17,
+      "interactiveTable": 9,
+      "year": "2017"
+    }
+  ]
 }

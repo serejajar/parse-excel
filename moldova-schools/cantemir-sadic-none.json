@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "029875293"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620008289"
+  "idnp": "1013620008289",
+  "directors": [
+    {
+      "name": "UNGUREANU ALA   029875614",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 199,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

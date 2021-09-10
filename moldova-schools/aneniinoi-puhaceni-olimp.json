@@ -59,5 +59,34 @@
     "026575222"
   ],
   "type": "Liceu",
-  "idnp": "1013620007628"
+  "idnp": "1013620007628",
+  "directors": [
+    {
+      "name": "Plamadeala Angelica\r\ntel.026575222\r\nmobil 069980448 angelaplamadeala@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 30,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 355,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

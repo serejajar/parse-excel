@@ -1,0 +1,52 @@
+{
+  "id": "gagauzia-cazaclia-424393329",
+  "search": "",
+  "address": {
+    "district": "gagauzia",
+    "city": "cazaclia",
+    "street": "PUŞKIN",
+    "building": ""
+  },
+  "name": {
+    "ro": "Liceul Teoretic, Cazaclia",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "029167273"
+  ],
+  "type": "Liceu",
+  "idnp": "1011601000538",
+  "directors": [
+    {
+      "name": "Belioglo Anna, , 0780 - 23 - 076",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 39,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 340,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "gagauza"
+  ],
+  "equipment": [
+    {
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 12,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

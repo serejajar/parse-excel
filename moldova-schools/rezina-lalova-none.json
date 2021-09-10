@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025475322"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620008149"
+  "idnp": "1014620008149",
+  "directors": [
+    {
+      "name": "Balaban Ala \r\nemail.alabalaban1963@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 78,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 10,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

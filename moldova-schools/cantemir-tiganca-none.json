@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "27353248"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620008120"
+  "idnp": "1013620008120",
+  "directors": [
+    {
+      "name": "Ciubotaru Nadejda, 0273/53-2-48; 078729958",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 238,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

@@ -45,5 +45,34 @@
     "024742-395"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000131___(briceni-colicauti-liceul)"
+  "idnp": "1009601000131___(briceni-colicauti-liceul)",
+  "directors": [
+    {
+      "name": "LAVRIC LARISA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 167,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -66,5 +66,34 @@
     "022 44-58-96"
   ],
   "type": "Şcoală primară",
-  "idnp": "1011620005697"
+  "idnp": "1011620005697",
+  "directors": [
+    {
+      "name": "Ceaușceac Iana\r\n079804408",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 4,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 11,
+      "notebook": 9,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -56,8 +56,7 @@
     }
   ],
   "langs": [
-    "romana",
-    "rusa"
+    "romana"
   ],
   "profiles": [
     "real",
@@ -67,5 +66,34 @@
     "022735200, 022735205"
   ],
   "type": "Liceu",
-  "idnp": "1007601009417___(chisinau-centru-seralNr1)"
+  "idnp": "1007601009417___(chisinau-centru-seralNr1)",
+  "directors": [
+    {
+      "name": "Cojocari Nina",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 444,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 23,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

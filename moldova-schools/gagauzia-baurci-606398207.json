@@ -1,0 +1,53 @@
+{
+  "id": "gagauzia-baurci-606398207",
+  "search": "",
+  "address": {
+    "district": "gagauzia",
+    "city": "baurci",
+    "street": "Şcolii",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala primară, Baurci",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "029133536"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1011601000549",
+  "directors": [
+    {
+      "name": "Директор  школы Остриогло Евдокия Дмитриевна\r\nтел.0-291-33-5-36",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 252,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "gagauza"
+  ],
+  "equipment": [
+    {
+      "pc": 6,
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

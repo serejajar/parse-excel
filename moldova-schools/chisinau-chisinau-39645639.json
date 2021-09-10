@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-39645639",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "bd.Mircea cel Bătrîn 10/2",
+    "building": ""
+  },
+  "name": {
+    "ro": "Liceul Teoretic \"Orizont\", filiala Ciocana",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022-33-97-77"
+  ],
+  "type": "Liceu",
+  "idnp": "200003502152",
+  "directors": [
+    {
+      "name": "Umit Oz, 0-22-33-97-77, \r\n078658926",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 108,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 756,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 28,
+      "notebook": 43,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 41,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

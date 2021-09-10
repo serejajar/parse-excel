@@ -65,5 +65,34 @@
     "024322276"
   ],
   "type": "Liceu",
-  "idnp": "1003600015231"
+  "idnp": "1003600015231",
+  "directors": [
+    {
+      "name": "Ţurcan V. TEL.0243-2-77-17 MOB.069732623",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 259,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

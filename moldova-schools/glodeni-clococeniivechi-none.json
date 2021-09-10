@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024959234"
   ],
   "type": "Şcoală primară",
-  "idnp": "35435135135"
+  "idnp": "35435135135",
+  "directors": [
+    {
+      "name": "Ilcu Tamara",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 5,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 1,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

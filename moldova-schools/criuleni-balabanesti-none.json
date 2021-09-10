@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "248-32295"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009083"
+  "idnp": "1012620009083",
+  "directors": [
+    {
+      "name": "Calancea Maria, 024832424, 060044415",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 160,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

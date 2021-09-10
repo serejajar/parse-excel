@@ -1,0 +1,52 @@
+{
+  "id": "chisinau-bacioi-579026560",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "bacioi",
+    "street": "Arhanghel Mihail, 10",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala primară nr.101",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022383280,022382949"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1007601010600___(chisinau-bacioi-579026560)",
+  "directors": [
+    {
+      "name": "SECRIERU LILIA ,tel.fix  022383280, mobil 069386986",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 440,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 6,
+      "notebook": 20,
+      "netbook": 0,
+      "tabletPC": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026965276"
   ],
   "type": "Şcoală primară",
-  "idnp": "1013620011993"
+  "idnp": "1013620011993",
+  "directors": [
+    {
+      "name": "V.Olaru, tel.fix:269-65-2-55  , mobil 069751442",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 6,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 30,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 3,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

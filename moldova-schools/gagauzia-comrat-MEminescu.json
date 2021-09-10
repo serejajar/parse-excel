@@ -65,5 +65,33 @@
     "029831739"
   ],
   "type": "Liceu",
-  "idnp": "1012601000225"
+  "idnp": "1012601000225",
+  "directors": [
+    {
+      "name": "STOINOV SVETLANA  029831739,   069201639",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 345,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

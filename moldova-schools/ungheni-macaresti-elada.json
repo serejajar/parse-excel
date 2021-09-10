@@ -31,5 +31,34 @@
     "0236-45-095"
   ],
   "type": "Liceu",
-  "idnp": "1013620001110"
+  "idnp": "1013620001110",
+  "directors": [
+    {
+      "name": "ANTONIUC  MARIA ,0236-45-2-46 ,068222513",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 37,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 423,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 45,
+      "notebook": 9,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

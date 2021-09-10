@@ -66,5 +66,33 @@
     "+160037353326568  + 0037353360438"
   ],
   "type": "Liceu",
-  "idnp": "1007600014748"
+  "idnp": "1007600014748",
+  "directors": [
+    {
+      "name": "Iovcev Ion, tel. 076739811 ;  00160037355744402",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 146,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

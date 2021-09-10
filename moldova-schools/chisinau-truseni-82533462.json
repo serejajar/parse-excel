@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-truseni-82533462",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "truseni",
+    "street": "Gheorghe Madan 60",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Truşeni, s. Truşeni",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022590456"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "10076010106600",
+  "directors": [
+    {
+      "name": "APOSTU ANA,  022-590-456, 079-032-166",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 212,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

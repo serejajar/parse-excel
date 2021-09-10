@@ -66,5 +66,34 @@
     "2-58-72-4-10"
   ],
   "type": "Liceu",
-  "idnp": "1014620010096"
+  "idnp": "1014620010096",
+  "directors": [
+    {
+      "name": "Banari Mariana",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 27,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 215,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 12,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

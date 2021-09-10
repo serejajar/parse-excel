@@ -1,0 +1,50 @@
+{
+  "id": "balti-balti-785769140",
+  "search": "",
+  "address": {
+    "district": "balti",
+    "city": "balti",
+    "street": "Chisinaului 28",
+    "building": ""
+  },
+  "name": {
+    "ro": "Liceul Teoretic „Orizont”",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "076718616"
+  ],
+  "type": "Liceu",
+  "idnp": "1002600026438___(balti-balti-orizont)",
+  "directors": [
+    {
+      "name": "Erkan Yilmaz",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 75,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 2,
+      "notebook": 30,
+      "proector": 6,
+      "year": "2017"
+    }
+  ]
+}

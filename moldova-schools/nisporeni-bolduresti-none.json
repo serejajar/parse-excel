@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0264-64-247"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620012543"
+  "idnp": "1013620012543",
+  "directors": [
+    {
+      "name": "ENACHE NADEJDA, TEL. FIX: 0-264-6-42-47, 00264-6-42-69, MOBIL: 068467Î77",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 312,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 35,
+      "notebook": 11,
+      "netbook": 0,
+      "tabletPC": 25,
+      "proector": 15,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

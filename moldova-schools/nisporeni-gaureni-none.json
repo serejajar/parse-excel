@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026462313"
   ],
   "type": "Şcoală primară",
-  "idnp": "35087712___(nisporeni-gaureni-none)"
+  "idnp": "35087712___(nisporeni-gaureni-none)",
+  "directors": [
+    {
+      "name": "RUSU TUDOR   0Е646ЕЕ87               060Е6950Î",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 2,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

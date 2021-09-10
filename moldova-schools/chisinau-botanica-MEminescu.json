@@ -66,5 +66,34 @@
     "022553096"
   ],
   "type": "Liceu",
-  "idnp": "101262001243"
+  "idnp": "101262001243",
+  "directors": [
+    {
+      "name": "DAN MIHAI, 022-55-30-96, 022-53-33-39, 068127927",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 80,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1277,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 50,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

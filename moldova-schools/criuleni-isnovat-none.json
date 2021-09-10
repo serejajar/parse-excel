@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024877318"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009289"
+  "idnp": "1012620009289",
+  "directors": [
+    {
+      "name": "GHEORGHITA TATIANA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 164,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

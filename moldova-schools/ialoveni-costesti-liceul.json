@@ -66,5 +66,34 @@
     "026851481"
   ],
   "type": "Liceu",
-  "idnp": "1012620008743"
+  "idnp": "1012620008743",
+  "directors": [
+    {
+      "name": "BORTA SVETLANA\r\n026851481\r\n069800343",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 47,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 540,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 30,
+      "notebook": 18,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 24,
+      "interactiveTable": 7,
+      "year": "2017"
+    }
+  ]
 }

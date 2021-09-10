@@ -44,5 +44,34 @@
     "0259-73-372"
   ],
   "type": "Liceu",
-  "idnp": "1012620011697"
+  "idnp": "1012620011697",
+  "directors": [
+    {
+      "name": "Găină Andrian 025973372\r\n068065854",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 263,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

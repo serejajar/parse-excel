@@ -67,5 +67,34 @@
     "0244-2-20-84"
   ],
   "type": "Liceu",
-  "idnp": "1012620012096"
+  "idnp": "1012620012096",
+  "directors": [
+    {
+      "name": "GORINCIOI  VALERIU, \r\n244-22084, 068421199",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 46,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 525,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 54,
+      "notebook": 69,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 6,
+      "interactiveTable": 4,
+      "year": "2017"
+    }
+  ]
 }

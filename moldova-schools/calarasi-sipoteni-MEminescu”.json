@@ -59,5 +59,33 @@
     "024476259"
   ],
   "type": "Liceu",
-  "idnp": "1012620012317"
+  "idnp": "1012620012317",
+  "directors": [
+    {
+      "name": "Dumitru Bob; 024476259",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 42,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 625,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

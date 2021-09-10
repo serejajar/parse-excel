@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0241-78-2-35"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010450"
+  "idnp": "1012620010450",
+  "directors": [
+    {
+      "name": "Musteaţă Ion, 0-241-78-3-83. mob.  079058577",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 163,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 11,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

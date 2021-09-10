@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-533536668",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Hanul Morii, 42/1",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul „Nicolae H. Costin”, mun. Chişinău",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022 550117"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "17993___(chisinau-chisinau-533536668)",
+  "directors": [
+    {
+      "name": "GUZUN SILVIA\r\n022-550117",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 36,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 376,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 26,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

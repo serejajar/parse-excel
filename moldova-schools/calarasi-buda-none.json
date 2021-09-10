@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "(0244) 61 458"
   ],
   "type": "Şcoală primară",
-  "idnp": "1014601000034___(calarasi-buda-none)"
+  "idnp": "1014601000034___(calarasi-buda-none)",
+  "directors": [
+    {
+      "name": "Iavorschi Oxana (0244) 61 458,   069619450",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 6,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 58,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

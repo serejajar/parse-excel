@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "0256-63-090"
   ],
   "type": "Şcoală primară",
-  "idnp": "1007601010998___(riscani-usurei-none)"
+  "idnp": "1007601010998___(riscani-usurei-none)",
+  "directors": [
+    {
+      "name": "Nicolaeva Ludmila        0256-63-079     068882177",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 5,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

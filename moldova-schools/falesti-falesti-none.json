@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025926508"
   ],
   "type": "Gimnaziu",
-  "idnp": "1008601000097___(falesti-falesti-none)"
+  "idnp": "1008601000097___(falesti-falesti-none)",
+  "directors": [
+    {
+      "name": "CHIRIAC   MARIA,0 Е59-Е-6Е-84",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 154,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

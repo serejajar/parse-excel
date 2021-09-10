@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-dobrogea-173718171",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "dobrogea",
+    "street": "ION CREANGĂ 2",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr. 68, s. Dobrogea",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022-25-80-65"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601010600___(chisinau-dobrogea-173718171)",
+  "directors": [
+    {
+      "name": "VIȘNEVSCHI ANA, TEL:022-25-82-51, 068443234\r\ngimn_68@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 27,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 285,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 27,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

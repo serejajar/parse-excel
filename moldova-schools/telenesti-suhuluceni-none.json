@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025875232"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620000431"
+  "idnp": "1014620000431",
+  "directors": [
+    {
+      "name": "Stegarescu Lidia,FIX-Е5875393, DIR ADJUNCT Е5875291",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 152,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 15,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

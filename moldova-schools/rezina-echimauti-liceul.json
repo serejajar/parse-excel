@@ -30,5 +30,34 @@
     "25447268"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620012200"
+  "idnp": "1013620012200",
+  "directors": [
+    {
+      "name": "Ciorici Eleonora,  060066810",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 210,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 16,
+      "notebook": 12,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

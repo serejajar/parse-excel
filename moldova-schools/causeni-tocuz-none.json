@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024378235"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012608001807"
+  "idnp": "1012608001807",
+  "directors": [
+    {
+      "name": "Dărănuţă Liuba,\r\n024378270, 024378235",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 40,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 477,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 10,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

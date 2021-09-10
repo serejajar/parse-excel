@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0264-5-22-80,"
   ],
   "type": "Gimnaziu",
-  "idnp": "35087712___(nisporeni-cristesti-none)"
+  "idnp": "35087712___(nisporeni-cristesti-none)",
+  "directors": [
+    {
+      "name": "HOMIŢCHI VALENTINA  ,0264-5-22-80,    067667275",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 88,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -59,5 +59,34 @@
     "(555) 2-16-65"
   ],
   "type": "Liceu",
-  "idnp": "1007600024716"
+  "idnp": "1007600024716",
+  "directors": [
+    {
+      "name": "HALUS EUGENIA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 28,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 147,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 47,
+      "notebook": 18,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

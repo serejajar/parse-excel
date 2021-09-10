@@ -65,5 +65,34 @@
     "297-5-13-88"
   ],
   "type": "Liceu",
-  "idnp": "1012620011538"
+  "idnp": "1012620011538",
+  "directors": [
+    {
+      "name": "STRATILA VALENTINA    TEL. 297-5-13-88,\r\n MOBIL 069225515",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 32,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 453,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 32,
+      "notebook": 6,
+      "netbook": 1,
+      "tabletPC": 2,
+      "proector": 8,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

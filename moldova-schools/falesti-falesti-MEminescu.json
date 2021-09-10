@@ -66,5 +66,34 @@
     "025922183"
   ],
   "type": "Liceu",
-  "idnp": "1012620011594"
+  "idnp": "1012620011594",
+  "directors": [
+    {
+      "name": "PLEȘCA RODICA, 0252922183, mob. 067106150",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 83,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1329,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 27,
+      "notebook": 0,
+      "netbook": 18,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

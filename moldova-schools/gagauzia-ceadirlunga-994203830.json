@@ -1,0 +1,52 @@
+{
+  "id": "gagauzia-ceadirlunga-994203830",
+  "search": "",
+  "address": {
+    "district": "gagauzia",
+    "city": "ceadirlunga",
+    "street": "Micurina/59",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul -grădiniță ”G. Sîrtmaci”, or. Ceadăr-Lunga",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "029123976"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1011601000572",
+  "directors": [
+    {
+      "name": "CONSTANTINOVA MARIA  CONSTANTINOVNA.",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 166,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "gagauza"
+  ],
+  "equipment": [
+    {
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

@@ -59,5 +59,34 @@
     "55-52-12"
   ],
   "type": "Liceu",
-  "idnp": "1007601010448___(chisinau-botanica-MirceaCelBatrin)"
+  "idnp": "1007601010448___(chisinau-botanica-MirceaCelBatrin)",
+  "directors": [
+    {
+      "name": "TEŞCU MIHAIL FIX: 55-52-33",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 40,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 585,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 25,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

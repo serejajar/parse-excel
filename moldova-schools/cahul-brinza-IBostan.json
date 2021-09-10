@@ -58,5 +58,33 @@
     "029936347"
   ],
   "type": "Liceu",
-  "idnp": "1012620009980"
+  "idnp": "1012620009980",
+  "directors": [
+    {
+      "name": "BICHIR MARIA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 27,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 271,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

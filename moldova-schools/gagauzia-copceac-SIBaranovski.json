@@ -66,5 +66,34 @@
     "29450503"
   ],
   "type": "Liceu",
-  "idnp": "1011601000664"
+  "idnp": "1011601000664",
+  "directors": [
+    {
+      "name": "ТОЛМАЧ ИРИНА",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 68,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 650,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 45,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 17,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+{
+  "id": "straseni-straseni-271412014",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "straseni",
+    "street": "Ștefan el Mare nr.109",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituția Privată Școala „Millenium”",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "023728499"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1015620004975",
+  "directors": [
+    {
+      "name": "Pereu Angela",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 1,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 4,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 4,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 4,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

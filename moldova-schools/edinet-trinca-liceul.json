@@ -31,5 +31,34 @@
     "024641609"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620011616"
+  "idnp": "1013620011616",
+  "directors": [
+    {
+      "name": "Lambarski Angelia\r\n 024641609\r\n 069034354",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 250,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 10,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

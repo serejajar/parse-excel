@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026378451"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601011331___(leova-covurlui-none)"
+  "idnp": "1007601011331___(leova-covurlui-none)",
+  "directors": [
+    {
+      "name": "Neghină Emilia      0263-78-4-51,.MOB.068056044",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 12,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 124,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

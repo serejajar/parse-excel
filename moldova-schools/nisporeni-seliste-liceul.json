@@ -44,5 +44,34 @@
     "026446556"
   ],
   "type": "Gimnaziu",
-  "idnp": "35087712___(nisporeni-seliste-liceul)"
+  "idnp": "35087712___(nisporeni-seliste-liceul)",
+  "directors": [
+    {
+      "name": "FONARU TATIANA 026446556 026446299 068247448",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 274,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 34,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

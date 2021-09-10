@@ -1,0 +1,52 @@
+{
+  "id": "dubasari-corjova-64359275",
+  "search": "",
+  "address": {
+    "district": "dubasari",
+    "city": "corjova",
+    "street": "Eminescu 1",
+    "building": ""
+  },
+  "name": {
+    "ro": "Liceul Teoretic Republican „Ştefan cel Mare şi Sfînt”, or. Grigoriopol, s. Doroţcaia",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "024845805"
+  ],
+  "type": "Liceu",
+  "idnp": "1007600016926",
+  "directors": [
+    {
+      "name": "CERCAVSCHI ELEONORA,0248-45-805,069156031",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 28,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 157,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 9,
+      "proector": 4,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

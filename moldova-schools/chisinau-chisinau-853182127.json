@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-853182127",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Lomonosov 42",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala auxiliara-internat Nr.5",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022-73-70-29"
+  ],
+  "type": "Auxiliară",
+  "idnp": "1007601009417___(chisinau-chisinau-853182127)",
+  "directors": [
+    {
+      "name": "Malear Viorica",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 50,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

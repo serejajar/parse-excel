@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "27252285"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011505"
+  "idnp": "1012620011505",
+  "directors": [
+    {
+      "name": "MOSCALU  SILVIA  \r\n 0272 52- 4-09\r\n0272-52-2-50\r\n068318005",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 215,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 13,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -1,0 +1,47 @@
+{
+  "id": "gagauzia-congaz-auxilar",
+  "search": "",
+  "address": {
+    "district": "gagauzia",
+    "city": "congaz",
+    "street": "Lenina 72",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala internat auxiliară Congaz",
+    "ru": ""
+  },
+  "bac": [],
+  "langs": [
+    "gagauza"
+  ],
+  "profiles": [],
+  "phones": [
+    "029868364"
+  ],
+  "type": "Auxiliară",
+  "idnp": "113131313",
+  "directors": [
+    {
+      "name": "Diacova Sofia\r\n029868364\r\n069437709",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 63,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
+}

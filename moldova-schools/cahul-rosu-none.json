@@ -12,11 +12,36 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "029971290"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009902"
+  "idnp": "1012620009902",
+  "directors": [
+    {
+      "name": "Mladinov Viorica 0299 71 2 90 / 079769619",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 197,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
 }

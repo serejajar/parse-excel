@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "236-2-15-40"
   ],
   "type": "Gimnaziu",
-  "idnp": "3652"
+  "idnp": "3652",
+  "directors": [
+    {
+      "name": "MORCOV VERONICA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 150,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 11,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

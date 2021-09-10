@@ -1,0 +1,53 @@
+{
+  "id": "drochia-pelinia-477144001",
+  "search": "",
+  "address": {
+    "district": "drochia",
+    "city": "pelinia",
+    "street": "Mihai Eminescu 13",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituţia Publică Liceul Teoretic, Pelinia",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "025258272"
+  ],
+  "type": "Liceu",
+  "idnp": "1012620009658",
+  "directors": [
+    {
+      "name": "GRUMEZA GALINA, tel. fix. 025259332  mob. 060085282",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 43,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 437,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 45,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
+}

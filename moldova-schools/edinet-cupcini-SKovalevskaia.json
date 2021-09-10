@@ -51,5 +51,33 @@
     "024671190"
   ],
   "type": "Liceu",
-  "idnp": "1009601000142___(edinet-cupcini-SKovalevskaia)"
+  "idnp": "1009601000142___(edinet-cupcini-SKovalevskaia)",
+  "directors": [
+    {
+      "name": "MORŞCEACOVA ALLA_024671190_069816326",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 276,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

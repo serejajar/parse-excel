@@ -56,8 +56,7 @@
     }
   ],
   "langs": [
-    "romana",
-    "rusa"
+    "romana"
   ],
   "profiles": [
     "real",
@@ -67,5 +66,34 @@
     "0273-70263"
   ],
   "type": "Liceu",
-  "idnp": "1013620008153"
+  "idnp": "1013620008153",
+  "directors": [
+    {
+      "name": "Papanaga Viorica tel. 027370263 mobil 078353905",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 34,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 400,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 32,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 9,
+      "interactiveTable": 5,
+      "year": "2017"
+    }
+  ]
 }

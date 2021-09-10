@@ -66,5 +66,34 @@
     "+37322543596"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-riscani-cervantes)"
+  "idnp": "1007601010600___(chisinau-riscani-cervantes)",
+  "directors": [
+    {
+      "name": "POSTU RODICA , \r\nTEL.FIX 543041",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 80,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1062,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 44,
+      "notebook": 23,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 8,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

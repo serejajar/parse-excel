@@ -52,5 +52,34 @@
     "026857255"
   ],
   "type": "Liceu",
-  "idnp": "1012620008662"
+  "idnp": "1012620008662",
+  "directors": [
+    {
+      "name": "STAVRI VARVARA, 0268-5-72-96, 068304254",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 249,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 16,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

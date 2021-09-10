@@ -65,5 +65,33 @@
     "248-6-63-95"
   ],
   "type": "Liceu",
-  "idnp": "1012620009393"
+  "idnp": "1012620009393",
+  "directors": [
+    {
+      "name": "Burciu Nadejda\r\nMob:68656863",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 352,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 13,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -45,5 +45,34 @@
     "027365258"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000342"
+  "idnp": "1013620000342",
+  "directors": [
+    {
+      "name": "Avram Maria",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 283,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

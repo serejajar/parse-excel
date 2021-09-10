@@ -1,0 +1,52 @@
+{
+  "id": "chisinau-chisinau-475845429",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Calea Iesilor 57/2",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala primară nr. 91 „A. Ursu”, mun. Chişinău",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022749466"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1007601009967___(chisinau-chisinau-475845429)",
+  "directors": [
+    {
+      "name": "PISARENCO LUCIA, TEL.022-74-94-66\r\nluciapisarenco@yahoo.com\r\ntel.068884118",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 247,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

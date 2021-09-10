@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024669311"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620009272"
+  "idnp": "1014620009272",
+  "directors": [
+    {
+      "name": "Iachim Tatiana  TEL.FIX:0246-69-356, MOB.068486839",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 151,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 17,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

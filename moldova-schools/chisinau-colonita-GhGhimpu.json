@@ -51,5 +51,34 @@
     "022-57-93-04"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-colonita-GhGhimpu)"
+  "idnp": "1007601010600___(chisinau-colonita-GhGhimpu)",
+  "directors": [
+    {
+      "name": "SÎRBU MARGARETA, TEL. FIX: 022-57-92-57, MOBIL: 079666343",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 40,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 521,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 55,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

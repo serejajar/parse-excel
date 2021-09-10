@@ -66,5 +66,34 @@
     "022-41-31-95"
   ],
   "type": "Liceu",
-  "idnp": "1013620006344"
+  "idnp": "1013620006344",
+  "directors": [
+    {
+      "name": "ZAVATE VALERIU, TEL.FIX 022-41-32-32, MOB.060199100\r\nMAIL: alexandru2006@MAIL.RU",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 86,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1252,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 54,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 11,
+      "interactiveTable": 4,
+      "year": "2017"
+    }
+  ]
 }

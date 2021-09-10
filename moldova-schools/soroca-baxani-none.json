@@ -12,11 +12,36 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "023061361"
   ],
   "type": "Şcoală primară",
-  "idnp": "1007601011342___(soroca-baxani-none)"
+  "idnp": "1007601011342___(soroca-baxani-none)",
+  "directors": [
+    {
+      "name": "ARVINTE LARISA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 3,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
 }

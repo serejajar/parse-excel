@@ -51,5 +51,34 @@
     "025922438"
   ],
   "type": "Liceu",
-  "idnp": "1012620011608"
+  "idnp": "1012620011608",
+  "directors": [
+    {
+      "name": "LUNGU ALIONA,fix-0259-2-68-11,mobil-068268737",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 301,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

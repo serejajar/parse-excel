@@ -12,11 +12,36 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025193816"
   ],
   "type": "Şcoală primară",
-  "idnp": "1010601000162___(donduseni-teleseuca-none)"
+  "idnp": "1010601000162___(donduseni-teleseuca-none)",
+  "directors": [
+    {
+      "name": "Rusu Zoia",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 5,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
 }

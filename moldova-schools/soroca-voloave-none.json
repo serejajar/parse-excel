@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "023040972"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601011342___(soroca-voloave-none)"
+  "idnp": "1007601011342___(soroca-voloave-none)",
+  "directors": [
+    {
+      "name": "ZABRIAN GALINA,TEL.023040972/023040948/069165600",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 130,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 2,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

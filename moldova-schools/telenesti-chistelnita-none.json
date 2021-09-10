@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0258-78-255"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000515"
+  "idnp": "1013620000515",
+  "directors": [
+    {
+      "name": "Juncu  Andrei, \r\n 258782 55",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 30,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 349,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 18,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

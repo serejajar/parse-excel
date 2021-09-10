@@ -1,0 +1,52 @@
+{
+  "id": "chisinau-chisinau-566539176",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "str.N.M.Spătarul 13/3",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala primară nr. 83 „G. Vieru”,, mun. Chişinău",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022487794"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1007601009565___(chisinau-chisinau-566539176)",
+  "directors": [
+    {
+      "name": "GRĂDINARU LILIA, TEL.FIX \r\n 48-77-94         \r\nMOBIL 069511935",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 48,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 919,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

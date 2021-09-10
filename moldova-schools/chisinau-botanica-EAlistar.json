@@ -67,5 +67,34 @@
     "022550215"
   ],
   "type": "Liceu",
-  "idnp": "1007601010448___(chisinau-botanica-EAlistar)"
+  "idnp": "1007601010448___(chisinau-botanica-EAlistar)",
+  "directors": [
+    {
+      "name": "Babuc Lilia",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 78,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1043,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

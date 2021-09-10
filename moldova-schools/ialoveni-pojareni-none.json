@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026836301"
   ],
   "type": "Alte",
-  "idnp": "1012620008592"
+  "idnp": "1012620008592",
+  "directors": [
+    {
+      "name": "Eșanu Ludmila 026836301,078827169",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 4,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 3,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

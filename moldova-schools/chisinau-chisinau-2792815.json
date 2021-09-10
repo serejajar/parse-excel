@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-2792815",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "ALBA IULIA 200/2",
+    "building": ""
+  },
+  "name": {
+    "ro": "LICEUL INTERNAT MUNICIPAL CU PROFIL SPORTIV",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022 58 18 91"
+  ],
+  "type": "Liceu",
+  "idnp": "1007601010600___(chisinau-chisinau-2792815)",
+  "directors": [
+    {
+      "name": "GABUJA MARIA\r\n581891",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 73,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 594,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 41,
+      "notebook": 14,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
+}

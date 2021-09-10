@@ -30,5 +30,34 @@
     "0-243-2-76-61"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012608001003"
+  "idnp": "1012608001003",
+  "directors": [
+    {
+      "name": "ŢARAN MIHAIL, 0243-2-76-61\r\n069001763",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 12,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 167,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -58,5 +58,34 @@
     "029866186"
   ],
   "type": "Liceu",
-  "idnp": "1011601000402"
+  "idnp": "1011601000402",
+  "directors": [
+    {
+      "name": "RUSSULEAC ANATOLI, TEL.FIX-029866170, MOBIL 069744757",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 225,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 13,
+      "notebook": 11,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

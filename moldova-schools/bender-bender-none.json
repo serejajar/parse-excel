@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "6-41-94,6-37-41"
   ],
   "type": "Pentru copii orfani şi rămaşi fără îngrijirea părinţilor",
-  "idnp": "1007600034795"
+  "idnp": "1007600034795",
+  "directors": [
+    {
+      "name": "Poștarencu Lidia\r\n069759808",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

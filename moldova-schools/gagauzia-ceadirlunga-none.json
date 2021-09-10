@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "gagauza"
+  ],
   "profiles": [],
   "phones": [
     "29124008.29123996"
   ],
   "type": "Pentru copii orfani şi rămaşi fără îngrijirea părinţilor",
-  "idnp": "1009611003384"
+  "idnp": "1009611003384",
+  "directors": [
+    {
+      "name": "Guboglo Olga. 29123996, 78585827",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 0,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

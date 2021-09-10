@@ -58,5 +58,34 @@
     "(022)416-329"
   ],
   "type": "Liceu",
-  "idnp": "10076010600"
+  "idnp": "10076010600",
+  "directors": [
+    {
+      "name": "Mistreanu Tatiana\r\nTEL:416-319 (SERVICIU),",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 314,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

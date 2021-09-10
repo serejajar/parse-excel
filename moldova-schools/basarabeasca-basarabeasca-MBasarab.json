@@ -59,5 +59,34 @@
     "029722489"
   ],
   "type": "Liceu",
-  "idnp": "1016620000147"
+  "idnp": "1016620000147",
+  "directors": [
+    {
+      "name": "Gurin Elena",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 251,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 23,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "27345276"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620008164"
+  "idnp": "1013620008164",
+  "directors": [
+    {
+      "name": "PAŞCENCO MARIA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 112,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

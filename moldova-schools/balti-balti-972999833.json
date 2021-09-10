@@ -1,0 +1,52 @@
+{
+  "id": "balti-balti-972999833",
+  "search": "",
+  "address": {
+    "district": "balti",
+    "city": "balti",
+    "street": "CAHUL,46",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziu „Alexandru Ioan Cuza”",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "023146624"
+  ],
+  "type": "Gimnaziu",
+  "idnp": 184542,
+  "directors": [
+    {
+      "name": "Guțalov Lilia",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 31,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 406,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 12,
+      "netbook": 23,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

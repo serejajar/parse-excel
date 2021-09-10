@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025036308"
   ],
   "type": "Şcoală primară",
-  "idnp": "1009601000094___(floresti-sirbesti-none)"
+  "idnp": "1009601000094___(floresti-sirbesti-none)",
+  "directors": [
+    {
+      "name": "Velisco  Alexei   0250,36,374,  069466523",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 3,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 2,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

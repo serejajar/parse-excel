@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024371223"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012608001715"
+  "idnp": "1012608001715",
+  "directors": [
+    {
+      "name": "GUSU SVETLANA \r\nTEL.   FIX 024371243 \r\nMOB. 079284804",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 152,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 20,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

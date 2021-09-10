@@ -65,5 +65,34 @@
     "022323155"
   ],
   "type": "Liceu",
-  "idnp": "220106033385068"
+  "idnp": "220106033385068",
+  "directors": [
+    {
+      "name": "Dupceac Andrei\r\n tel. fix serviciu 22323155,\r\n tel. mobil 069660964",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 55,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 648,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

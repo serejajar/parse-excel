@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    ""
+  ],
   "profiles": [],
   "phones": [
     "(22) 359-379"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620007617"
+  "idnp": "1013620007617",
+  "directors": [
+    {
+      "name": "Arapu Ecaterina, tel: 022359090\r\nmob: 068972737",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 82,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

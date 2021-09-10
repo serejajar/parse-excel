@@ -31,5 +31,34 @@
     "027344281"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000364"
+  "idnp": "1013620000364",
+  "directors": [
+    {
+      "name": "Bodiu Aliona\r\n027344281,  027349547,\r\n078246506",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 34,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 372,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 48,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 10,
+      "interactiveTable": 6,
+      "year": "2017"
+    }
+  ]
 }

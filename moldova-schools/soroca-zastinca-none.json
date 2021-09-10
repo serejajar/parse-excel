@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "(230)33491"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000641"
+  "idnp": "1013620000641",
+  "directors": [
+    {
+      "name": "PERCIUN TATIANA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 12,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 102,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 6,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

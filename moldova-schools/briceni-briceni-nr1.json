@@ -66,5 +66,33 @@
     "024723236"
   ],
   "type": "Liceu",
-  "idnp": "1009601000131___(briceni-briceni-nr1)"
+  "idnp": "1009601000131___(briceni-briceni-nr1)",
+  "directors": [
+    {
+      "name": "Pleşca Angela",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 45,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 523,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

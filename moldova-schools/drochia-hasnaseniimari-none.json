@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0-252-78-2-72"
   ],
   "type": "Gimnaziu",
-  "idnp": "1008601000950___(drochia-hasnaseniimari-none)"
+  "idnp": "1008601000950___(drochia-hasnaseniimari-none)",
+  "directors": [
+    {
+      "name": "Varmari Natalia   0-252-78-2-72   060784086",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 110,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

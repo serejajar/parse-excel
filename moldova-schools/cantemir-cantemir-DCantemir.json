@@ -66,5 +66,33 @@
     "027322615"
   ],
   "type": "Liceu",
-  "idnp": "1013620008197"
+  "idnp": "1013620008197",
+  "directors": [
+    {
+      "name": "Macaria Elena\r\n027322624",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 202,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 9,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 7,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

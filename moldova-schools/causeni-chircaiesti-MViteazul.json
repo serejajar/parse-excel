@@ -30,5 +30,34 @@
     "024354219"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012608001885"
+  "idnp": "1012608001885",
+  "directors": [
+    {
+      "name": "DAN IULIA TEL:024354631 MOB:69904987",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 250,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

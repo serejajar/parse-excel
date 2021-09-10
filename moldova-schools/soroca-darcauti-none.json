@@ -11,11 +11,36 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "023072366"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601011342___(soroca-darcauti-none)"
+  "idnp": "1007601011342___(soroca-darcauti-none)",
+  "directors": [
+    {
+      "name": "CRETU  MARIANA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 11,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 94,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
 }

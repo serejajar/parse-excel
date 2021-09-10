@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-stauceni-355734659",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "stauceni",
+    "street": "TRANDAFIRILOR 2A",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Școala primară-grădiniță \"Ilie Fulga\"",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022-45-50-96"
+  ],
+  "type": "Alte",
+  "idnp": "1014620000132",
+  "directors": [
+    {
+      "name": "Simerețchii Margareta",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 47,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 341,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

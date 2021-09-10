@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0248-39-436/248-39202"
   ],
   "type": "Gimnaziu",
-  "idnp": "1002620009267"
+  "idnp": "1002620009267",
+  "directors": [
+    {
+      "name": "Șendrea Silvia                                          0248-39-4-25   078392662",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 145,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 9,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

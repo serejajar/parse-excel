@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "(+258) 7-92-20"
   ],
   "type": "Gimnaziu",
-  "idnp": "1015620000391"
+  "idnp": "1015620000391",
+  "directors": [
+    {
+      "name": "Ciobanu Alexandru, tel. (+258) 7-92-20, dom. (+258 ) 7-92-41, mob. 067621241",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 175,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

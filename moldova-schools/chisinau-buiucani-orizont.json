@@ -35,7 +35,7 @@
     }
   ],
   "langs": [
-    "engleza"
+    "romana"
   ],
   "profiles": [
     "real",
@@ -45,5 +45,34 @@
     "022-75-15-51"
   ],
   "type": "Liceu",
-  "idnp": "1002600026438___(chisinau-buiucani-orizont)"
+  "idnp": "1002600026438___(chisinau-buiucani-orizont)",
+  "directors": [
+    {
+      "name": "Nasuh Güneş",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 40,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 264,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 30,
+      "notebook": 15,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 16,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

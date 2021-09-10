@@ -1,0 +1,53 @@
+{
+  "id": "balti-balti-124511614",
+  "search": "",
+  "address": {
+    "district": "balti",
+    "city": "balti",
+    "street": "Chișinăului 28",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr.4",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "0231-2-55-73"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1015601000259___(balti-balti-124511614)",
+  "directors": [
+    {
+      "name": "MAHU ANATOLIE",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 124,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 2,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

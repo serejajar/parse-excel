@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "027152463"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620012018"
+  "idnp": "1012620012018",
+  "directors": [
+    {
+      "name": "Gheorghina Snejana   027152463   mobil 069905352",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 11,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 56,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -66,5 +66,34 @@
     "022483019"
   ],
   "type": "Liceu",
-  "idnp": "1013620007352"
+  "idnp": "1013620007352",
+  "directors": [
+    {
+      "name": "BÎTCĂ VIORICA  022420437 \r\n079970434",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 66,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 919,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 39,
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 2,
+      "proector": 4,
+      "interactiveTable": 4,
+      "year": "2017"
+    }
+  ]
 }

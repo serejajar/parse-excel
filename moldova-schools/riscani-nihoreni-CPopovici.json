@@ -56,8 +56,7 @@
     }
   ],
   "langs": [
-    "rusa",
-    "ucraineana"
+    "rusa"
   ],
   "profiles": [
     "real",
@@ -67,5 +66,33 @@
     "0256-2-62-40"
   ],
   "type": "Liceu",
-  "idnp": "1013620000618"
+  "idnp": "1013620000618",
+  "directors": [
+    {
+      "name": "MACOVEI MARIA   TEL. 0-256-62-40, MOB.069061037",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 34,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 297,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

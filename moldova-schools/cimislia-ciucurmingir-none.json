@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024130254"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010438"
+  "idnp": "1012620010438",
+  "directors": [
+    {
+      "name": "Surdu Vasile",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 9,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 77,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

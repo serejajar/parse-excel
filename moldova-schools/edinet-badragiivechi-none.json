@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024656117"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000142___(edinet-badragiivechi-none)"
+  "idnp": "1009601000142___(edinet-badragiivechi-none)",
+  "directors": [
+    {
+      "name": "Cobiac Anjela, 024656117, 069391026",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 49,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 6,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -45,5 +45,34 @@
     "023546335"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011354"
+  "idnp": "1012620011354",
+  "directors": [
+    {
+      "name": "MARCENCO SVETLANA, mobil 068644885",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 47,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 531,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 24,
+      "notebook": 2,
+      "netbook": 2,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -35,7 +35,7 @@
     }
   ],
   "langs": [
-    "rusa"
+    "gagauza"
   ],
   "profiles": [
     "real"
@@ -44,5 +44,33 @@
     "029363263"
   ],
   "type": "Liceu",
-  "idnp": "1011601000491"
+  "idnp": "1011601000491",
+  "directors": [
+    {
+      "name": "Ришилян Е.А. 0293-63-2-63 моб.069525110",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 172,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 15,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

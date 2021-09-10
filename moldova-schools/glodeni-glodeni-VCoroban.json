@@ -66,5 +66,34 @@
     "024922269"
   ],
   "type": "Liceu",
-  "idnp": "1009601000212___(glodeni-glodeni-VCoroban)"
+  "idnp": "1009601000212___(glodeni-glodeni-VCoroban)",
+  "directors": [
+    {
+      "name": "Leuca Lilia 0Е49-Е-ЕЕ-69;",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 47,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 515,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 68,
+      "notebook": 17,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 2,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

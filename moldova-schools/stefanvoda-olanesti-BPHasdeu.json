@@ -58,5 +58,34 @@
     "024252972"
   ],
   "type": "Liceu",
-  "idnp": "1012620009234"
+  "idnp": "1012620009234",
+  "directors": [
+    {
+      "name": "ARPENTE EUGENIA   024252388       068086304",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 36,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 482,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 17,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

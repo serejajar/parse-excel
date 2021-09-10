@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0258 51215"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013601000093___(telenesti-mihalasa-none)"
+  "idnp": "1013601000093___(telenesti-mihalasa-none)",
+  "directors": [
+    {
+      "name": "Plinschi Ana,025851215,",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 104,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

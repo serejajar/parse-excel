@@ -1,0 +1,53 @@
+{
+  "id": "balti-balti-615268605",
+  "search": "",
+  "address": {
+    "district": "balti",
+    "city": "balti",
+    "street": "KIEV 16",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr.6",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "023143292"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1015601000259___(balti-balti-615268605)",
+  "directors": [
+    {
+      "name": "MELNICENCO VALENTINA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 207,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 15,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

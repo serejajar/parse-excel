@@ -65,5 +65,34 @@
     "024627097"
   ],
   "type": "Liceu",
-  "idnp": "1009601000142___(edinet-edinet-MEminescu)"
+  "idnp": "1009601000142___(edinet-edinet-MEminescu)",
+  "directors": [
+    {
+      "name": "COJOCARU NATALIA, 246-2-70-97, 686-3-59-35",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 44,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 529,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 33,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 3,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

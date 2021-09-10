@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-987303374",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Miron Costin 26",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul „Taras Şevcenco”",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022 44 50 66"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601009716___(chisinau-chisinau-987303374)",
+  "directors": [
+    {
+      "name": "BRîJATIUC STANISLAV            069417040",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 107,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

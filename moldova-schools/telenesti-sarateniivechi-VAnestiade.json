@@ -52,5 +52,34 @@
     "025873275"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011387"
+  "idnp": "1012620011387",
+  "directors": [
+    {
+      "name": "Midrigan Mihail, 025873275, 079166130",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 231,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 21,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

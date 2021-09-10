@@ -44,5 +44,34 @@
     "27292641"
   ],
   "type": "Liceu",
-  "idnp": "1012620011491"
+  "idnp": "1012620011491",
+  "directors": [
+    {
+      "name": "Jora Eugenia; 0272-45-355;\r\n067584402\r\n0272-92-6-41",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 316,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 16,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

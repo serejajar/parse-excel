@@ -65,5 +65,33 @@
     "024171234"
   ],
   "type": "Liceu",
-  "idnp": "1012620011066"
+  "idnp": "1012620011066",
+  "directors": [
+    {
+      "name": "RUSU GHEORGHE, 0-24171234",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 32,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 229,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

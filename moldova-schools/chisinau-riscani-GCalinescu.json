@@ -66,5 +66,28 @@
     "022466923"
   ],
   "type": "Liceu",
-  "idnp": "1007601009716___(chisinau-riscani-GCalinescu)"
+  "idnp": "1007601009716___(chisinau-riscani-GCalinescu)",
+  "directors": [
+    {
+      "name": "BUGAN NATALIA,\r\nTEL. 46 69 23, 079576711",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 100,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1361,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
 }

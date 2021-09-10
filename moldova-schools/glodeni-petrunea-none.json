@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024926731"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000212___(glodeni-petrunea-none)"
+  "idnp": "1009601000212___(glodeni-petrunea-none)",
+  "directors": [
+    {
+      "name": "Lazari Zinaida      tel. fix  -  024926731    mobil - 079959035",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 169,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 19,
+      "notebook": 8,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

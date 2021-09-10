@@ -1,0 +1,53 @@
+{
+  "id": "balti-balti-93500768",
+  "search": "",
+  "address": {
+    "district": "balti",
+    "city": "balti",
+    "street": "KONEV 7",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr.14",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "023173087"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "184542___(balti-balti-93500768)",
+  "directors": [
+    {
+      "name": "GARIUC ANGELA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 284,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

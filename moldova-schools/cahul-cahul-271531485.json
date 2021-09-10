@@ -1,0 +1,53 @@
+{
+  "id": "cahul-cahul-271531485",
+  "search": "",
+  "address": {
+    "district": "cahul",
+    "city": "cahul",
+    "street": "Pacii 6",
+    "building": ""
+  },
+  "name": {
+    "ro": "gimnaziul -grădiniță ”S. Rahmaninov”, or. Cahul",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "029940319"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010759",
+  "directors": [
+    {
+      "name": "GHENCIU V.G (299)40319",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 224,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

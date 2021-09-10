@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "23064387"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000548"
+  "idnp": "1013620000548",
+  "directors": [
+    {
+      "name": "Haric Aureliu, 023064387, mob. 069494789",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 11,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 98,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

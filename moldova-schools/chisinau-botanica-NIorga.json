@@ -66,5 +66,34 @@
     "022766653"
   ],
   "type": "Liceu",
-  "idnp": "20437510___(chisinau-botanica-NIorga)"
+  "idnp": "20437510___(chisinau-botanica-NIorga)",
+  "directors": [
+    {
+      "name": "Aida  Gonţa 022-77-46-92; 069446137",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 90,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1564,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 64,
+      "notebook": 16,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 10,
+      "interactiveTable": 11,
+      "year": "2017"
+    }
+  ]
 }

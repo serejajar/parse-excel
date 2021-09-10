@@ -1,0 +1,52 @@
+{
+  "id": "chisinau-codru-875117248",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "codru",
+    "street": "Schinoasa-Deal 7",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr. 42, or. Codru",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022-2-821-72"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "2000048066770",
+  "directors": [
+    {
+      "name": "Cobzac Tatiana director \r\n 222-8-21-72",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 201,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

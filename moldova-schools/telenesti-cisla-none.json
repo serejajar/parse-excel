@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025892054"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013601000093___(telenesti-cisla-none)"
+  "idnp": "1013601000093___(telenesti-cisla-none)",
+  "directors": [
+    {
+      "name": "FRÎNCU, IURIE  TEL.FIX: 258-92-467   MOBIL: 078637423",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 95,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

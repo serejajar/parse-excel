@@ -66,5 +66,33 @@
     "068205031"
   ],
   "type": "Liceu",
-  "idnp": "0991201332378"
+  "idnp": "0991201332378",
+  "directors": [
+    {
+      "name": "Donoagă Daniela",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 50,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 701,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 15,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

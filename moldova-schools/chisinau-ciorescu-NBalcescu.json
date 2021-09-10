@@ -66,5 +66,34 @@
     "0(22)-45-62-06"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-ciorescu-NBalcescu)"
+  "idnp": "1007601010600___(chisinau-ciorescu-NBalcescu)",
+  "directors": [
+    {
+      "name": "BRAGARI NICOLAE \r\nTEL. 022-45-67-03\r\nGSM 069690419",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 67,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 865,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 33,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

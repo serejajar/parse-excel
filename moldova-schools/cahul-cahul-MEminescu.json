@@ -66,5 +66,33 @@
     "029944820"
   ],
   "type": "Liceu",
-  "idnp": "1012620009740"
+  "idnp": "1012620009740",
+  "directors": [
+    {
+      "name": "GAIDAR ALA                    069074469",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 71,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 911,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

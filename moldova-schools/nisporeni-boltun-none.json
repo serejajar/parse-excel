@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "TEL. FIX: 026461235"
   ],
   "type": "Gimnaziu",
-  "idnp": "35087712___(nisporeni-boltun-none)"
+  "idnp": "35087712___(nisporeni-boltun-none)",
+  "directors": [
+    {
+      "name": "SAMSON MARIA TEL. FIX: 026461235 MOBIL: 060992273",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 12,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 110,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

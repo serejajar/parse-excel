@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "023768340"
   ],
   "type": "Gimnaziu",
-  "idnp": "3879866___(straseni-capriana-none)"
+  "idnp": "3879866___(straseni-capriana-none)",
+  "directors": [
+    {
+      "name": "Scutaru   Nina",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 206,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 13,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

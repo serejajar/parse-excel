@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-hulboaca-357593504",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "hulboaca",
+    "street": "Ştefan cel Mare 116",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr.93, Hulboaca",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022-31-85-43"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601010600___(chisinau-hulboaca-357593504)",
+  "directors": [
+    {
+      "name": "Popa Ana\r\nmob:079806646\r\nmail:gimnaziul93@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 184,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 15,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

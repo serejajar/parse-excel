@@ -44,5 +44,33 @@
     "025954761"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011631"
+  "idnp": "1012620011631",
+  "directors": [
+    {
+      "name": "Tăbîrță Svetlana,\r\n0259-53-254,\r\nmob.069297892",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 305,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

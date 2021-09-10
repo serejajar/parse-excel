@@ -66,5 +66,34 @@
     "022-23-54-94"
   ],
   "type": "Liceu",
-  "idnp": "1007601009967___(chisinau-buiucani-VVasilache)"
+  "idnp": "1007601009967___(chisinau-buiucani-VVasilache)",
+  "directors": [
+    {
+      "name": "BĂLĂNEL VERA, TEL 022-23-54-94, MOBIL-0792-98-588",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 63,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 701,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 35,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

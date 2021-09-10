@@ -1,0 +1,53 @@
+{
+  "id": "taraclia-taraclia-736697241",
+  "search": "",
+  "address": {
+    "district": "taraclia",
+    "city": "taraclia",
+    "street": "Lenina,74",
+    "building": ""
+  },
+  "name": {
+    "ro": "GIMNAZIUL TARACLIA",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "029422577"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010380",
+  "directors": [
+    {
+      "name": "Bişir Natalia, 029422125",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 31,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 262,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 11,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 11,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

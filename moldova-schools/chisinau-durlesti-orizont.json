@@ -56,7 +56,7 @@
     }
   ],
   "langs": [
-    "engleza"
+    "romana"
   ],
   "profiles": [
     "real",
@@ -66,5 +66,34 @@
     "022-75-15-51"
   ],
   "type": "Liceu",
-  "idnp": "1002600026438___(chisinau-durlesti-orizont)"
+  "idnp": "1002600026438___(chisinau-durlesti-orizont)",
+  "directors": [
+    {
+      "name": "Hasan Karacaoglu",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 55,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 402,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 23,
+      "notebook": 17,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 29,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

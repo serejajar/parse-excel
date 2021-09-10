@@ -65,5 +65,34 @@
     "022-22-40-42"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-centru-kotiubinski)"
+  "idnp": "1007601010600___(chisinau-centru-kotiubinski)",
+  "directors": [
+    {
+      "name": "Vărzaru Galina, 69273638",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 60,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 455,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 43,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

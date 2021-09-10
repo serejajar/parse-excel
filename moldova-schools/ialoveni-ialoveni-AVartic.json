@@ -66,5 +66,34 @@
     "0268-26036"
   ],
   "type": "Liceu",
-  "idnp": "1012620008776"
+  "idnp": "1012620008776",
+  "directors": [
+    {
+      "name": "Sacara Valentina,0268-22429,069214125",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 55,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 777,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 60,
+      "notebook": 14,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 20,
+      "interactiveTable": 20,
+      "year": "2017"
+    }
+  ]
 }

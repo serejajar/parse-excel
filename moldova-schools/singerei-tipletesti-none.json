@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026244111"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601011098___(singerei-tipletesti-none)"
+  "idnp": "1007601011098___(singerei-tipletesti-none)",
+  "directors": [
+    {
+      "name": "ZICU  GALINA,  026244492, 068555190",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 85,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 4,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

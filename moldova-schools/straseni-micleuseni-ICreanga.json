@@ -51,5 +51,34 @@
     "023767277"
   ],
   "type": "Liceu",
-  "idnp": "1012620010173"
+  "idnp": "1012620010173",
+  "directors": [
+    {
+      "name": "Lozovanu Silvia",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 264,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 22,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0-237-58-2-32"
   ],
   "type": "Gimnaziu",
-  "idnp": "3879866___(straseni-dolna-none)"
+  "idnp": "3879866___(straseni-dolna-none)",
+  "directors": [
+    {
+      "name": "Eftodii Tudor\r\n068248514",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 112,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 15,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

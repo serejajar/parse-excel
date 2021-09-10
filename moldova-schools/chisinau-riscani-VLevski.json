@@ -66,5 +66,34 @@
     "022 319129"
   ],
   "type": "Liceu",
-  "idnp": "07025612"
+  "idnp": "07025612",
+  "directors": [
+    {
+      "name": "IAROSLAVSCAIA NATALIA \r\nTEL.022 319129, \r\nMOB. 069234851\r\ne-mail: btl.levski@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 47,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 336,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

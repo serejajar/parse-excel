@@ -56,7 +56,7 @@
     }
   ],
   "langs": [
-    "romana"
+    "rusa"
   ],
   "profiles": [
     "real",
@@ -66,5 +66,33 @@
     "024222650"
   ],
   "type": "Gimnaziu",
-  "idnp": "101361000015"
+  "idnp": "101361000015",
+  "directors": [
+    {
+      "name": "Danilesco LIUDMILA, 0-242-2-32-21",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 93,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

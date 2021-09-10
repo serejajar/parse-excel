@@ -65,5 +65,34 @@
     "024122084"
   ],
   "type": "Liceu",
-  "idnp": "1012620010689"
+  "idnp": "1012620010689",
+  "directors": [
+    {
+      "name": "BORODIN LARISA, 0241-2-25-24",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 61,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 749,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 49,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

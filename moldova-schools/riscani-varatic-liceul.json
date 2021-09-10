@@ -65,5 +65,34 @@
     "0-256-79-4-22"
   ],
   "type": "Liceu",
-  "idnp": "1013620000238"
+  "idnp": "1013620000238",
+  "directors": [
+    {
+      "name": "VOLENTIR ADELA             069049163",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 281,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 8,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "242-3-04-39"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013601000015___(stefanvoda-purcari-none)"
+  "idnp": "1013601000015___(stefanvoda-purcari-none)",
+  "directors": [
+    {
+      "name": "Tihon Aurelia  242-3-04-39  068506318",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 146,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 18,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

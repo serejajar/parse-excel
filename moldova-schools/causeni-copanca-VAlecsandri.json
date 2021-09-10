@@ -31,5 +31,33 @@
     "243 50 428"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012608001988"
+  "idnp": "1012608001988",
+  "directors": [
+    {
+      "name": "CHIPERI IULIA, TEL. 243-50-418, MOB.068952040",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 137,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

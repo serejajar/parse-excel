@@ -66,5 +66,34 @@
     "264 2 39 36"
   ],
   "type": "Liceu",
-  "idnp": "1013620012129"
+  "idnp": "1013620012129",
+  "directors": [
+    {
+      "name": "Dima Valeriu\r\ntel.264 2 39 36",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 353,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 24,
+      "notebook": 15,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 8,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

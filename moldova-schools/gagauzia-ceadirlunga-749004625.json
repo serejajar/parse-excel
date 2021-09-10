@@ -1,0 +1,53 @@
+{
+  "id": "gagauzia-ceadirlunga-749004625",
+  "search": "",
+  "address": {
+    "district": "gagauzia",
+    "city": "ceadirlunga",
+    "street": "Чкалова 53",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul ”P. Cazmalî”, or. Ceadăr-Lunga",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "029122496"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1011601000527",
+  "directors": [
+    {
+      "name": "БАЧУ ДИАНА НИКОЛАЕВНА,\r\n029122496",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 37,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 491,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "gagauza"
+  ],
+  "equipment": [
+    {
+      "pc": 38,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 21,
+      "interactiveTable": 5,
+      "year": "2017"
+    }
+  ]
+}

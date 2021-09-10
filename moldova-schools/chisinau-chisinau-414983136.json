@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-414983136",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Miron Costin 19/7",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul „Ion Luca Caragiale”, mun. Chişinău",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022.44.63.29"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "5071",
+  "directors": [
+    {
+      "name": "Boldurescu Elena",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 217,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

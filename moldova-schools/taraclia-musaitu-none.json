@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "029452241"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620012875"
+  "idnp": "1013620012875",
+  "directors": [
+    {
+      "name": "director interimar ARNAUT TATIANA (0294-33-8-01)/078680711",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 11,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 53,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 3,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -45,5 +45,33 @@
     "0242-46-2-25"
   ],
   "type": "Gimnaziu",
-  "idnp": "1016620006770"
+  "idnp": "1016620006770",
+  "directors": [
+    {
+      "name": "FORMUSATII  ANDREI ,\r\n0242-46-2-62 , 069153591",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 255,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

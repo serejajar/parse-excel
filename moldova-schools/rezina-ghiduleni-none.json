@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025466235"
   ],
   "type": "Şcoală primară",
-  "idnp": "1014620008105"
+  "idnp": "1014620008105",
+  "directors": [
+    {
+      "name": "BALINSCHI SVETLANA\r\n025466235,060775421\r\nscoala.ghiduleni@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 5,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 27,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 15,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

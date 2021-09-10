@@ -66,5 +66,34 @@
     "022-54-42-60"
   ],
   "type": "Liceu",
-  "idnp": "1007601009716___(chisinau-riscani-KirilSiMetodii)"
+  "idnp": "1007601009716___(chisinau-riscani-KirilSiMetodii)",
+  "directors": [
+    {
+      "name": "Guţu Eugenia \r\n022-54-42-60, 069265655",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 53,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 594,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 19,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

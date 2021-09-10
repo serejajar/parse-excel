@@ -66,5 +66,34 @@
     "025222203"
   ],
   "type": "Liceu",
-  "idnp": "1012620009795"
+  "idnp": "1012620009795",
+  "directors": [
+    {
+      "name": "CHITIC RODICA, TEL. FIX.025225976, TEL. MOB.069650851",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 223,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 46,
+      "notebook": 9,
+      "netbook": 0,
+      "tabletPC": 1,
+      "proector": 10,
+      "interactiveTable": 5,
+      "year": "2017"
+    }
+  ]
 }

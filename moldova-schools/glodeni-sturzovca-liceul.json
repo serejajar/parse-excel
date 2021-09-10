@@ -35,7 +35,6 @@
     }
   ],
   "langs": [
-    "romana",
     "rusa"
   ],
   "profiles": [
@@ -45,5 +44,33 @@
     "024945247"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000212___(glodeni-sturzovca-liceul)"
+  "idnp": "1009601000212___(glodeni-sturzovca-liceul)",
+  "directors": [
+    {
+      "name": "ZOIA CRUCICHEVICI, TEL. 024945166_ MOB. 068826346",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 27,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 261,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

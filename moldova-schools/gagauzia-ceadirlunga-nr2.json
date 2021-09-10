@@ -51,5 +51,33 @@
     "029122306"
   ],
   "type": "Liceu",
-  "idnp": "1011601000594"
+  "idnp": "1011601000594",
+  "directors": [
+    {
+      "name": "Губогло С.Д.\r\n029122306, 078525629",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 48,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 441,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 8,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

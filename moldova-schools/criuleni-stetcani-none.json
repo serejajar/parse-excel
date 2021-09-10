@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0248-36-0-64"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601010068___(criuleni-stetcani-none)"
+  "idnp": "1007601010068___(criuleni-stetcani-none)",
+  "directors": [
+    {
+      "name": "ENACHI NATALIA  0248-3-60-64",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 11,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 90,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

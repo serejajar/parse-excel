@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025877235"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013601000093___(telenesti-scorteni-none)"
+  "idnp": "1013601000093___(telenesti-scorteni-none)",
+  "directors": [
+    {
+      "name": "FRUNZE ANGELA, tel.fix:258-77-235,mobil 068159588",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 276,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

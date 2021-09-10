@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0250-5-42-69"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000094___(floresti-zaluceni-none)"
+  "idnp": "1009601000094___(floresti-zaluceni-none)",
+  "directors": [
+    {
+      "name": "Cojocaru Diana \r\n0-250-54-302\r\n068778250",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 72,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -66,5 +66,34 @@
     "022468909"
   ],
   "type": "Liceu",
-  "idnp": "1013620006193"
+  "idnp": "1013620006193",
+  "directors": [
+    {
+      "name": "Nagnibeda-Tverdohleb Tatiana\r\n022468909, 069270921",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 73,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1104,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

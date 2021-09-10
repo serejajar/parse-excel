@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-867266584",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "B.P.Haşdeu 4",
+    "building": ""
+  },
+  "name": {
+    "ro": "Complexul Pilot de Pedagogie Curativa „Orfeu”",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "(022)29-40-96"
+  ],
+  "type": "Auxiliară",
+  "idnp": "1007601009716___(chisinau-chisinau-867266584)",
+  "directors": [
+    {
+      "name": "Ababii Oleg",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 28,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 96,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

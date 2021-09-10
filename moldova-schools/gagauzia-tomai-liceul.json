@@ -37,5 +37,34 @@
     "029151289"
   ],
   "type": "Liceu",
-  "idnp": "1011601000620"
+  "idnp": "1011601000620",
+  "directors": [
+    {
+      "name": "CIMPOEŞ ANNA \r\n029151289\r\n068192640",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 37,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 332,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

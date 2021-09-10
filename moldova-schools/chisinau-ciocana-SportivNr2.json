@@ -65,5 +65,33 @@
     "022-33-13-45"
   ],
   "type": "Liceu",
-  "idnp": "101462001782"
+  "idnp": "101462001782",
+  "directors": [
+    {
+      "name": "Frunză Elena,\r\n\r\nliceulsportiv2gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 64,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 667,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

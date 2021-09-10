@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0(250)47-3-93"
   ],
   "type": "Şcoală primară",
-  "idnp": "1009601000094___(floresti-alexeevca-none)"
+  "idnp": "1009601000094___(floresti-alexeevca-none)",
+  "directors": [
+    {
+      "name": "Popeli Nina ,0250-4-72-83,060930084",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 5,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

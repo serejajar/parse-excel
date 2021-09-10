@@ -56,7 +56,7 @@
     }
   ],
   "langs": [
-    "rusa"
+    "gagauza"
   ],
   "profiles": [
     "umanist"
@@ -65,5 +65,33 @@
     "0(298) 2-23-82"
   ],
   "type": "Liceu",
-  "idnp": "1011601000446"
+  "idnp": "1011601000446",
+  "directors": [
+    {
+      "name": "Пынтя Полина Сергеевна,\r\n 2-45-73, 2-23-82,079613361",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 61,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 603,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 12,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 10,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

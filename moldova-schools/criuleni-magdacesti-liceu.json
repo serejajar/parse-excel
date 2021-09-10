@@ -66,5 +66,33 @@
     "0248 33995"
   ],
   "type": "Liceu",
-  "idnp": "1012620009429"
+  "idnp": "1012620009429",
+  "directors": [
+    {
+      "name": "TENTIUC LIDIA, 0248 33995,",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 62,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 952,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 30,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

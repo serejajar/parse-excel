@@ -45,5 +45,34 @@
     "247-46-3-19"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000131___(briceni-cotiujeni-liceul)"
+  "idnp": "1009601000131___(briceni-cotiujeni-liceul)",
+  "directors": [
+    {
+      "name": "Gutium Galina",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 28,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 268,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

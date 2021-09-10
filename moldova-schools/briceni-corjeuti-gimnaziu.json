@@ -1,0 +1,51 @@
+{
+  "id": "briceni-corjeuti-gimnaziu",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "corjeuti",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Corjeuţi",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "024757239"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000131___(briceni-corjeuti-gimnaziu)",
+  "directors": [
+    {
+      "name": "GAITUR DARIA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 299,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

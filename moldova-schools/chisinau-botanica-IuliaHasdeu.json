@@ -66,5 +66,34 @@
     "022-55-73-68"
   ],
   "type": "Liceu",
-  "idnp": "17993___(chisinau-botanica-IuliaHasdeu)"
+  "idnp": "17993___(chisinau-botanica-IuliaHasdeu)",
+  "directors": [
+    {
+      "name": "GONCEAR ELEONORA TEL.: 022-41-43-71,\r\nMOB.: 079222017",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 92,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1075,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 66,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-955664694",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "George Meniuc 22",
+    "building": ""
+  },
+  "name": {
+    "ro": "I. P. Gimnaziul Dumitru Matcovschi",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "373 22 72 51 97"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1015620000173",
+  "directors": [
+    {
+      "name": "Iașciuc Inga  tel. 022725197 TEL. MOB. 060040638",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 198,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 16,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

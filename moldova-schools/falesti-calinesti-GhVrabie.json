@@ -51,5 +51,34 @@
     "0-259-6-13-49"
   ],
   "type": "Liceu",
-  "idnp": "1012620011653"
+  "idnp": "1012620011653",
+  "directors": [
+    {
+      "name": "Gherman Angela, tel 025961349",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 299,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

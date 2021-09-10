@@ -1,0 +1,52 @@
+{
+  "id": "gagauzia-congaz-130499486",
+  "search": "",
+  "address": {
+    "district": "gagauzia",
+    "city": "congaz",
+    "street": "Voroşilov",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul  V. Topal  din Congaz",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "298-6-83-80;  298-6-83-95"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1011601000310",
+  "directors": [
+    {
+      "name": "Чебанова Ольга Петровна  298-6-83-80    068069855",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 41,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 388,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "gagauza"
+  ],
+  "equipment": [
+    {
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 1,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

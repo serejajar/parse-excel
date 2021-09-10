@@ -66,5 +66,34 @@
     "026874866"
   ],
   "type": "Liceu",
-  "idnp": "1012620008813"
+  "idnp": "1012620008813",
+  "directors": [
+    {
+      "name": "Raileanu Natalia ,  0268-74866,   068044019",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 64,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 909,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 15,
+      "notebook": 19,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 10,
+      "year": "2017"
+    }
+  ]
 }

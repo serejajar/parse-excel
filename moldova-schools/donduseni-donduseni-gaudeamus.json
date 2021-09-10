@@ -51,5 +51,34 @@
     "025121540"
   ],
   "type": "Liceu",
-  "idnp": "1010601000162___(donduseni-donduseni-gaudeamus)"
+  "idnp": "1010601000162___(donduseni-donduseni-gaudeamus)",
+  "directors": [
+    {
+      "name": "Şaragov Victoria",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 172,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 5,
+      "netbook": 25,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

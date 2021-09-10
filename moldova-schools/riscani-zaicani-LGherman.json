@@ -58,5 +58,34 @@
     "025672339"
   ],
   "type": "Liceu",
-  "idnp": "1013620000250"
+  "idnp": "1013620000250",
+  "directors": [
+    {
+      "name": "Popovici Iuri\r\n025672200",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 27,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 284,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 8,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

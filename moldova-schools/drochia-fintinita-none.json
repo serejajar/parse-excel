@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025241242"
   ],
   "type": "Gimnaziu",
-  "idnp": "1008601000950___(drochia-fintinita-none)"
+  "idnp": "1008601000950___(drochia-fintinita-none)",
+  "directors": [
+    {
+      "name": "Vataman Silvia\r\nmob.079698168\r\nfix:0252-42-243",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 102,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

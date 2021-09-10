@@ -65,5 +65,34 @@
     "265-46-235"
   ],
   "type": "Liceu",
-  "idnp": "1012620009094"
+  "idnp": "1012620009094",
+  "directors": [
+    {
+      "name": "GOROBÎC VALENTINA TEL. FIX 0265-46235   MOB. 069506535",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 372,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 27,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 10,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

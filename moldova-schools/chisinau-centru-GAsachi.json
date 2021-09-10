@@ -66,5 +66,34 @@
     "022223460"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-centru-GAsachi)"
+  "idnp": "1007601010600___(chisinau-centru-GAsachi)",
+  "directors": [
+    {
+      "name": "VOLOSATÎI BORIS",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 135,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1845,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 70,
+      "notebook": 11,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 8,
+      "interactiveTable": 6,
+      "year": "2017"
+    }
+  ]
 }

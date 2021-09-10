@@ -66,5 +66,33 @@
     "022233936"
   ],
   "type": "Liceu",
-  "idnp": "1014620004381"
+  "idnp": "1014620004381",
+  "directors": [
+    {
+      "name": "VASILACHE Grigore,\r\ntel/fax 373 22 233936,\r\nmob: 373 69124244,\r\ngrigore.vasilache@gmail.com,\r\nltmirceaeliade@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 65,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1102,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 18,
+      "netbook": 33,
+      "tabletPC": 2,
+      "proector": 7,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0272-42-250"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620010941"
+  "idnp": "1013620010941",
+  "directors": [
+    {
+      "name": "Luca Inga 0272-42-381        069646392",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 240,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 15,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

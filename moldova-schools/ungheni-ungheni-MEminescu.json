@@ -66,5 +66,34 @@
     "23622486"
   ],
   "type": "Liceu",
-  "idnp": "1013620001132"
+  "idnp": "1013620001132",
+  "directors": [
+    {
+      "name": "Langa Petru 023630071",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 71,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1198,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 41,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

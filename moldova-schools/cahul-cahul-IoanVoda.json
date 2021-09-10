@@ -66,5 +66,33 @@
     "029934289"
   ],
   "type": "Liceu",
-  "idnp": "1012620009784"
+  "idnp": "1012620009784",
+  "directors": [
+    {
+      "name": "CHICIUC CONSTANTIN 299-3-42-89",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 59,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 687,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -66,5 +66,34 @@
     "022745434"
   ],
   "type": "Liceu",
-  "idnp": "1004600058509"
+  "idnp": "1004600058509",
+  "directors": [
+    {
+      "name": "Moga Ecaterina,\r\ncodpersonal@yahoo.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 48,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 394,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 43,
+      "notebook": 12,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

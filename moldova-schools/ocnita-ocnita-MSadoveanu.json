@@ -66,5 +66,34 @@
     "0271-2-23-72"
   ],
   "type": "Liceu",
-  "idnp": "1012620012074"
+  "idnp": "1012620012074",
+  "directors": [
+    {
+      "name": "Zaharco Niculina\r\n069854308",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 35,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 428,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 3,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "26446278,"
   ],
   "type": "Şcoală primară",
-  "idnp": "1013620012048"
+  "idnp": "1013620012048",
+  "directors": [
+    {
+      "name": "Macovei Lilia",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 11,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 35,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

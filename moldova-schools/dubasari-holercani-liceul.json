@@ -58,5 +58,33 @@
     "0248-53-2-44"
   ],
   "type": "Liceu",
-  "idnp": "1013620000205"
+  "idnp": "1013620000205",
+  "directors": [
+    {
+      "name": "Rotari Tamara  TEL FIX: 0248-53-2- 44",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 288,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

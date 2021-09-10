@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-vadulluivoda-806614394",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "vadulluivoda",
+    "street": "ȘTEFAN CEL MARE 9",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala primară nr. 19, or. Vadul lui Vodă",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022416262"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1007601010600___(chisinau-vadulluivoda-806614394)",
+  "directors": [
+    {
+      "name": "COTOMAN NATALIA              022417234",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 231,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 1,
+      "notebook": 10,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

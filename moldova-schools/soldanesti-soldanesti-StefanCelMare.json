@@ -66,5 +66,34 @@
     "27222289"
   ],
   "type": "Liceu",
-  "idnp": "1012620011516"
+  "idnp": "1012620011516",
+  "directors": [
+    {
+      "name": "Gonța Raisa\r\n067633579",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 40,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 450,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 5,
+      "proector": 2,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

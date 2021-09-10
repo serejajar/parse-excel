@@ -1,0 +1,52 @@
+{
+  "id": "leova-baius-569413800",
+  "search": "",
+  "address": {
+    "district": "leova",
+    "city": "baius",
+    "street": "c.Băiuș, r. Leova",
+    "building": ""
+  },
+  "name": {
+    "ro": "I. P. Gimnaziul  Baiuș",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "026370228"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601011331___(leova-baius-569413800)",
+  "directors": [
+    {
+      "name": "Babcinschi Valeria, 263-70-2-28, 078697921",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 0,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 67,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

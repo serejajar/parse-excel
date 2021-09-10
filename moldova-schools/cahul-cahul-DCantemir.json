@@ -66,5 +66,34 @@
     "029932283"
   ],
   "type": "Liceu",
-  "idnp": "1012620010069"
+  "idnp": "1012620010069",
+  "directors": [
+    {
+      "name": "Şerepera Svetlana",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 51,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 577,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 23,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

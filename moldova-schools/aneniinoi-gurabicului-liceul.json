@@ -30,5 +30,34 @@
     "0-265-41-6-80"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009061"
+  "idnp": "1012620009061",
+  "directors": [
+    {
+      "name": "Vieru Tamara",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 243,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

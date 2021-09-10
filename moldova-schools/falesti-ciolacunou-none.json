@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "025967485"
   ],
   "type": "Gimnaziu",
-  "idnp": "1008601000097___(falesti-ciolacunou-none)"
+  "idnp": "1008601000097___(falesti-ciolacunou-none)",
+  "directors": [
+    {
+      "name": "ЛАЗАРЧУК ЕВГЕНИЙ",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 109,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

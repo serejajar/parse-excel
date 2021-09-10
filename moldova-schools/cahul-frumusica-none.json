@@ -12,11 +12,36 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "029874-2-28"
   ],
   "type": "Alte",
-  "idnp": "1012620010058"
+  "idnp": "1012620010058",
+  "directors": [
+    {
+      "name": "STELA  OLTEANU  0298-74-205,079573835",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 76,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
 }

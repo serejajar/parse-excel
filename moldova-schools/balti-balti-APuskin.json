@@ -66,5 +66,34 @@
     "023176698"
   ],
   "type": "Liceu",
-  "idnp": "1015601000259___(balti-balti-APuskin)"
+  "idnp": "1015601000259___(balti-balti-APuskin)",
+  "directors": [
+    {
+      "name": "GAGIM LIDIA\r\nTEL: 0231- 7- 66-98, \r\nMOBIL: 069207977",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 64,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 866,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 21,
+      "notebook": 0,
+      "netbook": 30,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

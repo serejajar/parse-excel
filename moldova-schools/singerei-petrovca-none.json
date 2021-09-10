@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0262-35-681"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601011098___(singerei-petrovca-none)"
+  "idnp": "1007601011098___(singerei-petrovca-none)",
+  "directors": [
+    {
+      "name": "Chifiriuc Natalia, 0262-3-56-70, mob.068567064",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 69,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

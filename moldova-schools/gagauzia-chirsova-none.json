@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "029851347"
   ],
   "type": "Gimnaziu",
-  "idnp": "1011601000262"
+  "idnp": "1011601000262",
+  "directors": [
+    {
+      "name": "Boicova Maria",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 28,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 278,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 37,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

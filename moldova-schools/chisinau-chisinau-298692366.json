@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-298692366",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Gheorghe Cașu 10",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul - internat nr. 3",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022 72-79-63"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601009417___(chisinau-chisinau-298692366)",
+  "directors": [
+    {
+      "name": "Director interimar Nedașcovscaia Aurelia\r\n\r\nSandler Igori Lev",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 85,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 213,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

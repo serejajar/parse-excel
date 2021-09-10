@@ -58,5 +58,34 @@
     "0237-79-365"
   ],
   "type": "Liceu",
-  "idnp": "1012620010128"
+  "idnp": "1012620010128",
+  "directors": [
+    {
+      "name": "IACHIMCIUC OLGA\r\ne-mail:iac.olga@mail.ru\r\nTel fix 023779556   \r\n GSM 069785818",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 393,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 21,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -28,7 +28,6 @@
     }
   ],
   "langs": [
-    "engleza",
     "romana"
   ],
   "profiles": [
@@ -39,5 +38,33 @@
     "022999182"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-durlesti-liceul)"
+  "idnp": "1007601010600___(chisinau-durlesti-liceul)",
+  "directors": [
+    {
+      "name": "Anghelenici Tatiana, 069075572",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 256,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 4,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

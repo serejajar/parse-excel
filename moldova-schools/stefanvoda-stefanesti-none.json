@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024237305"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013601000015___(stefanvoda-stefanesti-none)"
+  "idnp": "1013601000015___(stefanvoda-stefanesti-none)",
+  "directors": [
+    {
+      "name": "Bujorean Nelea\r\n024237305,\r\n069139481",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 111,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

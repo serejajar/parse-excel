@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "25854360"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620009940"
+  "idnp": "1014620009940",
+  "directors": [
+    {
+      "name": "Popa, Lilia   tel.fix:0-258-44-1-93   mobil:067619029",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 165,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 23,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

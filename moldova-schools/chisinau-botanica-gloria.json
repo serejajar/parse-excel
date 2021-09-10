@@ -59,5 +59,33 @@
     "022-77-78-30"
   ],
   "type": "Liceu",
-  "idnp": "1007601101448"
+  "idnp": "1007601101448",
+  "directors": [
+    {
+      "name": "PĂDUREŢ NICOLAE \r\n022-76-94-51, 079566339,\r\ne-mail: scoala_13@mail.ru\r\ne-mail:ltpsgloria@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 70,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 748,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

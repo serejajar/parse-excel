@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0250 92 8 76"
   ],
   "type": "Şcoală primară",
-  "idnp": "1009601000094___(floresti-dumitreni-none)"
+  "idnp": "1009601000094___(floresti-dumitreni-none)",
+  "directors": [
+    {
+      "name": "SIRBU TAMARA, 0Е5034Е46; 0780Е69Î5",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 4,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 1,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

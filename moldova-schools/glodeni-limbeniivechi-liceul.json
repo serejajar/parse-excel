@@ -31,5 +31,34 @@
     "024975298"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620005791"
+  "idnp": "1014620005791",
+  "directors": [
+    {
+      "name": "Mura Antonina 0249-74-3-84, 069631350",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 193,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 11,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

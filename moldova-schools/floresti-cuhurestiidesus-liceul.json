@@ -58,5 +58,33 @@
     "025057360"
   ],
   "type": "Liceu",
-  "idnp": "1012620012041"
+  "idnp": "1012620012041",
+  "directors": [
+    {
+      "name": "GAIU PETRU  0250-57-399",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 286,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

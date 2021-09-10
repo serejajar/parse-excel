@@ -37,5 +37,34 @@
     "027244222, 027244235"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011561"
+  "idnp": "1012620011561",
+  "directors": [
+    {
+      "name": "Popa Violeta 027244191  069225401",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 223,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 16,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

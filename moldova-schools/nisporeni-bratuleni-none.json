@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "264 55 2 41"
   ],
   "type": "Gimnaziu",
-  "idnp": "35087712___(nisporeni-bratuleni-none)"
+  "idnp": "35087712___(nisporeni-bratuleni-none)",
+  "directors": [
+    {
+      "name": "JICOL LUDMILA TEL.FIX-0-264-55-2-82 ,MOBIL-069748568",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 209,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

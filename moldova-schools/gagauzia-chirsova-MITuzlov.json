@@ -51,5 +51,34 @@
     "29851240"
   ],
   "type": "Liceu",
-  "idnp": "1011601000435"
+  "idnp": "1011601000435",
+  "directors": [
+    {
+      "name": "Vornicoglo Gheorghi Hristofor 29851224 моб.79470581",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 30,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 258,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 26,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

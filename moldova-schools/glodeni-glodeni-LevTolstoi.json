@@ -66,5 +66,34 @@
     "024922297"
   ],
   "type": "Liceu",
-  "idnp": "1014620005827"
+  "idnp": "1014620005827",
+  "directors": [
+    {
+      "name": "GLADÎȘ VASILE, 249-2-31-51",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 41,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 510,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 38,
+      "notebook": 14,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

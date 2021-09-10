@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-148417899",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "str.Milesti nr 34",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr.7",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "(+373 22) 35 47 57"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "220106030535225",
+  "directors": [
+    {
+      "name": "Antoniu Galina\r\nE-MAIL:\r\ndetsprimara32@mail.ru\r\ngantoniu62@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 40,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 382,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 13,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

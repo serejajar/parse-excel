@@ -28,8 +28,7 @@
     }
   ],
   "langs": [
-    "romana",
-    "rusa"
+    "romana"
   ],
   "profiles": [
     "real",
@@ -39,5 +38,33 @@
     "248 52 450"
   ],
   "type": "Liceu",
-  "idnp": "1007600005984"
+  "idnp": "1007600005984",
+  "directors": [
+    {
+      "name": "Ursul Aurelia TEL.MOBIL 069699416, FIX 0248 52 432",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 57,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 377,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 5,
+      "proector": 2,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

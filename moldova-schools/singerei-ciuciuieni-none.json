@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026250317"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601011098___(singerei-ciuciuieni-none)"
+  "idnp": "1007601011098___(singerei-ciuciuieni-none)",
+  "directors": [
+    {
+      "name": "Albu Angela tel.fix - 0262-50-349, tel.mobil - 069182407",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 111,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 12,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

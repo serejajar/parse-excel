@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "299-38-2-41"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010726"
+  "idnp": "1012620010726",
+  "directors": [
+    {
+      "name": "Bucur Lilia\r\nMOB. 068064434;\r\n TEL.: ŞCOALA-299-38-2-41;",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 191,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

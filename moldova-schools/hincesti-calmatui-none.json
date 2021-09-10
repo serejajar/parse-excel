@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "269 3-22-60"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620011498"
+  "idnp": "1013620011498",
+  "directors": [
+    {
+      "name": "Dodu, Nicolae, tel.0269 3-22-85   mobil:067497494",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 12,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 143,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 32,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

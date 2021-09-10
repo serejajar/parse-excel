@@ -1,0 +1,52 @@
+{
+  "id": "balti-balti-189409179",
+  "search": "",
+  "address": {
+    "district": "balti",
+    "city": "balti",
+    "street": "str. B. P. Hasdeu, 6",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr.15",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "231- 3-99-34"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "184542___(balti-balti-189409179)",
+  "directors": [
+    {
+      "name": "Vasilciuc Vladimir\r\n231-3-99-34\r\n068277745",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 102,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

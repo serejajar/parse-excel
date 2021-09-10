@@ -66,5 +66,34 @@
     "227-3-82-10"
   ],
   "type": "Liceu",
-  "idnp": "1013620007857"
+  "idnp": "1013620007857",
+  "directors": [
+    {
+      "name": "MUNTEAN ANGELA, 227-3-82-10, 078909011",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 67,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 763,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

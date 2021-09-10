@@ -1,0 +1,52 @@
+{
+  "id": "balti-balti-204057857",
+  "search": "",
+  "address": {
+    "district": "balti",
+    "city": "balti",
+    "street": "T.Vladimirescu 16",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala Primară \"S. Vangheli\" nr. 21",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "(231) 3-31-84"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "184542___(balti-balti-204057857)",
+  "directors": [
+    {
+      "name": "GOIMAN VALENTINA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 37,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 654,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 28,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

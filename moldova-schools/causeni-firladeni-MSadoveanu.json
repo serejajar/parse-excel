@@ -65,5 +65,33 @@
     "024357380"
   ],
   "type": "Liceu",
-  "idnp": "1012608001896"
+  "idnp": "1012608001896",
+  "directors": [
+    {
+      "name": "Zdorovețchi Olga, \r\ntel.fix 0243-57-380\r\ntel.mob.068051602",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 383,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

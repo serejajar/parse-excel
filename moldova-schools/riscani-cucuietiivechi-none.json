@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025666286"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601010998___(riscani-cucuietiivechi-none)"
+  "idnp": "1007601010998___(riscani-cucuietiivechi-none)",
+  "directors": [
+    {
+      "name": "Prisacaru  Anatolie, tel. 025666286",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 9,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 84,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

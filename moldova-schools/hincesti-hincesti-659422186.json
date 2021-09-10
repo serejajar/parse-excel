@@ -1,0 +1,52 @@
+{
+  "id": "hincesti-hincesti-659422186",
+  "search": "",
+  "address": {
+    "district": "hincesti",
+    "city": "hincesti",
+    "street": "Şl. Mereşenilor 14",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziul „Mihai Viteazul”",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "026923161"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620009887",
+  "directors": [
+    {
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 191,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

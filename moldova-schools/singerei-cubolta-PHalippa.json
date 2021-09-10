@@ -65,5 +65,34 @@
     "026258332"
   ],
   "type": "Liceu",
-  "idnp": "1013620000087"
+  "idnp": "1013620000087",
+  "directors": [
+    {
+      "name": "Osoianu Valentina, 069289531",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 275,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

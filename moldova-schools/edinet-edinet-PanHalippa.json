@@ -66,5 +66,34 @@
     "024622654"
   ],
   "type": "Liceu",
-  "idnp": "1009601000142___(edinet-edinet-PanHalippa)"
+  "idnp": "1009601000142___(edinet-edinet-PanHalippa)",
+  "directors": [
+    {
+      "name": "Rusu Marin",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 44,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 475,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 17,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

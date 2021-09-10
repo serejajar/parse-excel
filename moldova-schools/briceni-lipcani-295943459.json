@@ -1,0 +1,52 @@
+{
+  "id": "briceni-lipcani-295943459",
+  "search": "",
+  "address": {
+    "district": "briceni",
+    "city": "lipcani",
+    "street": "Libertăţii, 71",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul Lipcani",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "024761950"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000131___(briceni-lipcani-295943459)",
+  "directors": [
+    {
+      "name": "ZADOROJNEAC IULIA (tel.024761950)\r\n(mob. 060789612)",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 163,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

@@ -58,5 +58,34 @@
     "0-246-60-6-09"
   ],
   "type": "Liceu",
-  "idnp": "1013620011797"
+  "idnp": "1013620011797",
+  "directors": [
+    {
+      "name": "GUŢU ANA\r\n0-246-60-6-09",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 33,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 405,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 25,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 4,
+      "year": "2017"
+    }
+  ]
 }

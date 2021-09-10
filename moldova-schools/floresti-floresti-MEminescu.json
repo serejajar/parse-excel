@@ -58,5 +58,34 @@
     "025021262"
   ],
   "type": "Liceu",
-  "idnp": "1012620012029"
+  "idnp": "1012620012029",
+  "directors": [
+    {
+      "name": "Deleu Neli",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 34,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 427,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 22,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

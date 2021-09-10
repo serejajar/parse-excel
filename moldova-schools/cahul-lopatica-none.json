@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "029954297"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012601000018___(cahul-lopatica-none)"
+  "idnp": "1012601000018___(cahul-lopatica-none)",
+  "directors": [
+    {
+      "name": "ПЕНЬ ДМИТРИЙ 068604568, 069954634",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 53,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

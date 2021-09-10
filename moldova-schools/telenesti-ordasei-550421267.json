@@ -1,0 +1,51 @@
+{
+  "id": "telenesti-ordasei-550421267",
+  "search": "",
+  "address": {
+    "district": "telenesti",
+    "city": "ordasei",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul, Ordăşei",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "025868261"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013601000093___(telenesti-ordasei-550421267)",
+  "directors": [
+    {
+      "name": "Nicova Tatiana TEL.   MOBIL 067597177, SERVICI: 025868261",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 0,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 0,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

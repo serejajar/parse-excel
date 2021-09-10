@@ -31,5 +31,34 @@
     "029959786"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010760"
+  "idnp": "1012620010760",
+  "directors": [
+    {
+      "name": "DOBINDA NADEJDA, 0299-59-8-22, 079395046",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 219,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

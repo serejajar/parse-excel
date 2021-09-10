@@ -66,5 +66,34 @@
     "024322393"
   ],
   "type": "Liceu",
-  "idnp": "1010608000817"
+  "idnp": "1010608000817",
+  "directors": [
+    {
+      "name": "CEBAN LIDIA tel.fix;024322393\r\nmobil 079581831",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 60,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1035,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 11,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 20,
+      "interactiveTable": 10,
+      "year": "2017"
+    }
+  ]
 }

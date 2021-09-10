@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "025036-2-13"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000094___(floresti-nicolaevca-none)"
+  "idnp": "1009601000094___(floresti-nicolaevca-none)",
+  "directors": [
+    {
+      "name": "Podlubneac Ludmila",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 98,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 5,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

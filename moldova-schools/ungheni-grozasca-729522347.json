@@ -1,0 +1,53 @@
+{
+  "id": "ungheni-grozasca-729522347",
+  "search": "",
+  "address": {
+    "district": "ungheni",
+    "city": "grozasca",
+    "street": "Grozasca",
+    "building": ""
+  },
+  "name": {
+    "ro": "Școala primară grădiniță, Grozasca",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "023657254"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "187509___(ungheni-grozasca-729522347)",
+  "directors": [
+    {
+      "name": "Suman Maria 023657048\r\n068386478",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 3,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 0,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 2,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

@@ -66,5 +66,34 @@
     "029968243"
   ],
   "type": "Liceu",
-  "idnp": "1012620009005"
+  "idnp": "1012620009005",
+  "directors": [
+    {
+      "name": "Machidon Silvia 069486923",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 31,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 343,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 3,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

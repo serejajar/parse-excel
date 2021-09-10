@@ -1,0 +1,52 @@
+{
+  "id": "chisinau-chisinau-290933657",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Vasile  Lupu, 14",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr.86",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022749321"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601009967___(chisinau-chisinau-290933657)",
+  "directors": [
+    {
+      "name": "VARSAN GHEORGHE, 022-74-93-21",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 166,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 2,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

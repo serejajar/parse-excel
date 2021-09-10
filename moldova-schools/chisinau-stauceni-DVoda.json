@@ -65,5 +65,34 @@
     "(+373 22) 32-67-54"
   ],
   "type": "Liceu",
-  "idnp": "1007601010600___(chisinau-stauceni-DVoda)"
+  "idnp": "1007601010600___(chisinau-stauceni-DVoda)",
+  "directors": [
+    {
+      "name": "PRODAN MIHAIL, 069517514",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 44,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 522,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 35,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

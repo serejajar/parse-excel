@@ -1,0 +1,53 @@
+{
+  "id": "ialoveni-ialoveni-682113858",
+  "search": "",
+  "address": {
+    "district": "ialoveni",
+    "city": "ialoveni",
+    "street": "Chilia-2b",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul \"Grigore Vieru\"",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "0 (268) 21801"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620008905",
+  "directors": [
+    {
+      "name": "Stegarescu Gheorghe\r\nTEL.069464684",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 199,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

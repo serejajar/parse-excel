@@ -59,5 +59,34 @@
     "026572601"
   ],
   "type": "Liceu",
-  "idnp": "1008600010688"
+  "idnp": "1008600010688",
+  "directors": [
+    {
+      "name": "Zmeu Elena",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 280,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 26,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

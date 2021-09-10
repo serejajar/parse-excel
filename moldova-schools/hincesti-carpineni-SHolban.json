@@ -66,5 +66,34 @@
     "026928251"
   ],
   "type": "Liceu",
-  "idnp": "1012620009717"
+  "idnp": "1012620009717",
+  "directors": [
+    {
+      "name": "MACARI TAMARA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 55,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 712,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 1,
+      "notebook": 26,
+      "netbook": 0,
+      "tabletPC": 21,
+      "proector": 10,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

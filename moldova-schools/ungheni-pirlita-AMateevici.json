@@ -66,5 +66,34 @@
     "023664394"
   ],
   "type": "Liceu",
-  "idnp": "1013620001154"
+  "idnp": "1013620001154",
+  "directors": [
+    {
+      "name": "Ciupercă Romeo, 023664394, 069307100",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 32,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 424,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 17,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 8,
+      "interactiveTable": 4,
+      "year": "2017"
+    }
+  ]
 }

@@ -1,0 +1,52 @@
+{
+  "id": "chisinau-ciorescu-352470069",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "ciorescu",
+    "street": "ALEXANDRU CEL BUN 4",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul  nr.45 (Ciorescu)",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "224-5-62-74"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601010600___(chisinau-ciorescu-352470069)",
+  "directors": [
+    {
+      "name": "Boev Raisa , 224-5-61-61, 224-5-62-74\r\nraisaboeva@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 50,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

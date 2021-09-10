@@ -31,5 +31,34 @@
     "026976283"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009946"
+  "idnp": "1012620009946",
+  "directors": [
+    {
+      "name": "LAZAR MARIA 026976283, 068336048",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 46,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 560,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 20,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

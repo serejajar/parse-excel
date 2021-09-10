@@ -1,0 +1,52 @@
+{
+  "id": "balti-balti-126040069",
+  "search": "",
+  "address": {
+    "district": "balti",
+    "city": "balti",
+    "street": "COLESOV 15",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr. 7",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "023138182"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "184542___(balti-balti-126040069)",
+  "directors": [
+    {
+      "name": "ILINCIUC OLGA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 168,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

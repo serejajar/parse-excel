@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0-259-74-517"
   ],
   "type": "Gimnaziu",
-  "idnp": "1008601000097___(falesti-hiliuti-none)"
+  "idnp": "1008601000097___(falesti-hiliuti-none)",
+  "directors": [
+    {
+      "name": "BEJENARU ANGELA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 166,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 6,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

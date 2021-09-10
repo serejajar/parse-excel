@@ -52,5 +52,34 @@
     "025045218"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620012247"
+  "idnp": "1012620012247",
+  "directors": [
+    {
+      "name": "NAGRINEAC SVETLANA    \r\n025045218\r\n069461869",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 176,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 19,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

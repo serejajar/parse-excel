@@ -1,0 +1,52 @@
+{
+  "id": "chisinau-chisinau-513547022",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Cuza-Vodă 34",
+    "building": ""
+  },
+  "name": {
+    "ro": "Școala specială nr. 12 pentru copii hipoacuzici și surditate tardivă",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022 66 18 81"
+  ],
+  "type": "Pentru copii surzi şi hipoacuzici",
+  "idnp": "17993___(chisinau-chisinau-513547022)",
+  "directors": [
+    {
+      "name": "Rusu Nina, 069320885",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 36,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 96,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

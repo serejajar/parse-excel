@@ -51,5 +51,34 @@
     "029757444"
   ],
   "type": "Liceu",
-  "idnp": "1012620011549"
+  "idnp": "1012620011549",
+  "directors": [
+    {
+      "name": "TALMACI NATALIA, TEL.FIX - 029757444, MOBIL- 069217952",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 31,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 362,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

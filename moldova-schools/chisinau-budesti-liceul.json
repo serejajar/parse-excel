@@ -44,5 +44,34 @@
     "022999182"
   ],
   "type": "Liceu",
-  "idnp": "1013620006322"
+  "idnp": "1013620006322",
+  "directors": [
+    {
+      "name": "BRÎNZA SERGIU",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 38,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 519,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

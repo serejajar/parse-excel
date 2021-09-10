@@ -58,5 +58,34 @@
     "029953293"
   ],
   "type": "Liceu",
-  "idnp": "1012620009669"
+  "idnp": "1012620009669",
+  "directors": [
+    {
+      "name": "BUCIUCEANU TATIANA, \r\n299-53-343,069852297",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 317,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

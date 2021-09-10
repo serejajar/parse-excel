@@ -44,5 +44,34 @@
     "026858249"
   ],
   "type": "Liceu",
-  "idnp": "1012620008754"
+  "idnp": "1012620008754",
+  "directors": [
+    {
+      "name": "Guja Tatiana\r\n   268-58-577 060720741",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 30,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 419,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 31,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

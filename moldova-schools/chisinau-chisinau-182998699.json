@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-182998699",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "M. Darăgan 8/2",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala primară nr. 82, mun. Chişinău",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022473423"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1007601009565___(chisinau-chisinau-182998699)",
+  "directors": [
+    {
+      "name": "GOLBAN-CARPENCO EMILIA, 022 48 -37 -61, 069864641",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 27,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 498,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 7,
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

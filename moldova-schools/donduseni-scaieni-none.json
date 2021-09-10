@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0 25143210"
   ],
   "type": "Gimnaziu",
-  "idnp": "1010601000162___(donduseni-scaieni-none)"
+  "idnp": "1010601000162___(donduseni-scaieni-none)",
+  "directors": [
+    {
+      "name": "Rotari Aurelia, 251-43-403, 784-14-244",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 140,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

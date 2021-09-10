@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-782897900",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Independenţei 14",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala primară-grădiniţa nr. 120, mun. Chişinău",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022-76-76-55"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "17993___(chisinau-chisinau-782897900)",
+  "directors": [
+    {
+      "name": "SLUSARI NATALIA  \r\n022-55-02-19\r\n069208076",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 251,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

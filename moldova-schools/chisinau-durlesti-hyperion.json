@@ -66,5 +66,34 @@
     "022584476"
   ],
   "type": "Liceu",
-  "idnp": "1013620006230"
+  "idnp": "1013620006230",
+  "directors": [
+    {
+      "name": "PASAT TAMARA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 77,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1218,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 42,
+      "notebook": 15,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 14,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

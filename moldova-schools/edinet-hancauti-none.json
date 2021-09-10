@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024644216"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620008493"
+  "idnp": "1014620008493",
+  "directors": [
+    {
+      "name": "Samson Mihail\r\n024644325\r\n069908809",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 94,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 8,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

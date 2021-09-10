@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-533852864",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Maria Dragan 16/2",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul „Steliana Grama”",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022471061"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601009565___(chisinau-chisinau-533852864)",
+  "directors": [
+    {
+      "name": "SAMOHVALOVA TATIANA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 36,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 356,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 33,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

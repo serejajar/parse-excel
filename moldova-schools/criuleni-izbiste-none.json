@@ -12,11 +12,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024867334"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009120"
+  "idnp": "1012620009120",
+  "directors": [
+    {
+      "name": "Mîndru Gabriela\r\n024867334 - serviciu\r\n 0248 67 011 - domiciliu\r\n 068999773 - mobil",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 308,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

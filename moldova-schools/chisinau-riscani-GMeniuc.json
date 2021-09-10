@@ -66,5 +66,34 @@
     "022-29-17-00"
   ],
   "type": "Liceu",
-  "idnp": "1007601009716___(chisinau-riscani-GMeniuc)"
+  "idnp": "1007601009716___(chisinau-riscani-GMeniuc)",
+  "directors": [
+    {
+      "name": "BABUC NICOLAE, TEL. FIX 022-29-12-28\r\nliceu_g.meniuc@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 97,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1034,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 35,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

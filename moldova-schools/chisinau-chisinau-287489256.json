@@ -1,0 +1,47 @@
+{
+  "id": "chisinau-chisinau-287489256",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Costiujeni-3",
+    "building": ""
+  },
+  "name": {
+    "ro": "Scoala speciala nr.81",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022795161"
+  ],
+  "type": "Auxiliară",
+  "idnp": "02168123___(chisinau-chisinau-287489256)",
+  "directors": [
+    {
+      "name": "Nistor Eleonora\r\n022794525\r\n067649022\r\nscoala81@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 0,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
+}

@@ -21,7 +21,7 @@
     }
   ],
   "langs": [
-    "rusa"
+    "gagauza"
   ],
   "profiles": [
     "real",
@@ -31,5 +31,33 @@
     "029132168"
   ],
   "type": "Liceu",
-  "idnp": "1011601000619"
+  "idnp": "1011601000619",
+  "directors": [
+    {
+      "name": "ПАМУЖАК ГАЛИНА ИЛЬИНИЧНА 029132382 МОБ. 068055119",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 38,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 312,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 9,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 8,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -58,5 +58,34 @@
     "022294118"
   ],
   "type": "Liceu",
-  "idnp": "1005600017848"
+  "idnp": "1005600017848",
+  "directors": [
+    {
+      "name": "Arama Zaharii\r\n079401933",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 43,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 238,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 17,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -66,5 +66,34 @@
     "29423723"
   ],
   "type": "Liceu",
-  "idnp": "1011601000192___(taraclia-taraclia-IVazov)"
+  "idnp": "1011601000192___(taraclia-taraclia-IVazov)",
+  "directors": [
+    {
+      "name": "MOSTOVAIA NĂLEA \r\n29423723\r\n69809944\r\nNMOSTOVAIA@GMAIL.COM",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 39,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 408,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 26,
+      "notebook": 13,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 8,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

@@ -56,7 +56,7 @@
     }
   ],
   "langs": [
-    "rusa"
+    "alta"
   ],
   "profiles": [
     "umanist"
@@ -65,5 +65,34 @@
     "0236-235-96"
   ],
   "type": "Liceu",
-  "idnp": "226606"
+  "idnp": "226606",
+  "directors": [
+    {
+      "name": "ŢURCAN IURII,023622806, 068622806",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 81,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1100,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 41,
+      "notebook": 7,
+      "netbook": 30,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

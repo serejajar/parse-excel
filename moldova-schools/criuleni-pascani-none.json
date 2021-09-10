@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "248-3--03-45 0685186058"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601010068___(criuleni-pascani-none)"
+  "idnp": "1007601010068___(criuleni-pascani-none)",
+  "directors": [
+    {
+      "name": "Lucaşenco Tamara,248-6-33-88,069832254",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 90,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 9,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

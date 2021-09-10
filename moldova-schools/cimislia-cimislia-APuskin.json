@@ -31,5 +31,34 @@
     "021422146"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010324"
+  "idnp": "1012620010324",
+  "directors": [
+    {
+      "name": "SLANINA ALEXANDRA TEL. 0-241-2-37-01 MOB.067260713",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 18,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 147,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

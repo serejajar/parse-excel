@@ -67,5 +67,34 @@
     "0-224-8-41-91"
   ],
   "type": "Liceu",
-  "idnp": "1007601009565___(chisinau-ciocana-MBerezovschi)"
+  "idnp": "1007601009565___(chisinau-ciocana-MBerezovschi)",
+  "directors": [
+    {
+      "name": "ANA EREMEI-BEREZOVSCHI",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 167,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 2002,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 59,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

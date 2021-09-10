@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "029976133"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012601000018___(cahul-huluboaia-none)"
+  "idnp": "1012601000018___(cahul-huluboaia-none)",
+  "directors": [
+    {
+      "name": "GRIGORENCO  TATIANA\r\n 029976119, 078107843",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 59,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

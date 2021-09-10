@@ -66,5 +66,34 @@
     "022-32-49-00"
   ],
   "type": "Liceu",
-  "idnp": "1017620000834"
+  "idnp": "1017620000834",
+  "directors": [
+    {
+      "name": "BUINIŢKAIA GOVHAR, 690-2-80-64",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 68,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 816,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 46,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

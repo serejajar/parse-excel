@@ -65,5 +65,34 @@
     "026242694"
   ],
   "type": "Liceu",
-  "idnp": "1013620000032"
+  "idnp": "1013620000032",
+  "directors": [
+    {
+      "name": "Rudei Liuba",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 60,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 867,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 18,
+      "notebook": 17,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 8,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

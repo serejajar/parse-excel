@@ -37,5 +37,34 @@
     "022-590-332"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601010600___(chisinau-truseni-liceul)"
+  "idnp": "1007601010600___(chisinau-truseni-liceul)",
+  "directors": [
+    {
+      "name": "Lupașcu Elena, TEL.FIX.225-9-03-32; MOB. 69-464-585",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 34,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 373,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -66,5 +66,34 @@
     "022238643"
   ],
   "type": "Liceu",
-  "idnp": "1006600027190"
+  "idnp": "1006600027190",
+  "directors": [
+    {
+      "name": "SILVESTRU AURELIAN, 079994033\r\nliceul.prometeu.prim@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 69,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 846,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 36,
+      "notebook": 33,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 34,
+      "interactiveTable": 6,
+      "year": "2017"
+    }
+  ]
 }

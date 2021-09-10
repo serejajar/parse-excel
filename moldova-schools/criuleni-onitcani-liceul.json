@@ -31,5 +31,33 @@
     "024879280"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009511"
+  "idnp": "1012620009511",
+  "directors": [
+    {
+      "name": "DODON LILIA, 248-7-93-17, 069495796",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 198,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 10,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

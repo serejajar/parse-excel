@@ -59,5 +59,34 @@
     "024741318"
   ],
   "type": "Liceu",
-  "idnp": "1009601000131___(briceni-trebisauti-liceul)"
+  "idnp": "1009601000131___(briceni-trebisauti-liceul)",
+  "directors": [
+    {
+      "name": "LAVRIC LIUDMILA, TEL.FIX-24741386, MOBIL-060493962",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 222,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

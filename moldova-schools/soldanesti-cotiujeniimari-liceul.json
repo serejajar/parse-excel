@@ -58,5 +58,34 @@
     "027274375"
   ],
   "type": "Liceu",
-  "idnp": "1012620011550"
+  "idnp": "1012620011550",
+  "directors": [
+    {
+      "name": "Guma Slavic, 027274677, 069693839, guma.slavic@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 36,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 446,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 21,
+      "notebook": 14,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 13,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

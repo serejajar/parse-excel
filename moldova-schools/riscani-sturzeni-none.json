@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025666438,025666222"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601010998___(riscani-sturzeni-none)"
+  "idnp": "1007601010998___(riscani-sturzeni-none)",
+  "directors": [
+    {
+      "name": "Manoil Angela,060154155\r\n                      025666227",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 10,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 68,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 6,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

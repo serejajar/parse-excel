@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "026459267"
   ],
   "type": "Gimnaziu",
-  "idnp": "35087712___(nisporeni-zberoaia-none)"
+  "idnp": "35087712___(nisporeni-zberoaia-none)",
+  "directors": [
+    {
+      "name": "Botnari Cătălina\r\nTEL.026459267",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 145,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 15,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 12,
+      "proector": 7,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

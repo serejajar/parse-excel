@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-braila-941176051",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "braila",
+    "street": "Renaşterii 14",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul nr. 102, s. Brăila",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "224-2-33-29"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1007601010600___(chisinau-braila-941176051)",
+  "directors": [
+    {
+      "name": "Babalici Eudochia 224-2-33-59 681-9-44-91",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 100,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

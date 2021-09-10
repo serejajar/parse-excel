@@ -49,7 +49,7 @@
     }
   ],
   "langs": [
-    "rusa"
+    "gagauza"
   ],
   "profiles": [
     "umanist"
@@ -58,5 +58,33 @@
     "029858272"
   ],
   "type": "Liceu",
-  "idnp": "1011601000295"
+  "idnp": "1011601000295",
+  "directors": [
+    {
+      "name": "Карамит Елена 029858272 076749610",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 38,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 331,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 23,
+      "year": "2017"
+    }
+  ]
 }

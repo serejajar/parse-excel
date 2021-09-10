@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024236225"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013601000015___(stefanvoda-rascaieti-none)"
+  "idnp": "1013601000015___(stefanvoda-rascaieti-none)",
+  "directors": [
+    {
+      "name": "Nigai Larisa,tel.0242366460       tel.mobil 069148526",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 249,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 14,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

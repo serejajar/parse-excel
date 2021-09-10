@@ -58,5 +58,33 @@
     "0247-51-3-99"
   ],
   "type": "Liceu",
-  "idnp": "1009601000131___(briceni-larga-liceul)"
+  "idnp": "1009601000131___(briceni-larga-liceul)",
+  "directors": [
+    {
+      "name": "GHEORGHIȚA VIOLETA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 244,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

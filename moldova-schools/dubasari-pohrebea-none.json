@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "(0)248-41-3-33"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601010954___(dubasari-pohrebea-none)"
+  "idnp": "1007601010954___(dubasari-pohrebea-none)",
+  "directors": [
+    {
+      "name": "Filipenco Eudochia, 0248-45-5-45; 069113087",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 54,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

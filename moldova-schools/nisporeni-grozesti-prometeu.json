@@ -51,5 +51,33 @@
     "264-43-275"
   ],
   "type": "Liceu",
-  "idnp": "1013620012130"
+  "idnp": "1013620012130",
+  "directors": [
+    {
+      "name": "Mocanu Liliana",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 304,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 20,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

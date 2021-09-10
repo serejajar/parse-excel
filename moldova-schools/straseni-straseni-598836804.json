@@ -1,0 +1,52 @@
+{
+  "id": "straseni-straseni-598836804",
+  "search": "",
+  "address": {
+    "district": "straseni",
+    "city": "straseni",
+    "street": "Toma Ciorba 11",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala de tip-internat pentru copii orfani şi rămaşi fără îngrijirea părinţilor, or. Străşeni",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "023722569"
+  ],
+  "type": "Pentru copii orfani şi rămaşi fără îngrijirea părinţilor",
+  "idnp": "1007601001178",
+  "directors": [
+    {
+      "name": "Constantin IONIŢĂ",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 0,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

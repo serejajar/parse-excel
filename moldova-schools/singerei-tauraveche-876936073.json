@@ -1,0 +1,46 @@
+{
+  "id": "singerei-tauraveche-876936073",
+  "search": "",
+  "address": {
+    "district": "singerei",
+    "city": "tauraveche",
+    "building": ""
+  },
+  "name": {
+    "ro": "Scola primara Tăura Veche",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "026255367"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1007601001098",
+  "directors": [
+    {
+      "name": "Чипищук Лилия 060555007",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 0,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 0,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
+}

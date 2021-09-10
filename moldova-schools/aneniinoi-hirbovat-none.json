@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0 265 72 454"
   ],
   "type": "Şcoală primară",
-  "idnp": "1013620007651"
+  "idnp": "1013620007651",
+  "directors": [
+    {
+      "name": "Calmîc Maria\r\ntel.serviciu 026572454, \r\nmob. 060513561",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 14,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 197,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 7,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

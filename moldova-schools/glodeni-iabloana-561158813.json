@@ -1,0 +1,52 @@
+{
+  "id": "glodeni-iabloana-561158813",
+  "search": "",
+  "address": {
+    "district": "glodeni",
+    "city": "iabloana",
+    "building": ""
+  },
+  "name": {
+    "ro": "IP Gimnaziul Iabloana",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "024954298"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1009601000212___(glodeni-iabloana-561158813)",
+  "directors": [
+    {
+      "name": "Glinschi Lidia, 060261216, GimIabloana-gl@mtc.md",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 92,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

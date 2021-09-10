@@ -37,5 +37,34 @@
     "029871509"
   ],
   "type": "Liceu",
-  "idnp": "1012620010564"
+  "idnp": "1012620010564",
+  "directors": [
+    {
+      "name": "LUNGU MARIA, TEL. FIX 29871509, TEL. MOB. 69119017",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 192,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 18,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

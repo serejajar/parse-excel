@@ -11,11 +11,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0265-79-227/0265-92-300"
   ],
   "type": "Gimnaziu",
-  "idnp": "1007601008373___(aneniinoi-botnaresti-none)"
+  "idnp": "1007601008373___(aneniinoi-botnaresti-none)",
+  "directors": [
+    {
+      "name": "Plămădeală Elizaveta 026593273,mob. 060004228",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 89,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 13,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+{
+  "id": "cahul-moscovei-411849800",
+  "search": "",
+  "address": {
+    "district": "cahul",
+    "city": "moscovei",
+    "street": "R. CAHUL, S. MOSCOVEI",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul ”Mircea cel Bătrîn”",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "299-75-2-77"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1012620010047",
+  "directors": [
+    {
+      "name": "MATCIN NATALIA    299-75-2-22           069969640",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 13,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 96,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 6,
+      "notebook": 12,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
+}

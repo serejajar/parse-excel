@@ -35,7 +35,7 @@
     }
   ],
   "langs": [
-    "rusa"
+    "gagauza"
   ],
   "profiles": [
     "umanist"
@@ -44,5 +44,33 @@
     "0(298)23453"
   ],
   "type": "Liceu",
-  "idnp": "1011601000343"
+  "idnp": "1011601000343",
+  "directors": [
+    {
+      "name": "GADJAEVA OLGA \r\nmob. 0 78414223",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 34,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 402,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

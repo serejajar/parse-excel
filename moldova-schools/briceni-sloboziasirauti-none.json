@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "rusa"
+  ],
   "profiles": [],
   "phones": [
     "024755290"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000131___(briceni-sloboziasirauti-none)"
+  "idnp": "1009601000131___(briceni-sloboziasirauti-none)",
+  "directors": [
+    {
+      "name": "GHERMAN STELLA   024755020; 069252656",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 88,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

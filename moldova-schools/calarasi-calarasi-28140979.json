@@ -1,0 +1,53 @@
+{
+  "id": "calarasi-calarasi-28140979",
+  "search": "",
+  "address": {
+    "district": "calarasi",
+    "city": "calarasi",
+    "street": "31 August 15",
+    "building": ""
+  },
+  "name": {
+    "ro": "I. P. Şcoala Primară, or. Călăraşi",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "024423535"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1012620012328",
+  "directors": [
+    {
+      "name": "Trifan Aurelia",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 414,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 14,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

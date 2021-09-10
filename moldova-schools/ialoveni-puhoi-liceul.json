@@ -59,5 +59,34 @@
     "026863281"
   ],
   "type": "Liceu",
-  "idnp": "1012620008802"
+  "idnp": "1012620008802",
+  "directors": [
+    {
+      "name": "SOLTAN MARIA TEL.FIX 268-6-35-93  MOBIL 79707974",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 42,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 598,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 27,
+      "notebook": 9,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 12,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

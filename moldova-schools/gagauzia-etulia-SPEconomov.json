@@ -28,7 +28,7 @@
     }
   ],
   "langs": [
-    "rusa"
+    "gagauza"
   ],
   "profiles": [
     "real",
@@ -38,5 +38,33 @@
     "029376219"
   ],
   "type": "Liceu",
-  "idnp": "1011601000468"
+  "idnp": "1011601000468",
+  "directors": [
+    {
+      "name": "Sargheliu Iulia, 029376387, 069205352",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 203,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 11,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

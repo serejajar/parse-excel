@@ -35,8 +35,7 @@
     }
   ],
   "langs": [
-    "romana",
-    "rusa"
+    "alta"
   ],
   "profiles": [
     "real",
@@ -46,5 +45,34 @@
     "025422552"
   ],
   "type": "Liceu",
-  "idnp": "1016620006068"
+  "idnp": "1016620006068",
+  "directors": [
+    {
+      "name": "Gheorghița Veronica, 069312832",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 53,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 625,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 25,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 5,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

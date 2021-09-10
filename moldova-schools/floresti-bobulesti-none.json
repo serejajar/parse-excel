@@ -11,11 +11,41 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "0250 43 6 06"
   ],
   "type": "Şcoală primară",
-  "idnp": "1009601000094___(floresti-bobulesti-none)"
+  "idnp": "1009601000094___(floresti-bobulesti-none)",
+  "directors": [
+    {
+      "name": "Rusu Liuba 0-250-9-40-94/069510063",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 4,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 36,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

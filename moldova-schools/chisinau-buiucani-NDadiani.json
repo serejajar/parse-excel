@@ -66,5 +66,33 @@
     "022742918"
   ],
   "type": "Liceu",
-  "idnp": "1007601009967___(chisinau-buiucani-NDadiani)"
+  "idnp": "1007601009967___(chisinau-buiucani-NDadiani)",
+  "directors": [
+    {
+      "name": "GHEORGHIŢA ANA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 109,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1358,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 9,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

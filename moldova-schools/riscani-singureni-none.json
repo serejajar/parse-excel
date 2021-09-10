@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "256-71-4-40"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000098"
+  "idnp": "1013620000098",
+  "directors": [
+    {
+      "name": "Macovei Alexandra,  tel. fix - 256-71-1-75, mobil - 068775537",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 20,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 156,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 11,
+      "notebook": 0,
+      "netbook": 10,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

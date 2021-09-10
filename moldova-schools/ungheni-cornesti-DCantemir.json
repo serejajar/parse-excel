@@ -31,5 +31,34 @@
     "0236-61-273"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620001084"
+  "idnp": "1013620001084",
+  "directors": [
+    {
+      "name": "BILEŢCHII LEON, 0236-60-365, 079373121",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 23,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 238,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 16,
+      "notebook": 13,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 14,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-921226636",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "Şciusev  117",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituţia Privată Şcoala Primară de Creativitate şi Inventică \"Prometeu-Junior\"",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022243451"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1010620008990",
+  "directors": [
+    {
+      "name": "Larisa Silvestru, tel. mobil 079994040, email larisasilvestru58@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 62,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 646,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 38,
+      "notebook": 26,
+      "netbook": 0,
+      "tabletPC": 1,
+      "proector": 5,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

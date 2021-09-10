@@ -66,5 +66,33 @@
     "023022589"
   ],
   "type": "Liceu",
-  "idnp": "1013620000777"
+  "idnp": "1013620000777",
+  "directors": [
+    {
+      "name": "MITROFAN DIONISII",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 68,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 852,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

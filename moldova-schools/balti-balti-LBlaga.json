@@ -66,5 +66,34 @@
     "023123332"
   ],
   "type": "Liceu",
-  "idnp": "184542___(balti-balti-LBlaga)"
+  "idnp": "184542___(balti-balti-LBlaga)",
+  "directors": [
+    {
+      "name": "BALAN AURELIA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 64,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1002,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 10,
+      "notebook": 1,
+      "netbook": 60,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

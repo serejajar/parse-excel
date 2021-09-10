@@ -4,8 +4,8 @@
   "address": {
     "district": "chisinau",
     "city": "chisinau",
-    "street": "teilor, 7",
-    "building": ""
+    "street": "Hristo Botev",
+    "building": "2"
   },
   "name": {
     "ro": "liceul internat republican cu profil sportiv",
@@ -62,8 +62,36 @@
     "sport"
   ],
   "phones": [
-    "022-77-78-30"
+    "022-76-78-57"
   ],
   "type": "Liceu",
-  "idnp": "1007601101448"
+  "idnp": "1013620002195",
+  "directors": [
+    {
+      "name": "ROBU ION, 069037023,022-77-77-03",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 79,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 540,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

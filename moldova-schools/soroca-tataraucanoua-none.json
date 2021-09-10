@@ -11,11 +11,37 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "068060995"
   ],
   "type": "Şcoală primară",
-  "idnp": "10076010111342___(soroca-tataraucanoua-none)"
+  "idnp": "10076010111342___(soroca-tataraucanoua-none)",
+  "directors": [
+    {
+      "name": "SACOVSCHI SVETLANA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 3,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 8,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 1,
+      "year": "2017"
+    }
+  ]
 }

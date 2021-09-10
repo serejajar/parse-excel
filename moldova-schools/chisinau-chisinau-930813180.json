@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-chisinau-930813180",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "DACIA 52",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala-grădiniţă nr. 90, mun. Chişinău",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022765488"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1007601010448___(chisinau-chisinau-930813180)",
+  "directors": [
+    {
+      "name": "Rusu Mariana \r\n\r\n069346940",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 430,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 1,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

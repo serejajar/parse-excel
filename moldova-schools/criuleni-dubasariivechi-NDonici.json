@@ -66,5 +66,34 @@
     "0248-61-266"
   ],
   "type": "Liceu",
-  "idnp": "1012620009485"
+  "idnp": "1012620009485",
+  "directors": [
+    {
+      "name": "ZGIRCU ANDREI , 024862555 , 079059357",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 41,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 449,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 37,
+      "notebook": 26,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 4,
+      "year": "2017"
+    }
+  ]
 }

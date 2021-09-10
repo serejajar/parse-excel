@@ -59,5 +59,34 @@
     "021346188"
   ],
   "type": "Liceu",
-  "idnp": "184542___(balti-balti-MGorki)"
+  "idnp": "184542___(balti-balti-MGorki)",
+  "directors": [
+    {
+      "name": "ALEXEEVA SVETLANA\r\n069471162",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 36,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 423,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 20,
+      "notebook": 6,
+      "netbook": 20,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

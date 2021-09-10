@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "025623209"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000294"
+  "idnp": "1013620000294",
+  "directors": [
+    {
+      "name": "FRECAUTANU  DIANA, tel.mob. 069311673, tel. birou 0 256 2 32 09",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 39,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 496,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 19,
+      "notebook": 17,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 14,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

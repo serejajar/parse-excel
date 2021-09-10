@@ -31,5 +31,33 @@
     "0-230-9-36-07,0-230-5-11-40"
   ],
   "type": "Gimnaziu",
-  "idnp": "1013620000560"
+  "idnp": "1013620000560",
+  "directors": [
+    {
+      "name": "CATAN ALINA   0-230-5-04-28, 068057106",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 33,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 323,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 5,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

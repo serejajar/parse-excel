@@ -1,0 +1,53 @@
+{
+  "id": "drochia-drochia-575789700",
+  "search": "",
+  "address": {
+    "district": "drochia",
+    "city": "drochia",
+    "street": "Boiarniţchi 8",
+    "building": ""
+  },
+  "name": {
+    "ro": "Istitutia Publica  Gimnaziul nr.2, or. Drochia",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "025228420"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620012934",
+  "directors": [
+    {
+      "name": "BÎNZARI LlLIA, 060386273",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 191,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 18,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

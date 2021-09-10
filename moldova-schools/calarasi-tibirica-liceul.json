@@ -58,5 +58,34 @@
     "24465245"
   ],
   "type": "Liceu",
-  "idnp": "1012620011996"
+  "idnp": "1012620011996",
+  "directors": [
+    {
+      "name": "VieruElena, 244-65-3-75, 068366883",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 30,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 411,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 18,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

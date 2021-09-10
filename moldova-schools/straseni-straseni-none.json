@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "023724947"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620010140"
+  "idnp": "1012620010140",
+  "directors": [
+    {
+      "name": "Cube Liudmila",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 72,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1008,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 44,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

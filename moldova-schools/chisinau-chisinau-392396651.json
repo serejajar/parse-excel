@@ -1,0 +1,52 @@
+{
+  "id": "chisinau-chisinau-392396651",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "chisinau",
+    "street": "P. ZADNIPRU 2/4",
+    "building": ""
+  },
+  "name": {
+    "ro": "Instituția Publică Şcoala primară nr. 12 \"Anatol Popovici\", mun. Chişinău",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022-33-92-56; 022-33-96-45"
+  ],
+  "type": "Şcoală primară",
+  "idnp": "1014620002147",
+  "directors": [
+    {
+      "name": "ZABORŢEVA FEDORA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 36,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 562,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

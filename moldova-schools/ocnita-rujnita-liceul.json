@@ -35,7 +35,6 @@
     }
   ],
   "langs": [
-    "romana",
     "rusa"
   ],
   "profiles": [
@@ -45,5 +44,33 @@
     "027175353"
   ],
   "type": "Liceu",
-  "idnp": "1012620012155"
+  "idnp": "1012620012155",
+  "directors": [
+    {
+      "name": "Cucer Rodica  0-271-75-3-03   068235768",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 32,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 262,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

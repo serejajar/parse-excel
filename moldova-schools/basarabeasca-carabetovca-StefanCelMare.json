@@ -44,5 +44,34 @@
     "029756280"
   ],
   "type": "Liceu",
-  "idnp": "1016620000114"
+  "idnp": "1016620000114",
+  "directors": [
+    {
+      "name": "VRABIE TATIANA,029756216, 069012309",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 21,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 130,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 16,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

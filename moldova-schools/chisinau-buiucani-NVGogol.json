@@ -66,5 +66,34 @@
     "022-23-83-82, 022-23-87-42"
   ],
   "type": "Liceu",
-  "idnp": "1007601009967___(chisinau-buiucani-NVGogol)"
+  "idnp": "1007601009967___(chisinau-buiucani-NVGogol)",
+  "directors": [
+    {
+      "name": "ANICHIEVA TAISIA",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 136,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1542,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 5,
+      "year": "2017"
+    }
+  ]
 }

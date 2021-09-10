@@ -31,5 +31,34 @@
     "025230380"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009452"
+  "idnp": "1012620009452",
+  "directors": [
+    {
+      "name": "Mocanu Aurelia, 068985111",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 35,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 373,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 28,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

@@ -45,5 +45,34 @@
     "258-6-02-95"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620011402"
+  "idnp": "1012620011402",
+  "directors": [
+    {
+      "name": "CREŢU LARISA, tel.fix:258-6-02-77,  069667149, serviciu:258-6-02-95",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 32,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 292,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 24,
+      "notebook": 0,
+      "netbook": 7,
+      "tabletPC": 0,
+      "proector": 11,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

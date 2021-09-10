@@ -66,5 +66,33 @@
     "022-51-82-31"
   ],
   "type": "Liceu",
-  "idnp": "1013620005842"
+  "idnp": "1013620005842",
+  "directors": [
+    {
+      "name": "CERNEI ELENA TEL.022-51-82-30 MOB.079448348",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 117,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1246,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

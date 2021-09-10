@@ -58,5 +58,34 @@
     "025178255, 025178477"
   ],
   "type": "Liceu",
-  "idnp": "1012620011228"
+  "idnp": "1012620011228",
+  "directors": [
+    {
+      "name": "ZAIAŢ NATALIA, 025178229, 060752006",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 182,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 6,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 4,
+      "year": "2017"
+    }
+  ]
 }

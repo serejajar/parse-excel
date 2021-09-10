@@ -51,5 +51,34 @@
     "(022) 77-78-60"
   ],
   "type": "Liceu",
-  "idnp": "1005602004895___(chisinau-botanica-elitex)"
+  "idnp": "1005602004895___(chisinau-botanica-elitex)",
+  "directors": [
+    {
+      "name": "CALISTRU TATIANA \r\ntelefon: (022) 77-78-60, \r\nmobil: 069111589",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 16,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 55,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 6,
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

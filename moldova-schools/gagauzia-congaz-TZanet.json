@@ -42,7 +42,7 @@
     }
   ],
   "langs": [
-    "rusa"
+    "gagauza"
   ],
   "profiles": [
     "real",
@@ -52,5 +52,33 @@
     "029868359"
   ],
   "type": "Liceu",
-  "idnp": "1011601000424"
+  "idnp": "1011601000424",
+  "directors": [
+    {
+      "name": "IASÎBAȘ IORDAN\r\n  029869600\r\n069389581",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 55,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 504,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 18,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 9,
+      "interactiveTable": 2,
+      "year": "2017"
+    }
+  ]
 }

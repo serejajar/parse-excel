@@ -66,5 +66,34 @@
     "026922145, 026923542"
   ],
   "type": "Liceu",
-  "idnp": "1012620009636"
+  "idnp": "1012620009636",
+  "directors": [
+    {
+      "name": "COJOCARU MARIA TEL.FIX: 269-2-35-42, MOB 69726196",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 69,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 1068,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 66,
+      "notebook": 10,
+      "netbook": 0,
+      "tabletPC": 1,
+      "proector": 12,
+      "interactiveTable": 6,
+      "year": "2017"
+    }
+  ]
 }

@@ -52,5 +52,33 @@
     "0-250-66-167"
   ],
   "type": "Liceu",
-  "idnp": "1012620012306"
+  "idnp": "1012620012306",
+  "directors": [
+    {
+      "name": "Godonoga Nataşa 0-250-6-68-31",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 24,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 274,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

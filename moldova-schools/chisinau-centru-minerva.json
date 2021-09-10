@@ -66,5 +66,34 @@
     "022-27-25-68"
   ],
   "type": "Liceu",
-  "idnp": "1013620005853"
+  "idnp": "1013620005853",
+  "directors": [
+    {
+      "name": "MACAREVICI ANA, 022-27-04-77,079520189, ana_macarevici@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 42,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 582,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 30,
+      "notebook": 6,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 12,
+      "interactiveTable": 3,
+      "year": "2017"
+    }
+  ]
 }

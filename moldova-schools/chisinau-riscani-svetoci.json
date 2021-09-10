@@ -65,5 +65,34 @@
     "022430385"
   ],
   "type": "Liceu",
-  "idnp": "1003600078984"
+  "idnp": "1003600078984",
+  "directors": [
+    {
+      "name": "Iftodii Ecaterina Pavel 022-43-03-85  069164170 \r\nsvetoci@mail.ru",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 28,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 205,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 25,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

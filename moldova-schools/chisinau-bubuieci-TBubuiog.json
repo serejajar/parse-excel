@@ -65,5 +65,34 @@
     "022-414-941"
   ],
   "type": "Liceu",
-  "idnp": "1013620006366"
+  "idnp": "1013620006366",
+  "directors": [
+    {
+      "name": "ŢAULEAN ELENA, \r\n224-1-49-41\r\n069932966",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 62,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 865,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 38,
+      "notebook": 4,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 5,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

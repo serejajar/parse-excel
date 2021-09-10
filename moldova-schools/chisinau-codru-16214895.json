@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-codru-16214895",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "codru",
+    "street": "Costiujeni, 10 A",
+    "building": ""
+  },
+  "name": {
+    "ro": "Şcoala primară nr. 88, or. Codru",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022-289-003"
+  ],
+  "type": "Alte",
+  "idnp": "1007601010600___(chisinau-codru-16214895)",
+  "directors": [
+    {
+      "name": "FRUNZE VERA, 069982120",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 17,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 115,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 2,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

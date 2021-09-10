@@ -58,5 +58,33 @@
     "024739323"
   ],
   "type": "Liceu",
-  "idnp": "1009601000131___(briceni-tetcani-liceul)"
+  "idnp": "1009601000131___(briceni-tetcani-liceul)",
+  "directors": [
+    {
+      "name": "BUREICO, SVETLANA, 0247-39-4-56, 069552453",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 29,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 260,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 0,
+      "netbook": 1,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

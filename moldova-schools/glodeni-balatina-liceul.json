@@ -66,5 +66,34 @@
     "024941291"
   ],
   "type": "Liceu",
-  "idnp": "1014620005252"
+  "idnp": "1014620005252",
+  "directors": [
+    {
+      "name": "Cechina Elena",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 42,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 540,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 37,
+      "notebook": 7,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 6,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

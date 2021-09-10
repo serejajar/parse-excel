@@ -66,5 +66,34 @@
     "0237-22-258"
   ],
   "type": "Liceu",
-  "idnp": "32926867"
+  "idnp": "32926867",
+  "directors": [
+    {
+      "name": "BODEAN VERONICA tel.023722303",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 42,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 615,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 31,
+      "notebook": 13,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 10,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

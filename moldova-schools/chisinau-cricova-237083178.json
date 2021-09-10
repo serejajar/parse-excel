@@ -1,0 +1,53 @@
+{
+  "id": "chisinau-cricova-237083178",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "cricova",
+    "street": "strada Ion Creangă 31",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul  nr.77 (Cricova)",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "224-5-33-32"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "02166791",
+  "directors": [
+    {
+      "name": "Director interimar: Pîslari Veronica\r\n022-453-332, 060229872",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 25,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 134,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "rusa"
+  ],
+  "equipment": [
+    {
+      "pc": 11,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

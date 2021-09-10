@@ -11,11 +11,36 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "023065213"
   ],
   "type": "Şcoală primară",
-  "idnp": "10076010111342___(soroca-sobari-none)"
+  "idnp": "10076010111342___(soroca-sobari-none)",
+  "directors": [
+    {
+      "name": "Donos Galina",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 4,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 9,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "year": "2017"
+    }
+  ]
 }

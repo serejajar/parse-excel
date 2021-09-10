@@ -12,11 +12,42 @@
     "ru": ""
   },
   "bac": [],
-  "langs": [],
+  "langs": [
+    "romana"
+  ],
   "profiles": [],
   "phones": [
     "024693492"
   ],
   "type": "Gimnaziu",
-  "idnp": "1009601000142___(edinet-gaspar-none)"
+  "idnp": "1009601000142___(edinet-gaspar-none)",
+  "directors": [
+    {
+      "name": "GRIBINCEA LARISA 024692766  068166545",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 15,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 113,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 7,
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

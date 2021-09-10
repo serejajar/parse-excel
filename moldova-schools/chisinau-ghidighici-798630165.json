@@ -1,0 +1,52 @@
+{
+  "id": "chisinau-ghidighici-798630165",
+  "search": "",
+  "address": {
+    "district": "chisinau",
+    "city": "ghidighici",
+    "street": "Stefan cel Mare 71",
+    "building": ""
+  },
+  "name": {
+    "ro": "Gimnaziul \"Ion T. Costin\"",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "022710251"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "593375330",
+  "directors": [
+    {
+      "name": "GUŢU  AURICA, 022710251,078669011",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 26,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 292,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "notebook": 2,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

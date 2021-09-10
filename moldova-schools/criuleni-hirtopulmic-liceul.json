@@ -52,5 +52,34 @@
     "24872529"
   ],
   "type": "Gimnaziu",
-  "idnp": "1012620009496"
+  "idnp": "1012620009496",
+  "directors": [
+    {
+      "name": "Anghelici Eugenia,248-5-07-30,069625786",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 163,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 16,
+      "notebook": 14,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 3,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

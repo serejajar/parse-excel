@@ -28,7 +28,7 @@
     }
   ],
   "langs": [
-    "rusa"
+    "gagauza"
   ],
   "profiles": [
     "umanist"
@@ -37,5 +37,33 @@
     "029167240"
   ],
   "type": "Gimnaziu",
-  "idnp": "1011601000653"
+  "idnp": "1011601000653",
+  "directors": [
+    {
+      "name": "Узун Анна (029167240)",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 31,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 259,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "notebook": 3,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 4,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

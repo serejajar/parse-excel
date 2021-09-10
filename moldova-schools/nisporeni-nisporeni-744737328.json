@@ -1,0 +1,53 @@
+{
+  "id": "nisporeni-nisporeni-744737328",
+  "search": "",
+  "address": {
+    "district": "nisporeni",
+    "city": "nisporeni",
+    "street": "Alexandru cel Bun",
+    "building": ""
+  },
+  "name": {
+    "ro": "Institutia Publica Gimnaziul „Mihai Eminescu”, Nisporeni",
+    "ru": ""
+  },
+  "bac": [],
+  "profiles": [],
+  "phones": [
+    "264 2 34 93"
+  ],
+  "type": "Gimnaziu",
+  "idnp": "1013620011708",
+  "directors": [
+    {
+      "name": "TULBURE ANGELA, 0264 2-34-93 mob 079581516",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 19,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 238,
+      "year": "2017"
+    }
+  ],
+  "langs": [
+    "romana"
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 8,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 2,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
+}

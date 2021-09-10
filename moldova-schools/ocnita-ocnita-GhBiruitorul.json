@@ -66,5 +66,34 @@
     "027122252"
   ],
   "type": "Liceu",
-  "idnp": "1012620012030"
+  "idnp": "1012620012030",
+  "directors": [
+    {
+      "name": "CRIVOI ALEXANDRU  BORIS",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 49,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 489,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 25,
+      "notebook": 1,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 1,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }

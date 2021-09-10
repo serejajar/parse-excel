@@ -45,5 +45,34 @@
     "024972454"
   ],
   "type": "Gimnaziu",
-  "idnp": "1014620006983"
+  "idnp": "1014620006983",
+  "directors": [
+    {
+      "name": "ALBU NICOLAE",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 22,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 204,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 0,
+      "notebook": 0,
+      "netbook": 0,
+      "tabletPC": 0,
+      "proector": 0,
+      "interactiveTable": 0,
+      "year": "2017"
+    }
+  ]
 }

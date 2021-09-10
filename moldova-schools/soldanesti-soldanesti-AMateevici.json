@@ -66,5 +66,34 @@
     "027225524"
   ],
   "type": "Liceu",
-  "idnp": "1012620011468"
+  "idnp": "1012620011468",
+  "directors": [
+    {
+      "name": "Pînzari Aliona\r\n060447669, 027227059\r\nalionapinzari@gmail.com",
+      "year": "2017"
+    }
+  ],
+  "teachers": [
+    {
+      "number": 52,
+      "year": "2017"
+    }
+  ],
+  "students": [
+    {
+      "number": 601,
+      "year": "2017"
+    }
+  ],
+  "equipment": [
+    {
+      "pc": 21,
+      "notebook": 9,
+      "netbook": 0,
+      "tabletPC": 20,
+      "proector": 11,
+      "interactiveTable": 1,
+      "year": "2017"
+    }
+  ]
 }
